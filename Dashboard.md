@@ -30,3 +30,28 @@ Open [[Jobs.base]] to browse and filter all listings.
 5. Add free-text notes in the body below the frontmatter — they survive daily re-scrapes.
 
 > **Sync:** This vault is updated daily by GitHub Actions (job-scraper repo). Pull the latest via the obsidian-git plugin (`Ctrl+P` → "Obsidian Git: Pull"). Scraped fields (company, role, locations, url, etc.) are refreshed each run; your `status`, `deadline`, `applied_date`, `notes`, and body text are always preserved.
+
+
+---
+
+## Auto-applier
+
+The pipeline reads applicant data from `Profile/` and writes results back into job notes.
+
+| Resource | Purpose |
+|----------|---------|
+| [[Profile/Profile]] | Contact info, links, work authorization, EEO answers |
+| [[Profile/Targeting]] | Auto-apply rules (categories, caps, resume-to-category mapping) |
+| [[Profile.base]] | Q&A bank — questions and reusable answers the pipeline submits |
+| `Profile/Resumes/` | LaTeX resume source files (pipeline compiles to PDF) |
+
+### New Jobs.base views
+
+| View | Shows |
+|------|-------|
+| **Needs Review** | Jobs the pipeline could not complete — requires your manual action |
+| **Auto-Applied** | All jobs where `apply_method == auto` |
+
+**Write-back fields** set by the pipeline on each job note: `apply_method`, `apply_result`, `apply_error`, `confirmation`, `resume_used`, `needs_review`. Generated answers are written into the note body under `## Application <date>`.
+
+> **Sync reminder:** Write-back fields must be added to the preserved-fields list in `job-scraper` before relying on them surviving a daily scrape.

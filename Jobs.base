@@ -24,6 +24,18 @@ properties:
     displayName: Active
   date_posted:
     displayName: Posted
+  apply_method:
+    displayName: Method
+  apply_result:
+    displayName: Result
+  apply_error:
+    displayName: Error
+  confirmation:
+    displayName: Confirmation
+  resume_used:
+    displayName: Resume
+  needs_review:
+    displayName: Review?
 views:
   - type: table
     name: To Apply
@@ -52,6 +64,9 @@ views:
       - category
       - locations
       - terms
+      - apply_method
+      - apply_result
+      - resume_used
       - url
   - type: table
     name: Interviewing
@@ -93,6 +108,30 @@ views:
       - terms
       - deadline
       - date_posted
+      - url
+  - type: table
+    name: Needs Review
+    filters:
+      and:
+        - needs_review == true
+    order:
+      - company
+      - role
+      - apply_result
+      - apply_error
+      - url
+  - type: table
+    name: Auto-Applied
+    filters:
+      and:
+        - apply_method == "auto"
+    order:
+      - applied_date
+      - company
+      - role
+      - category
+      - apply_result
+      - resume_used
       - url
   - type: table
     name: All

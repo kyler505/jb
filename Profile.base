@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == "Profile/QA"
+properties:
+  question:
+    displayName: Question
+  category:
+    displayName: Category
+  keywords:
+    displayName: Keywords
+views:
+  - type: table
+    name: Q&A
+    order:
+      - category
+      - question
+      - keywords
