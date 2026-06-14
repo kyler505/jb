@@ -1,7 +1,6 @@
 filters:
   and:
-    - 'file.folder == "Jobs"'
-
+    - file.folder == "Jobs"
 properties:
   company:
     displayName: Company
@@ -17,58 +16,94 @@ properties:
     displayName: Status
   deadline:
     displayName: Deadline
+  applied_date:
+    displayName: Applied
   url:
     displayName: Apply
   active:
     displayName: Active
   date_posted:
     displayName: Posted
-
 views:
   - type: table
     name: To Apply
     filters:
       and:
-        - 'status == "to-apply"'
-        - 'active == true'
+        - status == "to-apply"
+        - active == true
     order:
       - deadline
+      - company
+      - role
+      - locations
+      - terms
+      - status
       - date_posted
-
+      - url
   - type: table
     name: Applied
     filters:
       and:
-        - 'status == "applied"'
+        - status == "applied"
     order:
       - applied_date
-
+      - company
+      - role
+      - category
+      - locations
+      - terms
+      - url
   - type: table
     name: Interviewing
     filters:
       and:
-        - 'status == "interviewing"'
-
+        - status == "interviewing"
+    order:
+      - company
+      - role
+      - category
+      - locations
+      - terms
+      - applied_date
+      - url
   - type: table
     name: Internships
     filters:
       and:
-        - 'category == "internship"'
+        - category == "internship"
     order:
       - status
+      - company
+      - role
+      - locations
+      - terms
+      - deadline
       - date_posted
-
+      - url
   - type: table
     name: New Grad
     filters:
       and:
-        - 'category == "new-grad"'
+        - category == "new-grad"
     order:
       - status
+      - company
+      - role
+      - locations
+      - terms
+      - deadline
       - date_posted
-
+      - url
   - type: table
     name: All
     order:
       - status
       - company
+      - role
+      - category
+      - locations
+      - terms
+      - deadline
+      - applied_date
+      - date_posted
+      - url
