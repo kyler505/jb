@@ -1,6 +1,6 @@
 # jb — Job Application Vault
 
-Obsidian vault for tracking Fall 2026 internship and 2027 new grad applications. Populated daily by [job-scraper](https://github.com/kcao-gss/job-scraper) via GitHub Actions.
+Obsidian vault for tracking Fall 2026 internship and 2027 new grad applications. Populated daily by [job-scraper](https://github.com/kyler505/job-scraper) via GitHub Actions.
 
 ## Structure
 
