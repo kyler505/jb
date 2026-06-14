@@ -1,0 +1,74 @@
+filters:
+  and:
+    - 'file.folder == "Jobs"'
+
+properties:
+  company:
+    displayName: Company
+  role:
+    displayName: Role
+  category:
+    displayName: Category
+  locations:
+    displayName: Location
+  terms:
+    displayName: Term
+  status:
+    displayName: Status
+  deadline:
+    displayName: Deadline
+  url:
+    displayName: Apply
+  active:
+    displayName: Active
+  date_posted:
+    displayName: Posted
+
+views:
+  - type: table
+    name: To Apply
+    filters:
+      and:
+        - 'status == "to-apply"'
+        - 'active == true'
+    order:
+      - deadline
+      - date_posted
+
+  - type: table
+    name: Applied
+    filters:
+      and:
+        - 'status == "applied"'
+    order:
+      - applied_date
+
+  - type: table
+    name: Interviewing
+    filters:
+      and:
+        - 'status == "interviewing"'
+
+  - type: table
+    name: Internships
+    filters:
+      and:
+        - 'category == "internship"'
+    order:
+      - status
+      - date_posted
+
+  - type: table
+    name: New Grad
+    filters:
+      and:
+        - 'category == "new-grad"'
+    order:
+      - status
+      - date_posted
+
+  - type: table
+    name: All
+    order:
+      - status
+      - company
