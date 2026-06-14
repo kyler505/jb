@@ -1,0 +1,19 @@
+---
+company: True Anomaly
+role: Software Engineer 1 - QA
+category: new-grad
+locations:
+- Long Beach, CA
+- Denver, CO
+terms: []
+url: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007
+source: simplify-new-grad
+listing_id: 915c9551-f026-4bb8-bd3c-b58af6e93968
+active: true
+date_posted: '2026-06-02'
+date_updated: '2026-06-02'
+status: to-apply
+applied_date: null
+deadline: null
+notes: null
+---
