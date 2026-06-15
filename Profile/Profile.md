@@ -13,12 +13,12 @@ work_authorization: US Citizen
 requires_sponsorship: false
 school: Texas A&M University
 degree: B.S. Computer Science, Minor in Business
-grad_date: '2027-05'
+grad_date: 2027-05
 availability: Sept-Dec 2026
-gender: 
-race_ethnicity: 
-veteran_status: 
-disability_status: 
+gender: Male
+race_ethnicity: Asian
+veteran_status:
+disability_status:
 default_resume: resume
 ---
 
