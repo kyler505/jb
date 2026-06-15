@@ -1,20 +1,25 @@
 ---
 type: profile
-first_name: 
-last_name: 
-email: 
-phone: 
-location: 
-linkedin: 
-github: 
-portfolio: 
-work_authorization: 
+first_name: Kyler
+last_name: Cao
+email: kcao@tamu.edu
+phone: (832) 966-4150
+location: College Station, TX
+hometown: Houston, TX
+linkedin: https://linkedin.com/in/kylercao
+github: https://github.com/kyler505
+portfolio: https://people.tamu.edu/~kcao
+work_authorization: US Citizen
 requires_sponsorship: false
+school: Texas A&M University
+degree: B.S. Computer Science, Minor in Business
+grad_date: '2027-05'
+availability: Sept-Dec 2026
 gender: 
 race_ethnicity: 
 veteran_status: 
 disability_status: 
-default_resume: default
+default_resume: resume
 ---
 
-<!-- Fill in all fields above. The pipeline reads this note to populate application forms. -->
+<!-- Personal profile -- fill in demographic fields when applications ask for them. -->

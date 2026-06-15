@@ -10,8 +10,9 @@ exclude_companies: []
 exclude_keywords: []
 daily_cap: 25
 resume_by_category:
-  internship: swe
-  new-grad: swe
+  internship: resume
+  new-grad: resume
 ---
 
-<!-- Edit the frontmatter above to control which jobs the pipeline auto-applies to. -->
+<!-- Edit frontmatter to control auto-apply targets. -->
+<!-- Add variant resumes (swe.tex, infra.tex) to Profile/Resumes/ and update resume_by_category once created. -->
