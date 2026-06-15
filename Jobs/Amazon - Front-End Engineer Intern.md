@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** Another Amazon entry point; front-end specialization. Same strong program/mentorship.
+
+**Eligibility:** Enrolled Bachelor's in CS/related. Verify sponsorship policy. Key skills: JS/TS, React, web fundamentals; expect an OA.
+
+**Comp/location:** Competitive big-tech rate. Seattle, WA. Fall 2026.
+
+**Notes:** Pairs with Amazon SDE internship — Amazon's rules may limit applying to both; check their policy.

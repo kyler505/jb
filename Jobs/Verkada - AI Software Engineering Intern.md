@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** IoT + cloud platform, systems-adjacent SWE work. Fast-growing company.
+
+**Eligibility:** Verify class year and work auth. Key skills: SWE fundamentals; ML/AI exposure a plus.
+
+**Comp/location:** Competitive. San Mateo, CA. Fall 2026.
+
+**Notes:** Greenhouse application.

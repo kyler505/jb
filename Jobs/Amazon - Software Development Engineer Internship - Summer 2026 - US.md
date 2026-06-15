@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: high
 ---
+
+## Research
+
+**Why interested:** High intern hiring volume = realistic odds. Strong brand, structured program, good mentorship.
+
+**Eligibility:** Enrolled Bachelor's in CS/CE/related STEM. Verify sponsorship policy. Key skills: DS&A, Java/C++/Python; expect an online assessment.
+
+**Comp/location:** Competitive big-tech rate. Various US sites; 12 weeks. Summer 2026 (may open Fall req separately).
+
+**Notes:** Prep for Amazon OA — 2 coding problems + work-style survey. Same URL as archive Fall 2026 note; check amazon.jobs for a Fall-specific req.

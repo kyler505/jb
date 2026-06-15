@@ -38,6 +38,8 @@ properties:
     displayName: Resume
   needs_review:
     displayName: Review?
+  priority:
+    displayName: Priority
 views:
   - type: table
     name: To Apply
@@ -140,6 +142,20 @@ views:
       - category
       - apply_result
       - resume_used
+      - url
+  - type: table
+    name: By Priority
+    filters:
+      and:
+        - active == true
+        - status == "to-apply"
+    order:
+      - priority
+      - company
+      - role
+      - discipline
+      - locations
+      - terms
       - url
   - type: table
     name: All

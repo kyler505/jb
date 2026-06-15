@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** High-quality product engineering; strong design culture. You already use the tool — easy "why this company" story.
+
+**Eligibility:** Verify class year and work auth. Key skills: Full-stack, JS/TS likely.
+
+**Comp/location:** Competitive. San Francisco, CA. Fall 2026.
+
+**Notes:** Ashby application.

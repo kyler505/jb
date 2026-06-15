@@ -24,4 +24,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: high
 ---
+
+## Research
+
+**Why interested:** High-impact, demanding engineering culture; great for systems-minded engineers. Many site/team options including Texas sites (Bastrop, McGregor, Brownsville).
+
+**Eligibility:** SpaceX requires US person status (ITAR) — confirm before investing time. Key skills: Strong CS fundamentals; C++/Python common.
+
+**Comp/location:** Competitive. Onsite — multiple US sites; full-time 12+ weeks. Fall 2026.
+
+**Notes:** Greenhouse application. ITAR gate is the key — check eligibility first.

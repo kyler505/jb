@@ -18,4 +18,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: high
 ---
+
+## Research
+
+**Why interested:** Pure infrastructure software role, directly aligned with systems/DevOps focus. Startup scope = broad ownership across the stack.
+
+**Eligibility:** Verify class year (junior/senior should fit). Startups often require no sponsorship — verify. Key skills: Infra/tooling, scripting, Linux, CI/CD likely.
+
+**Comp/location:** Not listed. San Francisco, CA — in person. Fall 2026.
+
+**Notes:** Ashby application. Likely rolling — apply early.

@@ -18,4 +18,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** Robotics/autonomy stack; interesting systems problems. Strong engineering reputation.
+
+**Eligibility:** Verify class year. May have US person/ITAR constraints — verify. Key skills: C++/Python; systems or robotics interest a plus.
+
+**Comp/location:** Competitive. San Mateo, CA. Fall 2026 / Winter 2027.
+
+**Notes:** Ashby application.

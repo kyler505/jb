@@ -18,4 +18,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** Networking infrastructure = deep systems work. Co-op length can mean more substantial projects.
+
+**Eligibility:** Verify class year and work auth. Key skills: C/C++, networking, Linux a plus.
+
+**Comp/location:** Competitive. Sunnyvale, CA. Fall 2026 / Winter 2026.
+
+**Notes:** Oracle Cloud (Taleo-style) application.

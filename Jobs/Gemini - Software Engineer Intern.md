@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** Fintech scale + security-sensitive systems. NY location option (East Coast).
+
+**Eligibility:** Verify class year and work auth on posting. Key skills: SWE fundamentals; backend/distributed a plus.
+
+**Comp/location:** Competitive. New York, NY. Fall 2026.
+
+**Notes:** Greenhouse application.

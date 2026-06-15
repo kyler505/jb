@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: medium
 ---
+
+## Research
+
+**Why interested:** Backend systems for space hardware; strong systems flavor. Mission-driven startup.
+
+**Eligibility:** Likely ITAR / US person required — verify. Key skills: Backend, APIs, distributed systems; Python/Go/C++.
+
+**Comp/location:** Competitive. San Francisco, CA. Fall 2026.
+
+**Notes:** Greenhouse application. Rolling — apply early.

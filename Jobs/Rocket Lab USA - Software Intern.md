@@ -17,4 +17,15 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+priority: low
 ---
+
+## Research
+
+**Why interested:** Aerospace software; mission-driven. Less-saturated location (Albuquerque) may mean better odds.
+
+**Eligibility:** Likely ITAR / US person required — verify before investing time. Key skills: General SWE; C++/Python.
+
+**Comp/location:** Not listed. Albuquerque, NM. Fall 2026.
+
+**Notes:** Greenhouse application.
