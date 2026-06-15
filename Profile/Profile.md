@@ -17,8 +17,8 @@ grad_date: 2027-05
 availability: Sept-Dec 2026
 gender: Male
 race_ethnicity: Asian
-veteran_status:
-disability_status:
+veteran_status: I am not a protected veteran
+disability_status: No, I do not have a disability
 default_resume: resume
 ---
 
