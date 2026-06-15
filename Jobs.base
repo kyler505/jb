@@ -8,6 +8,8 @@ properties:
     displayName: Role
   category:
     displayName: Category
+  discipline:
+    displayName: Discipline
   locations:
     displayName: Location
   terms:
@@ -47,6 +49,7 @@ views:
       - deadline
       - company
       - role
+      - discipline
       - locations
       - terms
       - status
@@ -61,6 +64,7 @@ views:
       - applied_date
       - company
       - role
+      - discipline
       - category
       - locations
       - terms
@@ -76,6 +80,7 @@ views:
     order:
       - company
       - role
+      - discipline
       - category
       - locations
       - terms
@@ -90,6 +95,7 @@ views:
       - status
       - company
       - role
+      - discipline
       - locations
       - terms
       - deadline
@@ -104,6 +110,7 @@ views:
       - status
       - company
       - role
+      - discipline
       - locations
       - terms
       - deadline
@@ -129,6 +136,7 @@ views:
       - applied_date
       - company
       - role
+      - discipline
       - category
       - apply_result
       - resume_used
@@ -139,6 +147,7 @@ views:
       - status
       - company
       - role
+      - discipline
       - category
       - locations
       - terms

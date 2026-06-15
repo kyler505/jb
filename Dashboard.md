@@ -28,6 +28,7 @@ Open [[Jobs.base]] to browse and filter all listings.
 3. Set `status:` to one of: `to-apply` · `applied` · `interviewing` · `offer` · `rejected` · `skip`
 4. Fill in `deadline:` and `applied_date:` (format `YYYY-MM-DD`) so the view sorts correctly.
 5. Add free-text notes in the body below the frontmatter — they survive daily re-scrapes.
+6. Use the **Discipline** column to filter by tech role: `swe` · `ml` · `data` · `devops` · `security` · `hardware` · `mobile` · `frontend` · `backend` · `other`
 
 > **Sync:** This vault is updated daily by GitHub Actions (job-scraper repo). Pull the latest via the obsidian-git plugin (`Ctrl+P` → "Obsidian Git: Pull"). Scraped fields (company, role, locations, url, etc.) are refreshed each run; your `status`, `deadline`, `applied_date`, `notes`, and body text are always preserved.
 
