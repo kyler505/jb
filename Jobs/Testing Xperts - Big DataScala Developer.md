@@ -2,6 +2,7 @@
 company: Testing Xperts
 role: Big Data/Scala Developer
 category: new-grad
+discipline: swe
 locations:
 - Eagan, MN
 terms: []

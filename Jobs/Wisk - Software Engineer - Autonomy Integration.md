@@ -2,6 +2,7 @@
 company: Wisk
 role: Software Engineer - Autonomy Integration
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

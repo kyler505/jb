@@ -2,6 +2,7 @@
 company: Amazon
 role: Software Development Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Winnipeg, MB, Canada
 - Toronto, ON, Canada

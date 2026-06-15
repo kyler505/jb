@@ -2,6 +2,7 @@
 company: Wellington Management
 role: Technology Associate – Graduate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: CIBC
 role: Data Analytics Co-op
 category: internship
+discipline: data
 locations:
 - Toronto, ON, Canada
 terms:

@@ -2,6 +2,7 @@
 company: Tencent
 role: Multimedia Development Intern
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

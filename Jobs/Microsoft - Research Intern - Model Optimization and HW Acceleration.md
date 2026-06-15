@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Model Optimization and HW Acceleration
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

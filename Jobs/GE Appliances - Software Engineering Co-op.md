@@ -2,6 +2,7 @@
 company: GE Appliances
 role: Software Engineering Co-op
 category: internship
+discipline: swe
 locations:
 - Louisville, KY
 terms:

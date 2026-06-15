@@ -2,6 +2,7 @@
 company: Ardian
 role: Data Scientist Intern
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

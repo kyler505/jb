@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Software Engineer Intern - Mapping Autonomous Vehicles
 category: internship
+discipline: swe
 locations:
 - Santa Clara, CA
 terms:

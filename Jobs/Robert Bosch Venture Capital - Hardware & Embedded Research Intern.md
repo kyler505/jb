@@ -2,6 +2,7 @@
 company: Robert Bosch Venture Capital
 role: Hardware & Embedded Research Intern
 category: internship
+discipline: hardware
 locations:
 - Sunnyvale, CA
 terms:

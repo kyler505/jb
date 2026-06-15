@@ -2,6 +2,7 @@
 company: Innodata
 role: AI Workflow Specialist
 category: new-grad
+discipline: other
 locations:
 - Alaska
 terms: []

@@ -2,6 +2,7 @@
 company: Rogers Behavioral Health
 role: Therapist IOP/PHP
 category: new-grad
+discipline: other
 locations:
 - Atlanta, GA
 terms: []

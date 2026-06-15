@@ -2,6 +2,7 @@
 company: Sila Nanotechnologies
 role: Physics-Based Modeling Intern/Co-op
 category: internship
+discipline: other
 locations:
 - Alameda, CA
 terms:

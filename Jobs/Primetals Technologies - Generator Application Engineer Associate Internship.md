@@ -2,6 +2,7 @@
 company: Primetals Technologies
 role: Generator Application Engineer Associate Internship
 category: internship
+discipline: other
 locations:
 - Orlando, FL
 terms:

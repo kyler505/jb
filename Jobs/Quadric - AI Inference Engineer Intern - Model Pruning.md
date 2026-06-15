@@ -2,6 +2,7 @@
 company: Quadric
 role: AI Inference Engineer Intern - Model Pruning
 category: internship
+discipline: other
 locations:
 - Burlingame, CA
 terms:

@@ -2,6 +2,7 @@
 company: SpaceX
 role: Hardware Engineer - Gateways & Customer Hardware
 category: new-grad
+discipline: hardware
 locations:
 - Bastrop, TX
 terms: []

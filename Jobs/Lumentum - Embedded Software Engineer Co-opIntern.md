@@ -2,6 +2,7 @@
 company: Lumentum
 role: Embedded Software Engineer Co-op/Intern
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

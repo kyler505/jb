@@ -2,6 +2,7 @@
 company: Truist Bank
 role: Data Scientist 1 - Card Fraud Analytics
 category: new-grad
+discipline: data
 locations:
 - Atlanta, GA
 terms: []

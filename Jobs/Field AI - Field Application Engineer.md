@@ -2,6 +2,7 @@
 company: Field AI
 role: Field Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Cardiff, UK
 terms: []

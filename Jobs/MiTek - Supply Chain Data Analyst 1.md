@@ -2,6 +2,7 @@
 company: MiTek
 role: Supply Chain Data Analyst 1
 category: new-grad
+discipline: data
 locations:
 - St Charles, MO
 terms: []

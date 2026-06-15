@@ -2,6 +2,7 @@
 company: General Motors
 role: Early Career Software Developer - Brake Controls and Diagnostics
 category: new-grad
+discipline: swe
 locations:
 - Markham, ON, Canada
 - Oshawa, ON, Canada

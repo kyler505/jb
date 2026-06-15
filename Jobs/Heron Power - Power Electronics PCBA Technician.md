@@ -2,6 +2,7 @@
 company: Heron Power
 role: Power Electronics PCBA Technician
 category: new-grad
+discipline: other
 locations:
 - Santa Cruz, CA
 terms: []

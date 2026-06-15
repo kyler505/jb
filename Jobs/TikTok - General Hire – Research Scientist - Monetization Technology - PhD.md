@@ -2,6 +2,7 @@
 company: TikTok
 role: General Hire – Research Scientist - Monetization Technology - PhD
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

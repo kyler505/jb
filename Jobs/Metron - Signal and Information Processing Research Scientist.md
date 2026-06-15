@@ -2,6 +2,7 @@
 company: Metron
 role: Signal and Information Processing Research Scientist
 category: new-grad
+discipline: other
 locations:
 - Reston, VA
 terms: []

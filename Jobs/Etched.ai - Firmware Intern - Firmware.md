@@ -2,6 +2,7 @@
 company: Etched.ai
 role: Firmware Intern - Firmware
 category: internship
+discipline: hardware
 locations:
 - San Jose, CA
 terms:

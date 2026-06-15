@@ -2,6 +2,7 @@
 company: Skyscanner
 role: Software Engineering Apprentice
 category: internship
+discipline: swe
 locations:
 - Glasgow, UK
 terms:

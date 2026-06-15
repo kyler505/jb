@@ -2,6 +2,7 @@
 company: Field AI
 role: Field Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Irvine, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Cerebras
 role: Software Engineer New Grad
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Sunnyvale, CA

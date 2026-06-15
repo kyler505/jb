@@ -2,6 +2,7 @@
 company: Roku
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Cambridge, UK
 terms:

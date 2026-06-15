@@ -2,6 +2,7 @@
 company: Digital Realty
 role: Product Analyst Intern
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 - Dallas, TX

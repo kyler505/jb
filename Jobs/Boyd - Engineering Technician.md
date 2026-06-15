@@ -2,6 +2,7 @@
 company: Boyd
 role: Engineering Technician
 category: new-grad
+discipline: other
 locations:
 - Lancaster, PA
 terms: []

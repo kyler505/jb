@@ -2,6 +2,7 @@
 company: Celonis
 role: Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

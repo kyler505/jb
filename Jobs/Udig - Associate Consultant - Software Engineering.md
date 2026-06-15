@@ -2,6 +2,7 @@
 company: Udig
 role: Associate Consultant - Software Engineering
 category: new-grad
+discipline: swe
 locations:
 - Nashville, TN
 - Richmond, VA

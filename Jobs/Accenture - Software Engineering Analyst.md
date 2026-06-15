@@ -2,6 +2,7 @@
 company: Accenture
 role: Software Engineering Analyst
 category: new-grad
+discipline: swe
 locations:
 - Washington, DC
 terms: []

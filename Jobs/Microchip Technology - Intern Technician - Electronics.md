@@ -2,6 +2,7 @@
 company: Microchip Technology
 role: Intern Technician - Electronics
 category: internship
+discipline: other
 locations:
 - Carlisle, PA
 terms:

@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Database Engineer
 category: new-grad
+discipline: other
 locations:
 - Westborough, MA
 terms: []

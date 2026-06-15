@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Automation Testing Java Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 - Wilmington, DE

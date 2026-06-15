@@ -2,6 +2,7 @@
 company: Infojini
 role: Web Engineer - Entry
 category: new-grad
+discipline: other
 locations:
 - Columbia, SC
 terms: []

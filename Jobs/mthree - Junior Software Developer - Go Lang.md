@@ -2,6 +2,7 @@
 company: mthree
 role: Junior Software Developer - Go Lang
 category: new-grad
+discipline: swe
 locations:
 - United Kingdom
 terms: []

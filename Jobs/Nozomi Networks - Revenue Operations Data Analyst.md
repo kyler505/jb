@@ -2,6 +2,7 @@
 company: Nozomi Networks
 role: Revenue Operations Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Remote in Canada
 terms: []

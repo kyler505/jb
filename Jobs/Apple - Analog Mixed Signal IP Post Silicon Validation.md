@@ -2,6 +2,7 @@
 company: Apple
 role: Analog Mixed Signal IP Post Silicon Validation
 category: new-grad
+discipline: other
 locations:
 - California
 terms: []

@@ -2,6 +2,7 @@
 company: CaptiveAire Systems
 role: Mechanical Application Engineer
 category: new-grad
+discipline: other
 locations:
 - St. George, UT
 terms: []

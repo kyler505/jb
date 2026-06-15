@@ -2,6 +2,7 @@
 company: TikTok
 role: Graduate Software Engineer - Experimentation and Evaluation
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

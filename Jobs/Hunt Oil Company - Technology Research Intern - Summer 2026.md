@@ -2,6 +2,7 @@
 company: Hunt Oil Company
 role: Technology Research Intern - Summer 2026
 category: internship
+discipline: other
 locations:
 - Dallas, TX
 terms:

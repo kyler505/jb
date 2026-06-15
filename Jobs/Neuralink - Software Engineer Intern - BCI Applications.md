@@ -2,6 +2,7 @@
 company: Neuralink
 role: Software Engineer Intern - BCI Applications
 category: internship
+discipline: swe
 locations:
 - Fremont, CA
 terms:

@@ -2,6 +2,7 @@
 company: Sundt
 role: Support Group Intern - Data Engineering
 category: internship
+discipline: data
 locations:
 - Tempe, AZ
 terms:

@@ -2,6 +2,7 @@
 company: Hudson River Trading
 role: Software Engineer - Python
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 - Chicago, IL

@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Sociotechnical Alignment Center
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

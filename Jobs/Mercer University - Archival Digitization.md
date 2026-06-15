@@ -2,6 +2,7 @@
 company: Mercer University
 role: Archival Digitization
 category: internship
+discipline: other
 locations:
 - Macon, GA
 terms:

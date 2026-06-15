@@ -2,6 +2,7 @@
 company: Digs
 role: Software Engineering Intern - Test Automation
 category: internship
+discipline: swe
 locations:
 - Vancouver, WA
 terms:

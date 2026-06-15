@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Ads Measurement Signal and Privacy
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

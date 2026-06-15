@@ -2,6 +2,7 @@
 company: Nio
 role: Systems Verification & Concurrent Kernel Architecture Research Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

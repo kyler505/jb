@@ -2,6 +2,7 @@
 company: Canon
 role: Field Service Technician 1 - Field Service I
 category: new-grad
+discipline: other
 locations:
 - Plainview, NY
 terms: []

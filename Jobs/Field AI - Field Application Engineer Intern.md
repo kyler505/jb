@@ -2,6 +2,7 @@
 company: Field AI
 role: Field Application Engineer Intern
 category: internship
+discipline: other
 locations:
 - Irvine, CA
 terms:

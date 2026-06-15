@@ -2,6 +2,7 @@
 company: AltaML
 role: Associate Data Operations Specialist Intern - Brilliant Harvest
 category: internship
+discipline: other
 locations:
 - Remote in Canada
 terms:

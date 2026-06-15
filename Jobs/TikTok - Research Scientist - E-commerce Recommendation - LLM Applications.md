@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist - E-commerce Recommendation - LLM Applications
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

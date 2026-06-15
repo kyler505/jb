@@ -2,6 +2,7 @@
 company: Epic Kids
 role: Junior Software Engineer - Full-Stack
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

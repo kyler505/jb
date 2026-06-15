@@ -2,6 +2,7 @@
 company: Probook
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Union City, NJ
 terms: []

@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Foundations of GenAI
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: NRG Energy
 role: Field Service Professional
 category: new-grad
+discipline: other
 locations:
 - Suffolk, VA
 terms: []

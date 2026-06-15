@@ -2,6 +2,7 @@
 company: Handshake
 role: Software Engineer - Handshake AI Enterprise
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

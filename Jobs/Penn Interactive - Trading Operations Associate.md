@@ -2,6 +2,7 @@
 company: Penn Interactive
 role: Trading Operations Associate
 category: new-grad
+discipline: other
 locations:
 - Remote in UK
 terms: []

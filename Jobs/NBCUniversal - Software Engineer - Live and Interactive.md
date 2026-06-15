@@ -2,6 +2,7 @@
 company: NBCUniversal
 role: Software Engineer - Live and Interactive
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

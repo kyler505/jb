@@ -2,6 +2,7 @@
 company: ReliaQuest
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Tampa, FL
 terms: []

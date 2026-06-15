@@ -2,6 +2,7 @@
 company: Atria Group
 role: Java Developer - Multiple Teams
 category: new-grad
+discipline: swe
 locations:
 - Dallas, TX
 terms: []

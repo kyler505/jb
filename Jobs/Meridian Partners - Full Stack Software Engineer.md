@@ -2,6 +2,7 @@
 company: Meridian Partners
 role: Full Stack Software Engineer
 category: internship
+discipline: swe
 locations:
 - Cambridge, MA
 terms:

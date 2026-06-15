@@ -2,6 +2,7 @@
 company: RaceTrac
 role: Category Manager - Fresh Foods
 category: new-grad
+discipline: other
 locations:
 - Atlanta, GA
 terms: []

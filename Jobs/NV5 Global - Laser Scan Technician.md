@@ -2,6 +2,7 @@
 company: NV5 Global
 role: Laser Scan Technician
 category: new-grad
+discipline: other
 locations:
 - Irvine, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Sainsbury's
 role: Trading Assistant - Shift
 category: new-grad
+discipline: other
 locations:
 - Stoke-on-Trent, UK
 terms: []

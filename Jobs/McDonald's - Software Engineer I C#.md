@@ -2,6 +2,7 @@
 company: McDonald's
 role: Software Engineer I C#
 category: new-grad
+discipline: swe
 locations:
 - Chicago, IL
 terms: []

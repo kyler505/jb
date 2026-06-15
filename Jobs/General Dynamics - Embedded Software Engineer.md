@@ -2,6 +2,7 @@
 company: General Dynamics
 role: Embedded Software Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Groton, CT
 terms: []

@@ -2,6 +2,7 @@
 company: Nokia
 role: Assembly and Test Manufacturing Technician
 category: new-grad
+discipline: other
 locations:
 - Allentown, PA
 terms: []

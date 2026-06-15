@@ -2,6 +2,7 @@
 company: Atria Group
 role: Entry Level ASP.NET programmer
 category: new-grad
+discipline: swe
 locations:
 - Chicago, IL
 terms: []

@@ -2,6 +2,7 @@
 company: Interwell Health
 role: Senior Data Analyst - Data Infrastructure
 category: new-grad
+discipline: data
 locations:
 - Remote in USA
 terms: []

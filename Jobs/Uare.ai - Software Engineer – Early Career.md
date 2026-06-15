@@ -2,6 +2,7 @@
 company: Uare.ai
 role: Software Engineer – Early Career
 category: new-grad
+discipline: swe
 locations:
 - Mountain View, CA
 terms: []

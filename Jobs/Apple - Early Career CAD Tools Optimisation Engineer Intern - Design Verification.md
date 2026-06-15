@@ -2,6 +2,7 @@
 company: Apple
 role: Early Career CAD Tools Optimisation Engineer Intern - Design Verification
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 terms:

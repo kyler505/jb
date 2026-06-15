@@ -2,6 +2,7 @@
 company: Global Lending Services
 role: Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Greenville, SC
 terms: []

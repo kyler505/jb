@@ -2,6 +2,7 @@
 company: Jefferies
 role: Analyst/Associate - Equity Derivatives Quant/Trader
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

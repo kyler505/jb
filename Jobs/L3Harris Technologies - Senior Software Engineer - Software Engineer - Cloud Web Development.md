@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Senior Software Engineer - Software Engineer - Cloud Web Development
 category: new-grad
+discipline: frontend
 locations:
 - Melbourne, FL
 terms: []

@@ -2,6 +2,7 @@
 company: Simular
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

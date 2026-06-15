@@ -2,6 +2,7 @@
 company: Medtronic
 role: Associate Product Specialist - Growth Factors
 category: new-grad
+discipline: other
 locations:
 - Memphis, TN
 terms: []

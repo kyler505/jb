@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Research Scientist - Electronic Design Automation
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

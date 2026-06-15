@@ -2,6 +2,7 @@
 company: Instead
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - SF
 terms:

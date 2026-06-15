@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Associate Linux/Windows Engineer New Grad
 category: new-grad
+discipline: other
 locations:
 - Ardmore, PA
 terms: []

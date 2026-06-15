@@ -2,6 +2,7 @@
 company: Proximate Technologies
 role: Java Developer
 category: new-grad
+discipline: swe
 locations:
 - Frisco, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Testing Xperts
 role: Java 8 Developer
 category: new-grad
+discipline: swe
 locations:
 - Eagan, MN
 terms: []

@@ -2,6 +2,7 @@
 company: Together AI
 role: Backend Software Engineer
 category: new-grad
+discipline: backend
 locations:
 - SF
 terms: []

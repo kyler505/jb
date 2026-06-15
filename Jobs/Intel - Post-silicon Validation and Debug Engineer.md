@@ -2,6 +2,7 @@
 company: Intel
 role: Post-silicon Validation and Debug Engineer
 category: new-grad
+discipline: other
 locations:
 - Hillsboro, OR
 - Folsom, CA

@@ -2,6 +2,7 @@
 company: Interdigital
 role: Generative AI Implementation Intern
 category: internship
+discipline: other
 locations:
 - Conshohocken, PA
 terms:

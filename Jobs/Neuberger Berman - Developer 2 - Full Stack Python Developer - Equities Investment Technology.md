@@ -2,6 +2,7 @@
 company: Neuberger Berman
 role: Developer 2 - Full Stack Python Developer - Equities Investment Technology
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

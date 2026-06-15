@@ -2,6 +2,7 @@
 company: Tesla
 role: AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: Hamilton Lane
 role: Investor Relations Analyst - Product
 category: new-grad
+discipline: other
 locations:
 - Conshohocken, PA
 terms: []

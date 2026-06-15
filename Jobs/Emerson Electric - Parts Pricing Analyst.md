@@ -2,6 +2,7 @@
 company: Emerson Electric
 role: Parts Pricing Analyst
 category: new-grad
+discipline: other
 locations:
 - Iowa
 terms: []

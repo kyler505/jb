@@ -3,6 +3,7 @@ company: Metropolitan Transportation Authority
 role: Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle
   Location
 category: internship
+discipline: hardware
 locations:
 - NYC
 terms:

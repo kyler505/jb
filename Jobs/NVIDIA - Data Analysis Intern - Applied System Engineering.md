@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Data Analysis Intern - Applied System Engineering
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

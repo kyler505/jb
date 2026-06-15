@@ -2,6 +2,7 @@
 company: Infleqtion
 role: Quantum Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Chicago, IL
 terms: []

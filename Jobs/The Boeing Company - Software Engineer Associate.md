@@ -2,6 +2,7 @@
 company: The Boeing Company
 role: Software Engineer Associate
 category: new-grad
+discipline: swe
 locations:
 - Tukwila, WA
 terms: []

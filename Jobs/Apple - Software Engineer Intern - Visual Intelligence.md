@@ -2,6 +2,7 @@
 company: Apple
 role: Software Engineer Intern - Visual Intelligence
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

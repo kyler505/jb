@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Software Engineer Intern - Connected Systems
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 - Irvine, CA

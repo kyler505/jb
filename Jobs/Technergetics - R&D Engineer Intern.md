@@ -2,6 +2,7 @@
 company: Technergetics
 role: R&D Engineer Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

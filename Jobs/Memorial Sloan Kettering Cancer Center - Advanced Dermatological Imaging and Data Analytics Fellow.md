@@ -2,6 +2,7 @@
 company: Memorial Sloan Kettering Cancer Center
 role: Advanced Dermatological Imaging and Data Analytics Fellow
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

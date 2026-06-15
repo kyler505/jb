@@ -3,6 +3,7 @@ company: TikTok
 role: Creative Product Operations Graduate - International Advertising - Creative
   and Brand Innovation
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

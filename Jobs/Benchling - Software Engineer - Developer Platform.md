@@ -2,6 +2,7 @@
 company: Benchling
 role: Software Engineer - Developer Platform
 category: internship
+discipline: swe
 locations:
 - SF
 terms:

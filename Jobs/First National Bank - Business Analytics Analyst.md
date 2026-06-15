@@ -2,6 +2,7 @@
 company: First National Bank
 role: Business Analytics Analyst
 category: new-grad
+discipline: data
 locations:
 - Pittsburgh, PA
 terms: []

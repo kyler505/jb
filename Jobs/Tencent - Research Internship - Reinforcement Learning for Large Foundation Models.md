@@ -2,6 +2,7 @@
 company: Tencent
 role: Research Internship - Reinforcement Learning for Large Foundation Models
 category: internship
+discipline: other
 locations:
 - Bellevue, WA
 terms:

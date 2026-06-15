@@ -2,6 +2,7 @@
 company: Tesla
 role: Mobile Applications Engineering Intern - Android Engineer - Mobile Software
 category: internship
+discipline: mobile
 locations:
 - Palo Alto, CA
 terms:

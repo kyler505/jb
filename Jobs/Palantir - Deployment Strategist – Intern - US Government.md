@@ -2,6 +2,7 @@
 company: Palantir
 role: Deployment Strategist – Intern - US Government
 category: internship
+discipline: other
 locations:
 - Honolulu, HI
 terms:

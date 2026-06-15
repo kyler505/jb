@@ -2,6 +2,7 @@
 company: Pinterest
 role: PhD Machine Learning Intern - Visual - Recommender Systems
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 - Seattle, WA

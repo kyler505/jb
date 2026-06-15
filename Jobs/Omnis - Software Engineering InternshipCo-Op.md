@@ -2,6 +2,7 @@
 company: Omnis
 role: Software Engineering Internship/Co-Op
 category: internship
+discipline: swe
 locations:
 - Venice, CA
 terms:

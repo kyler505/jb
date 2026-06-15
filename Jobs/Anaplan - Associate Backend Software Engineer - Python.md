@@ -2,6 +2,7 @@
 company: Anaplan
 role: Associate Backend Software Engineer - Python
 category: new-grad
+discipline: backend
 locations:
 - Manchester, UK
 terms: []

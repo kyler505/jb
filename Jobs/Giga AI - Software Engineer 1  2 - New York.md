@@ -2,6 +2,7 @@
 company: Giga AI
 role: Software Engineer 1 / 2 - New York
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

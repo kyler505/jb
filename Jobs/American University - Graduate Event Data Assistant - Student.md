@@ -2,6 +2,7 @@
 company: American University
 role: Graduate Event Data Assistant - Student
 category: internship
+discipline: other
 locations:
 - Washington, DC
 terms:

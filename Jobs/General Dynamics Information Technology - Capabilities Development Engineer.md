@@ -2,6 +2,7 @@
 company: General Dynamics Information Technology
 role: Capabilities Development Engineer
 category: new-grad
+discipline: other
 locations:
 - Hanover, MD
 terms: []

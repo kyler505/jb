@@ -2,6 +2,7 @@
 company: Lumentum
 role: Algorithms and Analytics Engineering Co-op/Intern
 category: internship
+discipline: data
 locations:
 - Ottawa, ON, Canada
 terms:

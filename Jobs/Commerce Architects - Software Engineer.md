@@ -2,6 +2,7 @@
 company: Commerce Architects
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Spokane, WA
 terms: []

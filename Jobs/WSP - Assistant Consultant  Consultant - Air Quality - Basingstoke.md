@@ -2,6 +2,7 @@
 company: WSP
 role: Assistant Consultant / Consultant - Air Quality - Basingstoke
 category: new-grad
+discipline: other
 locations:
 - Basingstoke, UK
 terms: []

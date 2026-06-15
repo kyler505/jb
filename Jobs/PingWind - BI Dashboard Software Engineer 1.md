@@ -2,6 +2,7 @@
 company: PingWind
 role: BI Dashboard Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Alexandria, VA
 terms: []

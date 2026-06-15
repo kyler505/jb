@@ -2,6 +2,7 @@
 company: Northwestern Mutual
 role: Application Development Intern
 category: internship
+discipline: other
 locations:
 - Milwaukee, WI
 terms:

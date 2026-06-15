@@ -2,6 +2,7 @@
 company: Hologic
 role: Field Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

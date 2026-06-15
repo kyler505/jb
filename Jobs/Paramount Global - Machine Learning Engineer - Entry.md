@@ -2,6 +2,7 @@
 company: Paramount Global
 role: Machine Learning Engineer - Entry
 category: new-grad
+discipline: ml
 locations:
 - Burbank, CA
 - Hollywood, LA

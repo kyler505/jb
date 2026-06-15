@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Derivatives Sales Trader Co-op
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

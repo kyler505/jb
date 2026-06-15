@@ -2,6 +2,7 @@
 company: Reply
 role: IOS Developer Intern
 category: internship
+discipline: swe
 locations:
 - Michigan
 terms:

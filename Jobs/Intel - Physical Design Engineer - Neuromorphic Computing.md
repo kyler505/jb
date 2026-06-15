@@ -2,6 +2,7 @@
 company: Intel
 role: Physical Design Engineer - Neuromorphic Computing
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 - Santa Clara, CA

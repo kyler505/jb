@@ -2,6 +2,7 @@
 company: Brink
 role: ATM Technician
 category: new-grad
+discipline: other
 locations:
 - Baton Rouge, LA
 terms: []

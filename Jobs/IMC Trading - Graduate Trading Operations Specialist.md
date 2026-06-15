@@ -2,6 +2,7 @@
 company: IMC Trading
 role: Graduate Trading Operations Specialist
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

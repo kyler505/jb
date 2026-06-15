@@ -2,6 +2,7 @@
 company: Databricks
 role: Staff Machine Learning Engineer
 category: new-grad
+discipline: ml
 locations:
 - SF
 - Mountain View, CA

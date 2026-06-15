@@ -2,6 +2,7 @@
 company: PlusAI
 role: Systems Engineer Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

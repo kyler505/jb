@@ -2,6 +2,7 @@
 company: Veeva Systems
 role: Associate Software Engineer in Test
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []

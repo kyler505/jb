@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist in Speech Foundation Model – Graduates - Seed - PhD
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

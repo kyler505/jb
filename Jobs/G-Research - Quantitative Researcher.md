@@ -2,6 +2,7 @@
 company: G-Research
 role: Quantitative Researcher
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

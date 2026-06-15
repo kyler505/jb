@@ -2,6 +2,7 @@
 company: Astranis
 role: Software Engineer-Backend Intern
 category: internship
+discipline: backend
 locations:
 - SF
 terms:

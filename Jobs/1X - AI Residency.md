@@ -2,6 +2,7 @@
 company: 1X
 role: AI Residency
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: RTX
 role: Embedded Linux Software Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - Cedar Rapids, IA
 terms: []

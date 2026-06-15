@@ -2,6 +2,7 @@
 company: Herald
 role: Frontend Engineer - AI Products
 category: new-grad
+discipline: frontend
 locations:
 - NYC
 terms: []

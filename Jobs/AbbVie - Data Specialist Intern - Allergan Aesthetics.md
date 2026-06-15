@@ -2,6 +2,7 @@
 company: AbbVie
 role: Data Specialist Intern - Allergan Aesthetics
 category: internship
+discipline: other
 locations:
 - Markham, ON, Canada
 terms:

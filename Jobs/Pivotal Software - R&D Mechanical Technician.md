@@ -2,6 +2,7 @@
 company: Pivotal Software
 role: R&D Mechanical Technician
 category: new-grad
+discipline: other
 locations:
 - Palo Alto, CA
 terms: []

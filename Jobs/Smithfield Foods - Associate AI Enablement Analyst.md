@@ -2,6 +2,7 @@
 company: Smithfield Foods
 role: Associate AI Enablement Analyst
 category: new-grad
+discipline: other
 locations:
 - Suffolk, VA
 - Newport News, VA

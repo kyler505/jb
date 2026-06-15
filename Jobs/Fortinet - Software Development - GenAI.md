@@ -2,6 +2,7 @@
 company: Fortinet
 role: Software Development - GenAI
 category: internship
+discipline: swe
 locations:
 - Santa Clara, CA
 terms:

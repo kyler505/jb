@@ -2,6 +2,7 @@
 company: Authorium
 role: Software Enginner New Grad
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

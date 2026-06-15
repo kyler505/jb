@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Graduate - Capital Platform - 2026 Start','BS/MS
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

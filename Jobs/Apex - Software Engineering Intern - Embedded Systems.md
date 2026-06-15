@@ -2,6 +2,7 @@
 company: Apex
 role: Software Engineering Intern - Embedded Systems
 category: internship
+discipline: hardware
 locations:
 - LA
 terms:

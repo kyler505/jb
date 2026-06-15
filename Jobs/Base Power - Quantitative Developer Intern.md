@@ -2,6 +2,7 @@
 company: Base Power
 role: Quantitative Developer Intern
 category: internship
+discipline: swe
 locations:
 - Austin, TX
 terms:

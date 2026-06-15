@@ -2,6 +2,7 @@
 company: GE Healthcare
 role: Senior AI Engineer - Enterprise AI
 category: new-grad
+discipline: ml
 locations:
 - Remote in USA
 terms: []

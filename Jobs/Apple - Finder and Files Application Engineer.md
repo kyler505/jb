@@ -2,6 +2,7 @@
 company: Apple
 role: Finder and Files Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Cupertino, CA
 terms: []

@@ -2,6 +2,7 @@
 company: IMC Trading
 role: Hardware Machine Learning PhD Research Intern
 category: internship
+discipline: ml
 locations:
 - Chicago, IL
 terms:

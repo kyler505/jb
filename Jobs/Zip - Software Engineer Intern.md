@@ -2,6 +2,7 @@
 company: Zip
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms:

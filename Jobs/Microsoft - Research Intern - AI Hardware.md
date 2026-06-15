@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI Hardware
 category: internship
+discipline: hardware
 locations:
 - Redmond, WA
 terms:

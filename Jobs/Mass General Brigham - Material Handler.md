@@ -2,6 +2,7 @@
 company: Mass General Brigham
 role: Material Handler
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

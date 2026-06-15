@@ -2,6 +2,7 @@
 company: Rivian
 role: Automation Engineer
 category: new-grad
+discipline: other
 locations:
 - Palo Alto, CA
 - Irvine, CA

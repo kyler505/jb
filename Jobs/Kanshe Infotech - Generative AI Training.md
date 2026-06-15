@@ -2,6 +2,7 @@
 company: Kanshe Infotech
 role: Generative AI Training
 category: internship
+discipline: other
 locations:
 - Colorado Springs, CO
 terms:

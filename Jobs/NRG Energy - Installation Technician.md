@@ -2,6 +2,7 @@
 company: NRG Energy
 role: Installation Technician
 category: internship
+discipline: other
 locations:
 - Little Rock, AR
 terms:

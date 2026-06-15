@@ -2,6 +2,7 @@
 company: Slate Auto
 role: Software/Data Rotational Program
 category: new-grad
+discipline: other
 locations:
 - United States
 terms: []

@@ -2,6 +2,7 @@
 company: Alma
 role: Data Analyst 2 - Marketing
 category: new-grad
+discipline: data
 locations:
 - Remote in USA
 terms: []

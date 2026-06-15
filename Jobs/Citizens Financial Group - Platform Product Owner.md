@@ -2,6 +2,7 @@
 company: Citizens Financial Group
 role: Platform Product Owner
 category: new-grad
+discipline: other
 locations:
 - Phoenix, AZ
 - Providence, RI

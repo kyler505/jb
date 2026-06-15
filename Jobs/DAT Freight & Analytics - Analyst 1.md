@@ -2,6 +2,7 @@
 company: DAT Freight & Analytics
 role: Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

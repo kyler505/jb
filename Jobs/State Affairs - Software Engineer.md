@@ -2,6 +2,7 @@
 company: State Affairs
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Washington, DC
 terms: []

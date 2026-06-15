@@ -2,6 +2,7 @@
 company: Tesla
 role: Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: Magna
 role: Junior Full Stack Developer Co-op
 category: internship
+discipline: swe
 locations:
 - Oakville, ON, Canada
 terms:

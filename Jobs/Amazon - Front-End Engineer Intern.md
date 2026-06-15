@@ -2,6 +2,7 @@
 company: Amazon
 role: Front-End Engineer Intern
 category: internship
+discipline: frontend
 locations:
 - Seattle, WA
 terms:

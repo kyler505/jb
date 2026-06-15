@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: 'Quantitative Research Intern - PhD: Summer 2027'
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

@@ -2,6 +2,7 @@
 company: Relay
 role: Software Engineer Associate - Embedded Development
 category: new-grad
+discipline: hardware
 locations:
 - Raleigh, NC
 terms: []

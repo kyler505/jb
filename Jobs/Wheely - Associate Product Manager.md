@@ -2,6 +2,7 @@
 company: Wheely
 role: Associate Product Manager
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

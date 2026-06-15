@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Manufacturing Technician B
 category: new-grad
+discipline: other
 locations:
 - Rochester, NY
 terms: []

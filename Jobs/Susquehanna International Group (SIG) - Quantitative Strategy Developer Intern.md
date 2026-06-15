@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Quantitative Strategy Developer Intern
 category: internship
+discipline: swe
 locations:
 - Ardmore, PA
 terms:

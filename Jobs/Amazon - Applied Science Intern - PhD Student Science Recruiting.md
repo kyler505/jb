@@ -2,6 +2,7 @@
 company: Amazon
 role: Applied Science Intern - PhD Student Science Recruiting
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 terms:

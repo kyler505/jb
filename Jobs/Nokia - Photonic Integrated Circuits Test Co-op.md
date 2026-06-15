@@ -2,6 +2,7 @@
 company: Nokia
 role: Photonic Integrated Circuits Test Co-op
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

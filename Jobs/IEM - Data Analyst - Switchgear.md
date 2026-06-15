@@ -2,6 +2,7 @@
 company: IEM
 role: Data Analyst - Switchgear
 category: new-grad
+discipline: data
 locations:
 - Surrey, BC, Canada
 terms: []

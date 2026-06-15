@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - LLM Acceleration
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 - Mountain View, CA

@@ -2,6 +2,7 @@
 company: Invisible Technologies AI
 role: AI Generalist - Entry-Level - Freelance AI Trainer Project
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

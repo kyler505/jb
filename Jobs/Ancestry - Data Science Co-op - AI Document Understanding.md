@@ -2,6 +2,7 @@
 company: Ancestry
 role: Data Science Co-op - AI Document Understanding
 category: internship
+discipline: data
 locations:
 - Remote in USA
 terms:

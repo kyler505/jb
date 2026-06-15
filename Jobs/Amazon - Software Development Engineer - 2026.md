@@ -2,6 +2,7 @@
 company: Amazon
 role: Software Development Engineer - 2026
 category: new-grad
+discipline: swe
 locations:
 - Vancouver, BC
 - Toronto, ON

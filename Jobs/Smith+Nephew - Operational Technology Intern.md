@@ -2,6 +2,7 @@
 company: Smith+Nephew
 role: Operational Technology Intern
 category: internship
+discipline: other
 locations:
 - Withernsea, UK
 terms:

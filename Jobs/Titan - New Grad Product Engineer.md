@@ -2,6 +2,7 @@
 company: Titan
 role: New Grad Product Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

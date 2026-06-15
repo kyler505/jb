@@ -2,6 +2,7 @@
 company: Hermeus
 role: Software Engineer Hills
 category: new-grad
+discipline: swe
 locations:
 - Atlanta, GA
 terms: []

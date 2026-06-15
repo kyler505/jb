@@ -2,6 +2,7 @@
 company: Daifuku
 role: Software Implementation Engineer 1
 category: new-grad
+discipline: other
 locations:
 - St. Charles, IL
 terms: []

@@ -2,6 +2,7 @@
 company: Mach Industries
 role: Engineering Co-op
 category: internship
+discipline: other
 locations:
 - Huntington Beach, CA
 terms:

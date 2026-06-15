@@ -2,6 +2,7 @@
 company: Google
 role: Software Engineer – Early Career - Embedded Systems and Firmware
 category: new-grad
+discipline: hardware
 locations:
 - Seattle, WA
 - LA

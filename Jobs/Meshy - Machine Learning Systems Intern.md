@@ -2,6 +2,7 @@
 company: Meshy
 role: Machine Learning Systems Intern
 category: internship
+discipline: ml
 locations:
 - Sunnyvale, CA
 terms:

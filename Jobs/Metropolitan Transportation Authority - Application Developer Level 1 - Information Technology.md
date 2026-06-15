@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Application Developer Level 1 - Information Technology
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

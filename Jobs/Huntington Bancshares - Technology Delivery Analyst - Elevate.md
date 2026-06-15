@@ -2,6 +2,7 @@
 company: Huntington Bancshares
 role: Technology Delivery Analyst - Elevate
 category: new-grad
+discipline: other
 locations:
 - Hopkins, MN
 terms: []

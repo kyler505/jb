@@ -2,6 +2,7 @@
 company: AbbVie
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Waukegan, IL
 terms: []

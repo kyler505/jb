@@ -2,6 +2,7 @@
 company: Cambridge Associates
 role: Investment Analyst - Hedge Funds
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

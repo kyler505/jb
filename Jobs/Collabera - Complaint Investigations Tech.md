@@ -2,6 +2,7 @@
 company: Collabera
 role: Complaint Investigations Tech
 category: new-grad
+discipline: other
 locations:
 - Alameda, CA
 terms: []

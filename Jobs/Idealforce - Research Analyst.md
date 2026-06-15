@@ -2,6 +2,7 @@
 company: Idealforce
 role: Research Analyst
 category: new-grad
+discipline: other
 locations:
 - Phoenix, AZ
 terms: []

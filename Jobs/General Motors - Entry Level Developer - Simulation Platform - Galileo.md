@@ -2,6 +2,7 @@
 company: General Motors
 role: Entry Level Developer - Simulation Platform - Galileo
 category: new-grad
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms: []

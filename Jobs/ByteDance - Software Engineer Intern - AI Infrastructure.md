@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Intern - AI Infrastructure
 category: internship
+discipline: devops
 locations:
 - San Jose, CA
 terms:

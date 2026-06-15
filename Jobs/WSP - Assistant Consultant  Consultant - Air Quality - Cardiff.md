@@ -2,6 +2,7 @@
 company: WSP
 role: Assistant Consultant / Consultant - Air Quality - Cardiff
 category: new-grad
+discipline: other
 locations:
 - Cardiff, UK
 terms: []

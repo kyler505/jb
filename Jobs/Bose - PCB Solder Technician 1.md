@@ -2,6 +2,7 @@
 company: Bose
 role: PCB Solder Technician 1
 category: new-grad
+discipline: other
 locations:
 - Binghamton, NY
 terms: []

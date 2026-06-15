@@ -2,6 +2,7 @@
 company: Scout AI
 role: Full Stack Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms: []

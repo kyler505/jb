@@ -2,6 +2,7 @@
 company: Dun & Bradstreet
 role: Technology Analyst Program
 category: new-grad
+discipline: other
 locations:
 - Jacksonville, FL
 terms: []

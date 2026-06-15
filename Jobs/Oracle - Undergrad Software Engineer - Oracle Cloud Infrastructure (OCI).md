@@ -2,6 +2,7 @@
 company: Oracle
 role: Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)
 category: new-grad
+discipline: devops
 locations:
 - Santa Clara, CA
 terms: []

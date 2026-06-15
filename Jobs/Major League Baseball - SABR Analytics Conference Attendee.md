@@ -2,6 +2,7 @@
 company: Major League Baseball
 role: SABR Analytics Conference Attendee
 category: new-grad
+discipline: data
 locations:
 - Phoenix, AZ
 terms: []

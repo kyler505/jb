@@ -2,6 +2,7 @@
 company: Skydio
 role: Autonomy Engineer Intern Summer 2026
 category: internship
+discipline: other
 locations:
 - San Mateo, CA
 terms:

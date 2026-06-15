@@ -2,6 +2,7 @@
 company: Together AI
 role: Frontier Agents Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

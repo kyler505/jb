@@ -2,6 +2,7 @@
 company: Schweitzer Engineering Laboratories
 role: Associate Hardware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Moscow, ID
 terms: []

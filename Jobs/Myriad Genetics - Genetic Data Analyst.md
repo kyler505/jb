@@ -2,6 +2,7 @@
 company: Myriad Genetics
 role: Genetic Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Salt Lake City, UT
 terms: []

@@ -2,6 +2,7 @@
 company: ShyftLabs
 role: Associate AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - Toronto, ON, Canada
 terms: []

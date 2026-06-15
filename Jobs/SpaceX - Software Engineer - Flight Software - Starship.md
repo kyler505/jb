@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineer - Flight Software - Starship
 category: new-grad
+discipline: swe
 locations:
 - Texas
 terms: []

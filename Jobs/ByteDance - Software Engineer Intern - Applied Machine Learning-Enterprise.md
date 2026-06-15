@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Intern - Applied Machine Learning-Enterprise
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

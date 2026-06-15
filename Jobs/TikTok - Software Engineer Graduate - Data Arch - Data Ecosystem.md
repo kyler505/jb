@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Graduate - Data Arch - Data Ecosystem
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

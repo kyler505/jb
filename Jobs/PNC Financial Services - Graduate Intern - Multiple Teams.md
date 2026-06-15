@@ -2,6 +2,7 @@
 company: PNC Financial Services
 role: Graduate Intern - Multiple Teams
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

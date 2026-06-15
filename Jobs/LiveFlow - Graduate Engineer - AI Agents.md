@@ -2,6 +2,7 @@
 company: LiveFlow
 role: Graduate Engineer - AI Agents
 category: new-grad
+discipline: other
 locations:
 - SF
 - Mountain View, CA

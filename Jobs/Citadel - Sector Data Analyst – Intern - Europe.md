@@ -2,6 +2,7 @@
 company: Citadel
 role: Sector Data Analyst – Intern - Europe
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

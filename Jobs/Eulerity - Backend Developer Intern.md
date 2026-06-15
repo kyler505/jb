@@ -2,6 +2,7 @@
 company: Eulerity
 role: Backend Developer Intern
 category: internship
+discipline: backend
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: Vertiv
 role: Electrical Testing Technician
 category: new-grad
+discipline: other
 locations:
 - Kansas City, MO
 terms: []

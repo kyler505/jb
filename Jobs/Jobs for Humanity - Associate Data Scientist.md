@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Associate Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Whiteley, UK
 - Cardiff, UK

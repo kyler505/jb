@@ -2,6 +2,7 @@
 company: Stripe
 role: PhD Data Scientist Intern
 category: internship
+discipline: data
 locations:
 - Seattle, WA
 - SF

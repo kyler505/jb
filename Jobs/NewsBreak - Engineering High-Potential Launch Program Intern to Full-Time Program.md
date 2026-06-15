@@ -2,6 +2,7 @@
 company: NewsBreak
 role: Engineering High-Potential Launch Program Intern to Full-Time Program
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

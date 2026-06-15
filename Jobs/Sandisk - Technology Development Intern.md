@@ -2,6 +2,7 @@
 company: Sandisk
 role: Technology Development Intern
 category: internship
+discipline: other
 locations:
 - Milpitas, CA
 terms:

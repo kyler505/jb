@@ -2,6 +2,7 @@
 company: Collabera
 role: Web Administrator
 category: new-grad
+discipline: other
 locations:
 - Oakland, CA
 terms: []

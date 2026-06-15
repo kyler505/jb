@@ -2,6 +2,7 @@
 company: Zipline
 role: Hardware Test Intern
 category: internship
+discipline: hardware
 locations:
 - San Bruno, CA
 terms:

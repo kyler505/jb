@@ -2,6 +2,7 @@
 company: SpaceX
 role: Supplier Development Engineer - Reliability - Starlink
 category: new-grad
+discipline: other
 locations:
 - Bastrop, TX
 terms: []

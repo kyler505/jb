@@ -2,6 +2,7 @@
 company: Nokia
 role: ASIC Verification Intern
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

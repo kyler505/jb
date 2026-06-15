@@ -2,6 +2,7 @@
 company: CIBC
 role: Data Analytics Co-op - Global Macro and Strategy team
 category: internship
+discipline: data
 locations:
 - Montreal, QC, Canada
 terms:

@@ -2,6 +2,7 @@
 company: ClimateAI
 role: Data Engineer 1
 category: new-grad
+discipline: data
 locations:
 - SF
 terms: []

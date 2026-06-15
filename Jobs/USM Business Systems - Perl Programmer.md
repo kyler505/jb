@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Perl Programmer
 category: internship
+discipline: swe
 locations:
 - Manassas, VA
 terms:

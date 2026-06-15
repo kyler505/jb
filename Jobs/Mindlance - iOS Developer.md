@@ -2,6 +2,7 @@
 company: Mindlance
 role: iOS Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

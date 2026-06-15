@@ -2,6 +2,7 @@
 company: Anthropic
 role: Anthropic Fellows Program - ML Systems & Performance
 category: internship
+discipline: other
 locations:
 - London, UK
 - SF

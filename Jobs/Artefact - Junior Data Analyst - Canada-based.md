@@ -2,6 +2,7 @@
 company: Artefact
 role: Junior Data Analyst - Canada-based
 category: new-grad
+discipline: data
 locations:
 - Montreal, QC, Canada
 terms: []

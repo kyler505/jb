@@ -2,6 +2,7 @@
 company: Observable Space
 role: Junior Optical Technician
 category: new-grad
+discipline: other
 locations:
 - LA
 terms: []

@@ -2,6 +2,7 @@
 company: Snowflake
 role: Product Manager - Metadata Platform
 category: new-grad
+discipline: other
 locations:
 - Bellevue, WA
 terms: []

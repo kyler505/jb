@@ -2,6 +2,7 @@
 company: Waabi
 role: Intern - PhD Research Scientist
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

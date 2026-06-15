@@ -2,6 +2,7 @@
 company: University of Arkansas
 role: Graduate Assistant
 category: internship
+discipline: other
 locations:
 - Fayetteville, AR
 terms:

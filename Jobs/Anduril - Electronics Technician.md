@@ -2,6 +2,7 @@
 company: Anduril
 role: Electronics Technician
 category: new-grad
+discipline: other
 locations:
 - Rhode Island
 terms: []

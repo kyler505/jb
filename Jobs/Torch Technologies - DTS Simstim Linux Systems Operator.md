@@ -2,6 +2,7 @@
 company: Torch Technologies
 role: DTS Simstim Linux Systems Operator
 category: new-grad
+discipline: other
 locations:
 - Colorado Springs, CO
 terms: []

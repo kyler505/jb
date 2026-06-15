@@ -2,6 +2,7 @@
 company: WTW
 role: Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - Dorking, UK
 terms:

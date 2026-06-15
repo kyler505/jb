@@ -2,6 +2,7 @@
 company: Mirage
 role: Software Engineer – Early Career
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: SCOR
 role: Partner Portal Proxy Product Owner – Graduate Trainee
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

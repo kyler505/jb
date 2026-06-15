@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Intern – Data Science - Operations Sustainment
 category: internship
+discipline: data
 locations:
 - Des Moines, IA
 terms:

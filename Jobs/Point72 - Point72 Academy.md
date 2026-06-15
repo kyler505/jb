@@ -2,6 +2,7 @@
 company: Point72
 role: Point72 Academy
 category: internship
+discipline: other
 locations:
 - SF
 - Florida

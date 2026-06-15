@@ -2,6 +2,7 @@
 company: Tesla
 role: Energy System Optimization Intern - Energy Optimization Software
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 - Fremont, CA

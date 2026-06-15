@@ -2,6 +2,7 @@
 company: Brown University Health
 role: Financial Information Systems Analyst
 category: new-grad
+discipline: other
 locations:
 - Providence, RI
 terms: []

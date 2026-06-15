@@ -2,6 +2,7 @@
 company: Akuna Capital University
 role: Junior Quantitative Researcher - Prediction Markets
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

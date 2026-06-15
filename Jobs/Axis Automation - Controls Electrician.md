@@ -2,6 +2,7 @@
 company: Axis Automation
 role: Controls Electrician
 category: new-grad
+discipline: other
 locations:
 - Grand Rapids, MI
 terms: []

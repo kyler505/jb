@@ -2,6 +2,7 @@
 company: Nokia
 role: Optical Test Co-op
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: AI Compiler Software Intern
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

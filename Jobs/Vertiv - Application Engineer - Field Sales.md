@@ -2,6 +2,7 @@
 company: Vertiv
 role: Application Engineer - Field Sales
 category: new-grad
+discipline: other
 locations:
 - New Albany, OH
 terms: []

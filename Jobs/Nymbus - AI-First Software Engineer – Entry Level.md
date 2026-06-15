@@ -2,6 +2,7 @@
 company: Nymbus
 role: AI-First Software Engineer – Entry Level
 category: new-grad
+discipline: swe
 locations:
 - Atlanta, GA
 terms: []

@@ -2,6 +2,7 @@
 company: Western & Southern Financial Group
 role: AI Developer 1
 category: new-grad
+discipline: swe
 locations:
 - Cincinnati, OH
 terms: []

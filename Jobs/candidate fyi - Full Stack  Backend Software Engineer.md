@@ -2,6 +2,7 @@
 company: candidate fyi
 role: Full Stack / Backend Software Engineer
 category: new-grad
+discipline: backend
 locations:
 - Remote in USA
 terms: []

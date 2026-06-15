@@ -2,6 +2,7 @@
 company: DellFor Technologies
 role: Entry-Level Java Developer
 category: new-grad
+discipline: swe
 locations:
 - Richland Center, WI
 terms: []

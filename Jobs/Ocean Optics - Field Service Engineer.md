@@ -2,6 +2,7 @@
 company: Ocean Optics
 role: Field Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Sheffield, UK
 terms: []

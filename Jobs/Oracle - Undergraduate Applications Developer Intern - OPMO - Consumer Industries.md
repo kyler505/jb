@@ -2,6 +2,7 @@
 company: Oracle
 role: Undergraduate Applications Developer Intern - OPMO - Consumer Industries
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

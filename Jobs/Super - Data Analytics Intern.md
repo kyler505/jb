@@ -2,6 +2,7 @@
 company: Super
 role: Data Analytics Intern
 category: internship
+discipline: data
 locations:
 - Toronto, ON, Canada
 terms:

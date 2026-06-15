@@ -2,6 +2,7 @@
 company: GE Vernova
 role: Global Master Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Belfort, France
 - Greenville, SC

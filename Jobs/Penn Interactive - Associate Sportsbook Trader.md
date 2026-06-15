@@ -2,6 +2,7 @@
 company: Penn Interactive
 role: Associate Sportsbook Trader
 category: new-grad
+discipline: other
 locations:
 - Remote in UK
 terms: []

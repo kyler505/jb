@@ -2,6 +2,7 @@
 company: InterSystems
 role: Graduate Application Specialist
 category: new-grad
+discipline: other
 locations:
 - Edinburgh, UK
 - Slough, UK

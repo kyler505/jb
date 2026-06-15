@@ -2,6 +2,7 @@
 company: Veeva Systems
 role: Data Consultant - Opendata
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

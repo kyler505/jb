@@ -2,6 +2,7 @@
 company: Fullbay
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Phoenix, AZ
 terms: []

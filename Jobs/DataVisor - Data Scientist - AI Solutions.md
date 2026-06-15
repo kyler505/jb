@@ -2,6 +2,7 @@
 company: DataVisor
 role: Data Scientist - AI Solutions
 category: new-grad
+discipline: data
 locations:
 - Mountain View, CA
 terms: []

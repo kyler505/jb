@@ -3,6 +3,7 @@ company: TikTok
 role: Product Strategist Project Intern - Global Monetization Product and Technology
   - 2026 Start
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

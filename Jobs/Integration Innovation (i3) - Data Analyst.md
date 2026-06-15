@@ -2,6 +2,7 @@
 company: Integration Innovation (i3)
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Huntsville, AL
 terms: []

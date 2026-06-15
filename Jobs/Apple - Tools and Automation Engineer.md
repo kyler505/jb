@@ -2,6 +2,7 @@
 company: Apple
 role: Tools and Automation Engineer
 category: new-grad
+discipline: other
 locations:
 - Cupertino, CA
 terms: []

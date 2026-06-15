@@ -2,6 +2,7 @@
 company: Physical Intelligence
 role: Mechatronics Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

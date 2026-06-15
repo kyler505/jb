@@ -2,6 +2,7 @@
 company: Atria Group
 role: EDI Analyst
 category: new-grad
+discipline: other
 locations:
 - Jacksonville, FL
 terms: []

@@ -2,6 +2,7 @@
 company: Sonepar
 role: Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Apex, NC
 terms: []

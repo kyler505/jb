@@ -2,6 +2,7 @@
 company: Smiths Detection Group
 role: Depot Service Engineer Intern
 category: internship
+discipline: other
 locations:
 - Gunpowder, MD
 terms:

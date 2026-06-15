@@ -2,6 +2,7 @@
 company: TikTok
 role: General Hire – Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Northwestern Mutual
 role: Investment Analyst - Private Debt & Equity
 category: internship
+discipline: other
 locations:
 - Milwaukee, WI
 terms:

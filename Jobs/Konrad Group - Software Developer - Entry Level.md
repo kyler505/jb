@@ -2,6 +2,7 @@
 company: Konrad Group
 role: Software Developer - Entry Level
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

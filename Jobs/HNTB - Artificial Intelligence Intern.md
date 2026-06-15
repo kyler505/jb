@@ -2,6 +2,7 @@
 company: HNTB
 role: Artificial Intelligence Intern
 category: internship
+discipline: other
 locations:
 - Arlington, VA
 terms:

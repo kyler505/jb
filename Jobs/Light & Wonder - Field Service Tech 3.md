@@ -2,6 +2,7 @@
 company: Light & Wonder
 role: Field Service Tech 3
 category: new-grad
+discipline: other
 locations:
 - Rhode Island
 terms: []

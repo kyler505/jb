@@ -2,6 +2,7 @@
 company: Topsort
 role: Product Associate
 category: new-grad
+discipline: other
 locations:
 - Cambridge, MA
 terms: []

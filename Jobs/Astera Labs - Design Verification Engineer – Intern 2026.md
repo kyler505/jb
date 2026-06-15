@@ -2,6 +2,7 @@
 company: Astera Labs
 role: Design Verification Engineer – Intern 2026
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

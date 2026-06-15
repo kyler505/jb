@@ -2,6 +2,7 @@
 company: 2U
 role: Senior Product Manager - Personalization & Journey Optimization
 category: new-grad
+discipline: other
 locations:
 - Arlington, VA
 terms: []

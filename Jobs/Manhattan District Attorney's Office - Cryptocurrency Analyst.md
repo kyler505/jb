@@ -2,6 +2,7 @@
 company: Manhattan District Attorney's Office
 role: Cryptocurrency Analyst
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

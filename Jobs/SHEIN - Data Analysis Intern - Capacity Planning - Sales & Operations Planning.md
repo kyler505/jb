@@ -2,6 +2,7 @@
 company: SHEIN
 role: Data Analysis Intern - Capacity Planning - Sales & Operations Planning
 category: internship
+discipline: other
 locations:
 - United States
 terms:

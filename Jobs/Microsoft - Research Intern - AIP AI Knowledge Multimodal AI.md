@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AIP AI Knowledge Multimodal AI
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

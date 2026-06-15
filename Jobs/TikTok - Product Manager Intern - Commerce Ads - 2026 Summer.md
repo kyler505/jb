@@ -2,6 +2,7 @@
 company: TikTok
 role: Product Manager Intern - Commerce Ads - 2026 Summer
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

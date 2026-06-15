@@ -2,6 +2,7 @@
 company: Visier Solutions
 role: Software Developer Co-op
 category: internship
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms:

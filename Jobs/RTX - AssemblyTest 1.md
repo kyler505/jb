@@ -2,6 +2,7 @@
 company: RTX
 role: Assembly/Test 1
 category: new-grad
+discipline: other
 locations:
 - Lenexa, KS
 terms: []

@@ -2,6 +2,7 @@
 company: Insperity
 role: Agency Temp - Associate Software Implementation Analyst
 category: new-grad
+discipline: other
 locations:
 - Madison, WI
 - Kingwood, Houston, TX

@@ -2,6 +2,7 @@
 company: Integra FEC
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - Austin, TX
 terms:

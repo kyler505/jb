@@ -2,6 +2,7 @@
 company: Whoop
 role: Software Engineer 1 - Quality
 category: new-grad
+discipline: swe
 locations:
 - Boston, MA
 terms: []

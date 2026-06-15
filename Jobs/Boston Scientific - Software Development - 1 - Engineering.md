@@ -2,6 +2,7 @@
 company: Boston Scientific
 role: Software Development - 1 - Engineering
 category: new-grad
+discipline: swe
 locations:
 - Waltham, MA
 terms: []

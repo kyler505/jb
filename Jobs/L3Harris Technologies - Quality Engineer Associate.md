@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Quality Engineer Associate
 category: new-grad
+discipline: other
 locations:
 - El Dorado, AR
 terms: []

@@ -2,6 +2,7 @@
 company: Seaspan
 role: Co-Console Analyst Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

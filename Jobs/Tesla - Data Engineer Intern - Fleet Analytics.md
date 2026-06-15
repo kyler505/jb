@@ -2,6 +2,7 @@
 company: Tesla
 role: Data Engineer Intern - Fleet Analytics
 category: internship
+discipline: data
 locations:
 - Palo Alto, CA
 terms:

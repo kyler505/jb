@@ -2,6 +2,7 @@
 company: Lennox International
 role: IT Co-Op
 category: internship
+discipline: other
 locations:
 - Letchworth, AR
 terms:

@@ -2,6 +2,7 @@
 company: Tesla
 role: Marketing Fleet Intern - Process Analyst - Marketing Fleet Operations
 category: internship
+discipline: other
 locations:
 - Anaheim, CA
 terms:

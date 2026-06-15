@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Graduate - Tiktok-Data-Search-Local Service
 category: new-grad
+discipline: ml
 locations:
 - Seattle, WA
 terms: []

@@ -2,6 +2,7 @@
 company: General Motors
 role: AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)
 category: internship
+discipline: ml
 locations:
 - Mountain View, CA
 - Sunnyvale, CA

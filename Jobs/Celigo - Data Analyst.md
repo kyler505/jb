@@ -2,6 +2,7 @@
 company: Celigo
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Remote in USA
 terms: []

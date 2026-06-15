@@ -2,6 +2,7 @@
 company: AMERICAN SYSTEMS
 role: Software Developer / DevSecOps Support
 category: new-grad
+discipline: swe
 locations:
 - Colorado Springs, CO
 terms: []

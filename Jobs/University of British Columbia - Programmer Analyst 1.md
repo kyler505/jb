@@ -2,6 +2,7 @@
 company: University of British Columbia
 role: Programmer Analyst 1
 category: new-grad
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms: []

@@ -2,6 +2,7 @@
 company: 'Hankook Tire America '
 role: IT System Associate
 category: new-grad
+discipline: other
 locations:
 - Nashville, TN
 terms: []

@@ -2,6 +2,7 @@
 company: Nidec
 role: Engineering Co-op
 category: internship
+discipline: other
 locations:
 - St. Louis, MO
 terms:

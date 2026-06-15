@@ -2,6 +2,7 @@
 company: VaynerMedia
 role: Resident – Data Analytics
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

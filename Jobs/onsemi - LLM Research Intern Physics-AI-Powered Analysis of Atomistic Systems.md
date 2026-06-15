@@ -2,6 +2,7 @@
 company: onsemi
 role: 'LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems'
 category: internship
+discipline: other
 locations:
 - Fairview, OR
 terms:

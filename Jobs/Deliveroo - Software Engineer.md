@@ -2,6 +2,7 @@
 company: Deliveroo
 role: Software Engineer
 category: internship
+discipline: swe
 locations:
 - London, UK
 terms:

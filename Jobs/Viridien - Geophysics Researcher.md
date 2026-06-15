@@ -2,6 +2,7 @@
 company: Viridien
 role: Geophysics Researcher
 category: new-grad
+discipline: other
 locations:
 - Crawley, UK
 terms: []

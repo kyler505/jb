@@ -2,6 +2,7 @@
 company: Duke University
 role: Analyst Programmer 1
 category: new-grad
+discipline: swe
 locations:
 - Durham, NC
 terms: []

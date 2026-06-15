@@ -2,6 +2,7 @@
 company: Apple
 role: 'Silicon Validation Software Engineer: Embedded and Low-level Programming'
 category: new-grad
+discipline: hardware
 locations:
 - Austin, TX
 terms: []

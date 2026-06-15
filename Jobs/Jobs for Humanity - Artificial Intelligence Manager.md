@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Artificial Intelligence Manager
 category: internship
+discipline: other
 locations:
 - Atlanta, GA
 terms:

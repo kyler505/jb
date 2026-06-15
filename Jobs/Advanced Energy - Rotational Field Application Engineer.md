@@ -2,6 +2,7 @@
 company: Advanced Energy
 role: Rotational Field Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Milpitas, CA
 terms: []

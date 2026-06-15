@@ -2,6 +2,7 @@
 company: Astronomer
 role: Software Engineer - Platform
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

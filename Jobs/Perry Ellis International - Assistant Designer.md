@@ -2,6 +2,7 @@
 company: Perry Ellis International
 role: Assistant Designer
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 terms: []

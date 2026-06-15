@@ -2,6 +2,7 @@
 company: Tessera Labs
 role: Software Engineering Intern, Frontend
 category: internship
+discipline: frontend
 locations:
 - Remote in USA
 terms:

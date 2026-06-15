@@ -2,6 +2,7 @@
 company: Nokia
 role: Web Developer Co-op/Intern
 category: internship
+discipline: frontend
 locations:
 - Ottawa, ON, Canada
 terms:

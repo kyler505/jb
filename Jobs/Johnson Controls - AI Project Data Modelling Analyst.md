@@ -2,6 +2,7 @@
 company: Johnson Controls
 role: AI Project Data Modelling Analyst
 category: new-grad
+discipline: other
 locations:
 - Milwaukee, WI
 terms: []

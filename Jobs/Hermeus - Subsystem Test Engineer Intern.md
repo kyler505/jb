@@ -2,6 +2,7 @@
 company: Hermeus
 role: Subsystem Test Engineer Intern
 category: internship
+discipline: other
 locations:
 - Atlanta, GA
 terms:

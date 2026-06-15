@@ -2,6 +2,7 @@
 company: Mach Industries
 role: Software Engineer - Flight Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Huntington Beach, CA
 terms: []

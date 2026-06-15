@@ -2,6 +2,7 @@
 company: MemryX
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Ann Arbor, MI
 terms: []

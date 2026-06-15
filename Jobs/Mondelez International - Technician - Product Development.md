@@ -2,6 +2,7 @@
 company: Mondelez International
 role: Technician - Product Development
 category: new-grad
+discipline: other
 locations:
 - Birmingham, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Bloom Energy
 role: Full Stack Developer Intern
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

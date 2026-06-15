@@ -2,6 +2,7 @@
 company: Southern Company
 role: Data Scientist
 category: internship
+discipline: data
 locations:
 - Atlanta, GA
 terms:

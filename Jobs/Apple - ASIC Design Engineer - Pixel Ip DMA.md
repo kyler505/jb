@@ -2,6 +2,7 @@
 company: Apple
 role: ASIC Design Engineer - Pixel Ip DMA
 category: new-grad
+discipline: hardware
 locations:
 - Cupertino, CA
 terms: []

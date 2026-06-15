@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Postdoctoral Researcher MDL Microdevice and Sensor Systems
 category: new-grad
+discipline: other
 locations:
 - Pasadena, CA
 terms: []

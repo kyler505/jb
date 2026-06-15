@@ -2,6 +2,7 @@
 company: Toyota Research Institute
 role: Human Interactive Driving Intern - World Models
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

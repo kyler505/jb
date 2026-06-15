@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Equity Volatility Quant Researcher Intern
 category: internship
+discipline: other
 locations:
 - Miami, FL
 terms:

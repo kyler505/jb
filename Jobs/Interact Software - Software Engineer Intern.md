@@ -2,6 +2,7 @@
 company: Interact Software
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Manchester, UK
 terms:

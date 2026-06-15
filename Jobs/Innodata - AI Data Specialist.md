@@ -2,6 +2,7 @@
 company: Innodata
 role: AI Data Specialist
 category: new-grad
+discipline: other
 locations:
 - Massachusetts
 terms: []

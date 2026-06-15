@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Audio Quality with AI
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

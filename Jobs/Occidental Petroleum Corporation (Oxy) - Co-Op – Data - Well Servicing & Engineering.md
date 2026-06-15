@@ -2,6 +2,7 @@
 company: Occidental Petroleum Corporation (Oxy)
 role: Co-Op – Data - Well Servicing & Engineering
 category: internship
+discipline: other
 locations:
 - Midland, TX
 - Houston, TX

@@ -2,6 +2,7 @@
 company: Latitude
 role: Production Technician
 category: new-grad
+discipline: other
 locations:
 - Danbury, CT
 terms: []

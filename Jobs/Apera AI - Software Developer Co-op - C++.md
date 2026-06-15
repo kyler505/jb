@@ -2,6 +2,7 @@
 company: Apera AI
 role: Software Developer Co-op - C++
 category: internship
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms:

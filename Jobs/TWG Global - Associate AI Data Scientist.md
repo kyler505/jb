@@ -2,6 +2,7 @@
 company: TWG Global
 role: Associate AI Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Santa Monica, CA
 terms: []

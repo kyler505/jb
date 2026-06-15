@@ -2,6 +2,7 @@
 company: Amazon
 role: Software Development Engineer Internship - Summer 2026 - US
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

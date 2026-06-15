@@ -2,6 +2,7 @@
 company: Nextdoor
 role: Measurement Analyst
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

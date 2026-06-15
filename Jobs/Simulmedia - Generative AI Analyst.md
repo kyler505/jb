@@ -2,6 +2,7 @@
 company: Simulmedia
 role: Generative AI Analyst
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Secretariat
 role: Economics Associate
 category: new-grad
+discipline: other
 locations:
 - Washington, DC
 terms: []

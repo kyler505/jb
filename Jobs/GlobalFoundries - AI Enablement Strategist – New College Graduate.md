@@ -2,6 +2,7 @@
 company: GlobalFoundries
 role: AI Enablement Strategist – New College Graduate
 category: new-grad
+discipline: other
 locations:
 - NYC
 - Bengaluru, Karnataka, India

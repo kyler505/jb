@@ -2,6 +2,7 @@
 company: Makai Labs
 role: AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - California
 - Texas

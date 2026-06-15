@@ -2,6 +2,7 @@
 company: Syntax
 role: Classification Data Validation Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

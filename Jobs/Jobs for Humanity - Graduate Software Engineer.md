@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Graduate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Philadelphia, PA
 terms: []

@@ -2,6 +2,7 @@
 company: First National Bank
 role: Investment Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Hermitage, PA
 terms: []

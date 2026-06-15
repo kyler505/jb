@@ -2,6 +2,7 @@
 company: Tesla
 role: Embedded Software Engineer Intern - Keys & Authentication
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

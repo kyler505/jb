@@ -2,6 +2,7 @@
 company: Collabera
 role: Data Analysis
 category: new-grad
+discipline: other
 locations:
 - Eagan, MN
 terms: []

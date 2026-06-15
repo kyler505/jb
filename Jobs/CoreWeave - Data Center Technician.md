@@ -2,6 +2,7 @@
 company: CoreWeave
 role: Data Center Technician
 category: new-grad
+discipline: other
 locations:
 - Mesa, AZ
 terms: []

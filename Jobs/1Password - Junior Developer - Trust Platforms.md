@@ -2,6 +2,7 @@
 company: 1Password
 role: Junior Developer - Trust Platforms
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 - Remote in Canada

@@ -2,6 +2,7 @@
 company: Dryft
 role: Full-Stack Engineer Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

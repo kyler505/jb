@@ -2,6 +2,7 @@
 company: Apple
 role: Software Undergrad Engineer Intern
 category: internship
+discipline: other
 locations:
 - United States
 terms:

@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern, LLM Evaluation
 category: internship
+discipline: other
 locations:
 - New York, NY
 terms:

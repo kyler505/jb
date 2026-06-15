@@ -2,6 +2,7 @@
 company: Block
 role: Applied Research Intern Co-op
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

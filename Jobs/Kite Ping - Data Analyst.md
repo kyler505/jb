@@ -2,6 +2,7 @@
 company: Kite Ping
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Berkeley, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Westinghouse Electric Company
 role: IT Software Engineer Analyst
 category: new-grad
+discipline: swe
 locations:
 - Palm Beach Gardens, FL
 terms: []

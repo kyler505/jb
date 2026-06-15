@@ -2,6 +2,7 @@
 company: EOS IT Solutions
 role: Graduate Data Centre Technician
 category: internship
+discipline: other
 locations:
 - Ohio
 terms:

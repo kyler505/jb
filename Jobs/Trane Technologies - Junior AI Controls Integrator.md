@@ -2,6 +2,7 @@
 company: Trane Technologies
 role: Junior AI Controls Integrator
 category: new-grad
+discipline: other
 locations:
 - Montreal, QC, Canada
 terms: []

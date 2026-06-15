@@ -3,6 +3,7 @@ company: TikTok
 role: Research Scientist Intern - Tiktok-Recommendation-Content Intelligence - 2026
   Start','PhD
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

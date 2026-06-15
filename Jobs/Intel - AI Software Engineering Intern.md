@@ -2,6 +2,7 @@
 company: Intel
 role: AI Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Hillsboro, OR
 - Folsom, CA

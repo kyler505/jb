@@ -2,6 +2,7 @@
 company: BC Pensions
 role: Survey Research Analyst Co-op
 category: internship
+discipline: other
 locations:
 - Victoria, BC, Canada
 terms:

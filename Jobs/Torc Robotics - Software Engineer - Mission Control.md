@@ -2,6 +2,7 @@
 company: Torc Robotics
 role: Software Engineer - Mission Control
 category: new-grad
+discipline: swe
 locations:
 - Ann Arbor, MI
 terms: []

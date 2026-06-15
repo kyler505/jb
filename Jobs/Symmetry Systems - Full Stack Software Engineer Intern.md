@@ -2,6 +2,7 @@
 company: Symmetry Systems
 role: Full Stack Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

@@ -2,6 +2,7 @@
 company: 1Password
 role: Developer Intern - Trust Platforms
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 - Remote in Canada

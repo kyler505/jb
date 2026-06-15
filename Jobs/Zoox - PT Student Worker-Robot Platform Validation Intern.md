@@ -2,6 +2,7 @@
 company: Zoox
 role: PT Student Worker-Robot Platform Validation Intern
 category: internship
+discipline: other
 locations:
 - San Mateo, CA
 terms:

@@ -2,6 +2,7 @@
 company: Apple
 role: Hardware PhD Intern
 category: internship
+discipline: hardware
 locations:
 - United States
 terms:

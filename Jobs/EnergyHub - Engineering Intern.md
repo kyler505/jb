@@ -2,6 +2,7 @@
 company: EnergyHub
 role: Engineering Intern
 category: internship
+discipline: other
 locations:
 - Brooklyn, NY
 terms:

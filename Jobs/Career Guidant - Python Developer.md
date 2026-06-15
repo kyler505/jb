@@ -2,6 +2,7 @@
 company: Career Guidant
 role: Python Developer
 category: new-grad
+discipline: swe
 locations:
 - Princeton, NJ
 terms: []

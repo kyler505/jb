@@ -2,6 +2,7 @@
 company: BCforward
 role: Designer/Drafter
 category: new-grad
+discipline: other
 locations:
 - Roanoke, VA
 terms: []

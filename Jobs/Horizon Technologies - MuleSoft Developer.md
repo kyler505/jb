@@ -2,6 +2,7 @@
 company: Horizon Technologies
 role: MuleSoft Developer
 category: new-grad
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms: []

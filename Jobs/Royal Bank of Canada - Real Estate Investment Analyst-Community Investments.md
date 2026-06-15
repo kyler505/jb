@@ -2,6 +2,7 @@
 company: Royal Bank of Canada
 role: Real Estate Investment Analyst-Community Investments
 category: new-grad
+discipline: other
 locations:
 - Charlotte, NC
 terms: []

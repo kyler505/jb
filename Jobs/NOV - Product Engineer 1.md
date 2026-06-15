@@ -2,6 +2,7 @@
 company: NOV
 role: Product Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

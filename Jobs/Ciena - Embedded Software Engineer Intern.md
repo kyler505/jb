@@ -2,6 +2,7 @@
 company: Ciena
 role: Embedded Software Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

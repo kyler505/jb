@@ -2,6 +2,7 @@
 company: Seaspan
 role: Business Technology Solutions Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

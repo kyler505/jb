@@ -2,6 +2,7 @@
 company: Pioneer Data Systems
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Bridgewater Township, NJ
 terms: []

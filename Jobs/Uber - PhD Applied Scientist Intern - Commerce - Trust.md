@@ -2,6 +2,7 @@
 company: Uber
 role: PhD Applied Scientist Intern - Commerce - Trust
 category: internship
+discipline: other
 locations:
 - SF
 - Sunnyvale, CA

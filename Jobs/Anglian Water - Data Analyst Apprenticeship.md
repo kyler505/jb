@@ -2,6 +2,7 @@
 company: Anglian Water
 role: Data Analyst Apprenticeship
 category: internship
+discipline: data
 locations:
 - Peterborough, UK
 terms:

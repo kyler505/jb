@@ -2,6 +2,7 @@
 company: Samsung Research America
 role: Memory and Personalization Intern - Memory and Personalization
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

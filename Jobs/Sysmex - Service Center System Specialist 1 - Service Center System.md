@@ -2,6 +2,7 @@
 company: Sysmex
 role: Service Center System Specialist 1 - Service Center System
 category: new-grad
+discipline: other
 locations:
 - Wheeling, IL
 terms: []

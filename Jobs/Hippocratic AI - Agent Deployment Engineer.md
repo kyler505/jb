@@ -2,6 +2,7 @@
 company: Hippocratic AI
 role: Agent Deployment Engineer
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

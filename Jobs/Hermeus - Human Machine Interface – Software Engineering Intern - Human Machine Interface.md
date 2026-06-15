@@ -2,6 +2,7 @@
 company: Hermeus
 role: Human Machine Interface – Software Engineering Intern - Human Machine Interface
 category: internship
+discipline: swe
 locations:
 - Atlanta, GA
 terms:

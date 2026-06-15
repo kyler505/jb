@@ -2,6 +2,7 @@
 company: Commonwealth of Massachusetts
 role: RMV Crash Data Analytics Intern/Co-op
 category: internship
+discipline: data
 locations:
 - Massachusetts
 terms:

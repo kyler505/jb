@@ -2,6 +2,7 @@
 company: Boys Town
 role: Artificial Intelligence & Machine Learning Intern
 category: internship
+discipline: ml
 locations:
 - Omaha, NE
 terms:

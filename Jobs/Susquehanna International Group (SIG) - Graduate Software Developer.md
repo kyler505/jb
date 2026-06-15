@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Graduate Software Developer
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

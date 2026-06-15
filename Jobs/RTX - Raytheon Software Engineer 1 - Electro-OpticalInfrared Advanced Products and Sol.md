@@ -3,6 +3,7 @@ company: RTX
 role: Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and
   Solutions
 category: new-grad
+discipline: swe
 locations:
 - McKinney, TX
 terms: []

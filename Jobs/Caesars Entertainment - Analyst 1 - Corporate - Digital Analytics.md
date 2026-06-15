@@ -2,6 +2,7 @@
 company: Caesars Entertainment
 role: Analyst 1 - Corporate - Digital Analytics
 category: new-grad
+discipline: data
 locations:
 - Las Vegas, NV
 terms: []

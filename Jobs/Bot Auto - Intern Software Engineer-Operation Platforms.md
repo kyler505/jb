@@ -2,6 +2,7 @@
 company: Bot Auto
 role: Intern Software Engineer-Operation Platforms
 category: internship
+discipline: swe
 locations:
 - Houston, TX
 terms:

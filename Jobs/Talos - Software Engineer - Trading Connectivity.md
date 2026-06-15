@@ -2,6 +2,7 @@
 company: Talos
 role: Software Engineer - Trading Connectivity
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

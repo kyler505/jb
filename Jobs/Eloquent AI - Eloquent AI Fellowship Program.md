@@ -2,6 +2,7 @@
 company: Eloquent AI
 role: Eloquent AI Fellowship Program
 category: internship
+discipline: other
 locations:
 - SF
 terms:

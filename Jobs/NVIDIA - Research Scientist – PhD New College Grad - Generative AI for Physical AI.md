@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Research Scientist – PhD New College Grad - Generative AI for Physical AI
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

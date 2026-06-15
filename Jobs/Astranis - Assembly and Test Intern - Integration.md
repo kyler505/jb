@@ -2,6 +2,7 @@
 company: Astranis
 role: Assembly and Test Intern - Integration
 category: internship
+discipline: other
 locations:
 - SF
 terms:

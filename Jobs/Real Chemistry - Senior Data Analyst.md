@@ -2,6 +2,7 @@
 company: Real Chemistry
 role: Senior Data Analyst
 category: new-grad
+discipline: data
 locations:
 - United States
 terms: []

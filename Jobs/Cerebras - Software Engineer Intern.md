@@ -2,6 +2,7 @@
 company: Cerebras
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms:

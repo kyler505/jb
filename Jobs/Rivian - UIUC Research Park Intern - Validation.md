@@ -2,6 +2,7 @@
 company: Rivian
 role: UIUC Research Park Intern - Validation
 category: internship
+discipline: other
 locations:
 - Urbana, IL
 terms:

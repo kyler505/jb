@@ -2,6 +2,7 @@
 company: AMERICAN SYSTEMS
 role: Linux Systems Administrator 1
 category: new-grad
+discipline: other
 locations:
 - Billings, MT
 terms: []

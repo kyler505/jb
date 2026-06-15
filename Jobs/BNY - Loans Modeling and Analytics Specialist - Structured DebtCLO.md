@@ -2,6 +2,7 @@
 company: BNY
 role: Loans Modeling and Analytics Specialist - Structured Debt/CLO
 category: new-grad
+discipline: data
 locations:
 - Houston, TX
 - Pittsburgh, PA

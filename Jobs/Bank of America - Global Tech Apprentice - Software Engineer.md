@@ -2,6 +2,7 @@
 company: Bank of America
 role: Global Tech Apprentice - Software Engineer
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: Graphcore
 role: 2026 Graduate Software Engineer - Drivers
 category: new-grad
+discipline: swe
 locations:
 - Cambridge, UK
 terms: []

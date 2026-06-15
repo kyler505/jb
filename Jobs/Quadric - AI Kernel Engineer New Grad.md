@@ -2,6 +2,7 @@
 company: Quadric
 role: AI Kernel Engineer New Grad
 category: new-grad
+discipline: other
 locations:
 - Burlingame, CA
 terms: []

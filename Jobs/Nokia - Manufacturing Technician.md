@@ -2,6 +2,7 @@
 company: Nokia
 role: Manufacturing Technician
 category: new-grad
+discipline: other
 locations:
 - Sunnyvale, CA
 terms: []

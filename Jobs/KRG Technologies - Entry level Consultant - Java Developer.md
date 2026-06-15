@@ -2,6 +2,7 @@
 company: KRG Technologies
 role: Entry level Consultant - Java Developer
 category: new-grad
+discipline: swe
 locations:
 - Phoenix, AZ
 terms: []

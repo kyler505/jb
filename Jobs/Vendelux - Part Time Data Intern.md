@@ -2,6 +2,7 @@
 company: Vendelux
 role: Part Time Data Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

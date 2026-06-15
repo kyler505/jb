@@ -2,6 +2,7 @@
 company: Infojini
 role: GIS Intern Analyst
 category: internship
+discipline: other
 locations:
 - Columbia, SC
 terms:

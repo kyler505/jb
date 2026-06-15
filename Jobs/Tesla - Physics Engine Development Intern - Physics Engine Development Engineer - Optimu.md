@@ -2,6 +2,7 @@
 company: Tesla
 role: Physics Engine Development Intern - Physics Engine Development Engineer - Optimus
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

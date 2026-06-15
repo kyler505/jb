@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Software Intern - AI Compilers
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

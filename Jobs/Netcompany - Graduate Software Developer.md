@@ -2,6 +2,7 @@
 company: Netcompany
 role: Graduate Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Leeds, UK
 terms: []

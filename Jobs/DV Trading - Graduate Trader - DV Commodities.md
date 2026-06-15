@@ -2,6 +2,7 @@
 company: DV Trading
 role: Graduate Trader - DV Commodities
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

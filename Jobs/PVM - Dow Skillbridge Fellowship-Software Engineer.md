@@ -2,6 +2,7 @@
 company: PVM
 role: Dow Skillbridge Fellowship-Software Engineer
 category: internship
+discipline: swe
 locations:
 - United States
 terms:

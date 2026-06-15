@@ -2,6 +2,7 @@
 company: Andrew Morgan
 role: OneStream Developer
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

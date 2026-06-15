@@ -2,6 +2,7 @@
 company: Seaspan
 role: Digital Ship Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

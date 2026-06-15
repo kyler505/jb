@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Trading Operations Co-op
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

@@ -2,6 +2,7 @@
 company: AI Fund
 role: 'Engineer in Residence: Enterprise Agent Infrastructure Intern'
 category: internship
+discipline: devops
 locations:
 - Mountain View, CA
 terms:

@@ -2,6 +2,7 @@
 company: Lila Sciences
 role: AI Resident - Material Science
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 terms:

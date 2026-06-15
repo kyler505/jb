@@ -2,6 +2,7 @@
 company: KeyBank
 role: Quantitative Analytics Associate
 category: new-grad
+discipline: data
 locations:
 - Cheektowaga, NY
 - Cleveland, OH

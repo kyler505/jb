@@ -2,6 +2,7 @@
 company: F. Schumacher & Co.
 role: AI Builder
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

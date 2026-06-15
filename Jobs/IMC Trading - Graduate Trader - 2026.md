@@ -2,6 +2,7 @@
 company: IMC Trading
 role: Graduate Trader - 2026
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

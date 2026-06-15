@@ -2,6 +2,7 @@
 company: Beta Soft Systems
 role: Urgent Opening Hiring Entry Level - Multiple Teams
 category: new-grad
+discipline: other
 locations:
 - Fremont, CA
 terms: []

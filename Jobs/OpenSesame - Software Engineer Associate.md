@@ -2,6 +2,7 @@
 company: OpenSesame
 role: Software Engineer Associate
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

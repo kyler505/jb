@@ -2,6 +2,7 @@
 company: Further
 role: Graduate Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Cleveland, OH
 terms: []

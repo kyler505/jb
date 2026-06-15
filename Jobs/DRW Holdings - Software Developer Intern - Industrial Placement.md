@@ -2,6 +2,7 @@
 company: DRW Holdings
 role: Software Developer Intern - Industrial Placement
 category: internship
+discipline: swe
 locations:
 - London, UK
 terms:

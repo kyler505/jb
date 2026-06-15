@@ -2,6 +2,7 @@
 company: 908 Devices
 role: Technical Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Danbury, CT
 terms: []

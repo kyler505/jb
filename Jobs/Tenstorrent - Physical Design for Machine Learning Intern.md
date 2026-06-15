@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Physical Design for Machine Learning Intern
 category: internship
+discipline: ml
 locations:
 - Santa Clara, CA
 terms:

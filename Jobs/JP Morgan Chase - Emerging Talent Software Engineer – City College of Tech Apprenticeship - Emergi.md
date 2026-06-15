@@ -3,6 +3,7 @@ company: JP Morgan Chase
 role: Emerging Talent Software Engineer – City College of Tech Apprenticeship - Emerging
   Talent
 category: internship
+discipline: swe
 locations:
 - Chicago, IL
 terms:

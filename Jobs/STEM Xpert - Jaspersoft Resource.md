@@ -2,6 +2,7 @@
 company: STEM Xpert
 role: Jaspersoft Resource
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: SoloPulse
 role: Software Engineer Intern/Co-Op - Spring/Summer 2026
 category: internship
+discipline: swe
 locations:
 - Norcross, GA
 terms:

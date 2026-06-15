@@ -2,6 +2,7 @@
 company: ByteDance
 role: 3D Graphics Engineer
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

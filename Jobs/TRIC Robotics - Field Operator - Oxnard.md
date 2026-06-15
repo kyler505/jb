@@ -2,6 +2,7 @@
 company: TRIC Robotics
 role: Field Operator - Oxnard
 category: new-grad
+discipline: other
 locations:
 - Oxnard, CA
 terms: []

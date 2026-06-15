@@ -2,6 +2,7 @@
 company: NewsBreak
 role: Software Engineer, ML Infra (Junior & New Grad)
 category: new-grad
+discipline: swe
 locations:
 - Mountain View, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Wash U
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - St. Louis, MO
 terms:

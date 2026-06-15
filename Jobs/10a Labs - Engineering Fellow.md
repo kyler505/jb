@@ -2,6 +2,7 @@
 company: 10a Labs
 role: Engineering Fellow
 category: internship
+discipline: other
 locations:
 - SF
 terms:

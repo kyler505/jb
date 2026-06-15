@@ -2,6 +2,7 @@
 company: Bosch
 role: LLM & Agentic AI R&D Intern
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

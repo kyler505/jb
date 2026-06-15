@@ -2,6 +2,7 @@
 company: Corning
 role: Digital Systems Engineer
 category: new-grad
+discipline: other
 locations:
 - Westlake, TX
 terms: []

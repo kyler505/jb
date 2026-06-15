@@ -2,6 +2,7 @@
 company: Eulerity
 role: Android Developer Intern
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

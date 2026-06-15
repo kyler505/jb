@@ -2,6 +2,7 @@
 company: Apple
 role: Cellular Layer1 Control Software Development Engineer
 category: new-grad
+discipline: swe
 locations:
 - San Diego, CA
 terms: []

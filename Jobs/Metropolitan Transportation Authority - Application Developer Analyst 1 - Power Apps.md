@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Application Developer Analyst 1 - Power Apps
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

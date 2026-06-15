@@ -2,6 +2,7 @@
 company: Ask IT Consulting
 role: GIS Technician
 category: new-grad
+discipline: other
 locations:
 - Richmond, VA
 terms: []

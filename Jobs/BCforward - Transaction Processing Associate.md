@@ -2,6 +2,7 @@
 company: BCforward
 role: Transaction Processing Associate
 category: new-grad
+discipline: other
 locations:
 - San Antonio, TX
 terms: []

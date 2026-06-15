@@ -2,6 +2,7 @@
 company: Monolithic Power Systems
 role: Application Engineer Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

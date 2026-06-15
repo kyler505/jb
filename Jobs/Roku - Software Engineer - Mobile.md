@@ -2,6 +2,7 @@
 company: Roku
 role: Software Engineer - Mobile
 category: internship
+discipline: mobile
 locations:
 - Manchester, UK
 terms:

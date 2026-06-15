@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: Product Engineering Technician
 category: new-grad
+discipline: other
 locations:
 - Santa Rosa, CA
 terms: []

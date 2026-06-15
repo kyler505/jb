@@ -2,6 +2,7 @@
 company: Tilde Research
 role: ML Engineer
 category: internship
+discipline: ml
 locations:
 - SF
 terms:

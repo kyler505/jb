@@ -2,6 +2,7 @@
 company: Nidec
 role: Application Engineer 1
 category: new-grad
+discipline: other
 locations:
 - St. Louis, MO
 terms: []

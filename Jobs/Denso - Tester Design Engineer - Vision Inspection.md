@@ -2,6 +2,7 @@
 company: Denso
 role: Tester Design Engineer - Vision Inspection
 category: new-grad
+discipline: other
 locations:
 - Maryville, TN
 terms: []

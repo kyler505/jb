@@ -2,6 +2,7 @@
 company: Merative
 role: Software Engineering Associate
 category: new-grad
+discipline: swe
 locations:
 - Greenwood Village, CO
 terms: []

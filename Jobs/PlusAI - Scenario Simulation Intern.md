@@ -2,6 +2,7 @@
 company: PlusAI
 role: Scenario Simulation Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

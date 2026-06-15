@@ -2,6 +2,7 @@
 company: TikTok
 role: General Hire – Machine Learning Engineer Intern
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

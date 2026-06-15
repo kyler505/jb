@@ -2,6 +2,7 @@
 company: Super
 role: Data Engineer Intern
 category: internship
+discipline: data
 locations:
 - Toronto, ON, Canada
 terms:

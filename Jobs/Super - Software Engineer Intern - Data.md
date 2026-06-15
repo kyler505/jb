@@ -2,6 +2,7 @@
 company: Super
 role: Software Engineer Intern - Data
 category: internship
+discipline: swe
 locations:
 - Remote in Canada
 terms:

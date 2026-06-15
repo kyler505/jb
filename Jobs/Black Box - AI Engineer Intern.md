@@ -2,6 +2,7 @@
 company: Black Box
 role: AI Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Plano, TX
 terms:

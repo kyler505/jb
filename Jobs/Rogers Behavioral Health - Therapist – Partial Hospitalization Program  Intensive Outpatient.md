@@ -2,6 +2,7 @@
 company: Rogers Behavioral Health
 role: Therapist – Partial Hospitalization Program / Intensive Outpatient
 category: new-grad
+discipline: other
 locations:
 - Wauwatosa, WI
 - Wisconsin

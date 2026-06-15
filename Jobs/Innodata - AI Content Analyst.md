@@ -2,6 +2,7 @@
 company: Innodata
 role: AI Content Analyst
 category: new-grad
+discipline: other
 locations:
 - Tennessee
 terms: []

@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist Graduate - Compute Platform - Database Acceleration
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

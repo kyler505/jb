@@ -2,6 +2,7 @@
 company: Comtech
 role: Software Development Engineer in Test
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

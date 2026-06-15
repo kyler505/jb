@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Volatility Trading Developer Intern
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

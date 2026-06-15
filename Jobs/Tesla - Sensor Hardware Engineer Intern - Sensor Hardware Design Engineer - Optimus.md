@@ -2,6 +2,7 @@
 company: Tesla
 role: Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

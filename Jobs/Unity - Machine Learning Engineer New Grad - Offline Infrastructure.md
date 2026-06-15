@@ -2,6 +2,7 @@
 company: Unity
 role: Machine Learning Engineer New Grad - Offline Infrastructure
 category: new-grad
+discipline: ml
 locations:
 - Bellevue, WA
 terms: []

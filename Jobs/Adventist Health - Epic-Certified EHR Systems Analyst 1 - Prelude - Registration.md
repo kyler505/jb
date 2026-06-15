@@ -2,6 +2,7 @@
 company: Adventist Health
 role: Epic-Certified EHR Systems Analyst 1 - Prelude - Registration
 category: new-grad
+discipline: other
 locations:
 - Roseville, CA
 terms: []

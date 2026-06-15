@@ -2,6 +2,7 @@
 company: Akuna Capital University
 role: Options Trader
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

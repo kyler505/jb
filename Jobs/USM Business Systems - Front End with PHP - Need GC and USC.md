@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Front End with PHP - Need GC and USC
 category: internship
+discipline: frontend
 locations:
 - Columbus, OH
 terms:

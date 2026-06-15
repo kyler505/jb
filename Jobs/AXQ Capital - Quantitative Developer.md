@@ -2,6 +2,7 @@
 company: AXQ Capital
 role: Quantitative Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

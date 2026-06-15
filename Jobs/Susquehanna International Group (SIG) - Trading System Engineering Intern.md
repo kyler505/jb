@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Trading System Engineering Intern
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

@@ -2,6 +2,7 @@
 company: Sila Nanotechnologies
 role: Battery Simulation & Computational Scientist Intern
 category: internship
+discipline: other
 locations:
 - Alameda, CA
 terms:

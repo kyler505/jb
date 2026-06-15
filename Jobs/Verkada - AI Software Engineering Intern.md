@@ -2,6 +2,7 @@
 company: Verkada
 role: AI Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - San Mateo, CA
 terms:

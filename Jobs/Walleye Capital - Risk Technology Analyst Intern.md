@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Risk Technology Analyst Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: Geotab
 role: Vehicle Systems Engineering Intern
 category: internship
+discipline: other
 locations:
 - High Wycombe, UK
 terms:

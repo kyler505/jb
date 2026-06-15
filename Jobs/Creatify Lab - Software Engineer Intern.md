@@ -2,6 +2,7 @@
 company: 'Creatify Lab '
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Mountain View, CA
 terms:

@@ -2,6 +2,7 @@
 company: Kitware
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Clifton Park, NY
 terms: []

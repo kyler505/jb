@@ -2,6 +2,7 @@
 company: Whoop
 role: Embedded Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Boston, MA
 terms: []

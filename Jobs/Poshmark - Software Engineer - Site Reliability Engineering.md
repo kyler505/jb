@@ -2,6 +2,7 @@
 company: Poshmark
 role: Software Engineer - Site Reliability Engineering
 category: new-grad
+discipline: devops
 locations:
 - San Carlos, CA
 terms: []

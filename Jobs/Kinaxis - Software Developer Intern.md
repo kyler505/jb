@@ -2,6 +2,7 @@
 company: Kinaxis
 role: Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - Ottawa, ON, Canada
 terms:

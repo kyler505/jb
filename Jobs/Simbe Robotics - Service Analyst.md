@@ -2,6 +2,7 @@
 company: Simbe Robotics
 role: Service Analyst
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

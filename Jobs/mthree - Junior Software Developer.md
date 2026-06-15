@@ -2,6 +2,7 @@
 company: mthree
 role: Junior Software Developer
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 - Christchurch, UK

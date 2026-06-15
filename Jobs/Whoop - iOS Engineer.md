@@ -2,6 +2,7 @@
 company: Whoop
 role: iOS Engineer
 category: new-grad
+discipline: mobile
 locations:
 - Boston, MA
 terms: []

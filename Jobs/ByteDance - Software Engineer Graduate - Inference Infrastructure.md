@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Graduate - Inference Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - Seattle, WA
 terms: []

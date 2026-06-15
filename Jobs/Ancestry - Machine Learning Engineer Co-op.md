@@ -2,6 +2,7 @@
 company: Ancestry
 role: Machine Learning Engineer Co-op
 category: internship
+discipline: ml
 locations:
 - Remote in USA
 terms:

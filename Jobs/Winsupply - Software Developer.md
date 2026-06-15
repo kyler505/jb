@@ -2,6 +2,7 @@
 company: Winsupply
 role: Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Dayton, OH
 terms: []

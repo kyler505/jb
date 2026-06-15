@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Technical Product Associate - Platform
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Co-Op - Design Verification Engineer
 category: internship
+discipline: other
 locations:
 - Chandler, AZ
 terms:

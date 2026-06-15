@@ -2,6 +2,7 @@
 company: University of Rochester
 role: Data Analyst 1 - Ambulatory Pharmacy Operations
 category: new-grad
+discipline: data
 locations:
 - Rochester, NY
 terms: []

@@ -2,6 +2,7 @@
 company: Hewlett Packard Enterprise
 role: HPE Labs - AI Research Lab Research Associate (Intern)
 category: internship
+discipline: other
 locations:
 - Milpitas, CA
 - Fort Collins, CO

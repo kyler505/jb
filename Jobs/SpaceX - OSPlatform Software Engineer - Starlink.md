@@ -2,6 +2,7 @@
 company: SpaceX
 role: OS/Platform Software Engineer - Starlink
 category: new-grad
+discipline: swe
 locations:
 - Redmond, WA
 terms: []

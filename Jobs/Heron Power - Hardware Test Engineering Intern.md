@@ -2,6 +2,7 @@
 company: Heron Power
 role: Hardware Test Engineering Intern
 category: internship
+discipline: hardware
 locations:
 - Santa Cruz, CA
 terms:

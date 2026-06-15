@@ -2,6 +2,7 @@
 company: LivaNova
 role: Electrical Test Associate
 category: new-grad
+discipline: other
 locations:
 - Webster, TX
 terms: []

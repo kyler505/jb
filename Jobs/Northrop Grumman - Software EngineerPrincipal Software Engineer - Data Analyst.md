@@ -2,6 +2,7 @@
 company: Northrop Grumman
 role: Software Engineer/Principal Software Engineer - Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Escondido, CA
 - Palmdale, CA

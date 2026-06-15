@@ -2,6 +2,7 @@
 company: Oshkosh
 role: Testing & Development Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Wixom, MI
 terms: []

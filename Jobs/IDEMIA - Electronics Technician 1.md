@@ -2,6 +2,7 @@
 company: IDEMIA
 role: Electronics Technician 1
 category: new-grad
+discipline: other
 locations:
 - Eden Prairie, MN
 terms: []

@@ -2,6 +2,7 @@
 company: DP World
 role: HR Data Analyst
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

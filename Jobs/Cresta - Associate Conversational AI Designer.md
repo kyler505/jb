@@ -2,6 +2,7 @@
 company: Cresta
 role: Associate Conversational AI Designer
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

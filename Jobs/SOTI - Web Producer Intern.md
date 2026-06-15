@@ -2,6 +2,7 @@
 company: SOTI
 role: Web Producer Intern
 category: internship
+discipline: other
 locations:
 - Mississauga, ON, Canada
 terms:

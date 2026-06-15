@@ -2,6 +2,7 @@
 company: AI Fund
 role: Visiting Engineer Gesture Based Mobile Games Intern
 category: internship
+discipline: mobile
 locations:
 - Mountain View, CA
 terms:

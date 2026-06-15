@@ -2,6 +2,7 @@
 company: Multiply Labs
 role: Robotics Software Intern
 category: internship
+discipline: other
 locations:
 - San Francisco, CA
 terms:

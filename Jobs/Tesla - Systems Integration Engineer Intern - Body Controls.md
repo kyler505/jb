@@ -2,6 +2,7 @@
 company: Tesla
 role: Systems Integration Engineer Intern - Body Controls
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

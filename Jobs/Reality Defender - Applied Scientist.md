@@ -2,6 +2,7 @@
 company: Reality Defender
 role: Applied Scientist
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

@@ -2,6 +2,7 @@
 company: Acuity
 role: Illumination Engineer Lead
 category: new-grad
+discipline: other
 locations:
 - Wheat Ridge, CO
 terms: []

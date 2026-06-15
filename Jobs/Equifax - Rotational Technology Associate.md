@@ -2,6 +2,7 @@
 company: Equifax
 role: Rotational Technology Associate
 category: new-grad
+discipline: other
 locations:
 - Alpharetta, GA
 terms: []

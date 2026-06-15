@@ -2,6 +2,7 @@
 company: ASM International
 role: Engineer - Field Service- Early Career
 category: new-grad
+discipline: other
 locations:
 - Boise, ID
 terms: []

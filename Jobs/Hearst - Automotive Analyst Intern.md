@@ -2,6 +2,7 @@
 company: Hearst
 role: Automotive Analyst Intern
 category: internship
+discipline: other
 locations:
 - Gwinnett County, GA
 terms:

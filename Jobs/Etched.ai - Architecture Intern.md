@@ -2,6 +2,7 @@
 company: Etched.ai
 role: Architecture Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

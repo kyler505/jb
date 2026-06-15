@@ -2,6 +2,7 @@
 company: Blue Origin
 role: Clean Room Technician - Clean Room
 category: new-grad
+discipline: other
 locations:
 - Washington
 terms: []

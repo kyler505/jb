@@ -2,6 +2,7 @@
 company: 'NICE '
 role: Associate Software Engineer
 category: internship
+discipline: swe
 locations:
 - Draper, UT
 terms:

@@ -2,6 +2,7 @@
 company: Ask IT Consulting
 role: Software Design Engineer
 category: new-grad
+discipline: other
 locations:
 - Redmond, WA
 terms: []

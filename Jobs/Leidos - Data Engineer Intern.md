@@ -2,6 +2,7 @@
 company: Leidos
 role: Data Engineer Intern
 category: internship
+discipline: data
 locations:
 - Fort Belvoir, VA
 terms:

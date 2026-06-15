@@ -2,6 +2,7 @@
 company: Amazon
 role: Data Engineer Internship - UK - Amazon University Talent Acquisition','Auta
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

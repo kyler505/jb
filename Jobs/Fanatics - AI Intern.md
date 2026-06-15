@@ -2,6 +2,7 @@
 company: Fanatics
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

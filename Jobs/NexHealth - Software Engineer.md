@@ -2,6 +2,7 @@
 company: NexHealth
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

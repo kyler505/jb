@@ -2,6 +2,7 @@
 company: AI Fund
 role: 'Visiting Engineer: Research Coach Intern'
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

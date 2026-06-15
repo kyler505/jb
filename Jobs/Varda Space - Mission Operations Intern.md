@@ -2,6 +2,7 @@
 company: Varda Space
 role: Mission Operations Intern
 category: internship
+discipline: other
 locations:
 - El Segundo, CA
 terms:

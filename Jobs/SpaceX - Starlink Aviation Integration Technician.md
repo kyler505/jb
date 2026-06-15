@@ -2,6 +2,7 @@
 company: SpaceX
 role: Starlink Aviation Integration Technician
 category: new-grad
+discipline: other
 locations:
 - Bothell, WA
 terms: []

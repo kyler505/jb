@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Multiple Teams
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

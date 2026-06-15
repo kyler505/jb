@@ -2,6 +2,7 @@
 company: Radius Limited
 role: Graduate / Junior Java Developer
 category: new-grad
+discipline: swe
 locations:
 - Northwich, UK
 terms: []

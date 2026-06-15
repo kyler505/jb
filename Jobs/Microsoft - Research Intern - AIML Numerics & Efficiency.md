@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI/ML Numerics & Efficiency
 category: internship
+discipline: ml
 locations:
 - Redmond, WA
 terms:

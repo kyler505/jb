@@ -2,6 +2,7 @@
 company: BlackRock
 role: Associate – Index Fixed Income Algo Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

@@ -2,6 +2,7 @@
 company: Tesla
 role: Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

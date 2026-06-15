@@ -2,6 +2,7 @@
 company: Nuclear Promise X
 role: AI Developer Co-op
 category: internship
+discipline: swe
 locations:
 - Canada
 terms:

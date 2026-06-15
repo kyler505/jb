@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Scientist Intern
 category: internship
+discipline: data
 locations:
 - Seattle, WA
 terms:

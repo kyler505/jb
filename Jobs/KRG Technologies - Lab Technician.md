@@ -2,6 +2,7 @@
 company: KRG Technologies
 role: Lab Technician
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

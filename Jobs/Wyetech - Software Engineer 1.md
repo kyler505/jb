@@ -2,6 +2,7 @@
 company: Wyetech
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Annapolis Junction, MD
 terms: []

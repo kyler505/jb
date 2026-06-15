@@ -2,6 +2,7 @@
 company: Stoke Space
 role: Assembly Technician - Nondestructive Testing
 category: new-grad
+discipline: other
 locations:
 - Kent, WA
 terms: []

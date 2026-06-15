@@ -2,6 +2,7 @@
 company: Atomic Semi
 role: Rust Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - SF
 terms:

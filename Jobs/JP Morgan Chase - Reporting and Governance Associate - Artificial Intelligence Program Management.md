@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Reporting and Governance Associate - Artificial Intelligence Program Management
 category: new-grad
+discipline: other
 locations:
 - Christchurch, UK
 terms: []

@@ -3,6 +3,7 @@ company: SpaceX
 role: Radio Frequency Silicon Software Engineer - Radio Frequency Integrated Circuit
   Engineering
 category: new-grad
+discipline: swe
 locations:
 - Redmond, WA
 terms: []

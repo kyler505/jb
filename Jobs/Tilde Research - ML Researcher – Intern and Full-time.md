@@ -2,6 +2,7 @@
 company: Tilde Research
 role: ML Researcher – Intern and Full-time
 category: internship
+discipline: other
 locations:
 - SF
 terms:

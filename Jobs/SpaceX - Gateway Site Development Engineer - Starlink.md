@@ -2,6 +2,7 @@
 company: SpaceX
 role: Gateway Site Development Engineer - Starlink
 category: new-grad
+discipline: other
 locations:
 - Redmond, WA
 terms: []

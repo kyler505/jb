@@ -2,6 +2,7 @@
 company: HEXAWARE
 role: Intern Data Engineer
 category: internship
+discipline: data
 locations:
 - United States
 terms:

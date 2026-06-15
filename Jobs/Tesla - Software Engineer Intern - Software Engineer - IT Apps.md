@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Software Engineer - IT Apps
 category: internship
+discipline: swe
 locations:
 - Fremont, CA
 terms:

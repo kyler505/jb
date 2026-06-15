@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Lab Technician
 category: new-grad
+discipline: other
 locations:
 - North Haven, CT
 terms: []

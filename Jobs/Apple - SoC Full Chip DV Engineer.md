@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Full Chip DV Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

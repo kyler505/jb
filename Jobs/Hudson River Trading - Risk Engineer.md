@@ -2,6 +2,7 @@
 company: Hudson River Trading
 role: Risk Engineer
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Computer Vision and Deep Learning
 category: internship
+discipline: ml
 locations:
 - Redmond, WA
 terms:

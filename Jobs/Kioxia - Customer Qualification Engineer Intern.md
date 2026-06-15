@@ -2,6 +2,7 @@
 company: Kioxia
 role: Customer Qualification Engineer Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

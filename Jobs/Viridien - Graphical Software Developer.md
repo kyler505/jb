@@ -2,6 +2,7 @@
 company: Viridien
 role: Graphical Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Houston, TX
 terms: []

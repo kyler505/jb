@@ -2,6 +2,7 @@
 company: Kimley-Horn
 role: Experienced Civil Engineer-in-Training - Land Development
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

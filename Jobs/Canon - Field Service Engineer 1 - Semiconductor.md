@@ -2,6 +2,7 @@
 company: Canon
 role: Field Service Engineer 1 - Semiconductor
 category: new-grad
+discipline: other
 locations:
 - Irvine, CA
 terms: []

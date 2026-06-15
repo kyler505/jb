@@ -2,6 +2,7 @@
 company: Lumotive
 role: Hardware Engineering Technician
 category: new-grad
+discipline: hardware
 locations:
 - Redmond, WA
 terms: []

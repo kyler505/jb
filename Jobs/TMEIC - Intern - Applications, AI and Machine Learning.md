@@ -2,6 +2,7 @@
 company: TMEIC
 role: Intern - Applications, AI and Machine Learning
 category: internship
+discipline: ml
 locations:
 - Roanoke, VA
 terms:

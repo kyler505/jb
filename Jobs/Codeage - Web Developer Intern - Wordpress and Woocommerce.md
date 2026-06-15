@@ -2,6 +2,7 @@
 company: Codeage
 role: Web Developer Intern - Wordpress and Woocommerce
 category: internship
+discipline: frontend
 locations:
 - Culver City, CA
 terms:

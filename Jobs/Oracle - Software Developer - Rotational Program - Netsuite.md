@@ -2,6 +2,7 @@
 company: Oracle
 role: Software Developer - Rotational Program - Netsuite
 category: new-grad
+discipline: swe
 locations:
 - Kitchener, ON, Canada
 terms: []

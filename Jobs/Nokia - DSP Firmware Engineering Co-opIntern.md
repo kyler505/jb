@@ -2,6 +2,7 @@
 company: Nokia
 role: DSP Firmware Engineering Co-op/Intern
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

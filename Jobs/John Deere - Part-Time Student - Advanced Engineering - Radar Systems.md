@@ -2,6 +2,7 @@
 company: John Deere
 role: Part-Time Student - Advanced Engineering - Radar Systems
 category: internship
+discipline: other
 locations:
 - Davenport, IA
 terms:

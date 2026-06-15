@@ -2,6 +2,7 @@
 company: BAE Systems
 role: Asset Gateway Engineer
 category: new-grad
+discipline: other
 locations:
 - East Midlands, UK
 terms: []

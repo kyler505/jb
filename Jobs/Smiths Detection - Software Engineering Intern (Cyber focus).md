@@ -2,6 +2,7 @@
 company: Smiths Detection
 role: Software Engineering Intern (Cyber focus)
 category: internship
+discipline: swe
 locations:
 - Edgewood, MD
 terms:

@@ -2,6 +2,7 @@
 company: Samaya
 role: ML Research Intern
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

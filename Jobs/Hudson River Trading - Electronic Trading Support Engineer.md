@@ -2,6 +2,7 @@
 company: Hudson River Trading
 role: Electronic Trading Support Engineer
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: METECS
 role: Junior Software Engineer - DST
 category: new-grad
+discipline: swe
 locations:
 - Houston, TX
 terms: []

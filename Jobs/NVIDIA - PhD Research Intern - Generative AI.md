@@ -2,6 +2,7 @@
 company: NVIDIA
 role: PhD Research Intern - Generative AI
 category: internship
+discipline: other
 locations:
 - California
 - Santa Clara, CA

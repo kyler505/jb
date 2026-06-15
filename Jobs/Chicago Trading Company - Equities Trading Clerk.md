@@ -2,6 +2,7 @@
 company: Chicago Trading Company
 role: Equities Trading Clerk
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

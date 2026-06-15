@@ -2,6 +2,7 @@
 company: TikTok
 role: Frontend Engineer Intern
 category: internship
+discipline: frontend
 locations:
 - San Jose, CA
 terms:

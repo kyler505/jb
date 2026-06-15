@@ -2,6 +2,7 @@
 company: LexisNexis Legal & Professional
 role: Data Discovery and Enrichment Expert 1
 category: new-grad
+discipline: other
 locations:
 - Toronto, ON, Canada
 - Canada

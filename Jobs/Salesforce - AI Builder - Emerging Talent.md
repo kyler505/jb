@@ -2,6 +2,7 @@
 company: Salesforce
 role: AI Builder - Emerging Talent
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

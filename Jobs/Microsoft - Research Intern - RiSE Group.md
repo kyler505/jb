@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - RiSE Group
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

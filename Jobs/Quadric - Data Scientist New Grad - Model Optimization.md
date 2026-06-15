@@ -2,6 +2,7 @@
 company: Quadric
 role: Data Scientist New Grad - Model Optimization
 category: new-grad
+discipline: data
 locations:
 - Burlingame, CA
 terms: []

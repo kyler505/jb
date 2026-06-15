@@ -2,6 +2,7 @@
 company: Consultadd Public Services
 role: Web Developer
 category: new-grad
+discipline: frontend
 locations:
 - NYC
 terms: []

@@ -3,6 +3,7 @@ company: Tesla
 role: Software Engineer Intern - Engineering Automation Software Engineer - Vehicle
   Engineering
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 - Fremont, CA

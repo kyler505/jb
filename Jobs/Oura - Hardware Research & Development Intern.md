@@ -2,6 +2,7 @@
 company: Oura
 role: Hardware Research & Development Intern
 category: internship
+discipline: hardware
 locations:
 - SF
 terms:

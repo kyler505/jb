@@ -2,6 +2,7 @@
 company: Base Power
 role: Firmware Engineer
 category: internship
+discipline: hardware
 locations:
 - Austin, TX
 terms:

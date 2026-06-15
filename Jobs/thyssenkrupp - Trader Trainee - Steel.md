@@ -2,6 +2,7 @@
 company: thyssenkrupp
 role: Trader Trainee - Steel
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

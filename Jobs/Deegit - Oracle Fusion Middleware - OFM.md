@@ -2,6 +2,7 @@
 company: Deegit
 role: Oracle Fusion Middleware - OFM
 category: new-grad
+discipline: other
 locations:
 - Carlsbad, CA
 terms: []

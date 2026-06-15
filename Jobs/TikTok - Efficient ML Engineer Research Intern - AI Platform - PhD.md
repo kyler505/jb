@@ -2,6 +2,7 @@
 company: TikTok
 role: Efficient ML Engineer Research Intern - AI Platform - PhD
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

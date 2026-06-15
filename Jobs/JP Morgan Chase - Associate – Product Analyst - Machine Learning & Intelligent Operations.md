@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Associate – Product Analyst - Machine Learning & Intelligent Operations
 category: new-grad
+discipline: ml
 locations:
 - Plano, TX
 - Columbus, OH

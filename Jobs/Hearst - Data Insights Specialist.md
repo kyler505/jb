@@ -2,6 +2,7 @@
 company: Hearst
 role: Data Insights Specialist
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

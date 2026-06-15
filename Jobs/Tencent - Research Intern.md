@@ -2,6 +2,7 @@
 company: Tencent
 role: Research Intern
 category: internship
+discipline: other
 locations:
 - Bellevue, WA
 terms:

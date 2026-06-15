@@ -2,6 +2,7 @@
 company: Mohawk
 role: Master Data Coordinator
 category: new-grad
+discipline: other
 locations:
 - Calhoun, GA
 terms: []

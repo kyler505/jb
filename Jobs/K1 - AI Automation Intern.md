@@ -2,6 +2,7 @@
 company: K1
 role: AI Automation Intern
 category: internship
+discipline: other
 locations:
 - Manhattan Beach, CA
 terms:

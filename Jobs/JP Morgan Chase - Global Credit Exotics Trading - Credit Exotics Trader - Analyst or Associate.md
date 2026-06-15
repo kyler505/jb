@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Global Credit Exotics Trading - Credit Exotics Trader - Analyst or Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

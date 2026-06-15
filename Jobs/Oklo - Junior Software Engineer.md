@@ -2,6 +2,7 @@
 company: Oklo
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Santa Clara, CA
 - Remote in USA

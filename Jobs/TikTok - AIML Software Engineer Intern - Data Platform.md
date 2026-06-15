@@ -2,6 +2,7 @@
 company: TikTok
 role: AI/ML Software Engineer Intern - Data Platform
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

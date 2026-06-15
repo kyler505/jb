@@ -2,6 +2,7 @@
 company: Etched.ai
 role: DV Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Oracle
 role: Advanced Degree Software Engineer Intern - Industries
 category: internship
+discipline: swe
 locations:
 - United States
 terms:

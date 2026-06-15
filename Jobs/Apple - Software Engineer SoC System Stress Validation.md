@@ -2,6 +2,7 @@
 company: Apple
 role: 'Software Engineer: SoC System Stress Validation'
 category: new-grad
+discipline: swe
 locations:
 - Beaverton, OR
 terms: []

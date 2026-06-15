@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Software Engineer - Energy Engineering
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 - Fremont, CA

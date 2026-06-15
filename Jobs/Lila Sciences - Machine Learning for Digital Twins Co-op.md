@@ -2,6 +2,7 @@
 company: Lila Sciences
 role: Machine Learning for Digital Twins Co-op
 category: internship
+discipline: ml
 locations:
 - Cambridge, MA
 terms:

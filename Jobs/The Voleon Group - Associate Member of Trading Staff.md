@@ -2,6 +2,7 @@
 company: The Voleon Group
 role: Associate Member of Trading Staff
 category: new-grad
+discipline: other
 locations:
 - Berkeley, CA
 terms: []

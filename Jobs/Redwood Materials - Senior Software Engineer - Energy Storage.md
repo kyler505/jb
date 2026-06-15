@@ -2,6 +2,7 @@
 company: Redwood Materials
 role: Senior Software Engineer - Energy Storage
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

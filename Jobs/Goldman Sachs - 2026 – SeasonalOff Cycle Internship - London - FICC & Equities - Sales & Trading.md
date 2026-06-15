@@ -2,6 +2,7 @@
 company: Goldman Sachs
 role: 2026 – Seasonal/Off Cycle Internship - London - FICC & Equities - Sales & Trading
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

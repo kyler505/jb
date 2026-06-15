@@ -2,6 +2,7 @@
 company: SpaceX
 role: Engineer New Grad - ASIC Design - Starshield
 category: new-grad
+discipline: hardware
 locations:
 - West Athens, CA
 terms: []

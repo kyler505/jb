@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - Multimedia Streaming
 category: internship
+discipline: other
 locations:
 - San Diego, CA
 terms:

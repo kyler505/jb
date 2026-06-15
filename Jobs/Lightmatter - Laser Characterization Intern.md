@@ -2,6 +2,7 @@
 company: Lightmatter
 role: Laser Characterization Intern
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

@@ -2,6 +2,7 @@
 company: Mariana Minerals
 role: Machine Learning Engineer
 category: new-grad
+discipline: ml
 locations:
 - Houston, TX
 - SF

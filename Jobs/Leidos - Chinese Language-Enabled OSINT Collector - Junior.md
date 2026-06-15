@@ -2,6 +2,7 @@
 company: Leidos
 role: Chinese Language-Enabled OSINT Collector - Junior
 category: new-grad
+discipline: other
 locations:
 - Cape Canaveral, FL
 terms: []

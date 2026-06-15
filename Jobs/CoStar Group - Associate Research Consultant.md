@@ -2,6 +2,7 @@
 company: CoStar Group
 role: Associate Research Consultant
 category: new-grad
+discipline: other
 locations:
 - Richmond, VA
 terms: []

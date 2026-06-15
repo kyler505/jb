@@ -2,6 +2,7 @@
 company: Agoda
 role: Supply Analytics Senior Analyst
 category: new-grad
+discipline: data
 locations:
 - Toronto, ON, Canada
 terms: []

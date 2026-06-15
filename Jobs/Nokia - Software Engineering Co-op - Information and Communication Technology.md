@@ -2,6 +2,7 @@
 company: Nokia
 role: Software Engineering Co-op - Information and Communication Technology
 category: internship
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms:

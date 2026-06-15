@@ -2,6 +2,7 @@
 company: Freedom Technology Solutions Group
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - St. Louis, MO
 terms: []

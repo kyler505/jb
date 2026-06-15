@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Fixed Income Trading Analyst - Early Careers
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

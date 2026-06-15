@@ -2,6 +2,7 @@
 company: Kitware
 role: OSTP Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Clifton Park, NY
 terms: []

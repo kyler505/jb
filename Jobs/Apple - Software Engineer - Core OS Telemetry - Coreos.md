@@ -2,6 +2,7 @@
 company: Apple
 role: Software Engineer - Core OS Telemetry - Coreos
 category: new-grad
+discipline: swe
 locations:
 - San Diego, CA
 terms: []

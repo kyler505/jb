@@ -2,6 +2,7 @@
 company: Blackhawk Network Holdings
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Coppell, TX
 - SF

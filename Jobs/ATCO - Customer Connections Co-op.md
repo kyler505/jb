@@ -2,6 +2,7 @@
 company: ATCO
 role: Customer Connections Co-op
 category: internship
+discipline: other
 locations:
 - Edmonton, AB, Canada
 terms:

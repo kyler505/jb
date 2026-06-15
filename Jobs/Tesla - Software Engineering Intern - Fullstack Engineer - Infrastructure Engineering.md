@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineering Intern - Fullstack Engineer - Infrastructure Engineering
 category: internship
+discipline: devops
 locations:
 - Fremont, CA
 terms:

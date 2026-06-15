@@ -2,6 +2,7 @@
 company: Nightwing Intelligence Solutions
 role: Software / Hardware Engineering Intern
 category: internship
+discipline: hardware
 locations:
 - Annapolis Junction, MD
 terms:

@@ -2,6 +2,7 @@
 company: NatWest Group
 role: Tech Insight Experience for Women - Engineering
 category: internship
+discipline: other
 locations:
 - London, UK
 - Edinburgh, UK

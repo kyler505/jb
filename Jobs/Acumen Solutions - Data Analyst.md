@@ -2,6 +2,7 @@
 company: Acumen Solutions
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - McLean, VA
 terms: []

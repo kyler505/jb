@@ -2,6 +2,7 @@
 company: Altom Transport
 role: Software Development Intern
 category: internship
+discipline: swe
 locations:
 - Markham, IL
 terms:

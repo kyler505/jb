@@ -2,6 +2,7 @@
 company: Fuse Energy
 role: Tech Team Alpha Technician
 category: new-grad
+discipline: other
 locations:
 - San Leandro, CA
 terms: []

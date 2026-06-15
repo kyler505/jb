@@ -2,6 +2,7 @@
 company: Instacart
 role: Machine Learning PhD Intern - Economics
 category: internship
+discipline: ml
 locations:
 - Remote in USA
 terms:

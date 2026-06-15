@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: XVA Pricing & Capital Solutions Associate
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

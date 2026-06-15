@@ -2,6 +2,7 @@
 company: TikTok
 role: Graduate AI Product Manager
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: BlueLabs Analytics
 role: Reporting Fellow
 category: internship
+discipline: other
 locations:
 - Washington, DC
 terms:

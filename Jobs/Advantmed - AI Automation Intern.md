@@ -2,6 +2,7 @@
 company: Advantmed
 role: AI Automation Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

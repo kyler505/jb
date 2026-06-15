@@ -2,6 +2,7 @@
 company: Leidos
 role: Software Engineer TS/SCI Poly
 category: new-grad
+discipline: swe
 locations:
 - Aurora, CO
 - Annapolis Junction, MD

@@ -2,6 +2,7 @@
 company: Copart
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Dallas, TX
 terms:

@@ -2,6 +2,7 @@
 company: The Campbell's Company
 role: Data Engineer Co-op - Operational Support
 category: internship
+discipline: data
 locations:
 - Philadelphia, PA
 terms:

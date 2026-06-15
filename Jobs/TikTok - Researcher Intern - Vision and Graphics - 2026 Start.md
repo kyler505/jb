@@ -2,6 +2,7 @@
 company: TikTok
 role: Researcher Intern - Vision and Graphics - 2026 Start
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

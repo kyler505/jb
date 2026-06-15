@@ -2,6 +2,7 @@
 company: TikTok
 role: AI Software Engineer Intern - Transaction Platform
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

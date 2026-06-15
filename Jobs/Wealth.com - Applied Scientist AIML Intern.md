@@ -2,6 +2,7 @@
 company: Wealth.com
 role: Applied Scientist AI/ML Intern
 category: internship
+discipline: ml
 locations:
 - Remote in USA
 terms:

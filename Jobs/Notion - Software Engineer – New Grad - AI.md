@@ -2,6 +2,7 @@
 company: Notion
 role: Software Engineer – New Grad - AI
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

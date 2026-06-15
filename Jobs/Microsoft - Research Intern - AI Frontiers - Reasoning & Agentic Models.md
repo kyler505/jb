@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI Frontiers - Reasoning & Agentic Models
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 - NYC

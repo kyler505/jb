@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Application Developer Level 1 - Geographic Information Systems
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

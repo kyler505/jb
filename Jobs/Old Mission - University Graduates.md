@@ -2,6 +2,7 @@
 company: Old Mission
 role: University Graduates
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

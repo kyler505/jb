@@ -2,6 +2,7 @@
 company: University of Maine System
 role: Postdoctoral Research Associate
 category: new-grad
+discipline: other
 locations:
 - Bangor, ME
 terms: []

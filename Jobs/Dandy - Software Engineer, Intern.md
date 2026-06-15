@@ -2,6 +2,7 @@
 company: Dandy
 role: Software Engineer, Intern
 category: internship
+discipline: swe
 locations:
 - New York, NY
 terms:

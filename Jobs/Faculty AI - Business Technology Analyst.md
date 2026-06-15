@@ -2,6 +2,7 @@
 company: Faculty AI
 role: Business Technology Analyst
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

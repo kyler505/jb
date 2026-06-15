@@ -2,6 +2,7 @@
 company: Summit Partners
 role: AI Builder-in-Residence - Summit Partners' Base Camp Program
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

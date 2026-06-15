@@ -2,6 +2,7 @@
 company: SA Technologies
 role: Python Developer
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

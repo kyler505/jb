@@ -2,6 +2,7 @@
 company: Lumafield
 role: Engineering Intern, Embedded Software
 category: internship
+discipline: hardware
 locations:
 - Boston, MA
 terms:

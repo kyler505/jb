@@ -2,6 +2,7 @@
 company: SpaceX
 role: Environmental and Materials Compliance Engineer
 category: new-grad
+discipline: other
 locations:
 - Bastrop, TX
 terms: []

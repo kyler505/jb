@@ -2,6 +2,7 @@
 company: 'Moog '
 role: Associate Product Engineer
 category: new-grad
+discipline: other
 locations:
 - Boston, NY
 - Buffalo, NY

@@ -2,6 +2,7 @@
 company: Emerson Electric
 role: Hardware Digital Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Austin, TX
 terms: []

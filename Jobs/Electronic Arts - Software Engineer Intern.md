@@ -2,6 +2,7 @@
 company: Electronic Arts
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Orlando, FL
 terms:

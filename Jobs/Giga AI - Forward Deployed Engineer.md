@@ -2,6 +2,7 @@
 company: Giga AI
 role: Forward Deployed Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

@@ -2,6 +2,7 @@
 company: Graphcore
 role: Graduate SoC Architecture Engineer
 category: new-grad
+discipline: other
 locations:
 - Bristol, UK
 terms: []

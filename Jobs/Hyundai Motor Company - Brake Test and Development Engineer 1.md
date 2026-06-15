@@ -2,6 +2,7 @@
 company: Hyundai Motor Company
 role: Brake Test and Development Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Palmdale, CA
 terms: []

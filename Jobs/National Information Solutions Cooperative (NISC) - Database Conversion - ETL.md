@@ -2,6 +2,7 @@
 company: National Information Solutions Cooperative (NISC)
 role: Database Conversion - ETL
 category: new-grad
+discipline: other
 locations:
 - Bismarck, ND
 - Lake St Louis, MO

@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: 2026 – Internship - Markets - Systematic Trading - New York
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

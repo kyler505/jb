@@ -2,6 +2,7 @@
 company: AccuWeather
 role: Product Analyst Intern
 category: internship
+discipline: other
 locations:
 - State College, PA
 - Remote in USA

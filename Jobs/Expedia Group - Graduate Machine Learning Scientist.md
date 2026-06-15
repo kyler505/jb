@@ -2,6 +2,7 @@
 company: Expedia Group
 role: Graduate Machine Learning Scientist
 category: new-grad
+discipline: ml
 locations:
 - Seattle, WA
 - San Jose, CA

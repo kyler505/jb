@@ -2,6 +2,7 @@
 company: Gallup
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Omaha, NE
 terms: []

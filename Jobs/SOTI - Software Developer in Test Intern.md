@@ -2,6 +2,7 @@
 company: SOTI
 role: Software Developer in Test Intern
 category: internship
+discipline: swe
 locations:
 - Mississauga, ON, Canada
 terms:

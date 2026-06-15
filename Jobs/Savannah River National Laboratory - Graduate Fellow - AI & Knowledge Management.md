@@ -2,6 +2,7 @@
 company: Savannah River National Laboratory
 role: Graduate Fellow - AI & Knowledge Management
 category: new-grad
+discipline: other
 locations:
 - North Augusta, SC
 terms: []

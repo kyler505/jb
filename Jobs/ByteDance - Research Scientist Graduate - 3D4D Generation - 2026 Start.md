@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Graduate - 3D/4D Generation - 2026 Start
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

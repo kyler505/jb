@@ -2,6 +2,7 @@
 company: Stevens Capital Management
 role: Developer Internship
 category: internship
+discipline: swe
 locations:
 - Villanova, PA
 terms:

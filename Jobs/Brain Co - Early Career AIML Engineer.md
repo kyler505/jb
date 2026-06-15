@@ -2,6 +2,7 @@
 company: Brain Co.
 role: Early Career AI/ML Engineer
 category: new-grad
+discipline: ml
 locations:
 - California
 terms: []

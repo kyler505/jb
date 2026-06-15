@@ -2,6 +2,7 @@
 company: Remodel Health
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Indianapolis, IN
 terms: []

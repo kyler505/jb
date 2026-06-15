@@ -2,6 +2,7 @@
 company: Hyve Solutions
 role: Manufacturing Technician
 category: new-grad
+discipline: other
 locations:
 - Fremont, CA
 terms: []

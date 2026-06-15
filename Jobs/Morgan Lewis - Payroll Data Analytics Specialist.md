@@ -2,6 +2,7 @@
 company: Morgan Lewis
 role: Payroll Data Analytics Specialist
 category: new-grad
+discipline: data
 locations:
 - Philadelphia, PA
 terms: []

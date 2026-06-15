@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Frontend Engineer - Applications Engineering
 category: internship
+discipline: frontend
 locations:
 - Fremont, CA
 - Austin, TX

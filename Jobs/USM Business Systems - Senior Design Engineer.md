@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Senior Design Engineer
 category: new-grad
+discipline: other
 locations:
 - Rochester, MI
 terms: []

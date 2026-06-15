@@ -2,6 +2,7 @@
 company: MORSE Corp
 role: Electrical R&D Technician
 category: new-grad
+discipline: other
 locations:
 - Cambridge, MA
 terms: []

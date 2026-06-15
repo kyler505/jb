@@ -2,6 +2,7 @@
 company: Airbus
 role: Volunteer for International Experience (VIE) - Junior Technology Scouting
 category: new-grad
+discipline: other
 locations:
 - Montreal, QC, Canada
 terms: []

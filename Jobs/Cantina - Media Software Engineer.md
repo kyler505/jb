@@ -2,6 +2,7 @@
 company: Cantina
 role: Media Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Brooklyn, NY
 - Sunnyvale, CA

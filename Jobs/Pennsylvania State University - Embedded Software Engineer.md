@@ -2,6 +2,7 @@
 company: Pennsylvania State University
 role: Embedded Software Engineer
 category: new-grad
+discipline: hardware
 locations:
 - State College, PA
 terms: []

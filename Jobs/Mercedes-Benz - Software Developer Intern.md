@@ -2,6 +2,7 @@
 company: Mercedes-Benz
 role: Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Palantir
 role: Year at Palantir Intern - Forward Deployed Software Engineer - Commercial
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

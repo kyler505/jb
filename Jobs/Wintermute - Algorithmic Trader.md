@@ -2,6 +2,7 @@
 company: Wintermute
 role: Algorithmic Trader
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

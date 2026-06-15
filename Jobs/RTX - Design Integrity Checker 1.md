@@ -2,6 +2,7 @@
 company: RTX
 role: Design Integrity Checker 1
 category: new-grad
+discipline: other
 locations:
 - Andover, MA
 terms: []

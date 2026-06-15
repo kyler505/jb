@@ -2,6 +2,7 @@
 company: Iambic Therapeutics
 role: Machine Learning Scientist - Large multimodal models
 category: new-grad
+discipline: ml
 locations:
 - Boston, MA
 - Bristol, UK

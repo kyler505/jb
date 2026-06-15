@@ -2,6 +2,7 @@
 company: Harbor
 role: Corporate Legal Technology Consultant - Discovery and Data Management
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

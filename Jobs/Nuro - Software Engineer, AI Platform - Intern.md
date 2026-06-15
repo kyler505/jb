@@ -2,6 +2,7 @@
 company: Nuro
 role: Software Engineer, AI Platform - Intern
 category: internship
+discipline: swe
 locations:
 - Mountain View, CA
 terms:

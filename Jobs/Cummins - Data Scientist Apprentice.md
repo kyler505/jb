@@ -2,6 +2,7 @@
 company: Cummins
 role: Data Scientist Apprentice
 category: internship
+discipline: data
 locations:
 - Leeds, UK
 terms:

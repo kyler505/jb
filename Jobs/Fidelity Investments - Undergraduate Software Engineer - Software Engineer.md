@@ -2,6 +2,7 @@
 company: Fidelity Investments
 role: Undergraduate Software Engineer - Software Engineer
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

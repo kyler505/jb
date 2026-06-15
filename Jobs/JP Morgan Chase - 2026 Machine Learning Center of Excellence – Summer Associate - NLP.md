@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: 2026 Machine Learning Center of Excellence – Summer Associate - NLP
 category: internship
+discipline: ml
 locations:
 - London, UK
 terms:

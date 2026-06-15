@@ -2,6 +2,7 @@
 company: SDSU Research Foundation
 role: Graduate Student 1 - UAV/ Robotic Design - Development and Integration Project
 category: internship
+discipline: other
 locations:
 - San Diego, CA
 terms:

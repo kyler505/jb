@@ -2,6 +2,7 @@
 company: Pebl
 role: Product Manager Intern - Alfie - Conversational AI
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 - Vancouver, BC, Canada

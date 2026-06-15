@@ -2,6 +2,7 @@
 company: ConnectPrep
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - Boston, MA
 - Remote in USA

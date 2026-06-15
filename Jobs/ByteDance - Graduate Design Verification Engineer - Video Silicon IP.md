@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Design Verification Engineer - Video Silicon IP
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Fanatics
 role: Collectibles - Software Engineer
 category: internship
+discipline: swe
 locations:
 - NYC
 - LA

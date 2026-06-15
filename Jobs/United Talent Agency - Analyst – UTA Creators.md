@@ -2,6 +2,7 @@
 company: United Talent Agency
 role: Analyst – UTA Creators
 category: new-grad
+discipline: other
 locations:
 - LA
 terms: []

@@ -2,6 +2,7 @@
 company: Geotab
 role: Product Coordinator Intern - Summer/May 2026 - 8 Months
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 - Oakville, ON, Canada

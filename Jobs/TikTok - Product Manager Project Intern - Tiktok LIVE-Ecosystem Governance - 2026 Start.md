@@ -2,6 +2,7 @@
 company: TikTok
 role: Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

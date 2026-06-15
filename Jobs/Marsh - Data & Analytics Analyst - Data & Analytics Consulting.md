@@ -2,6 +2,7 @@
 company: Marsh
 role: Data & Analytics Analyst - Data & Analytics Consulting
 category: new-grad
+discipline: data
 locations:
 - Hamburg, Germany
 - Neukirchen-Vluyn, Germany

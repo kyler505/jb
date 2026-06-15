@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: .NET Developer
 category: new-grad
+discipline: swe
 locations:
 - San Antonio, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Skydio
 role: Middleware Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - San Mateo, CA
 terms:

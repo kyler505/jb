@@ -2,6 +2,7 @@
 company: Schonfeld
 role: Quantitative Developer - Fundamental Equities
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

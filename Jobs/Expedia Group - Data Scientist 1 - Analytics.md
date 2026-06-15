@@ -2,6 +2,7 @@
 company: Expedia Group
 role: Data Scientist 1 - Analytics
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

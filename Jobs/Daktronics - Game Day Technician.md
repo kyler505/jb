@@ -2,6 +2,7 @@
 company: Daktronics
 role: Game Day Technician
 category: internship
+discipline: other
 locations:
 - State College, PA
 terms:

@@ -2,6 +2,7 @@
 company: Rocket Lab USA
 role: Additive Manufacturing Intern
 category: internship
+discipline: other
 locations:
 - Long Beach, CA
 terms:

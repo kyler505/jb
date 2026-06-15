@@ -2,6 +2,7 @@
 company: Salvo Health
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: University System of New Hampshire
 role: Embase Hightech Bound Intern
 category: internship
+discipline: other
 locations:
 - Dover, NH
 terms:

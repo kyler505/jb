@@ -2,6 +2,7 @@
 company: Aquatic Capital Management
 role: Software Engineer – Early Career
 category: new-grad
+discipline: swe
 locations:
 - Chicago, IL
 - NYC

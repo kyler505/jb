@@ -2,6 +2,7 @@
 company: Quadric
 role: Data Science Intern - Model Optimization
 category: internship
+discipline: data
 locations:
 - Burlingame, CA
 terms:

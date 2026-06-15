@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Design Verification Engineer Intern
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

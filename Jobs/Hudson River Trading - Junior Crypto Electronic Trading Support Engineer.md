@@ -2,6 +2,7 @@
 company: Hudson River Trading
 role: Junior Crypto Electronic Trading Support Engineer
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

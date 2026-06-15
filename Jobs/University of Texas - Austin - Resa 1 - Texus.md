@@ -2,6 +2,7 @@
 company: University of Texas - Austin
 role: Resa 1 - Texus
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

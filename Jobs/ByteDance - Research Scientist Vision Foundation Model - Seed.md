@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Vision Foundation Model - Seed
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Sales and Service Technicians
 category: new-grad
+discipline: other
 locations:
 - Bakersfield, CA
 terms: []

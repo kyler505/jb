@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: T-SQL Developer
 category: new-grad
+discipline: swe
 locations:
 - Jefferson City, MO
 terms: []

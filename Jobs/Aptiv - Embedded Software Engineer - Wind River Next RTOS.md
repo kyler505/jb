@@ -2,6 +2,7 @@
 company: Aptiv
 role: Embedded Software Engineer - Wind River Next RTOS
 category: new-grad
+discipline: hardware
 locations:
 - Kanata, Ottawa, ON, Canada
 terms: []

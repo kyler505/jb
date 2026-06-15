@@ -2,6 +2,7 @@
 company: Quadric
 role: Deep Learning Compiler Engineer New Grad
 category: new-grad
+discipline: ml
 locations:
 - Burlingame, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Management Associate Trainee
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: iHeartMedia
 role: Digital Data Analyst
 category: new-grad
+discipline: data
 locations:
 - San Antonio, TX
 - NYC

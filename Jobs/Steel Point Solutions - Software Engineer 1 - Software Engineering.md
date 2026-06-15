@@ -2,6 +2,7 @@
 company: Steel Point Solutions
 role: Software Engineer 1 - Software Engineering
 category: new-grad
+discipline: swe
 locations:
 - Odenton, MD
 terms: []

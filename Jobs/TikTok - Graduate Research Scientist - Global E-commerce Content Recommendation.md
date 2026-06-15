@@ -2,6 +2,7 @@
 company: TikTok
 role: Graduate Research Scientist - Global E-commerce Content Recommendation
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

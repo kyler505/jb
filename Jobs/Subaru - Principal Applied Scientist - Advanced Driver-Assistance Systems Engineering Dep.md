@@ -3,6 +3,7 @@ company: Subaru
 role: Principal Applied Scientist - Advanced Driver-Assistance Systems Engineering
   Department
 category: new-grad
+discipline: other
 locations:
 - Michigan
 terms: []

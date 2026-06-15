@@ -2,6 +2,7 @@
 company: ASM International
 role: Senior Engineering Technician 1 - Equipment
 category: new-grad
+discipline: other
 locations:
 - Phoenix, AZ
 terms: []

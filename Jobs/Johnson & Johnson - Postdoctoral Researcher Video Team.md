@@ -2,6 +2,7 @@
 company: Johnson & Johnson
 role: Postdoctoral Researcher Video Team
 category: new-grad
+discipline: other
 locations:
 - London, UK
 - Neukirchen-Vluyn, Germany

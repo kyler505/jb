@@ -3,6 +3,7 @@ company: Waymo
 role: Applied Research Scientist – New Grad - Perception Large Language Model/Vision-Language
   Model - PhD
 category: new-grad
+discipline: other
 locations:
 - SF
 - Mountain View, CA

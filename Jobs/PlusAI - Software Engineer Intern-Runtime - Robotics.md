@@ -2,6 +2,7 @@
 company: PlusAI
 role: Software Engineer Intern-Runtime - Robotics
 category: internship
+discipline: swe
 locations:
 - Santa Clara, CA
 terms:

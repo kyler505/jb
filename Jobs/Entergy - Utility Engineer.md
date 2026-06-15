@@ -2,6 +2,7 @@
 company: Entergy
 role: Utility Engineer
 category: new-grad
+discipline: other
 locations:
 - New Orleans, LA
 terms: []

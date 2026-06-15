@@ -2,6 +2,7 @@
 company: Trinity Park Talent
 role: Saturn Five Investment Analyst
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

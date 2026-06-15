@@ -2,6 +2,7 @@
 company: Leidos
 role: Software Developer Intern - Cyber & Analytics Business Area - Security Engineering
 category: internship
+discipline: data
 locations:
 - Annapolis Junction, MD
 terms:

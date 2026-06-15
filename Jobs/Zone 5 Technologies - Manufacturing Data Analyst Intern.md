@@ -2,6 +2,7 @@
 company: Zone 5 Technologies
 role: Manufacturing Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - San Luis Obispo, CA
 terms:

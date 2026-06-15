@@ -2,6 +2,7 @@
 company: Major League Baseball
 role: Fellow Baseball Strategist
 category: internship
+discipline: other
 locations:
 - Baltimore, MD
 terms:

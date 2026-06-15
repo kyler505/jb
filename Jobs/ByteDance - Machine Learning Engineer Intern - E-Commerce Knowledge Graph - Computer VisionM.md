@@ -3,6 +3,7 @@ company: ByteDance
 role: Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural
   Language Processing
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 terms:

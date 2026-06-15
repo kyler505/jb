@@ -2,6 +2,7 @@
 company: BCforward
 role: DataStage Administrator
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

@@ -2,6 +2,7 @@
 company: Palantir
 role: Forward Deployed Software Engineer – Internship - US Government
 category: internship
+discipline: swe
 locations:
 - Honolulu, HI
 terms:

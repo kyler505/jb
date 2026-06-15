@@ -2,6 +2,7 @@
 company: Shaw Industries Group
 role: Analytics Engineer
 category: new-grad
+discipline: data
 locations:
 - Calhoun, GA
 terms: []

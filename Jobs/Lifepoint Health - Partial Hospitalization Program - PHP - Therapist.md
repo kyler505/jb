@@ -2,6 +2,7 @@
 company: Lifepoint Health
 role: Partial Hospitalization Program - PHP - Therapist
 category: new-grad
+discipline: other
 locations:
 - West Lafayette, IN
 terms: []

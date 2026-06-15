@@ -2,6 +2,7 @@
 company: XPENG Motors
 role: AI Infrastructure Onboard Performance Intern
 category: internship
+discipline: devops
 locations:
 - Santa Clara, CA
 terms:

@@ -2,6 +2,7 @@
 company: UHIN
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Murray, UT
 terms: []

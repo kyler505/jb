@@ -2,6 +2,7 @@
 company: Arlo
 role: SW Engineer Intern, iOS (AI-Assisted Development)
 category: internship
+discipline: other
 locations:
 - Milpitas, CA
 terms:

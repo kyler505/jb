@@ -3,6 +3,7 @@ company: TikTok
 role: Online Assessment] Software Engineer Intern - Recommendation Infrastructure
   - 2026 Summer
 category: internship
+discipline: devops
 locations:
 - Seattle, WA
 terms:

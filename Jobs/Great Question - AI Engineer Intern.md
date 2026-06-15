@@ -2,6 +2,7 @@
 company: Great Question
 role: AI Engineer Intern
 category: internship
+discipline: ml
 locations:
 - SF
 - Remote in USA

@@ -2,6 +2,7 @@
 company: Alteryx
 role: Revenue Operations Intern - Insights & Analytics
 category: internship
+discipline: data
 locations:
 - Irvine, CA
 terms:

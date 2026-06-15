@@ -2,6 +2,7 @@
 company: NEC Software Solutions
 role: Software Developer Apprentice
 category: internship
+discipline: swe
 locations:
 - Bracknell, UK
 terms:

@@ -2,6 +2,7 @@
 company: Varsity Brands
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Farmers Branch, TX
 terms: []

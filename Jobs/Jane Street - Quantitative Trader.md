@@ -2,6 +2,7 @@
 company: Jane Street
 role: Quantitative Trader
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

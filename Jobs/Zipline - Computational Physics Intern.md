@@ -2,6 +2,7 @@
 company: Zipline
 role: Computational Physics Intern
 category: internship
+discipline: other
 locations:
 - San Bruno, CA
 terms:

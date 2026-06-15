@@ -2,6 +2,7 @@
 company: Apple
 role: GPU Top Level Physical Design Engineer
 category: new-grad
+discipline: other
 locations:
 - Lafayette, KS
 terms: []

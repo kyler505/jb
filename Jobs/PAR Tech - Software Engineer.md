@@ -2,6 +2,7 @@
 company: PAR Tech
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Urbana, IL
 terms: []

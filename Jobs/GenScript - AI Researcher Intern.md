@@ -2,6 +2,7 @@
 company: GenScript
 role: AI Researcher Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

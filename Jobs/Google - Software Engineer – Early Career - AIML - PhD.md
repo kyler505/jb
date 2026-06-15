@@ -2,6 +2,7 @@
 company: Google
 role: Software Engineer – Early Career - AI/ML - PhD
 category: new-grad
+discipline: ml
 locations:
 - London, UK
 terms: []

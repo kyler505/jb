@@ -2,6 +2,7 @@
 company: Prolific
 role: AI Trainer - Advanced Urdu Fluency - UK
 category: new-grad
+discipline: other
 locations:
 - Remote in UK
 terms: []

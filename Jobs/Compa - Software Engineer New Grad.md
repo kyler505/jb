@@ -2,6 +2,7 @@
 company: Compa
 role: Software Engineer New Grad
 category: new-grad
+discipline: swe
 locations:
 - Denver, CO
 terms: []

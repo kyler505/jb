@@ -2,6 +2,7 @@
 company: Rocket Companies
 role: Software Developer 1 - Right
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

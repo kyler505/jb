@@ -2,6 +2,7 @@
 company: American Electric Power
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - New Albany, OH
 terms: []

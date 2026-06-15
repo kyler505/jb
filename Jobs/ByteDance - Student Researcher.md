@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

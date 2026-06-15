@@ -2,6 +2,7 @@
 company: Eluvio
 role: AI Machine Learning Intern - Gen AI - Multimodal
 category: internship
+discipline: ml
 locations:
 - Berkeley, CA
 terms:

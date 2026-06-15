@@ -2,6 +2,7 @@
 company: John Deere
 role: Part-Time Student - Engineering
 category: internship
+discipline: other
 locations:
 - Sioux Falls, SD
 terms:

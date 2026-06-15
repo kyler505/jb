@@ -2,6 +2,7 @@
 company: RTX
 role: 2026 Fulltime - Electronics Design Engineer I
 category: new-grad
+discipline: other
 locations:
 - Goleta, CA
 terms: []

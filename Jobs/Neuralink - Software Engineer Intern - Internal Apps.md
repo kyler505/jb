@@ -2,6 +2,7 @@
 company: Neuralink
 role: Software Engineer Intern - Internal Apps
 category: internship
+discipline: swe
 locations:
 - Fremont, CA
 - Austin, TX

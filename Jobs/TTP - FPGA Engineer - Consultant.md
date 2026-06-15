@@ -2,6 +2,7 @@
 company: TTP
 role: FPGA Engineer - Consultant
 category: new-grad
+discipline: hardware
 locations:
 - Cambridge, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Innodata
 role: Applied AI Associate
 category: new-grad
+discipline: other
 locations:
 - Rhode Island
 terms: []

@@ -2,6 +2,7 @@
 company: SpaceX
 role: Full Stack Software Engineer - Top Secret Clearance
 category: new-grad
+discipline: swe
 locations:
 - West Athens, CA
 terms: []

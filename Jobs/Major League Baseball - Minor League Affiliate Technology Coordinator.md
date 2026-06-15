@@ -2,6 +2,7 @@
 company: Major League Baseball
 role: Minor League Affiliate Technology Coordinator
 category: new-grad
+discipline: other
 locations:
 - Salisbury, MD
 - Frederick, MD

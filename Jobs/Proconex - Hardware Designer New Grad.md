@@ -2,6 +2,7 @@
 company: Proconex
 role: Hardware Designer New Grad
 category: new-grad
+discipline: hardware
 locations:
 - Phoenixville, PA
 terms: []

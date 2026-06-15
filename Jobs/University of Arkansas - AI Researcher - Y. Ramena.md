@@ -2,6 +2,7 @@
 company: University of Arkansas
 role: AI Researcher - Y. Ramena
 category: new-grad
+discipline: other
 locations:
 - Pine Bluff, AR
 terms: []

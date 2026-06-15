@@ -2,6 +2,7 @@
 company: Huntington Bancshares
 role: Data & Insights Analyst - Commercial Banking
 category: new-grad
+discipline: other
 locations:
 - Charlotte, NC
 terms: []

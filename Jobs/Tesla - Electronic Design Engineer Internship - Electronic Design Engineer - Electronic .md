@@ -3,6 +3,7 @@ company: Tesla
 role: Electronic Design Engineer Internship - Electronic Design Engineer - Electronic
   Systems
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

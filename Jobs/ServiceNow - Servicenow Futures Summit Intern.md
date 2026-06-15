@@ -2,6 +2,7 @@
 company: ServiceNow
 role: Servicenow Futures Summit Intern
 category: internship
+discipline: other
 locations:
 - West Palm Beach, FL
 terms:

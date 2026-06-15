@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Powershell - Need GC and USC
 category: new-grad
+discipline: other
 locations:
 - St. Louis, MO
 terms: []

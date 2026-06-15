@@ -2,6 +2,7 @@
 company: Baton Corporation
 role: Junior Full Stack Engineer
 category: new-grad
+discipline: swe
 locations:
 - New York, NY
 terms: []

@@ -2,6 +2,7 @@
 company: Tesla
 role: Product Support Engineer Intern - Product Support Engineer - Service Engineering
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

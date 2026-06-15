@@ -2,6 +2,7 @@
 company: BCforward
 role: SAP MDG Consultant
 category: new-grad
+discipline: other
 locations:
 - Bellevue, WA
 terms: []

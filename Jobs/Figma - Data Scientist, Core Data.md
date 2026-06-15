@@ -2,6 +2,7 @@
 company: Figma
 role: Data Scientist, Core Data
 category: new-grad
+discipline: data
 locations:
 - New York, NY
 - San Francisco, CA

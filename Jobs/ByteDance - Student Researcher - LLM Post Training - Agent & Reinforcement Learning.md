@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - LLM Post Training - Agent & Reinforcement Learning
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

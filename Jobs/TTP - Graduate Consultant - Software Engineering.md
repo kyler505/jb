@@ -2,6 +2,7 @@
 company: TTP
 role: Graduate Consultant - Software Engineering
 category: new-grad
+discipline: swe
 locations:
 - Cambridge, UK
 terms: []

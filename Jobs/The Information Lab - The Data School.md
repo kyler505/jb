@@ -2,6 +2,7 @@
 company: The Information Lab
 role: The Data School
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

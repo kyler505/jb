@@ -2,6 +2,7 @@
 company: WPP
 role: Security Reporting & Metrics Analyst
 category: new-grad
+discipline: security
 locations:
 - London, UK
 terms: []

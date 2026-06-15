@@ -2,6 +2,7 @@
 company: Smiths Detection Group
 role: Graduate Software Engineer - Data - Analytics
 category: new-grad
+discipline: data
 locations:
 - Birmingham, UK
 terms: []

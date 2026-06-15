@@ -2,6 +2,7 @@
 company: QuEra Computing
 role: Optical Engineer
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

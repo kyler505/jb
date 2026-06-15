@@ -2,6 +2,7 @@
 company: WeRide
 role: Intern - PhD
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

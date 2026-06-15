@@ -2,6 +2,7 @@
 company: Magical
 role: Junior Software Engineer, AI
 category: new-grad
+discipline: swe
 locations:
 - San Francisco, CA
 - Toronto, CAN

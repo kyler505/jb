@@ -2,6 +2,7 @@
 company: Seaspan
 role: Digital Ship NLP Intern
 category: internship
+discipline: ml
 locations:
 - Vancouver, BC, Canada
 terms:

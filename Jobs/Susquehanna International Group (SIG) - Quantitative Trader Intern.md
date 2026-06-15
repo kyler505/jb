@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Quantitative Trader Intern
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

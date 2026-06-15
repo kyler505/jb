@@ -2,6 +2,7 @@
 company: Tencent
 role: Data Science Intern
 category: internship
+discipline: data
 locations:
 - Palo Alto, CA
 terms:

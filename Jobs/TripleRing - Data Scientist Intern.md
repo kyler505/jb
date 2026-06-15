@@ -2,6 +2,7 @@
 company: TripleRing
 role: Data Scientist Intern
 category: internship
+discipline: data
 locations:
 - Boston, MA
 terms:

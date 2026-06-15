@@ -2,6 +2,7 @@
 company: Amazon
 role: Front-End Engineer
 category: new-grad
+discipline: frontend
 locations:
 - Seattle, WA
 terms: []

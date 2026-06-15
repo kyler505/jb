@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Formal Verification Intern
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

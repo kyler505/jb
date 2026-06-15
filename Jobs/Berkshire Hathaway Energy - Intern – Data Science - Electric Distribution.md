@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Intern – Data Science - Electric Distribution
 category: internship
+discipline: data
 locations:
 - Sioux City, IA
 - Davenport, IA

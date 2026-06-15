@@ -2,6 +2,7 @@
 company: Lumentum
 role: Senior Product Engineer
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

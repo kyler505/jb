@@ -2,6 +2,7 @@
 company: Apple
 role: ASIC Design Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Santa Clara, CA
 terms: []

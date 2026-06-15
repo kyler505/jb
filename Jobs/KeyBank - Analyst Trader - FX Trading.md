@@ -2,6 +2,7 @@
 company: KeyBank
 role: Analyst Trader - FX Trading
 category: new-grad
+discipline: other
 locations:
 - Cleveland, OH
 terms: []

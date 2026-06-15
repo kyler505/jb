@@ -2,6 +2,7 @@
 company: Meshy
 role: Generative AI Researcher Intern
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

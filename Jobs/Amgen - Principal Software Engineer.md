@@ -2,6 +2,7 @@
 company: Amgen
 role: Principal Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Tampa, FL
 - Thousand Oaks, CA

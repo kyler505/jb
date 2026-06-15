@@ -2,6 +2,7 @@
 company: AI Fund
 role: Engineer in Residence
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

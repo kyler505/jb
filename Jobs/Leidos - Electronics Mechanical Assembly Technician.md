@@ -2,6 +2,7 @@
 company: Leidos
 role: Electronics Mechanical Assembly Technician
 category: new-grad
+discipline: other
 locations:
 - Huntsville, AL
 terms: []

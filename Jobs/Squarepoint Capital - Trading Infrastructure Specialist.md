@@ -2,6 +2,7 @@
 company: Squarepoint Capital
 role: Trading Infrastructure Specialist
 category: new-grad
+discipline: devops
 locations:
 - Montreal, QC, Canada
 - London, UK

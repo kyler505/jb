@@ -2,6 +2,7 @@
 company: Rokt
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Inversion Space
 role: Autonomy Engineer 1 - Arc Vehicle
 category: new-grad
+discipline: other
 locations:
 - Culver City, CA
 terms: []

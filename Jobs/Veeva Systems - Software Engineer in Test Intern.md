@@ -2,6 +2,7 @@
 company: Veeva Systems
 role: Software Engineer in Test Intern
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms:

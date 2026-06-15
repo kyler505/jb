@@ -2,6 +2,7 @@
 company: Omni Design Technologies
 role: Lab Technician
 category: new-grad
+discipline: other
 locations:
 - Milpitas, CA
 terms: []

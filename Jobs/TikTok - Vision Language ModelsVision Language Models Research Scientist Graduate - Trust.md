@@ -3,6 +3,7 @@ company: TikTok
 role: Vision Language Models/Vision Language Models Research Scientist Graduate -
   Trust and Safety - PhD
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

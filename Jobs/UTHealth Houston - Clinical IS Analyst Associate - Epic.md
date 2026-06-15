@@ -2,6 +2,7 @@
 company: UTHealth Houston
 role: Clinical IS Analyst Associate - Epic
 category: new-grad
+discipline: other
 locations:
 - San Antonio, TX
 terms: []

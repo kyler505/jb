@@ -2,6 +2,7 @@
 company: Verkada
 role: Frontend Software Engineer Intern
 category: internship
+discipline: frontend
 locations:
 - San Mateo, CA
 terms:

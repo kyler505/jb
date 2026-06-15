@@ -2,6 +2,7 @@
 company: Ekimetrics
 role: 6 months Internship in Strategy & Data Science - New York
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: UTHealth Houston
 role: Data Analyst Associate
 category: new-grad
+discipline: data
 locations:
 - San Antonio, TX
 terms: []

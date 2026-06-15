@@ -2,6 +2,7 @@
 company: Amazon
 role: Infra Delivery Install Technician
 category: new-grad
+discipline: other
 locations:
 - Fredericksburg, VA
 - Ashburn, VA

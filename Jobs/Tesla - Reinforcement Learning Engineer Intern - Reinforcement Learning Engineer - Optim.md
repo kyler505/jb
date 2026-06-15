@@ -2,6 +2,7 @@
 company: Tesla
 role: Reinforcement Learning Engineer Intern - Reinforcement Learning Engineer - Optimus
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

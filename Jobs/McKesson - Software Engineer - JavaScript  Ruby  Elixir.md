@@ -2,6 +2,7 @@
 company: McKesson
 role: Software Engineer - JavaScript / Ruby / Elixir
 category: new-grad
+discipline: swe
 locations:
 - Columbus, OH
 terms: []

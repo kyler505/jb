@@ -2,6 +2,7 @@
 company: Samsung Research America
 role: Computer Vision/AI Intern - Computer Vision/AI
 category: internship
+discipline: ml
 locations:
 - Mountain View, CA
 terms:

@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Simulation Platform - Software Engineer
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: W.R. Berkley
 role: Data Analyst Summer Intern
 category: internship
+discipline: data
 locations:
 - Englewood, CO
 terms:

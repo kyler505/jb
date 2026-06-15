@@ -2,6 +2,7 @@
 company: Toyota Research Institute
 role: 'Human-Centered AI Intern: Human-Computer Interaction'
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

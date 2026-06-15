@@ -2,6 +2,7 @@
 company: Whoop
 role: Software Engineer 1 - Frontend - Growth
 category: new-grad
+discipline: frontend
 locations:
 - Boston, MA
 terms: []

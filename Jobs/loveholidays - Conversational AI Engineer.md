@@ -2,6 +2,7 @@
 company: loveholidays
 role: Conversational AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - London, UK
 terms: []

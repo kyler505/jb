@@ -2,6 +2,7 @@
 company: Block
 role: Applied Research Intern PhD / Graduate Co-op
 category: internship
+discipline: other
 locations:
 - Oakland, CA
 terms:

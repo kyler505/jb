@@ -2,6 +2,7 @@
 company: Together AI
 role: Systems Research Engineer Intern - GPU Programming
 category: internship
+discipline: other
 locations:
 - SF
 terms:

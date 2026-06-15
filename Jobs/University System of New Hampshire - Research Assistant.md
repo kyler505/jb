@@ -2,6 +2,7 @@
 company: University System of New Hampshire
 role: Research Assistant
 category: new-grad
+discipline: other
 locations:
 - Dover, NH
 terms: []

@@ -2,6 +2,7 @@
 company: Parallel Web Systems
 role: Early Career Research Engineer
 category: new-grad
+discipline: other
 locations:
 - Palo Alto, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Signify
 role: Reliability Lab Technician - Cooper Lighting Solutions
 category: new-grad
+discipline: other
 locations:
 - Fayetteville, GA
 terms: []

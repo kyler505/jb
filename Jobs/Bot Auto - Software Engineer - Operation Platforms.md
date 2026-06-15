@@ -2,6 +2,7 @@
 company: Bot Auto
 role: Software Engineer - Operation Platforms
 category: new-grad
+discipline: swe
 locations:
 - Houston, TX
 - SF

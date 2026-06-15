@@ -2,6 +2,7 @@
 company: JetBlue
 role: Analyst Fuel Optimization
 category: new-grad
+discipline: other
 locations:
 - Long Island City, Queens, NY
 - Orlando, FL

@@ -2,6 +2,7 @@
 company: Ensemble Health Partners
 role: Business Intelligence Intern
 category: internship
+discipline: data
 locations:
 - Remote in USA
 terms:

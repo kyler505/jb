@@ -2,6 +2,7 @@
 company: Vise
 role: Accelerate Fellowship - Summer 2026
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

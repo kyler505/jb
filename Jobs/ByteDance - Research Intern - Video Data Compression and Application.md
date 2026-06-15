@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Intern - Video Data Compression and Application
 category: internship
+discipline: other
 locations:
 - San Diego, CA
 terms:

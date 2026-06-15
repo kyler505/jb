@@ -2,6 +2,7 @@
 company: Kaseya
 role: IT Helpdesk Engineer
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 terms: []

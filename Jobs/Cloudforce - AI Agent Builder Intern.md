@@ -2,6 +2,7 @@
 company: Cloudforce
 role: AI Agent Builder Intern
 category: internship
+discipline: other
 locations:
 - National Harbor, MD
 terms:

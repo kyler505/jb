@@ -2,6 +2,7 @@
 company: Cox
 role: Entry Level Data Engineer
 category: new-grad
+discipline: data
 locations:
 - Atlanta, GA
 terms: []

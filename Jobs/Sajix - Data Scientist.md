@@ -2,6 +2,7 @@
 company: Sajix
 role: Data Scientist
 category: internship
+discipline: data
 locations:
 - Pleasanton, CA
 terms:

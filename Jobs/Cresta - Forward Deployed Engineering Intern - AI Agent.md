@@ -2,6 +2,7 @@
 company: Cresta
 role: Forward Deployed Engineering Intern - AI Agent
 category: internship
+discipline: other
 locations:
 - Remote in Canada
 terms:

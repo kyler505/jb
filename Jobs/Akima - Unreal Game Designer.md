@@ -2,6 +2,7 @@
 company: Akima
 role: Unreal Game Designer
 category: internship
+discipline: other
 locations:
 - Huntsville, AL
 terms:

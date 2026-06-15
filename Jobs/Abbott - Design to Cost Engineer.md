@@ -2,6 +2,7 @@
 company: Abbott
 role: Design to Cost Engineer
 category: new-grad
+discipline: other
 locations:
 - Waukegan, IL
 terms: []

@@ -2,6 +2,7 @@
 company: Skyworks
 role: IC Development (Software)
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

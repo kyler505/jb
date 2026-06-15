@@ -2,6 +2,7 @@
 company: Corning
 role: Engineer – Automation Software Development
 category: new-grad
+discipline: swe
 locations:
 - Elmira, NY
 terms: []

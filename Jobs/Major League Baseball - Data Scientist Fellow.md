@@ -2,6 +2,7 @@
 company: Major League Baseball
 role: Data Scientist Fellow
 category: internship
+discipline: data
 locations:
 - Baltimore, MD
 terms:

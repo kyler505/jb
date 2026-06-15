@@ -2,6 +2,7 @@
 company: Direct Staffing
 role: Android Developer
 category: new-grad
+discipline: swe
 locations:
 - Culver City, CA
 terms: []

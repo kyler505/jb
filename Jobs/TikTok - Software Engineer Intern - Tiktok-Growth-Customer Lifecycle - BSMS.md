@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

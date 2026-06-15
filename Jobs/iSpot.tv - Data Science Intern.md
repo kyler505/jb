@@ -2,6 +2,7 @@
 company: iSpot.tv
 role: Data Science Intern
 category: internship
+discipline: data
 locations:
 - Bellevue, WA
 terms:

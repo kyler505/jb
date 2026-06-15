@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Business Systems Analyst
 category: new-grad
+discipline: other
 locations:
 - Bluemont, VA
 terms: []

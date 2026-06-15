@@ -2,6 +2,7 @@
 company: Crusoe
 role: Strategic Sourcing Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Denver, CO
 terms: []

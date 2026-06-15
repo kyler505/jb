@@ -2,6 +2,7 @@
 company: Innodata
 role: Artificial Intelligence Annotation Specialist
 category: new-grad
+discipline: other
 locations:
 - North Dakota
 terms: []

@@ -2,6 +2,7 @@
 company: Seaspan
 role: Systems Analyst Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

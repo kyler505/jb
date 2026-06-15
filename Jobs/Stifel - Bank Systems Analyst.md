@@ -2,6 +2,7 @@
 company: Stifel
 role: Bank Systems Analyst
 category: new-grad
+discipline: other
 locations:
 - St. Louis, MO
 terms: []

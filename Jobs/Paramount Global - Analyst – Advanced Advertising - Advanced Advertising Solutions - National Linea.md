@@ -2,6 +2,7 @@
 company: Paramount Global
 role: Analyst – Advanced Advertising - Advanced Advertising Solutions - National Linear
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

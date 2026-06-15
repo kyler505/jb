@@ -2,6 +2,7 @@
 company: Brookfield
 role: Artificial Intelligence Intern - Renewable Power & Transition
 category: internship
+discipline: other
 locations:
 - NYC
 - Toronto, ON, Canada

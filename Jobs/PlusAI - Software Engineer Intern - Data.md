@@ -2,6 +2,7 @@
 company: PlusAI
 role: Software Engineer Intern - Data
 category: internship
+discipline: swe
 locations:
 - Santa Clara, CA
 terms:

@@ -2,6 +2,7 @@
 company: The New York Times
 role: Associate Android Engineer
 category: new-grad
+discipline: mobile
 locations:
 - NYC
 terms: []

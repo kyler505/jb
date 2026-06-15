@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Engineering Technician - Lab
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

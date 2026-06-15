@@ -2,6 +2,7 @@
 company: Zoox
 role: Part-time Student Worker
 category: internship
+discipline: other
 locations:
 - San Mateo, CA
 terms:

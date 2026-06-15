@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Quantic – Quantitative Researcher Intern
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Investment Data Science Intern
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

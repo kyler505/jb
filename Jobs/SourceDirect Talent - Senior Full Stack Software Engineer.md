@@ -2,6 +2,7 @@
 company: SourceDirect Talent
 role: Senior Full Stack Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Long Beach, CA
 terms: []

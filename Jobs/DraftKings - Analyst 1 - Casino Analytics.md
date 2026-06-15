@@ -2,6 +2,7 @@
 company: DraftKings
 role: Analyst 1 - Casino Analytics
 category: new-grad
+discipline: data
 locations:
 - Boston, MA
 terms: []

@@ -2,6 +2,7 @@
 company: Environmental Defense Fund
 role: Postdoctoral Science Fellow - Methane
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 - Washington, DC

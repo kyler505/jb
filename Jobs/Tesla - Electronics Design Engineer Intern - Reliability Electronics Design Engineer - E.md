@@ -3,6 +3,7 @@ company: Tesla
 role: Electronics Design Engineer Intern - Reliability Electronics Design Engineer
   - Energy Engineering
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

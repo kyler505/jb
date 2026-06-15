@@ -2,6 +2,7 @@
 company: Output Biosciences
 role: Research Intern, Machine Learning
 category: internship
+discipline: ml
 locations:
 - New York, NY
 - San Francisco, CA

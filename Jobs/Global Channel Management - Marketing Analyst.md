@@ -2,6 +2,7 @@
 company: Global Channel Management
 role: Marketing Analyst
 category: new-grad
+discipline: other
 locations:
 - Cincinnati, OH
 terms: []

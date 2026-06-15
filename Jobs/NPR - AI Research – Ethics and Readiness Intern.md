@@ -2,6 +2,7 @@
 company: NPR
 role: AI Research – Ethics and Readiness Intern
 category: internship
+discipline: other
 locations:
 - United States
 terms:

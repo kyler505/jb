@@ -2,6 +2,7 @@
 company: Nintendo
 role: Intern - Software Engineer (NTD)
 category: internship
+discipline: swe
 locations:
 - Redmond, WA
 terms:

@@ -2,6 +2,7 @@
 company: Handshake
 role: Applied AI Engineer - Handshake AI Enterprise
 category: new-grad
+discipline: ml
 locations:
 - SF
 terms: []

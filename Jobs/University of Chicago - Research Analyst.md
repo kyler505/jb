@@ -2,6 +2,7 @@
 company: University of Chicago
 role: Research Analyst
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

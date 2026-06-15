@@ -2,6 +2,7 @@
 company: Tencent
 role: Tencent Cloud CPaaS Product Management Intern
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: Gulfstream
 role: Entry-Level ERP Application Developer
 category: new-grad
+discipline: swe
 locations:
 - Savannah, GA
 terms: []

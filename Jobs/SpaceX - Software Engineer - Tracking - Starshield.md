@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineer - Tracking - Starshield
 category: new-grad
+discipline: swe
 locations:
 - West Athens, CA
 terms: []

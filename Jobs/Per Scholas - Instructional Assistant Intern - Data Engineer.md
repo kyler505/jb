@@ -2,6 +2,7 @@
 company: Per Scholas
 role: Instructional Assistant Intern - Data Engineer
 category: internship
+discipline: data
 locations:
 - Orlando, FL
 terms:

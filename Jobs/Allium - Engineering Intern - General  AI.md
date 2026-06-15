@@ -2,6 +2,7 @@
 company: Allium
 role: Engineering Intern - General / AI
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

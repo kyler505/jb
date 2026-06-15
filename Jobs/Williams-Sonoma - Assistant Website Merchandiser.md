@@ -2,6 +2,7 @@
 company: Williams-Sonoma
 role: Assistant Website Merchandiser
 category: new-grad
+discipline: other
 locations:
 - Brooklyn, NY
 terms: []

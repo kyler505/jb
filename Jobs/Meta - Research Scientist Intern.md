@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 - Redmond, WA

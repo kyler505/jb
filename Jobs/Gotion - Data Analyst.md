@@ -2,6 +2,7 @@
 company: Gotion
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Fremont, CA
 terms: []

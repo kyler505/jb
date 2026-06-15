@@ -2,6 +2,7 @@
 company: mthree
 role: C++ Junior Software Developer
 category: new-grad
+discipline: swe
 locations:
 - United Kingdom
 terms: []

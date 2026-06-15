@@ -2,6 +2,7 @@
 company: Multiply Labs
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - San Francisco, CA
 terms:

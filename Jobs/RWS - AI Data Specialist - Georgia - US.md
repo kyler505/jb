@@ -2,6 +2,7 @@
 company: RWS
 role: AI Data Specialist - Georgia - US
 category: new-grad
+discipline: other
 locations:
 - Georgia
 terms: []

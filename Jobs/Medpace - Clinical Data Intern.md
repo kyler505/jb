@@ -2,6 +2,7 @@
 company: Medpace
 role: Clinical Data Intern
 category: internship
+discipline: other
 locations:
 - Cincinnati, OH
 terms:

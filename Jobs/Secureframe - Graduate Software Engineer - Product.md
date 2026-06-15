@@ -2,6 +2,7 @@
 company: Secureframe
 role: Graduate Software Engineer - Product
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

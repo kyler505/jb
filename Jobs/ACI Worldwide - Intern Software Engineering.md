@@ -2,6 +2,7 @@
 company: 'ACI Worldwide '
 role: Intern Software Engineering
 category: internship
+discipline: swe
 locations:
 - Omaha, NE
 terms:

@@ -2,6 +2,7 @@
 company: Glean
 role: Software Engineer New Grad
 category: new-grad
+discipline: swe
 locations:
 - California
 terms: []

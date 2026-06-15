@@ -2,6 +2,7 @@
 company: LG Electronics
 role: Development Engineer
 category: new-grad
+discipline: other
 locations:
 - Southfield, MI
 terms: []

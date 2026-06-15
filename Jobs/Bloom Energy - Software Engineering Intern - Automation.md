@@ -2,6 +2,7 @@
 company: Bloom Energy
 role: Software Engineering Intern - Automation
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

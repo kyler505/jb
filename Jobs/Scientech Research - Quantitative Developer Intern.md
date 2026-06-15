@@ -2,6 +2,7 @@
 company: Scientech Research
 role: Quantitative Developer Intern
 category: internship
+discipline: swe
 locations:
 - Jackson Township, NJ
 terms:

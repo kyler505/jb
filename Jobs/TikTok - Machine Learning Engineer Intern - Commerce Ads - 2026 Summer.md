@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Intern - Commerce Ads - 2026 Summer
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

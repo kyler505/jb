@@ -2,6 +2,7 @@
 company: Apple
 role: Wireless Radio Verification Engineer
 category: new-grad
+discipline: other
 locations:
 - San Diego, CA
 terms: []

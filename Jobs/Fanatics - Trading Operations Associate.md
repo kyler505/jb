@@ -2,6 +2,7 @@
 company: Fanatics
 role: Trading Operations Associate
 category: new-grad
+discipline: other
 locations:
 - United Kingdom
 terms: []

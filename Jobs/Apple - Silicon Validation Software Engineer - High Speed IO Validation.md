@@ -2,6 +2,7 @@
 company: Apple
 role: Silicon Validation Software Engineer - High Speed IO Validation
 category: new-grad
+discipline: swe
 locations:
 - Cupertino, CA
 terms: []

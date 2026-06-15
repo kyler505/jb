@@ -2,6 +2,7 @@
 company: Capital One
 role: Applied Researcher 1
 category: new-grad
+discipline: other
 locations:
 - Cambridge, MA
 - SF

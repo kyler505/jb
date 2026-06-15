@@ -2,6 +2,7 @@
 company: General Motors
 role: Engineering Operations Co-op - Equipment and Maintenance Systems
 category: internship
+discipline: other
 locations:
 - Oshawa, ON, Canada
 terms:

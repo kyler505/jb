@@ -2,6 +2,7 @@
 company: Nokia
 role: Data Science Co-op/Intern
 category: internship
+discipline: data
 locations:
 - Ottawa, ON, Canada
 terms:

@@ -2,6 +2,7 @@
 company: Veeva Systems
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Kansas City, MO
 terms: []

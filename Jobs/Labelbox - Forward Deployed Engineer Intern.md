@@ -2,6 +2,7 @@
 company: Labelbox
 role: Forward Deployed Engineer Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

@@ -2,6 +2,7 @@
 company: Canon
 role: Field Service 1 Technician
 category: new-grad
+discipline: other
 locations:
 - Rochester, NY
 terms: []

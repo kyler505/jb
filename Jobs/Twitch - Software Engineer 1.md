@@ -2,6 +2,7 @@
 company: Twitch
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

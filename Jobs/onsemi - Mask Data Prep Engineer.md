@@ -2,6 +2,7 @@
 company: onsemi
 role: Mask Data Prep Engineer
 category: new-grad
+discipline: other
 locations:
 - Allen, TX
 terms: []

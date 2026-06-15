@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Multimodal Contextual AI
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

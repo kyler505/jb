@@ -2,6 +2,7 @@
 company: ExxonMobil
 role: Gas Trader
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

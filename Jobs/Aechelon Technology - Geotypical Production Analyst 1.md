@@ -2,6 +2,7 @@
 company: Aechelon Technology
 role: Geotypical Production Analyst 1
 category: new-grad
+discipline: other
 locations:
 - San Bruno, CA
 terms: []

@@ -2,6 +2,7 @@
 company: ASM International
 role: Simulation and Modeling Intern
 category: internship
+discipline: other
 locations:
 - Phoenix, AZ
 terms:

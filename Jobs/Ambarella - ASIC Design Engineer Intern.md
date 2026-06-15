@@ -2,6 +2,7 @@
 company: Ambarella
 role: ASIC Design Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - United States
 terms:

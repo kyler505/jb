@@ -2,6 +2,7 @@
 company: NewsBreak
 role: AI Development Intern
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

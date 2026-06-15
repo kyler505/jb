@@ -2,6 +2,7 @@
 company: 'ACI Worldwide '
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Norcross, GA
 - Omaha, NE

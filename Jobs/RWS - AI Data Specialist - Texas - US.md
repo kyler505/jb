@@ -2,6 +2,7 @@
 company: RWS
 role: AI Data Specialist - Texas - US
 category: new-grad
+discipline: other
 locations:
 - Texas
 terms: []

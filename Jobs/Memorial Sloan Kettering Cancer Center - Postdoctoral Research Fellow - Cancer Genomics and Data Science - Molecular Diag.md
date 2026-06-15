@@ -3,6 +3,7 @@ company: Memorial Sloan Kettering Cancer Center
 role: Postdoctoral Research Fellow - Cancer Genomics and Data Science - Molecular
   Diagnostics Service
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Gelber Group
 role: Software Engineer Intern - Technical Operations Team
 category: internship
+discipline: swe
 locations:
 - Chicago, IL
 terms:

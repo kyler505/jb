@@ -2,6 +2,7 @@
 company: Innodata
 role: Data Annotation
 category: new-grad
+discipline: other
 locations:
 - Alabama
 terms: []

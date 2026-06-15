@@ -2,6 +2,7 @@
 company: Wilson Elser
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Chicago, IL
 terms: []

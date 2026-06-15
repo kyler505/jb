@@ -2,6 +2,7 @@
 company: BrightAI
 role: Computer Vision Intern
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: Fortive
 role: Service Technician
 category: new-grad
+discipline: other
 locations:
 - Edmonton, AB, Canada
 terms: []

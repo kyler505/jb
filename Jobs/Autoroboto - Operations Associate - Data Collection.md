@@ -2,6 +2,7 @@
 company: Autoroboto
 role: Operations Associate - Data Collection
 category: new-grad
+discipline: other
 locations:
 - Mountain View, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Honeywell
 role: Hardware Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - Clearwater, FL
 - Minneapolis, MN

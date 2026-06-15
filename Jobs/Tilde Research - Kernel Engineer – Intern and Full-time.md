@@ -2,6 +2,7 @@
 company: Tilde Research
 role: Kernel Engineer – Intern and Full-time
 category: internship
+discipline: other
 locations:
 - SF
 terms:

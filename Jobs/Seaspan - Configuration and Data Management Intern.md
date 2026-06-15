@@ -2,6 +2,7 @@
 company: Seaspan
 role: Configuration and Data Management Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

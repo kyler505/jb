@@ -2,6 +2,7 @@
 company: Varda Space
 role: Applications Engineering Internship
 category: internship
+discipline: other
 locations:
 - El Segundo, CA
 terms:

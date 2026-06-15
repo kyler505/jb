@@ -2,6 +2,7 @@
 company: Canonical
 role: Graduate Software Engineer - Open Source and Linux - Canonical Ubuntu
 category: new-grad
+discipline: swe
 locations:
 - Remote in UK
 terms: []

@@ -2,6 +2,7 @@
 company: Medpace, Inc.
 role: Clinical Informatics Intern - Fall 2026
 category: internship
+discipline: other
 locations:
 - Cincinnati, OH
 terms:

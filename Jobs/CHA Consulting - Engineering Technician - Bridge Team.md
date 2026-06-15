@@ -2,6 +2,7 @@
 company: CHA Consulting
 role: Engineering Technician - Bridge Team
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

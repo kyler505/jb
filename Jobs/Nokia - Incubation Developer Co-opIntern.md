@@ -2,6 +2,7 @@
 company: Nokia
 role: Incubation Developer Co-op/Intern
 category: internship
+discipline: swe
 locations:
 - Ottawa, ON, Canada
 terms:

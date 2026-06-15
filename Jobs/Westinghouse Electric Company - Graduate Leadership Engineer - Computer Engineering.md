@@ -2,6 +2,7 @@
 company: Westinghouse Electric Company
 role: Graduate Leadership Engineer - Computer Engineering
 category: new-grad
+discipline: other
 locations:
 - Grove City, PA
 terms: []

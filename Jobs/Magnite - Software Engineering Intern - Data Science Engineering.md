@@ -2,6 +2,7 @@
 company: Magnite
 role: Software Engineering Intern - Data Science Engineering
 category: internship
+discipline: data
 locations:
 - Broomfield, CO
 terms:

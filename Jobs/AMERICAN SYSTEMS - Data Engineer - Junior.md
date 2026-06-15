@@ -2,6 +2,7 @@
 company: AMERICAN SYSTEMS
 role: Data Engineer - Junior
 category: new-grad
+discipline: data
 locations:
 - Quantico, VA
 terms: []

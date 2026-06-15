@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Electricity + Natural Gas Analyst Intern
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

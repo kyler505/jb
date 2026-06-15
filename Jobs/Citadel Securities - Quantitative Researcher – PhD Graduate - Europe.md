@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Quantitative Researcher – PhD Graduate - Europe
 category: new-grad
+discipline: other
 locations:
 - Paris, France
 - London, UK

@@ -2,6 +2,7 @@
 company: Marsh & McLennan
 role: Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne
 category: new-grad
+discipline: data
 locations:
 - Newcastle upon Tyne, UK
 terms: []

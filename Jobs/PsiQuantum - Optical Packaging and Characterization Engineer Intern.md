@@ -2,6 +2,7 @@
 company: PsiQuantum
 role: Optical Packaging and Characterization Engineer Intern
 category: internship
+discipline: other
 locations:
 - Milpitas, CA
 terms:

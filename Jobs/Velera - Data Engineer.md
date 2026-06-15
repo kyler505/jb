@@ -2,6 +2,7 @@
 company: Velera
 role: Data Engineer
 category: internship
+discipline: data
 locations:
 - Remote in USA
 terms:

@@ -2,6 +2,7 @@
 company: Robinhood
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Menlo Park, CA
 terms: []

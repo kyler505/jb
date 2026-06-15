@@ -2,6 +2,7 @@
 company: Hermeus
 role: Hardware-In-the-Loop Software Engineering Intern - Fall 2026
 category: internship
+discipline: hardware
 locations:
 - Atlanta, GA
 terms:

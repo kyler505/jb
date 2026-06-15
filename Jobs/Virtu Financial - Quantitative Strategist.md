@@ -2,6 +2,7 @@
 company: Virtu Financial
 role: Quantitative Strategist
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

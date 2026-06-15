@@ -2,6 +2,7 @@
 company: Lawrence Livermore National Laboratory (LLNL)
 role: Machine Learning Physics Graduate Student Intern
 category: internship
+discipline: ml
 locations:
 - Livermore, CA
 terms:

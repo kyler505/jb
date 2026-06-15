@@ -2,6 +2,7 @@
 company: Goldman Sachs
 role: Quantitative Strategist - Global Banking & Markets - FICC Resource Management
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

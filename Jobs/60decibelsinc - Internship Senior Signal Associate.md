@@ -2,6 +2,7 @@
 company: 60decibelsinc
 role: Internship Senior Signal Associate
 category: internship
+discipline: other
 locations:
 - London, UK
 - Bengaluru, Karnataka, India

@@ -2,6 +2,7 @@
 company: Apple
 role: Software Engineering Masters Intern
 category: internship
+discipline: swe
 locations:
 - United States
 terms:

@@ -2,6 +2,7 @@
 company: Rippling
 role: Machine Learning Software Engineer Intern
 category: internship
+discipline: ml
 locations:
 - SF
 terms:

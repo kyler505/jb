@@ -2,6 +2,7 @@
 company: Slice (slicelife.com)
 role: Software Developer - Services
 category: new-grad
+discipline: swe
 locations:
 - Ontario, Canada
 terms: []

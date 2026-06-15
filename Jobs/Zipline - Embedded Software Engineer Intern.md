@@ -2,6 +2,7 @@
 company: Zipline
 role: Embedded Software Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - San Bruno, CA
 terms:

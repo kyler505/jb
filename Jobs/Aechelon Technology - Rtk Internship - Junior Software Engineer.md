@@ -2,6 +2,7 @@
 company: Aechelon Technology
 role: Rtk Internship - Junior Software Engineer
 category: internship
+discipline: swe
 locations:
 - Farmers Branch, TX
 terms:

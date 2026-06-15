@@ -2,6 +2,7 @@
 company: PlusAI
 role: Simulation Engineer Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

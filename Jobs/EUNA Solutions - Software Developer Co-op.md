@@ -2,6 +2,7 @@
 company: EUNA Solutions
 role: Software Developer Co-op
 category: internship
+discipline: swe
 locations:
 - Oakville, ON, Canada
 terms:

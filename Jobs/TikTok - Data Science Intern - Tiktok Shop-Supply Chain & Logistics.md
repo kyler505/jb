@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Science Intern - Tiktok Shop-Supply Chain & Logistics
 category: internship
+discipline: data
 locations:
 - Seattle, WA
 terms:

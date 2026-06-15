@@ -2,6 +2,7 @@
 company: Chicago Trading Company
 role: Associate Engineer - Quantitative Research - Trading Technology
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

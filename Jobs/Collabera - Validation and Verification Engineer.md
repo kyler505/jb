@@ -2,6 +2,7 @@
 company: Collabera
 role: Validation and Verification Engineer
 category: new-grad
+discipline: other
 locations:
 - Madison, WI
 terms: []

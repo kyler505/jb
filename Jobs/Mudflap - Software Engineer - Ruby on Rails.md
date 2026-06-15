@@ -2,6 +2,7 @@
 company: Mudflap
 role: Software Engineer - Ruby on Rails
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

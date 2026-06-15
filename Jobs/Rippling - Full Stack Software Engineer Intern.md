@@ -2,6 +2,7 @@
 company: Rippling
 role: Full Stack Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 - SF

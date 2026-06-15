@@ -2,6 +2,7 @@
 company: EquipmentShare
 role: Analytics Engineer
 category: new-grad
+discipline: data
 locations:
 - Columbia, MO
 terms: []

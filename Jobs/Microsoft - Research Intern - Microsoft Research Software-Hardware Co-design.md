@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Microsoft Research Software-Hardware Co-design
 category: internship
+discipline: hardware
 locations:
 - Redmond, WA
 terms:

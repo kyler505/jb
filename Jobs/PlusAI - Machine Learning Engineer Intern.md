@@ -2,6 +2,7 @@
 company: PlusAI
 role: Machine Learning Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Santa Clara, CA
 terms:

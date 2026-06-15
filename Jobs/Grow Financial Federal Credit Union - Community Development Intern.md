@@ -2,6 +2,7 @@
 company: Grow Financial Federal Credit Union
 role: Community Development Intern
 category: internship
+discipline: other
 locations:
 - Tampa, FL
 terms:

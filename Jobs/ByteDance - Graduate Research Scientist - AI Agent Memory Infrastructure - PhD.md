@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Research Scientist - AI Agent Memory Infrastructure - PhD
 category: new-grad
+discipline: devops
 locations:
 - San Jose, CA
 terms: []

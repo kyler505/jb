@@ -2,6 +2,7 @@
 company: Semtech
 role: Staff Characterisation Engineer
 category: new-grad
+discipline: other
 locations:
 - Bristol, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Mechanical Orchard
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Remote in Canada

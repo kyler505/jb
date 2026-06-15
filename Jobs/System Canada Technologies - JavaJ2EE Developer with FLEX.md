@@ -2,6 +2,7 @@
 company: System Canada Technologies
 role: Java/J2EE Developer with FLEX
 category: new-grad
+discipline: swe
 locations:
 - Montreal, QC, Canada
 terms: []

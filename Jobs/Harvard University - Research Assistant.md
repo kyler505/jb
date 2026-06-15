@@ -2,6 +2,7 @@
 company: Harvard University
 role: Research Assistant
 category: new-grad
+discipline: other
 locations:
 - Cambridge, MA
 terms: []

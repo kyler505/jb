@@ -2,6 +2,7 @@
 company: Altamira Technologies
 role: Software Engineer - Multiple Levels
 category: new-grad
+discipline: swe
 locations:
 - Dayton, OH
 - Washington, DC

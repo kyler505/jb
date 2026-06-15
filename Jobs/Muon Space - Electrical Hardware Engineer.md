@@ -2,6 +2,7 @@
 company: Muon Space
 role: Electrical Hardware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - San Jose, CA
 terms: []

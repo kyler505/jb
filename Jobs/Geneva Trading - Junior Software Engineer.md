@@ -2,6 +2,7 @@
 company: Geneva Trading
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Chicago, IL
 terms: []

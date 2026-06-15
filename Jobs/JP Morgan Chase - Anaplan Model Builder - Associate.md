@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Anaplan Model Builder - Associate
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: StepStone Group
 role: Analyst/Associate Product Management - Private Wealth
 category: new-grad
+discipline: other
 locations:
 - Charlotte, NC
 - Orlando, FL

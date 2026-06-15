@@ -2,6 +2,7 @@
 company: Invisible Technologies AI
 role: English Language Data Contributor - Multimodal - Freelance AI Trainer Project
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

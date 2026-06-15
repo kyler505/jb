@@ -2,6 +2,7 @@
 company: TRM Labs
 role: Product Engineer
 category: new-grad
+discipline: other
 locations:
 - LA
 terms: []

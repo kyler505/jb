@@ -2,6 +2,7 @@
 company: Google
 role: Senior Software Engineer - Infrastructure - Google Cloud Compute Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - Seattle, WA
 - Kirkland, WA

@@ -2,6 +2,7 @@
 company: KRG Technologies
 role: Unix/Linux System Administrator - L2/L3
 category: new-grad
+discipline: other
 locations:
 - Alpharetta, GA
 - Cincinnati, OH

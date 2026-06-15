@@ -2,6 +2,7 @@
 company: Kenco Management Services
 role: Business Systems Analyst
 category: new-grad
+discipline: other
 locations:
 - Red Oak, TX
 terms: []

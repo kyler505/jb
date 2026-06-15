@@ -2,6 +2,7 @@
 company: TSC
 role: Hardware Engineering Co-op
 category: internship
+discipline: hardware
 locations:
 - Plymouth, MA
 terms:

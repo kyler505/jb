@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Formal Verification Engineer – New College Grad 2026
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

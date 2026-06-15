@@ -2,6 +2,7 @@
 company: RTX
 role: Configuration Management Specialist
 category: new-grad
+discipline: other
 locations:
 - Barrie, ON, Canada
 terms: []

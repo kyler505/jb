@@ -2,6 +2,7 @@
 company: AHEAD
 role: Engineering Technician
 category: new-grad
+discipline: other
 locations:
 - Vernon Hills, IL
 terms: []

@@ -2,6 +2,7 @@
 company: Leggett & Platt
 role: Product Manager Intern
 category: internship
+discipline: other
 locations:
 - Hickory, NC
 terms:

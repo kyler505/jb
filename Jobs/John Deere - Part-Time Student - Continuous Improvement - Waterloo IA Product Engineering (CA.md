@@ -3,6 +3,7 @@ company: John Deere
 role: Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering
   (CA)
 category: internship
+discipline: other
 locations:
 - Waterloo, IA
 terms:

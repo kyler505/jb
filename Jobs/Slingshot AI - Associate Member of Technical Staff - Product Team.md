@@ -2,6 +2,7 @@
 company: Slingshot AI
 role: Associate Member of Technical Staff - Product Team
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

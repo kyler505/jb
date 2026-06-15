@@ -2,6 +2,7 @@
 company: D3
 role: Backend Engineer – New Grad
 category: new-grad
+discipline: backend
 locations:
 - LA
 terms: []

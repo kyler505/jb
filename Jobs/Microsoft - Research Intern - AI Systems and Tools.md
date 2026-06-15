@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI Systems and Tools
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

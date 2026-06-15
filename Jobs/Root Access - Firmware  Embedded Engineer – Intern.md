@@ -2,6 +2,7 @@
 company: Root Access
 role: Firmware / Embedded Engineer – Intern
 category: internship
+discipline: hardware
 locations:
 - NYC
 terms:

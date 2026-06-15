@@ -2,6 +2,7 @@
 company: Ciena
 role: Wavelogic Hardware Engineer New Grad
 category: new-grad
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms: []

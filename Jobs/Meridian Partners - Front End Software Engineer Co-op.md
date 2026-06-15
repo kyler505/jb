@@ -2,6 +2,7 @@
 company: Meridian Partners
 role: Front End Software Engineer Co-op
 category: internship
+discipline: frontend
 locations:
 - Cambridge, MA
 terms:

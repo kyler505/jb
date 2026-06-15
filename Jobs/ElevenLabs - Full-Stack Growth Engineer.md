@@ -2,6 +2,7 @@
 company: ElevenLabs
 role: Full-Stack Growth Engineer
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 - Remote in UK

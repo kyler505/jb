@@ -2,6 +2,7 @@
 company: Fortinet
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

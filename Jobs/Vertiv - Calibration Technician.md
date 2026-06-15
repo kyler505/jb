@@ -2,6 +2,7 @@
 company: Vertiv
 role: Calibration Technician
 category: new-grad
+discipline: other
 locations:
 - Elyria, OH
 terms: []

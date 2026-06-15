@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Machine Learning Researcher – PhD Graduate - US
 category: new-grad
+discipline: ml
 locations:
 - Miami, FL
 - NYC

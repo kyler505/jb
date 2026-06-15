@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Graduate - Data Arch - AI/ML Infrastructure
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Uber
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms: []

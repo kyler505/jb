@@ -2,6 +2,7 @@
 company: Alertus Technologies
 role: Technical Product Specialist
 category: internship
+discipline: other
 locations:
 - Baltimore, MD
 terms:

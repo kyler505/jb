@@ -3,6 +3,7 @@ company: TikTok
 role: GPU/AI Application System Software Engineer Intern - System Technologies and
   Engineering - 2026 Summer
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

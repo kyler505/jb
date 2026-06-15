@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Model Risk Program Analyst/Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

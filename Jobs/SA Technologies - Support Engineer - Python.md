@@ -2,6 +2,7 @@
 company: SA Technologies
 role: Support Engineer - Python
 category: new-grad
+discipline: other
 locations:
 - Wayzata, MN
 terms: []

@@ -2,6 +2,7 @@
 company: Solidigm
 role: Corporate Services Business Analytics Intern
 category: internship
+discipline: data
 locations:
 - Rancho Cordova, CA
 terms:

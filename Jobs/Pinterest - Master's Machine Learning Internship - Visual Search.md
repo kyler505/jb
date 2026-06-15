@@ -2,6 +2,7 @@
 company: Pinterest
 role: Master's Machine Learning Internship - Visual Search
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 - Seattle, WA

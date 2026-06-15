@@ -2,6 +2,7 @@
 company: GCI
 role: Data Analytics Engineer 1 - Future Opening
 category: new-grad
+discipline: data
 locations:
 - United States
 terms: []

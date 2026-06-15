@@ -2,6 +2,7 @@
 company: OCC
 role: Year-Round Intern - Quantitative Risk Management
 category: internship
+discipline: other
 locations:
 - Chicago, IL
 terms:

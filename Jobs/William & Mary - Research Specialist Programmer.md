@@ -2,6 +2,7 @@
 company: William & Mary
 role: Research Specialist Programmer
 category: new-grad
+discipline: swe
 locations:
 - Newport News, VA
 terms: []

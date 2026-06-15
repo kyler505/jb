@@ -2,6 +2,7 @@
 company: Ciena
 role: Hardware Design and Verification Intern - Printed Circuit Board Assembly
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

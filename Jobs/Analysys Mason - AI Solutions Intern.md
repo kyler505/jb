@@ -2,6 +2,7 @@
 company: Analysys Mason
 role: AI Solutions Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

@@ -2,6 +2,7 @@
 company: General Dynamics Mission Systems
 role: Entry Level Infrastructure Software Engineer
 category: new-grad
+discipline: devops
 locations:
 - Pittsfield, MA
 terms: []

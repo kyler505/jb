@@ -2,6 +2,7 @@
 company: Atria Group
 role: SQL Developer
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

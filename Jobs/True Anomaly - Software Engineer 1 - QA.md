@@ -2,6 +2,7 @@
 company: True Anomaly
 role: Software Engineer 1 - QA
 category: new-grad
+discipline: swe
 locations:
 - Long Beach, CA
 - Denver, CO

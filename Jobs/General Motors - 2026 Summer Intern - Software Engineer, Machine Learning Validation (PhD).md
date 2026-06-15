@@ -2,6 +2,7 @@
 company: General Motors
 role: 2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)
 category: internship
+discipline: ml
 locations:
 - Mountain View, CA
 - Sunnyvale, CA

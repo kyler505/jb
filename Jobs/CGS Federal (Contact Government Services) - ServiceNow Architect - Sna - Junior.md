@@ -2,6 +2,7 @@
 company: CGS Federal (Contact Government Services)
 role: ServiceNow Architect - Sna - Junior
 category: new-grad
+discipline: other
 locations:
 - Washington, DC
 terms: []

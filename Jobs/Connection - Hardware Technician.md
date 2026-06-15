@@ -2,6 +2,7 @@
 company: Connection
 role: Hardware Technician
 category: new-grad
+discipline: hardware
 locations:
 - Highland Park, IL
 terms: []

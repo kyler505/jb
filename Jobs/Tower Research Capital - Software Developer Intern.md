@@ -2,6 +2,7 @@
 company: Tower Research Capital
 role: Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - Montreal, QC, Canada
 terms:

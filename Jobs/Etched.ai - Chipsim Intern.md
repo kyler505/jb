@@ -2,6 +2,7 @@
 company: Etched.ai
 role: Chipsim Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

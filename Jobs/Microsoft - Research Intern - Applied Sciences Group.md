@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Applied Sciences Group
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

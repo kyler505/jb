@@ -2,6 +2,7 @@
 company: Together AI
 role: Analytics Engineer - Data Warehouse
 category: new-grad
+discipline: data
 locations:
 - SF
 terms: []

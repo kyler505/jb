@@ -2,6 +2,7 @@
 company: AMAROK Security
 role: Research and Development Intern
 category: internship
+discipline: other
 locations:
 - Columbia, SC
 terms:

@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer - Global CRM Platform
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

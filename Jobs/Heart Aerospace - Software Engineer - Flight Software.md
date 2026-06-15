@@ -2,6 +2,7 @@
 company: Heart Aerospace
 role: Software Engineer - Flight Software
 category: new-grad
+discipline: swe
 locations:
 - LA
 terms: []

@@ -2,6 +2,7 @@
 company: Solva
 role: AI Engineer Internship
 category: internship
+discipline: ml
 locations:
 - NYC
 terms:

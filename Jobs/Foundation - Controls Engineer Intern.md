@@ -2,6 +2,7 @@
 company: 'Foundation '
 role: Controls Engineer Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

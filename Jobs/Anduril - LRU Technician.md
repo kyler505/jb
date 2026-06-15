@@ -2,6 +2,7 @@
 company: Anduril
 role: LRU Technician
 category: new-grad
+discipline: other
 locations:
 - Newport Beach, CA
 terms: []

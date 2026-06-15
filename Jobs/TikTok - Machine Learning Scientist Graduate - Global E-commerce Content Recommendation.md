@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Scientist Graduate - Global E-commerce Content Recommendation
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

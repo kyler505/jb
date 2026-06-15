@@ -3,6 +3,7 @@ company: ByteDance
 role: Software Development Engineer Graduate - SDN Traffic Intelligence & Control
   - 2026 Start PhD
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

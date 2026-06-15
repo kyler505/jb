@@ -2,6 +2,7 @@
 company: BlueLabs Analytics
 role: Strategic Analytics Fellow
 category: internship
+discipline: data
 locations:
 - Washington, DC
 - Remote in USA

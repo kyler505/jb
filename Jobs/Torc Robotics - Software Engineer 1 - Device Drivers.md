@@ -2,6 +2,7 @@
 company: Torc Robotics
 role: Software Engineer 1 - Device Drivers
 category: new-grad
+discipline: swe
 locations:
 - Ann Arbor, MI
 terms: []

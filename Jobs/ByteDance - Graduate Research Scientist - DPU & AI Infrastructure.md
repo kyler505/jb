@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Research Scientist - DPU & AI Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - San Jose, CA
 terms: []

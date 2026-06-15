@@ -2,6 +2,7 @@
 company: Shield AI
 role: EWIS Harness Design - Engineer I
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

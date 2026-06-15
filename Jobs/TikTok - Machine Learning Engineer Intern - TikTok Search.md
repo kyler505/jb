@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Intern - TikTok Search
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

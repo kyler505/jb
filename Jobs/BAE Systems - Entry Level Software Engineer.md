@@ -2,6 +2,7 @@
 company: BAE Systems
 role: Entry Level Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Totowa, NJ
 terms: []

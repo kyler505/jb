@@ -2,6 +2,7 @@
 company: Northslope Technologies
 role: Forward Deployed Software Engineer - New Grad
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 - NYC

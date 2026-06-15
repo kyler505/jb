@@ -2,6 +2,7 @@
 company: CaptiveAire Systems
 role: Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Raleigh, NC
 terms: []

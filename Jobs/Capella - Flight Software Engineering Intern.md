@@ -2,6 +2,7 @@
 company: Capella
 role: Flight Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Louisville, CO
 terms:

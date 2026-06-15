@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Design Verification Intern - RISCV CPU
 category: internship
+discipline: other
 locations:
 - Austin, TX
 - Santa Clara, CA

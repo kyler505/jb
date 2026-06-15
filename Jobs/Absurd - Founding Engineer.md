@@ -2,6 +2,7 @@
 company: Absurd
 role: Founding Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

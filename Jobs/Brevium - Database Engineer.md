@@ -2,6 +2,7 @@
 company: Brevium
 role: Database Engineer
 category: new-grad
+discipline: other
 locations:
 - American Fork, UT
 terms: []

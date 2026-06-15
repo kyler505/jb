@@ -2,6 +2,7 @@
 company: Savannah River Mission Completion
 role: Full Stack Developer / IT Programmer Analyst – Associate or Mid-level or Senior-level
 category: new-grad
+discipline: swe
 locations:
 - North Augusta, SC
 terms: []

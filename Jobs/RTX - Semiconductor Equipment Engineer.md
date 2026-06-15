@@ -2,6 +2,7 @@
 company: RTX
 role: Semiconductor Equipment Engineer
 category: new-grad
+discipline: other
 locations:
 - Andover, MA
 terms: []

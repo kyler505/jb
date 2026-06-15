@@ -2,6 +2,7 @@
 company: Xometry
 role: Product Manager 2
 category: new-grad
+discipline: other
 locations:
 - Waltham, MA
 terms: []

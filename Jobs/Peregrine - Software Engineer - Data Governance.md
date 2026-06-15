@@ -2,6 +2,7 @@
 company: Peregrine
 role: Software Engineer - Data Governance
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

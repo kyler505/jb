@@ -2,6 +2,7 @@
 company: Google
 role: Software Engineer - PhD - AI/Machine Learning
 category: new-grad
+discipline: ml
 locations:
 - Madison, WI
 - Seattle, WA

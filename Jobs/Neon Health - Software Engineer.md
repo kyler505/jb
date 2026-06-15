@@ -2,6 +2,7 @@
 company: Neon Health
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

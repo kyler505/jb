@@ -2,6 +2,7 @@
 company: Google
 role: Artificial Intelligence Software Developer - Android XR - Application Compatibility
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 - Kitchener, ON, Canada

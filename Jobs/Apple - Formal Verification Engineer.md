@@ -2,6 +2,7 @@
 company: Apple
 role: Formal Verification Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

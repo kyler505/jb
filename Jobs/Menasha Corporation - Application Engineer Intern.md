@@ -2,6 +2,7 @@
 company: Menasha Corporation
 role: Application Engineer Intern
 category: internship
+discipline: other
 locations:
 - Troy, MI
 terms:

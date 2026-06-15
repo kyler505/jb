@@ -2,6 +2,7 @@
 company: Huntington Ingalls Industries
 role: Engineer Sys Modeling Simul 1
 category: new-grad
+discipline: other
 locations:
 - Newport News, VA
 terms: []

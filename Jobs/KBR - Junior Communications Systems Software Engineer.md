@@ -2,6 +2,7 @@
 company: KBR
 role: Junior Communications Systems Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Beavercreek, OH
 terms: []

@@ -2,6 +2,7 @@
 company: Caesars Entertainment
 role: Snack Bar Attendant
 category: new-grad
+discipline: other
 locations:
 - Las Vegas, NV
 terms: []

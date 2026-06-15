@@ -2,6 +2,7 @@
 company: Citadel
 role: Quantitative Research Analyst Intern - Bachelor Master - US
 category: internship
+discipline: other
 locations:
 - Miami, FL
 - Greenwich, CT

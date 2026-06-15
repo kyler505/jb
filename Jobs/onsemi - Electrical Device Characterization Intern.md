@@ -2,6 +2,7 @@
 company: onsemi
 role: Electrical Device Characterization Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

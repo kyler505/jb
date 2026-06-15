@@ -2,6 +2,7 @@
 company: ' PrizePicks'
 role: Data Scientist Intern
 category: internship
+discipline: data
 locations:
 - Atlanta, GA
 terms:

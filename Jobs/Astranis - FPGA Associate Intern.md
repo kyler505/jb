@@ -2,6 +2,7 @@
 company: Astranis
 role: FPGA Associate Intern
 category: internship
+discipline: hardware
 locations:
 - SF
 terms:

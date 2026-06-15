@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist Intern - Monetization GenAI - 2026 Start
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

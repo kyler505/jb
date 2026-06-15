@@ -2,6 +2,7 @@
 company: Trane Technologies
 role: Collections Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - Winona, MN
 terms:

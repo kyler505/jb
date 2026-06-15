@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Power Analysis and Optimization Engineer
 category: new-grad
+discipline: other
 locations:
 - Cupertino, CA
 terms: []

@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Solutions Architect - Data Processing
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 - Santa Clara, CA

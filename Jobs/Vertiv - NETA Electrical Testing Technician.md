@@ -2,6 +2,7 @@
 company: Vertiv
 role: NETA Electrical Testing Technician
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

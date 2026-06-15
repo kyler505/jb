@@ -2,6 +2,7 @@
 company: Together AI
 role: Data Warehouse Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

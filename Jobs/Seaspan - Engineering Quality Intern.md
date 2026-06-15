@@ -2,6 +2,7 @@
 company: Seaspan
 role: Engineering Quality Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

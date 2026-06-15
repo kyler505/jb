@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Machine Learning at MSR NYC
 category: internship
+discipline: ml
 locations:
 - Cambridge, MA
 - NYC

@@ -2,6 +2,7 @@
 company: Major League Baseball
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

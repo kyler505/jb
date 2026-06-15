@@ -2,6 +2,7 @@
 company: Cohere
 role: Machine Learning Intern/Co-op
 category: internship
+discipline: ml
 locations:
 - Canada
 - United Kingdom

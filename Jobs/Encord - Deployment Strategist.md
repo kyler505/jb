@@ -2,6 +2,7 @@
 company: Encord
 role: Deployment Strategist
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

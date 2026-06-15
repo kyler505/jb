@@ -2,6 +2,7 @@
 company: Astranis
 role: Reliability Design Associate Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

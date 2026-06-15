@@ -2,6 +2,7 @@
 company: Oracle
 role: Software Engineer Intern - Ovip
 category: internship
+discipline: swe
 locations:
 - Nashville, TN
 - Austin, TX

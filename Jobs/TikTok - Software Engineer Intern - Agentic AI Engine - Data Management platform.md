@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Agentic AI Engine - Data Management platform
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

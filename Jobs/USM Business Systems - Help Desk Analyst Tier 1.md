@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Help Desk Analyst Tier 1
 category: new-grad
+discipline: other
 locations:
 - Baltimore, MD
 terms: []

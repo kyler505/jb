@@ -2,6 +2,7 @@
 company: Kanshe Infotech
 role: Python Fullstack Training
 category: internship
+discipline: swe
 locations:
 - Newark, NJ
 terms:

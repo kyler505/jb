@@ -2,6 +2,7 @@
 company: Johnson Controls
 role: Hardware Engineer - Controls
 category: new-grad
+discipline: hardware
 locations:
 - Chicago, IL
 - Milwaukee, WI

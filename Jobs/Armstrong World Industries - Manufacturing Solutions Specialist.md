@@ -2,6 +2,7 @@
 company: Armstrong World Industries
 role: Manufacturing Solutions Specialist
 category: new-grad
+discipline: other
 locations:
 - Salt Lake City, UT
 terms: []

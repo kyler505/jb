@@ -2,6 +2,7 @@
 company: NOV
 role: Service Technician - Downhole Tools - Tool Training
 category: new-grad
+discipline: other
 locations:
 - Clarksburg, WV
 terms: []

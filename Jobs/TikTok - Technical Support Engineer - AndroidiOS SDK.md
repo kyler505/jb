@@ -2,6 +2,7 @@
 company: TikTok
 role: Technical Support Engineer - Android/iOS SDK
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

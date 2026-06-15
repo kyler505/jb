@@ -2,6 +2,7 @@
 company: GitHub
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

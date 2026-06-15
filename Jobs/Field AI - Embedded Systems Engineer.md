@@ -2,6 +2,7 @@
 company: Field AI
 role: Embedded Systems Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Irvine, CA
 terms: []

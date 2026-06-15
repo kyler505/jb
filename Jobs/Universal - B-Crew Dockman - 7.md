@@ -2,6 +2,7 @@
 company: 'Universal '
 role: B-Crew Dockman - 7
 category: new-grad
+discipline: other
 locations:
 - Louisville, KY
 terms: []

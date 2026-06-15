@@ -2,6 +2,7 @@
 company: May Mobility
 role: Site Autonomy Engineer
 category: new-grad
+discipline: other
 locations:
 - Atlanta, GA
 terms: []

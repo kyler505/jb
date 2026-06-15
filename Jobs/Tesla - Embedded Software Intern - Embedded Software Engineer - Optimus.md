@@ -2,6 +2,7 @@
 company: Tesla
 role: Embedded Software Intern - Embedded Software Engineer - Optimus
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

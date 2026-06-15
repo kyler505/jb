@@ -2,6 +2,7 @@
 company: WeRide
 role: Intern - Vehicle Embedded Engineer - Dbw
 category: internship
+discipline: hardware
 locations:
 - San Jose, CA
 terms:

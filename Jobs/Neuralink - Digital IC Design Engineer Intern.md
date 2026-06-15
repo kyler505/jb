@@ -2,6 +2,7 @@
 company: Neuralink
 role: Digital IC Design Engineer Intern
 category: internship
+discipline: other
 locations:
 - Fremont, CA
 terms:

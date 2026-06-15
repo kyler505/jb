@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer - Search Ads
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

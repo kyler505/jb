@@ -2,6 +2,7 @@
 company: Oracle
 role: Oracle Pathways Software School Intern
 category: internship
+discipline: other
 locations:
 - Nashville, TN
 terms:

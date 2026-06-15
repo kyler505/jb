@@ -2,6 +2,7 @@
 company: Magna
 role: Software Engineering Co-op
 category: internship
+discipline: swe
 locations:
 - Newmarket, ON, Canada
 terms:

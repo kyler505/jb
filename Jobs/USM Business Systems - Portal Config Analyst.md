@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Portal Config Analyst
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

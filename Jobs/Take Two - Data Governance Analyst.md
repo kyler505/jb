@@ -2,6 +2,7 @@
 company: Take Two
 role: Data Governance Analyst
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

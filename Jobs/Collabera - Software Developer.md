@@ -2,6 +2,7 @@
 company: Collabera
 role: Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Calgary, AB, Canada
 terms: []

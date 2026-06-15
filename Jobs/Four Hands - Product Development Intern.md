@@ -2,6 +2,7 @@
 company: Four Hands
 role: Product Development Intern
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

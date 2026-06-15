@@ -2,6 +2,7 @@
 company: SumUp
 role: Trade Marketing Intelligence Analyst Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

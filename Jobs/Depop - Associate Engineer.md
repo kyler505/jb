@@ -2,6 +2,7 @@
 company: Depop
 role: Associate Engineer
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

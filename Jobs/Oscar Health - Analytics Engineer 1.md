@@ -2,6 +2,7 @@
 company: Oscar Health
 role: Analytics Engineer 1
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

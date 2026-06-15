@@ -2,6 +2,7 @@
 company: True Anomaly
 role: Technician Apprentice
 category: internship
+discipline: other
 locations:
 - Denver, CO
 terms:

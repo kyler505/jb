@@ -2,6 +2,7 @@
 company: Sensiple
 role: IBM WebSphere Message Broker - Technical Lead
 category: new-grad
+discipline: other
 locations:
 - Pittsburgh, PA
 terms: []

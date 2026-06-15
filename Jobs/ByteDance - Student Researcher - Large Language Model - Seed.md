@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - Large Language Model - Seed
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

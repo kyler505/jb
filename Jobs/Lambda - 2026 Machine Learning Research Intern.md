@@ -2,6 +2,7 @@
 company: Lambda
 role: 2026 Machine Learning Research Intern
 category: internship
+discipline: ml
 locations:
 - San Francisco, CA
 terms:

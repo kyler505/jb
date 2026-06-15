@@ -2,6 +2,7 @@
 company: Pennsylvania State University
 role: Engineering Designer
 category: new-grad
+discipline: other
 locations:
 - State College, PA
 terms: []

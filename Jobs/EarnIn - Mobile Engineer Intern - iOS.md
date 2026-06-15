@@ -2,6 +2,7 @@
 company: EarnIn
 role: Mobile Engineer Intern - iOS
 category: internship
+discipline: mobile
 locations:
 - Mountain View, CA
 terms:

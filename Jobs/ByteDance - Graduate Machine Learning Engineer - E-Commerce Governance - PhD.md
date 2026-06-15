@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Machine Learning Engineer - E-Commerce Governance - PhD
 category: new-grad
+discipline: ml
 locations:
 - Seattle, WA
 terms: []

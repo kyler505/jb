@@ -2,6 +2,7 @@
 company: AVEVA
 role: Graduate Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Cambridge, UK
 terms: []

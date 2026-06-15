@@ -2,6 +2,7 @@
 company: Twitch
 role: Software Engineer 1 - Commerce Engineering
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 - SF

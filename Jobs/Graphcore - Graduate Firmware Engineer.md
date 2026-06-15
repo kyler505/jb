@@ -2,6 +2,7 @@
 company: Graphcore
 role: Graduate Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Bristol, UK
 terms: []

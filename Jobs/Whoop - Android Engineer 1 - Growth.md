@@ -2,6 +2,7 @@
 company: Whoop
 role: Android Engineer 1 - Growth
 category: new-grad
+discipline: mobile
 locations:
 - Boston, MA
 terms: []

@@ -2,6 +2,7 @@
 company: Medpace
 role: Clinical Business Intelligence Analyst
 category: new-grad
+discipline: data
 locations:
 - Cincinnati, OH
 terms: []

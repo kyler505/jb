@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Monetization Technology - Ads Creative AI
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

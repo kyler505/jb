@@ -2,6 +2,7 @@
 company: Jefferies
 role: Equity Cash Trading Analyst - Sales Trading Desk Support
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

@@ -2,6 +2,7 @@
 company: Priceline
 role: Associate Data Developer - Fintech
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []

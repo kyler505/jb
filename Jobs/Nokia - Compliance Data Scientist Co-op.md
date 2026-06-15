@@ -2,6 +2,7 @@
 company: Nokia
 role: Compliance Data Scientist Co-op
 category: internship
+discipline: data
 locations:
 - Jackson Township, NJ
 terms:

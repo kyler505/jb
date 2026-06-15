@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Trading Services Associate
 category: new-grad
+discipline: other
 locations:
 - Newark, DE
 - Columbus, OH

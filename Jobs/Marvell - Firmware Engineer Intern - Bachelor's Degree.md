@@ -2,6 +2,7 @@
 company: Marvell
 role: Firmware Engineer Intern - Bachelor's Degree
 category: internship
+discipline: hardware
 locations:
 - Santa Clara, CA
 terms:

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Research Engineer - Seed Infra
 category: new-grad
+discipline: other
 locations:
 - Seattle, WA
 terms: []

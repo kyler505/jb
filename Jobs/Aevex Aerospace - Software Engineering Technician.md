@@ -2,6 +2,7 @@
 company: Aevex Aerospace
 role: Software Engineering Technician
 category: new-grad
+discipline: swe
 locations:
 - Tampa, FL
 terms: []

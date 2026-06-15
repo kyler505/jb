@@ -2,6 +2,7 @@
 company: Nuro
 role: Associate Fleet Technician
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

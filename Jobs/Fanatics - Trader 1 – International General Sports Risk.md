@@ -2,6 +2,7 @@
 company: Fanatics
 role: Trader 1 – International General Sports Risk
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

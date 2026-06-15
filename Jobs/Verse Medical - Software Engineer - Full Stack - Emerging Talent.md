@@ -2,6 +2,7 @@
 company: Verse Medical
 role: Software Engineer - Full Stack - Emerging Talent
 category: new-grad
+discipline: swe
 locations:
 - SF
 - NYC

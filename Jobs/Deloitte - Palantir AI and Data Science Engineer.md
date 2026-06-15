@@ -2,6 +2,7 @@
 company: Deloitte
 role: Palantir AI and Data Science Engineer
 category: new-grad
+discipline: data
 locations:
 - Huntsville, AL
 terms: []

@@ -2,6 +2,7 @@
 company: Drivetrain
 role: Engineering Intern - Gen AI for FP&a Platform
 category: internship
+discipline: other
 locations:
 - United States
 terms:

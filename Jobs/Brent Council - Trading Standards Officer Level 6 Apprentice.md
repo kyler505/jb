@@ -2,6 +2,7 @@
 company: Brent Council
 role: Trading Standards Officer Level 6 Apprentice
 category: internship
+discipline: other
 locations:
 - United Kingdom
 terms:

@@ -2,6 +2,7 @@
 company: Xsolla
 role: Engineering Intern - Student Application - Engineering
 category: internship
+discipline: other
 locations:
 - Raleigh, NC
 terms:

@@ -2,6 +2,7 @@
 company: Eliyan
 role: Silicon & Photonics IC Validation - Test & Characterization Engineer
 category: new-grad
+discipline: other
 locations:
 - California
 terms: []

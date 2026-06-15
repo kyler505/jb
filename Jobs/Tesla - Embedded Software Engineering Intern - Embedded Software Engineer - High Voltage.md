@@ -3,6 +3,7 @@ company: Tesla
 role: Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage
   Systems
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

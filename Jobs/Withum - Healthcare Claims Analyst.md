@@ -2,6 +2,7 @@
 company: Withum
 role: Healthcare Claims Analyst
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

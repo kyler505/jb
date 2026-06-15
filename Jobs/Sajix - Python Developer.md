@@ -2,6 +2,7 @@
 company: Sajix
 role: Python Developer
 category: internship
+discipline: swe
 locations:
 - Pleasanton, CA
 terms:

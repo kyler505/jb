@@ -2,6 +2,7 @@
 company: Elsevier
 role: Data Scientist
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

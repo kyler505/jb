@@ -2,6 +2,7 @@
 company: University of Maryland - College Park
 role: Faculty Assistant-3
 category: new-grad
+discipline: other
 locations:
 - Hyattsville, MD
 terms: []

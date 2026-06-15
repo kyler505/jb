@@ -2,6 +2,7 @@
 company: Direct Staffing
 role: Full-Stack Engineer/Developer
 category: new-grad
+discipline: swe
 locations:
 - Stamford, CT
 terms: []

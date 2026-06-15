@@ -2,6 +2,7 @@
 company: Red Ventures
 role: Associate Data Science Product Manager
 category: new-grad
+discipline: data
 locations:
 - Charlotte, NC
 terms: []

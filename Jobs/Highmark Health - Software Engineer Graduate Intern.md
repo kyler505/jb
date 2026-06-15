@@ -2,6 +2,7 @@
 company: Highmark Health
 role: Software Engineer Graduate Intern
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

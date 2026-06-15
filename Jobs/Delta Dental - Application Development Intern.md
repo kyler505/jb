@@ -2,6 +2,7 @@
 company: Delta Dental
 role: Application Development Intern
 category: internship
+discipline: other
 locations:
 - East Lansing, MI
 terms:

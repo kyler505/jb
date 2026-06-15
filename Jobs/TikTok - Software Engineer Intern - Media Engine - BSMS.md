@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Media Engine - BS/MS
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

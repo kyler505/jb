@@ -2,6 +2,7 @@
 company: Base Power
 role: Hardware Reliability & Test Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - Austin, TX
 terms:

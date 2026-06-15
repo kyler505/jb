@@ -2,6 +2,7 @@
 company: Cascade Asset Management Company
 role: Trading Desk Analyst
 category: new-grad
+discipline: other
 locations:
 - Kirkland, WA
 terms: []

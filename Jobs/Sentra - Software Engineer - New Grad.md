@@ -2,6 +2,7 @@
 company: Sentra
 role: Software Engineer - New Grad
 category: new-grad
+discipline: swe
 locations:
 - San Francisco, CA
 terms: []

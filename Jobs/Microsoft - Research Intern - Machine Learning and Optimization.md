@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Machine Learning and Optimization
 category: internship
+discipline: ml
 locations:
 - Cambridge, MA
 - Redmond, WA

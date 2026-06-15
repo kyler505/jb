@@ -2,6 +2,7 @@
 company: SpaceX
 role: Production Development Technician - Optical
 category: new-grad
+discipline: other
 locations:
 - Redmond, WA
 terms: []

@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Cupertino, CA
 terms: []

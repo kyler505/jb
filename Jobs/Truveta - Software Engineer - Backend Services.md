@@ -2,6 +2,7 @@
 company: Truveta
 role: Software Engineer - Backend Services
 category: new-grad
+discipline: backend
 locations:
 - Seattle, WA
 terms: []

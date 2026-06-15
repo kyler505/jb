@@ -2,6 +2,7 @@
 company: Man Group
 role: Data Management Analyst
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

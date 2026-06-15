@@ -2,6 +2,7 @@
 company: Atria Group
 role: Drupal Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

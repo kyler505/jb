@@ -2,6 +2,7 @@
 company: Amazon
 role: Hardware Development Engineer Co-op
 category: internship
+discipline: hardware
 locations:
 - Sunnyvale, CA
 terms:

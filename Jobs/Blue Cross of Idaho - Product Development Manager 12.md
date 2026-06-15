@@ -2,6 +2,7 @@
 company: Blue Cross of Idaho
 role: Product Development Manager 1/2
 category: new-grad
+discipline: other
 locations:
 - Meridian, ID
 terms: []

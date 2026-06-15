@@ -2,6 +2,7 @@
 company: Cogent Security
 role: Cogent AI Fellow - Member of Technical Staff
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

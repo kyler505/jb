@@ -2,6 +2,7 @@
 company: ABB
 role: Software Engineering Intern- Summer 2026
 category: internship
+discipline: swe
 locations:
 - Bartlesville, OK
 terms:

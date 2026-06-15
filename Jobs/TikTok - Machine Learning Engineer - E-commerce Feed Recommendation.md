@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer - E-commerce Feed Recommendation
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

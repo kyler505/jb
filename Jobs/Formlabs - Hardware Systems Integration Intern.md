@@ -2,6 +2,7 @@
 company: Formlabs
 role: Hardware Systems Integration Intern
 category: internship
+discipline: hardware
 locations:
 - Cambridge, MA
 terms:

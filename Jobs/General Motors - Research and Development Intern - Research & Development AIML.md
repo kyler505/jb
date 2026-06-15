@@ -2,6 +2,7 @@
 company: General Motors
 role: 'Research and Development Intern - Research & Development: AI/ML'
 category: internship
+discipline: ml
 locations:
 - Mountain View, CA
 - Warren, MI

@@ -2,6 +2,7 @@
 company: Axway
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Scottsdale, AZ
 terms:

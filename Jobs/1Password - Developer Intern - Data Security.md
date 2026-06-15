@@ -2,6 +2,7 @@
 company: 1Password
 role: Developer Intern - Data Security
 category: internship
+discipline: security
 locations:
 - Remote in USA
 - Remote in Canada

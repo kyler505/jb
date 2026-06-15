@@ -2,6 +2,7 @@
 company: Enterprise Bank & Trust
 role: Portfolio Analyst & Trader
 category: new-grad
+discipline: other
 locations:
 - Clayton, MO
 terms: []

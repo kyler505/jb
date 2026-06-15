@@ -2,6 +2,7 @@
 company: Ellipsis Labs
 role: Software Engineer – New Grads - Multiple Teams
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

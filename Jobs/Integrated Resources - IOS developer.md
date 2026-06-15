@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: IOS developer
 category: new-grad
+discipline: swe
 locations:
 - Hartford, CT
 terms: []

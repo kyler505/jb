@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Intern - Payment Network - Global Payment
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

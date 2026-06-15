@@ -2,6 +2,7 @@
 company: Inizio
 role: Data and Analytics Intern
 category: internship
+discipline: data
 locations:
 - Manchester, UK
 terms:

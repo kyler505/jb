@@ -2,6 +2,7 @@
 company: Anduril
 role: Software Engineer Intern - Warfighter Systems
 category: internship
+discipline: swe
 locations:
 - Bellevue, WA
 terms:

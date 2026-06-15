@@ -2,6 +2,7 @@
 company: University of Wyoming
 role: Makerspace Aide - UWIN Makerspace Tech - Academic Technology Services
 category: internship
+discipline: other
 locations:
 - Laramie, WY
 terms:

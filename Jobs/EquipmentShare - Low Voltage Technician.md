@@ -2,6 +2,7 @@
 company: EquipmentShare
 role: Low Voltage Technician
 category: new-grad
+discipline: other
 locations:
 - Elko, NV
 terms: []

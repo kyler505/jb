@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Monetization Generative AI - LLM
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 - Menlo Park, CA

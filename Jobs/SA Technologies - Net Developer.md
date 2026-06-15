@@ -2,6 +2,7 @@
 company: SA Technologies
 role: .Net Developer
 category: new-grad
+discipline: swe
 locations:
 - Coppell, TX
 terms: []

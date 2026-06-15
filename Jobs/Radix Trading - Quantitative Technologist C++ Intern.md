@@ -2,6 +2,7 @@
 company: Radix Trading
 role: Quantitative Technologist C++ Intern
 category: internship
+discipline: other
 locations:
 - Chicago, IL
 terms:

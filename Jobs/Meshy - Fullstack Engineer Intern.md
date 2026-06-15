@@ -2,6 +2,7 @@
 company: Meshy
 role: Fullstack Engineer Intern
 category: internship
+discipline: swe
 locations:
 - California
 terms:

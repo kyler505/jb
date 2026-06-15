@@ -2,6 +2,7 @@
 company: PayPal
 role: Machine Learning Engineer PhD Intern
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

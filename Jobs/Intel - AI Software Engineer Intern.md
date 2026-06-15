@@ -2,6 +2,7 @@
 company: Intel
 role: AI Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Phoenix, AZ
 terms:

@@ -2,6 +2,7 @@
 company: Eastern Research Group
 role: Occupational Safety and Health Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Fairfax, VA
 terms: []

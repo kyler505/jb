@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Software Engineer - Inference Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - San Jose, CA
 terms: []

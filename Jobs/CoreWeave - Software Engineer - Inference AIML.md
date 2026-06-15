@@ -2,6 +2,7 @@
 company: CoreWeave
 role: Software Engineer - Inference AI/ML
 category: new-grad
+discipline: ml
 locations:
 - Bellevue, WA
 - Sunnyvale, CA

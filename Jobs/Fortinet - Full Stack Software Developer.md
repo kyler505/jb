@@ -2,6 +2,7 @@
 company: Fortinet
 role: Full Stack Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Burnaby, BC, Canada
 terms: []

@@ -2,6 +2,7 @@
 company: PathAI
 role: Machine Learning Intern/Co-op
 category: internship
+discipline: ml
 locations:
 - Remote in USA
 terms:

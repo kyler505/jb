@@ -2,6 +2,7 @@
 company: The Toro Company
 role: Technical Product Support Representative 1
 category: new-grad
+discipline: other
 locations:
 - Bloomington, MN
 terms: []

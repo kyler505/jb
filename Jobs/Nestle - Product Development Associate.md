@@ -2,6 +2,7 @@
 company: Nestle
 role: Product Development Associate
 category: new-grad
+discipline: other
 locations:
 - St. Louis, MO
 terms: []

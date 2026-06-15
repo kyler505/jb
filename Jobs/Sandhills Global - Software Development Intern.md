@@ -2,6 +2,7 @@
 company: Sandhills Global
 role: Software Development Intern
 category: internship
+discipline: swe
 locations:
 - Lincoln, NE
 terms:

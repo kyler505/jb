@@ -2,6 +2,7 @@
 company: SpaceX
 role: Diamond Turning Machinist - Starlink
 category: new-grad
+discipline: other
 locations:
 - Redmond, WA
 terms: []

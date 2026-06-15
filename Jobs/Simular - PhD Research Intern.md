@@ -2,6 +2,7 @@
 company: Simular
 role: PhD Research Intern
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

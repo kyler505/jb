@@ -2,6 +2,7 @@
 company: Visa
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Reading, UK
 terms: []

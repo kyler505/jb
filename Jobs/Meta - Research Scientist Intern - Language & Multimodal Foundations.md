@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Language & Multimodal Foundations
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 - Menlo Park, CA

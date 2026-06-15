@@ -2,6 +2,7 @@
 company: Axiomatic AI
 role: Software Engineering Internship – Platform/DevOps
 category: internship
+discipline: devops
 locations:
 - Boston, MA
 terms:

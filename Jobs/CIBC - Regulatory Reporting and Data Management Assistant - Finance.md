@@ -2,6 +2,7 @@
 company: CIBC
 role: Regulatory Reporting and Data Management Assistant - Finance
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Zipline
 role: Enterprise Systems Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - San Bruno, CA
 terms:

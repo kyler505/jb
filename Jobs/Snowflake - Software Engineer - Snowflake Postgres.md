@@ -2,6 +2,7 @@
 company: Snowflake
 role: Software Engineer - Snowflake Postgres
 category: new-grad
+discipline: swe
 locations:
 - Menlo Park, CA
 - Bellevue, WA

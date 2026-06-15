@@ -2,6 +2,7 @@
 company: GE Vernova
 role: AI Agents for Physics-Based Gas Turbine Design Tools Intern
 category: internship
+discipline: other
 locations:
 - Greenville, SC
 terms:

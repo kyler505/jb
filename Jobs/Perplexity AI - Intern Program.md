@@ -2,6 +2,7 @@
 company: Perplexity AI
 role: Intern Program
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

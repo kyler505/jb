@@ -2,6 +2,7 @@
 company: Medpace, Inc.
 role: AI Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Cincinnati, OH
 terms:

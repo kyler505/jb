@@ -2,6 +2,7 @@
 company: Invisible Technologies AI
 role: AI Generalist
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

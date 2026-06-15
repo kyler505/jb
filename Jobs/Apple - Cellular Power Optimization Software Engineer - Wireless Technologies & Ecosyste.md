@@ -2,6 +2,7 @@
 company: Apple
 role: Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems
 category: new-grad
+discipline: swe
 locations:
 - San Diego, CA
 terms: []

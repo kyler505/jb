@@ -2,6 +2,7 @@
 company: Etched
 role: PD Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

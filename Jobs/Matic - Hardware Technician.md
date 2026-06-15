@@ -2,6 +2,7 @@
 company: Matic
 role: Hardware Technician
 category: new-grad
+discipline: hardware
 locations:
 - Mountain View, CA
 terms: []

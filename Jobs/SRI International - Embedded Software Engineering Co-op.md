@@ -2,6 +2,7 @@
 company: SRI International
 role: Embedded Software Engineering Co-op
 category: internship
+discipline: hardware
 locations:
 - Princeton, NJ
 terms:

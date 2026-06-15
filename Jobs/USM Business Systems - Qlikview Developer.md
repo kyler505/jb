@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Qlikview Developer
 category: new-grad
+discipline: swe
 locations:
 - Dublin, OH
 terms: []

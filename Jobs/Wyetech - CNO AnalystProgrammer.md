@@ -2,6 +2,7 @@
 company: Wyetech
 role: CNO Analyst/Programmer
 category: new-grad
+discipline: swe
 locations:
 - Morrisville, NC
 terms: []

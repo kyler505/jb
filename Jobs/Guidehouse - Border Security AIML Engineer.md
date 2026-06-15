@@ -2,6 +2,7 @@
 company: Guidehouse
 role: Border Security AI/ML Engineer
 category: new-grad
+discipline: ml
 locations:
 - Dulles, VA
 terms: []

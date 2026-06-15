@@ -2,6 +2,7 @@
 company: Squarepoint Capital
 role: Intern Software Developer - Summer 2026
 category: internship
+discipline: swe
 locations:
 - Montreal, QC, Canada
 - London, UK

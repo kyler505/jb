@@ -2,6 +2,7 @@
 company: Eulerity
 role: Web Development Engineer Intern
 category: internship
+discipline: frontend
 locations:
 - NYC
 terms:

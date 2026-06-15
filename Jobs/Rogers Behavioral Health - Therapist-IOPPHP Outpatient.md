@@ -2,6 +2,7 @@
 company: Rogers Behavioral Health
 role: Therapist-IOP/PHP Outpatient
 category: new-grad
+discipline: other
 locations:
 - Morton Grove, IL
 terms: []

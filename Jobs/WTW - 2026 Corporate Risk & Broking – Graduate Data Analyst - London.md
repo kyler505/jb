@@ -2,6 +2,7 @@
 company: WTW
 role: 2026 Corporate Risk & Broking – Graduate Data Analyst - London
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

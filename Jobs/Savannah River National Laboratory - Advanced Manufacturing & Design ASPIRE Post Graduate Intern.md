@@ -2,6 +2,7 @@
 company: Savannah River National Laboratory
 role: Advanced Manufacturing & Design ASPIRE Post Graduate Intern
 category: internship
+discipline: other
 locations:
 - North Augusta, SC
 terms:

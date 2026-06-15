@@ -2,6 +2,7 @@
 company: Axway
 role: Business Analytics Intern
 category: internship
+discipline: data
 locations:
 - Scottsdale, AZ
 terms:

@@ -2,6 +2,7 @@
 company: 'Midmark '
 role: Firmware Engineering Intern/Co-op
 category: internship
+discipline: hardware
 locations:
 - Vandalia, OH
 terms:

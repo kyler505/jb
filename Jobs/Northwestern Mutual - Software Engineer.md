@@ -2,6 +2,7 @@
 company: Northwestern Mutual
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Greendale, WI
 terms: []

@@ -2,6 +2,7 @@
 company: PredictX
 role: UK Business Intelligence Analyst-Travel & Expense
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

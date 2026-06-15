@@ -2,6 +2,7 @@
 company: Apple
 role: Mixed-Signal Behavioral Modeling Engineer
 category: new-grad
+discipline: other
 locations:
 - Cupertino, CA
 terms: []

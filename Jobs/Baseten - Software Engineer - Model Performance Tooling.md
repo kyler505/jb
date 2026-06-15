@@ -2,6 +2,7 @@
 company: Baseten
 role: Software Engineer - Model Performance Tooling
 category: new-grad
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms: []

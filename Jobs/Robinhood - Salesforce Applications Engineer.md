@@ -2,6 +2,7 @@
 company: Robinhood
 role: Salesforce Applications Engineer
 category: new-grad
+discipline: other
 locations:
 - Menlo Park, CA
 terms: []

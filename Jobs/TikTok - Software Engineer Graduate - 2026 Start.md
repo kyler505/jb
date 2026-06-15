@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Graduate - 2026 Start
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

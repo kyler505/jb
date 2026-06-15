@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineering Intern - Software Engineering - Service Engineering
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

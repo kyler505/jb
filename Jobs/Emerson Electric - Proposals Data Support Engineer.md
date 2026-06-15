@@ -2,6 +2,7 @@
 company: Emerson Electric
 role: Proposals Data Support Engineer
 category: new-grad
+discipline: other
 locations:
 - Pittsburgh, PA
 - Grove City, PA

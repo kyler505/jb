@@ -2,6 +2,7 @@
 company: Seaspan
 role: Digital Ship Analytics Intern
 category: internship
+discipline: data
 locations:
 - Vancouver, BC, Canada
 terms:

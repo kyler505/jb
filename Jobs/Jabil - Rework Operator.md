@@ -2,6 +2,7 @@
 company: Jabil
 role: Rework Operator
 category: new-grad
+discipline: other
 locations:
 - Salt Lake City, UT
 - Tooele, UT

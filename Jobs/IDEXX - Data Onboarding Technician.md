@@ -2,6 +2,7 @@
 company: IDEXX
 role: Data Onboarding Technician
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

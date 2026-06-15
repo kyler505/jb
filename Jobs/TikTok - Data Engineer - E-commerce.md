@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Engineer - E-commerce
 category: internship
+discipline: data
 locations:
 - Seattle, WA
 terms:

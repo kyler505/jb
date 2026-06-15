@@ -2,6 +2,7 @@
 company: Finning
 role: Mining Engineers – Recent Graduates
 category: new-grad
+discipline: other
 locations:
 - Surrey, BC, Canada
 - Calgary, AB, Canada

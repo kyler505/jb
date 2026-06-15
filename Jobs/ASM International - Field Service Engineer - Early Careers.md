@@ -2,6 +2,7 @@
 company: ASM International
 role: Field Service Engineer - Early Careers
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

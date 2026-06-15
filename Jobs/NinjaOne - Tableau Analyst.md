@@ -2,6 +2,7 @@
 company: NinjaOne
 role: Tableau Analyst
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

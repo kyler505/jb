@@ -2,6 +2,7 @@
 company: Waabi
 role: Research Intern/Co-op
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 - California

@@ -2,6 +2,7 @@
 company: John Deere
 role: Part-Time Student - Software Engineering - Ames IA Technology CA
 category: internship
+discipline: swe
 locations:
 - Ames, IA
 terms:

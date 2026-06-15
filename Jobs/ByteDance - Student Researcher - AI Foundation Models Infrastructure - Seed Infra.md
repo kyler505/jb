@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - AI Foundation Models Infrastructure - Seed Infra
 category: internship
+discipline: devops
 locations:
 - Seattle, WA
 terms:

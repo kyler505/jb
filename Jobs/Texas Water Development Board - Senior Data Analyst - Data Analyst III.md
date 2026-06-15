@@ -2,6 +2,7 @@
 company: Texas Water Development Board
 role: Senior Data Analyst - Data Analyst III
 category: new-grad
+discipline: data
 locations:
 - Austin, TX
 terms: []

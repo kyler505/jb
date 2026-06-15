@@ -2,6 +2,7 @@
 company: Wonderschool
 role: Early Career Software Engineer - Applied AI
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

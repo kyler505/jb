@@ -2,6 +2,7 @@
 company: Wheely
 role: Associate Data Scientist - Operations Research
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

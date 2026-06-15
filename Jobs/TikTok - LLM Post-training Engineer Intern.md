@@ -2,6 +2,7 @@
 company: TikTok
 role: LLM Post-training Engineer Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

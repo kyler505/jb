@@ -2,6 +2,7 @@
 company: T-Rex Solutions
 role: Web Developer
 category: new-grad
+discipline: frontend
 locations:
 - Odenton, MD
 terms: []

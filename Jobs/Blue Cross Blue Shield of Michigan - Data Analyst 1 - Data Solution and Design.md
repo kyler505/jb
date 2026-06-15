@@ -2,6 +2,7 @@
 company: Blue Cross Blue Shield of Michigan
 role: Data Analyst 1 - Data Solution and Design
 category: new-grad
+discipline: data
 locations:
 - Detroit, MI
 terms: []

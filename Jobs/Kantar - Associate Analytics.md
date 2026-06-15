@@ -2,6 +2,7 @@
 company: Kantar
 role: Associate Analytics
 category: new-grad
+discipline: data
 locations:
 - Atlanta, GA
 terms: []

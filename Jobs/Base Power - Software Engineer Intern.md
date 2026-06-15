@@ -2,6 +2,7 @@
 company: Base Power
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Austin, TX
 terms:

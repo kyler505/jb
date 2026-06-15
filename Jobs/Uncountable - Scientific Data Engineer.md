@@ -2,6 +2,7 @@
 company: Uncountable
 role: Scientific Data Engineer
 category: new-grad
+discipline: data
 locations:
 - SF
 - NYC

@@ -2,6 +2,7 @@
 company: Tower Research Capital
 role: Quantitative Trader Intern - PhD 2026
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

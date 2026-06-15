@@ -2,6 +2,7 @@
 company: Air Liquide
 role: Modelling & Simulation Engineer
 category: internship
+discipline: other
 locations:
 - Houston, TX
 terms:

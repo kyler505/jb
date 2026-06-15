@@ -2,6 +2,7 @@
 company: Tesla
 role: Engineering Technician - Cell Qualification - Cell Engineering
 category: new-grad
+discipline: other
 locations:
 - Fremont, CA
 terms: []

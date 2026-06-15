@@ -2,6 +2,7 @@
 company: KLA Corporation
 role: HPC Hardware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Milpitas, CA
 terms: []

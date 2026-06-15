@@ -2,6 +2,7 @@
 company: RTX
 role: Software Engineer 1 - Rdpl
 category: new-grad
+discipline: swe
 locations:
 - Anaheim, CA
 terms: []

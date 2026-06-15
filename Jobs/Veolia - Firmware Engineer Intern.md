@@ -2,6 +2,7 @@
 company: Veolia
 role: Firmware Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - Montreal, QC, Canada
 terms:

@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Credit Trading Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

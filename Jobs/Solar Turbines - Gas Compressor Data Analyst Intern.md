@@ -2,6 +2,7 @@
 company: Solar Turbines
 role: Gas Compressor Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - San Diego, CA
 terms:

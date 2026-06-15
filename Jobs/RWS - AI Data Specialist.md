@@ -2,6 +2,7 @@
 company: RWS
 role: AI Data Specialist
 category: new-grad
+discipline: other
 locations:
 - Illinois
 terms: []

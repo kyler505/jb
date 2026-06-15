@@ -2,6 +2,7 @@
 company: Mindlance
 role: Entry Level Database Developer
 category: new-grad
+discipline: swe
 locations:
 - Frisco, TX
 terms: []

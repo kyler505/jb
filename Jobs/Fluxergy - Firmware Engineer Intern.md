@@ -2,6 +2,7 @@
 company: Fluxergy
 role: Firmware Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - Irvine, CA
 terms:

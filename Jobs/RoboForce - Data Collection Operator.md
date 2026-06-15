@@ -2,6 +2,7 @@
 company: RoboForce
 role: Data Collection Operator
 category: new-grad
+discipline: other
 locations:
 - Milpitas, CA
 terms: []

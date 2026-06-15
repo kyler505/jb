@@ -2,6 +2,7 @@
 company: ASML
 role: Internship - Software Quality Assurance
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

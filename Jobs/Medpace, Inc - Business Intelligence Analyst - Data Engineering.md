@@ -2,6 +2,7 @@
 company: Medpace, Inc.
 role: Business Intelligence Analyst - Data Engineering
 category: new-grad
+discipline: data
 locations:
 - Cincinnati, OH
 terms: []

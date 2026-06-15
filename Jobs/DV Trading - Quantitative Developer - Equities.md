@@ -2,6 +2,7 @@
 company: DV Trading
 role: Quantitative Developer - Equities
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

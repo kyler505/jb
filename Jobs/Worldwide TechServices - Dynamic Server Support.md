@@ -2,6 +2,7 @@
 company: Worldwide TechServices
 role: Dynamic Server Support
 category: new-grad
+discipline: other
 locations:
 - Pearl, MS
 terms: []

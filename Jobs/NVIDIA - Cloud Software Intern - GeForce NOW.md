@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Cloud Software Intern - GeForce NOW
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

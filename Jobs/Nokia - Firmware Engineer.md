@@ -2,6 +2,7 @@
 company: Nokia
 role: Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Canada
 terms: []

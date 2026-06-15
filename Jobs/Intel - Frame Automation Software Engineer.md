@@ -2,6 +2,7 @@
 company: Intel
 role: Frame Automation Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Hillsboro, OR
 terms: []

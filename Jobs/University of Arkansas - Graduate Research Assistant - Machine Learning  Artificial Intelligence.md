@@ -2,6 +2,7 @@
 company: University of Arkansas
 role: Graduate Research Assistant - Machine Learning / Artificial Intelligence
 category: new-grad
+discipline: ml
 locations:
 - Little Rock, AR
 terms: []

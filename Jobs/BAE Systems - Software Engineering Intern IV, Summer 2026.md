@@ -2,6 +2,7 @@
 company: BAE Systems
 role: Software Engineering Intern IV, Summer 2026
 category: internship
+discipline: swe
 locations:
 - Nashua, NH
 - Hudson, NH

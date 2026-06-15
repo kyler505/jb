@@ -2,6 +2,7 @@
 company: Civitech
 role: Research Fellow
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 - Remote in USA

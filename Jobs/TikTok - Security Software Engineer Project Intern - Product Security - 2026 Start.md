@@ -2,6 +2,7 @@
 company: TikTok
 role: Security Software Engineer Project Intern - Product Security - 2026 Start
 category: internship
+discipline: security
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: iCapital Network
 role: Associate Full Stack Engineer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: TikTok
 role: Graduate Product Manager - Creative and Brand Innovation
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

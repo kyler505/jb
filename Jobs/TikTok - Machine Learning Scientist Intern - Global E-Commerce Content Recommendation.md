@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Scientist Intern - Global E-Commerce Content Recommendation
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 terms:

@@ -2,6 +2,7 @@
 company: Applied Fluid Power
 role: Master Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Tualatin, OR
 terms: []

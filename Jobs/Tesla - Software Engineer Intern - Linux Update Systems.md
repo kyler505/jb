@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Linux Update Systems
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

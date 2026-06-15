@@ -2,6 +2,7 @@
 company: The Home Depot
 role: Data Analyst - Supply Chain
 category: new-grad
+discipline: data
 locations:
 - Atlanta, GA
 terms: []

@@ -2,6 +2,7 @@
 company: Turntide
 role: Electrical Hardware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Newcastle upon Tyne, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Software Engineer - Data Platforms
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

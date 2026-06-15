@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Testing Assistant
 category: internship
+discipline: other
 locations:
 - Hickory, NC
 terms:

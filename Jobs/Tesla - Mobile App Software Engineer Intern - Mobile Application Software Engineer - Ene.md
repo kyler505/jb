@@ -3,6 +3,7 @@ company: Tesla
 role: Mobile App Software Engineer Intern - Mobile Application Software Engineer -
   Energy Engineering
 category: internship
+discipline: mobile
 locations:
 - Palo Alto, CA
 terms:

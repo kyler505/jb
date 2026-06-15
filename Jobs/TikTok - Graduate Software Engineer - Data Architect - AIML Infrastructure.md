@@ -2,6 +2,7 @@
 company: TikTok
 role: Graduate Software Engineer - Data Architect - AI/ML Infrastructure
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

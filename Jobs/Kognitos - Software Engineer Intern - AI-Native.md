@@ -2,6 +2,7 @@
 company: Kognitos
 role: Software Engineer Intern - AI-Native
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

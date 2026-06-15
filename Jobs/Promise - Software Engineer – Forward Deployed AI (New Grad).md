@@ -2,6 +2,7 @@
 company: Promise
 role: Software Engineer – Forward Deployed AI (New Grad)
 category: new-grad
+discipline: swe
 locations:
 - Oakland, CA
 terms: []

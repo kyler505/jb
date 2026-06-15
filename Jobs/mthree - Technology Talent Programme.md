@@ -2,6 +2,7 @@
 company: mthree
 role: Technology Talent Programme
 category: internship
+discipline: other
 locations:
 - Letchworth Garden City, UK
 terms:

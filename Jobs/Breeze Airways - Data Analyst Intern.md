@@ -2,6 +2,7 @@
 company: Breeze Airways
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - Cottonwood Heights, UT
 terms:

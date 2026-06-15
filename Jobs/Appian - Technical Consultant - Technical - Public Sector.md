@@ -2,6 +2,7 @@
 company: Appian
 role: Technical Consultant - Technical - Public Sector
 category: new-grad
+discipline: other
 locations:
 - Raleigh, NC
 terms: []

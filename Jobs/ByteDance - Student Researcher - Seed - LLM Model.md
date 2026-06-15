@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - Seed - LLM Model
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

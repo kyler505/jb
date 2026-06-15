@@ -2,6 +2,7 @@
 company: LG Ad Solutions
 role: Data Analytics Associate - Marketing Science
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - LLM Performance Optimization
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

@@ -2,6 +2,7 @@
 company: Nokia
 role: Photonic Integrated Circuit - Photonic Integrated Circuit - Design Engineer
 category: new-grad
+discipline: other
 locations:
 - United States
 terms: []

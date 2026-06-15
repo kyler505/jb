@@ -2,6 +2,7 @@
 company: ASM International
 role: Engineer - Field Service-Military Experience
 category: new-grad
+discipline: other
 locations:
 - Chandler, AZ
 terms: []

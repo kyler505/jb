@@ -2,6 +2,7 @@
 company: SpaceX
 role: New Graduate Engineer - Software
 category: new-grad
+discipline: other
 locations:
 - West Athens, CA
 terms: []

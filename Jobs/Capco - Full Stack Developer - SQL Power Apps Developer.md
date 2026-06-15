@@ -2,6 +2,7 @@
 company: Capco
 role: Full Stack Developer - SQL Power Apps Developer
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []

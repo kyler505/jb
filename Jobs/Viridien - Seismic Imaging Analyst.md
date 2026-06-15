@@ -2,6 +2,7 @@
 company: Viridien
 role: Seismic Imaging Analyst
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

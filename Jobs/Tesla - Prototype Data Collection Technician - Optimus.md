@@ -2,6 +2,7 @@
 company: Tesla
 role: Prototype Data Collection Technician - Optimus
 category: new-grad
+discipline: other
 locations:
 - Palo Alto, CA
 terms: []

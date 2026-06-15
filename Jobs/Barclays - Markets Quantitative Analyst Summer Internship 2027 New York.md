@@ -2,6 +2,7 @@
 company: Barclays
 role: Markets Quantitative Analyst Summer Internship 2027 New York
 category: internship
+discipline: other
 locations:
 - New York, NY
 terms:

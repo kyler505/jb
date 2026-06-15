@@ -2,6 +2,7 @@
 company: Anthropic
 role: Anthropic Fellows Program - AI Safety
 category: internship
+discipline: other
 locations:
 - London, UK
 - SF

@@ -2,6 +2,7 @@
 company: Graphcore
 role: 2026 Graduate Software Engineer - Pytorch
 category: new-grad
+discipline: swe
 locations:
 - Bristol, UK
 terms: []

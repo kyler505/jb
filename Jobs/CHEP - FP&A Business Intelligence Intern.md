@@ -2,6 +2,7 @@
 company: CHEP
 role: FP&A Business Intelligence Intern
 category: internship
+discipline: data
 locations:
 - London, UK
 - Orlando, FL

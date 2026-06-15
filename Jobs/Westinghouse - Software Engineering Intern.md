@@ -2,6 +2,7 @@
 company: Westinghouse
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Shoreview, MN
 terms:

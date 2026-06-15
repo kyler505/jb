@@ -2,6 +2,7 @@
 company: RF-SMART
 role: Technical Consultant 1
 category: new-grad
+discipline: other
 locations:
 - Jacksonville, FL
 - Denver, CO

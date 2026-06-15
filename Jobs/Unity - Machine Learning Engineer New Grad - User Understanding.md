@@ -2,6 +2,7 @@
 company: Unity
 role: Machine Learning Engineer New Grad - User Understanding
 category: new-grad
+discipline: ml
 locations:
 - Mountain View, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Arch Capital Group
 role: Online Portals & Next Gen Platforms – Intern - Opng
 category: internship
+discipline: other
 locations:
 - Greensboro, NC
 terms:

@@ -2,6 +2,7 @@
 company: Jane Street
 role: Software Engineer
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

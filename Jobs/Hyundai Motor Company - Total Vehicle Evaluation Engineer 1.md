@@ -2,6 +2,7 @@
 company: Hyundai Motor Company
 role: Total Vehicle Evaluation Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Irvine, CA
 terms: []

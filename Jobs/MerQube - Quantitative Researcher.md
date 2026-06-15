@@ -2,6 +2,7 @@
 company: MerQube
 role: Quantitative Researcher
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

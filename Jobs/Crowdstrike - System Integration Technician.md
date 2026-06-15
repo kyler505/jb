@@ -2,6 +2,7 @@
 company: Crowdstrike
 role: System Integration Technician
 category: new-grad
+discipline: other
 locations:
 - Bend, OR
 terms: []

@@ -2,6 +2,7 @@
 company: Peraton
 role: Research Intern
 category: internship
+discipline: other
 locations:
 - Reston, VA
 terms:

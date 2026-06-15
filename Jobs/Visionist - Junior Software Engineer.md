@@ -2,6 +2,7 @@
 company: Visionist
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Laurel, MD
 terms: []

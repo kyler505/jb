@@ -2,6 +2,7 @@
 company: Varda Space
 role: Mission Software – Intern - Python
 category: internship
+discipline: other
 locations:
 - El Segundo, CA
 terms:

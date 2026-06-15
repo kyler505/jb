@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Development Engineer Graduate - SDN Traffic Intelligence & Control
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

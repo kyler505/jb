@@ -2,6 +2,7 @@
 company: KRG Technologies
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Redmond, WA
 terms: []

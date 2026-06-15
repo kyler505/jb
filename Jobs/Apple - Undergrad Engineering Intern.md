@@ -2,6 +2,7 @@
 company: Apple
 role: Undergrad Engineering Intern
 category: internship
+discipline: other
 locations:
 - United States
 terms:

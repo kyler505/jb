@@ -2,6 +2,7 @@
 company: ASSYSTEM
 role: Graduate Digital Engineering & Integration Engineer
 category: new-grad
+discipline: other
 locations:
 - Wellington, UK
 terms: []

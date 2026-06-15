@@ -2,6 +2,7 @@
 company: Monolithic Power Systems
 role: AI Developer Intern
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

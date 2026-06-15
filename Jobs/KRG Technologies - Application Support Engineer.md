@@ -2,6 +2,7 @@
 company: KRG Technologies
 role: Application Support Engineer
 category: new-grad
+discipline: other
 locations:
 - Tampa, FL
 terms: []

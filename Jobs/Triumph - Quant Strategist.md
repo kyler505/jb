@@ -2,6 +2,7 @@
 company: Triumph
 role: Quant Strategist
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

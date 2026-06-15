@@ -2,6 +2,7 @@
 company: Insilico Logix
 role: Business Analyst / Data Analyst Entry Level
 category: new-grad
+discipline: data
 locations:
 - Reston, VA
 terms: []

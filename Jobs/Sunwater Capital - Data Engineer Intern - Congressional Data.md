@@ -2,6 +2,7 @@
 company: Sunwater Capital
 role: Data Engineer Intern - Congressional Data
 category: internship
+discipline: data
 locations:
 - North Bethesda, MD
 terms:

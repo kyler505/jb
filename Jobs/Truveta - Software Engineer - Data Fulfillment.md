@@ -2,6 +2,7 @@
 company: Truveta
 role: Software Engineer - Data Fulfillment
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

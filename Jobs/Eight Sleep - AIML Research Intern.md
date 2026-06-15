@@ -2,6 +2,7 @@
 company: Eight Sleep
 role: AI/ML Research Intern
 category: internship
+discipline: ml
 locations:
 - SF
 terms:

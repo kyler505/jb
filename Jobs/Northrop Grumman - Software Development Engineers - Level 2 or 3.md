@@ -2,6 +2,7 @@
 company: Northrop Grumman
 role: Software Development Engineers - Level 2 or 3
 category: new-grad
+discipline: swe
 locations:
 - Dulles, VA
 terms: []

@@ -2,6 +2,7 @@
 company: Akima
 role: Engineering Technician 1
 category: new-grad
+discipline: other
 locations:
 - Oklahoma City, OK
 terms: []

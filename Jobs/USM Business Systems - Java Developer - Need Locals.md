@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Java Developer - Need Locals
 category: new-grad
+discipline: swe
 locations:
 - Alexandria, VA
 terms: []

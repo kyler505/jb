@@ -2,6 +2,7 @@
 company: Expedia Group
 role: Developer - euse
 category: new-grad
+discipline: swe
 locations:
 - Montreal, QC, Canada
 terms: []

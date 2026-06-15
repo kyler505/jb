@@ -2,6 +2,7 @@
 company: Illinois Tool Works
 role: Field Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Ohio
 terms: []

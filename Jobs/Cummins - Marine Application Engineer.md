@@ -2,6 +2,7 @@
 company: Cummins
 role: Marine Application Engineer
 category: new-grad
+discipline: other
 locations:
 - New Orleans, LA
 terms: []

@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Intern – Corp IT - Grid Operations Applications
 category: internship
+discipline: other
 locations:
 - Davenport, IA
 terms:

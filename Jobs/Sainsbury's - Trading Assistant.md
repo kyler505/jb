@@ -2,6 +2,7 @@
 company: Sainsbury's
 role: Trading Assistant
 category: new-grad
+discipline: other
 locations:
 - Northwich, UK
 terms: []

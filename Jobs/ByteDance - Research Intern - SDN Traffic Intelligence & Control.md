@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Intern - SDN Traffic Intelligence & Control
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

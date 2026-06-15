@@ -2,6 +2,7 @@
 company: ByteDance
 role: Payment Partnership Project Intern - Global Payment
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

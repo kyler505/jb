@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Intern - Seed
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

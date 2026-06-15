@@ -2,6 +2,7 @@
 company: TikTok
 role: Graduate Machine Learning Engineer - TikTok Recommendation Live
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

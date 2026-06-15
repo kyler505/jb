@@ -2,6 +2,7 @@
 company: Flex
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Austin, TX
 terms: []

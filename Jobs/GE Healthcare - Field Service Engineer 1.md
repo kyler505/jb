@@ -2,6 +2,7 @@
 company: GE Healthcare
 role: Field Service Engineer 1
 category: new-grad
+discipline: other
 locations:
 - St. Louis, MO
 terms: []

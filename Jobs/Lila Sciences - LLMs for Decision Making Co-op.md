@@ -2,6 +2,7 @@
 company: Lila Sciences
 role: LLMs for Decision Making Co-op
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 terms:

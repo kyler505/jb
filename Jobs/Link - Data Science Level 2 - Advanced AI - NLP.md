@@ -2,6 +2,7 @@
 company: Link
 role: Data Science Level 2 - Advanced AI - NLP
 category: new-grad
+discipline: ml
 locations:
 - Odenton, MD
 terms: []

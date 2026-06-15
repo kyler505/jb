@@ -2,6 +2,7 @@
 company: TSMG
 role: AI/ML Data Contributor - Data Labeling - Content Evaluation
 category: new-grad
+discipline: ml
 locations:
 - Chicago, IL
 terms: []

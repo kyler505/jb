@@ -2,6 +2,7 @@
 company: Meta
 role: Data Engineer – University Grad - Product Analytics
 category: new-grad
+discipline: data
 locations:
 - Menlo Park, CA
 - NYC

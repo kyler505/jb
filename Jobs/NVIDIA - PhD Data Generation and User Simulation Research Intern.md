@@ -2,6 +2,7 @@
 company: NVIDIA
 role: PhD Data Generation and User Simulation Research Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

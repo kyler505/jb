@@ -2,6 +2,7 @@
 company: Hermeus
 role: Flight Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Atlanta, GA
 terms:

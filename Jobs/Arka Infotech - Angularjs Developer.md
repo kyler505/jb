@@ -2,6 +2,7 @@
 company: Arka Infotech
 role: Angularjs Developer
 category: new-grad
+discipline: swe
 locations:
 - Parowan, UT
 terms: []

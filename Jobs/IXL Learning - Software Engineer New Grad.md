@@ -2,6 +2,7 @@
 company: IXL Learning
 role: Software Engineer New Grad
 category: new-grad
+discipline: swe
 locations:
 - San Mateo, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Hanger
 role: Service Technician 1
 category: new-grad
+discipline: other
 locations:
 - Phoenix, AZ
 terms: []

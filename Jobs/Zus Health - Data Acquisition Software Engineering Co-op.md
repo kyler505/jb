@@ -2,6 +2,7 @@
 company: Zus Health
 role: Data Acquisition Software Engineering Co-op
 category: internship
+discipline: swe
 locations:
 - Boston, MA
 terms:

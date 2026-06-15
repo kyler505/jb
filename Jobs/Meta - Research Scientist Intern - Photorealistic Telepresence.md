@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Photorealistic Telepresence
 category: internship
+discipline: other
 locations:
 - Sausalito, CA
 - Redmond, WA

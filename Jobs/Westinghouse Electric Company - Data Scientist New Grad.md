@@ -2,6 +2,7 @@
 company: Westinghouse Electric Company
 role: Data Scientist New Grad
 category: new-grad
+discipline: data
 locations:
 - Cranberry Twp, PA
 terms: []

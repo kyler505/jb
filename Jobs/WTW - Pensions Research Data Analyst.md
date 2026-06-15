@@ -2,6 +2,7 @@
 company: WTW
 role: Pensions Research Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Dorking, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Collabera
 role: Entry Level Engineer
 category: new-grad
+discipline: other
 locations:
 - Princeton, NJ
 terms: []

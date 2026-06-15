@@ -2,6 +2,7 @@
 company: Nash
 role: Full Stack Engineer Intern
 category: internship
+discipline: swe
 locations:
 - SF
 terms:

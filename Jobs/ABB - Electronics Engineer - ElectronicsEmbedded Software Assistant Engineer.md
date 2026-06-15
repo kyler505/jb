@@ -2,6 +2,7 @@
 company: ABB
 role: Electronics Engineer - Electronics/Embedded Software Assistant Engineer
 category: internship
+discipline: hardware
 locations:
 - Bedford, UK
 terms:

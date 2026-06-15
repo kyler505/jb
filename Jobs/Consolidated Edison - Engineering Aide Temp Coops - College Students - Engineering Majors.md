@@ -2,6 +2,7 @@
 company: Consolidated Edison
 role: Engineering Aide Temp Coops - College Students - Engineering Majors
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

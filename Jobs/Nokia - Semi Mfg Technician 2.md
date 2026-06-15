@@ -2,6 +2,7 @@
 company: Nokia
 role: Semi Mfg Technician 2
 category: new-grad
+discipline: other
 locations:
 - United States
 terms: []

@@ -2,6 +2,7 @@
 company: NOV
 role: Sustaining Product Engineer
 category: new-grad
+discipline: other
 locations:
 - Tulsa, OK
 terms: []

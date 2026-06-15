@@ -2,6 +2,7 @@
 company: Warp
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 - Remote in Canada

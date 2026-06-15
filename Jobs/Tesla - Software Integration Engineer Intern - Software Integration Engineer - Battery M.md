@@ -3,6 +3,7 @@ company: Tesla
 role: Software Integration Engineer Intern - Software Integration Engineer - Battery
   Management Systems
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

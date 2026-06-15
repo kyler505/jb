@@ -2,6 +2,7 @@
 company: Whoop
 role: Software Engineer 1 - Backend
 category: new-grad
+discipline: backend
 locations:
 - Boston, MA
 terms: []

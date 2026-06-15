@@ -2,6 +2,7 @@
 company: Carnegie Mellon University
 role: Research Assistant - Tepper School of Business
 category: new-grad
+discipline: other
 locations:
 - Pittsburgh, PA
 terms: []

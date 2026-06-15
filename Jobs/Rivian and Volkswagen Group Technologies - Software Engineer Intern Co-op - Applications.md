@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Software Engineer Intern Co-op - Applications
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Vancouver, BC, Canada

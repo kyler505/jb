@@ -2,6 +2,7 @@
 company: Public Service Enterprise Group
 role: Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Newark, NJ
 terms: []

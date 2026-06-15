@@ -2,6 +2,7 @@
 company: General Motors
 role: Software Developer – Early Career
 category: new-grad
+discipline: swe
 locations:
 - Markham, ON, Canada
 - Oshawa, ON, Canada

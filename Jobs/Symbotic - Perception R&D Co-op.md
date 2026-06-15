@@ -2,6 +2,7 @@
 company: Symbotic
 role: Perception R&D Co-op
 category: internship
+discipline: other
 locations:
 - Burlington, MA
 terms:

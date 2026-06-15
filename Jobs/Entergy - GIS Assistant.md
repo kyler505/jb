@@ -2,6 +2,7 @@
 company: Entergy
 role: GIS Assistant
 category: new-grad
+discipline: other
 locations:
 - The Woodlands, TX
 terms: []

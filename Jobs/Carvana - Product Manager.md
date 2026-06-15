@@ -2,6 +2,7 @@
 company: Carvana
 role: Product Manager
 category: new-grad
+discipline: other
 locations:
 - Tempe, AZ
 terms: []

@@ -2,6 +2,7 @@
 company: CACI
 role: Junior C# Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Bethesda, MD
 terms: []

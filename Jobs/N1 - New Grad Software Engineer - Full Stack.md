@@ -2,6 +2,7 @@
 company: N1
 role: New Grad Software Engineer - Full Stack
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

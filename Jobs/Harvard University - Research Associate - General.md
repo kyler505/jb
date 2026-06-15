@@ -2,6 +2,7 @@
 company: Harvard University
 role: Research Associate - General
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

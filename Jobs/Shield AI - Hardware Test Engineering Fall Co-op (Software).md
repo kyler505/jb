@@ -2,6 +2,7 @@
 company: Shield AI
 role: Hardware Test Engineering Fall Co-op (Software)
 category: internship
+discipline: hardware
 locations:
 - Dallas, TX
 terms:

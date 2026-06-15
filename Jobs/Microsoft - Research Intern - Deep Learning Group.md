@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Deep Learning Group
 category: internship
+discipline: ml
 locations:
 - Redmond, WA
 terms:

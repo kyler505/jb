@@ -2,6 +2,7 @@
 company: FinQuery
 role: Database Engineer / Database Administrator
 category: new-grad
+discipline: other
 locations:
 - Atlanta, GA
 terms: []

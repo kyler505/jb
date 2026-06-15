@@ -2,6 +2,7 @@
 company: Sierra Nevada Corporation
 role: Systems Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Reston, VA
 terms: []

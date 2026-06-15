@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Performance Modeling Internship - Platform Architecture
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

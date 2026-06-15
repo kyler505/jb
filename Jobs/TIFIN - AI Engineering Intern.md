@@ -2,6 +2,7 @@
 company: TIFIN
 role: AI Engineering Intern
 category: internship
+discipline: ml
 locations:
 - Charlotte, NC
 - Boulder, CO

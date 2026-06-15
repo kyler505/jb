@@ -2,6 +2,7 @@
 company: Verkada
 role: Backend Software Engineering Intern
 category: internship
+discipline: backend
 locations:
 - San Mateo, CA
 terms:

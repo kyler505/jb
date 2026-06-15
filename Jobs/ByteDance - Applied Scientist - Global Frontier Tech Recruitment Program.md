@@ -2,6 +2,7 @@
 company: ByteDance
 role: Applied Scientist - Global Frontier Tech Recruitment Program
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

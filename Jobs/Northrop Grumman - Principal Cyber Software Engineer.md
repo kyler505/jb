@@ -2,6 +2,7 @@
 company: Northrop Grumman
 role: Principal Cyber Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Aurora, CO
 - Morrisville, NC

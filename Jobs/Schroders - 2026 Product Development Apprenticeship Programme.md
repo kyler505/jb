@@ -2,6 +2,7 @@
 company: Schroders
 role: 2026 Product Development Apprenticeship Programme
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

@@ -2,6 +2,7 @@
 company: Iridium Communications
 role: Applications Programmer 1
 category: new-grad
+discipline: swe
 locations:
 - Chandler, AZ
 terms: []

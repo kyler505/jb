@@ -2,6 +2,7 @@
 company: Tech Tammina
 role: Senior RedPrairie Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Atlanta, GA
 terms: []

@@ -2,6 +2,7 @@
 company: Gelber Group
 role: Technical Operations Intern
 category: internship
+discipline: other
 locations:
 - Chicago, IL
 terms:

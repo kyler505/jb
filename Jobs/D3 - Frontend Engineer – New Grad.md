@@ -2,6 +2,7 @@
 company: D3
 role: Frontend Engineer – New Grad
 category: new-grad
+discipline: frontend
 locations:
 - LA
 terms: []

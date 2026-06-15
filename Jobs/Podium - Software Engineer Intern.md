@@ -2,6 +2,7 @@
 company: Podium
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Lehi, UT
 terms:

@@ -2,6 +2,7 @@
 company: Amazon
 role: Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 - Boston, MA

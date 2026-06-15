@@ -2,6 +2,7 @@
 company: Tesla
 role: Data Analyst Intern - Data Analyst - Energy
 category: internship
+discipline: data
 locations:
 - Fremont, CA
 terms:

@@ -2,6 +2,7 @@
 company: TikTok
 role: General Hire – Machine Learning Scientist Graduate - TikTok Recommendation
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

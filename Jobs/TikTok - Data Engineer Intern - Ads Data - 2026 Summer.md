@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Engineer Intern - Ads Data - 2026 Summer
 category: internship
+discipline: data
 locations:
 - San Jose, CA
 terms:

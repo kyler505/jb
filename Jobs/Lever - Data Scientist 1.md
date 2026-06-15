@@ -2,6 +2,7 @@
 company: Lever
 role: Data Scientist 1
 category: new-grad
+discipline: data
 locations:
 - Belfast, UK
 terms: []

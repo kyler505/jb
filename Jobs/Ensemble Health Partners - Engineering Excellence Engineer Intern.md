@@ -2,6 +2,7 @@
 company: Ensemble Health Partners
 role: Engineering Excellence Engineer Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

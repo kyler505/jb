@@ -2,6 +2,7 @@
 company: Phillips 66
 role: Advisor 1 - Data Science - Product Optimization
 category: new-grad
+discipline: data
 locations:
 - Houston, TX
 terms: []

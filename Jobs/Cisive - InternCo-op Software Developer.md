@@ -2,6 +2,7 @@
 company: Cisive
 role: Intern/Co-op Software Developer
 category: internship
+discipline: swe
 locations:
 - Maryland
 terms:

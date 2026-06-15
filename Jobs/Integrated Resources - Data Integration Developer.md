@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Data Integration Developer
 category: new-grad
+discipline: swe
 locations:
 - Boston, MA
 terms: []

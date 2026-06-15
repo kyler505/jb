@@ -2,6 +2,7 @@
 company: Pennsylvania State University
 role: Science
 category: internship
+discipline: other
 locations:
 - Reading, PA
 terms:

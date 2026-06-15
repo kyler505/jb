@@ -2,6 +2,7 @@
 company: Atlas Energy Solutions
 role: AI Developer
 category: new-grad
+discipline: swe
 locations:
 - Austin, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Nokia
 role: Hardware Engineering Co-op
 category: internship
+discipline: hardware
 locations:
 - Sunnyvale, CA
 terms:

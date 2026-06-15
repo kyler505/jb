@@ -2,6 +2,7 @@
 company: Waters Corporation
 role: Field Service
 category: internship
+discipline: other
 locations:
 - San Diego, CA
 - LA

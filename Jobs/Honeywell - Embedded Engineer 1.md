@@ -2,6 +2,7 @@
 company: Honeywell
 role: Embedded Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - North Haven, CT
 terms: []

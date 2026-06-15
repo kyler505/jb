@@ -2,6 +2,7 @@
 company: Dutch
 role: Front-End Engineer - Shopify - Vue.js
 category: new-grad
+discipline: frontend
 locations:
 - Oakland, CA
 terms: []

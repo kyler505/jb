@@ -2,6 +2,7 @@
 company: Blue Cross Blue Shield of Michigan
 role: Data Science Analyst 1
 category: new-grad
+discipline: data
 locations:
 - Detroit, MI
 terms: []

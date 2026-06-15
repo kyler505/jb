@@ -2,6 +2,7 @@
 company: Quandri
 role: Product Co-op
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

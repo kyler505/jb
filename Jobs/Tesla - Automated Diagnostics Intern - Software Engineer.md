@@ -2,6 +2,7 @@
 company: Tesla
 role: Automated Diagnostics Intern - Software Engineer
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

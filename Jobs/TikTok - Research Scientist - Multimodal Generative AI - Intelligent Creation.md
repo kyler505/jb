@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist - Multimodal Generative AI - Intelligent Creation
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

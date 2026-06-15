@@ -2,6 +2,7 @@
 company: Robert Bosch Venture Capital
 role: Wireless Sensing Research Intern
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

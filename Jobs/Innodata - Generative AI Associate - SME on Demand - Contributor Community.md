@@ -2,6 +2,7 @@
 company: Innodata
 role: Generative AI Associate - SME on Demand - Contributor Community
 category: new-grad
+discipline: other
 locations:
 - Wyoming
 terms: []

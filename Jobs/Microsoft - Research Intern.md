@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern
 category: internship
+discipline: other
 locations:
 - Kitsap County, WA
 - Redmond, WA

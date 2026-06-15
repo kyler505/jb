@@ -2,6 +2,7 @@
 company: William & Mary
 role: Postdoctoral Fellow of Physics - Nuclear & Hadronic Theory
 category: new-grad
+discipline: other
 locations:
 - Williamsburg, VA
 terms: []

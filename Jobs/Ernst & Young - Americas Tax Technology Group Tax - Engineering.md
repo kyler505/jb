@@ -2,6 +2,7 @@
 company: Ernst & Young
 role: Americas Tax Technology Group Tax - Engineering
 category: new-grad
+discipline: other
 locations:
 - Nashville, TN
 - Austin, TX

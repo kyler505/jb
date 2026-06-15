@@ -2,6 +2,7 @@
 company: Charles Schwab
 role: Data and Rep Technology Associate
 category: new-grad
+discipline: other
 locations:
 - Southlake, TX
 terms: []

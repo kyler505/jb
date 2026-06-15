@@ -2,6 +2,7 @@
 company: Radix Trading
 role: Quantitative Researcher
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 - NYC

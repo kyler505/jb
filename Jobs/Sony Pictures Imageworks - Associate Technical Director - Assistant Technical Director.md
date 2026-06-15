@@ -2,6 +2,7 @@
 company: Sony Pictures Imageworks
 role: Associate Technical Director - Assistant Technical Director
 category: new-grad
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms: []

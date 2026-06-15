@@ -2,6 +2,7 @@
 company: Vertiv
 role: Customer Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Kansas City, MO
 terms: []

@@ -2,6 +2,7 @@
 company: WTW
 role: Investment Analyst
 category: new-grad
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms: []

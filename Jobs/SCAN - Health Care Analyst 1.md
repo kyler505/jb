@@ -2,6 +2,7 @@
 company: SCAN
 role: Health Care Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Long Beach, CA
 terms: []

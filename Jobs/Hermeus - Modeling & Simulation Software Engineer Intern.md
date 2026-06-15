@@ -2,6 +2,7 @@
 company: Hermeus
 role: Modeling & Simulation Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - LA
 terms:

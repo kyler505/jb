@@ -2,6 +2,7 @@
 company: Citadel
 role: Quantitative Research Analyst Intern - BS/MS - Europe
 category: internship
+discipline: other
 locations:
 - Paris, France
 - London, UK

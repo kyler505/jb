@@ -2,6 +2,7 @@
 company: University System of New Hampshire
 role: Datacenter Intern
 category: internship
+discipline: other
 locations:
 - Dover, NH
 terms:

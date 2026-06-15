@@ -2,6 +2,7 @@
 company: UW Health
 role: Revenue Cycle Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Middleton, WI
 terms: []

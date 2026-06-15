@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Quantitative Researcher
 category: new-grad
+discipline: other
 locations:
 - Ardmore, PA
 terms: []

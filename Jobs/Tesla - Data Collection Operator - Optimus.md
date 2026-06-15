@@ -2,6 +2,7 @@
 company: Tesla
 role: Data Collection Operator - Optimus
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Verisk
 role: Data Science Participant
 category: internship
+discipline: data
 locations:
 - London, UK
 - Norwich, UK

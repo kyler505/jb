@@ -2,6 +2,7 @@
 company: SharkNinja
 role: Product Developer
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

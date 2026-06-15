@@ -2,6 +2,7 @@
 company: Ascot
 role: Associate Full Stack AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - Stamford, CT
 - NYC

@@ -2,6 +2,7 @@
 company: Innodata
 role: Data Annotation Specialist
 category: new-grad
+discipline: other
 locations:
 - Concord, NH
 terms: []

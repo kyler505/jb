@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: CPU/AI Workload Analysis Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

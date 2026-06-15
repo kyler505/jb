@@ -2,6 +2,7 @@
 company: American Enterprise Institute
 role: Housing Center Intern
 category: internship
+discipline: other
 locations:
 - Washington, DC
 terms:

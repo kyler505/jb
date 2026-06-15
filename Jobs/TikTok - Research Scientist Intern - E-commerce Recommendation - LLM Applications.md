@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist Intern - E-commerce Recommendation - LLM Applications
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

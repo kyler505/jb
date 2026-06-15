@@ -2,6 +2,7 @@
 company: Zoox
 role: Student Worker Automation & Behavioral Science Engineer
 category: internship
+discipline: other
 locations:
 - San Mateo, CA
 terms:

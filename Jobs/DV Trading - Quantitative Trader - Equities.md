@@ -2,6 +2,7 @@
 company: DV Trading
 role: Quantitative Trader - Equities
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Double Eleven
 role: Graphics Programmer Intern
 category: internship
+discipline: swe
 locations:
 - Durham, UK
 terms:

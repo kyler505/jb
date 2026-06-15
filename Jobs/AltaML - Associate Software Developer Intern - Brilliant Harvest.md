@@ -2,6 +2,7 @@
 company: AltaML
 role: Associate Software Developer Intern - Brilliant Harvest
 category: internship
+discipline: swe
 locations:
 - Calgary, AB, Canada
 terms:

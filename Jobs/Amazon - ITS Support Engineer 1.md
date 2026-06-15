@@ -2,6 +2,7 @@
 company: Amazon
 role: ITS Support Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Tempe, AZ
 terms: []

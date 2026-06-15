@@ -2,6 +2,7 @@
 company: Leonardo
 role: Industrial Placement Electronics Intern
 category: internship
+discipline: other
 locations:
 - Essex, UK
 terms:

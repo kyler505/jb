@@ -2,6 +2,7 @@
 company: SpaceX
 role: Graduate Engineer - Software
 category: new-grad
+discipline: other
 locations:
 - Bastrop, TX
 terms: []

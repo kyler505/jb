@@ -2,6 +2,7 @@
 company: WindBorne Systems
 role: Firmware Intern
 category: internship
+discipline: hardware
 locations:
 - San Carlos, CA
 terms:

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Applied Research Intern - AI Safety Security - Global Tech Research Program
 category: internship
+discipline: security
 locations:
 - San Jose, CA
 terms:

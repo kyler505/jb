@@ -2,6 +2,7 @@
 company: Facility Solutions Group
 role: AI Automation Intern - Electrical Construction Operations
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

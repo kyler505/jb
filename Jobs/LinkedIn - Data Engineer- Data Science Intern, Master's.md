@@ -2,6 +2,7 @@
 company: LinkedIn
 role: Data Engineer- Data Science Intern, Master's
 category: internship
+discipline: data
 locations:
 - Mountain View, CA
 terms:

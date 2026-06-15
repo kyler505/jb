@@ -2,6 +2,7 @@
 company: The Information Lab
 role: The Data School - Data Analyst/Consultant
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

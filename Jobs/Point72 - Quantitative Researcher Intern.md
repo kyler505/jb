@@ -2,6 +2,7 @@
 company: Point72
 role: Quantitative Researcher Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

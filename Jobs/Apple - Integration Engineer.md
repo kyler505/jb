@@ -2,6 +2,7 @@
 company: Apple
 role: Integration Engineer
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

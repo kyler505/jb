@@ -2,6 +2,7 @@
 company: Scott Logic
 role: Graduate Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Newcastle upon Tyne, UK
 terms: []

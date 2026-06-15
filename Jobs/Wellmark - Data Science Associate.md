@@ -2,6 +2,7 @@
 company: Wellmark
 role: Data Science Associate
 category: new-grad
+discipline: data
 locations:
 - Des Moines, IA
 terms: []

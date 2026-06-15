@@ -2,6 +2,7 @@
 company: Sajix
 role: Machine Learning Engineer
 category: internship
+discipline: ml
 locations:
 - Pleasanton, CA
 terms:

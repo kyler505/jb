@@ -2,6 +2,7 @@
 company: Eurofins
 role: EMC Technician
 category: new-grad
+discipline: other
 locations:
 - Irvine, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Tower Research Capital
 role: Quantitative Researcher Intern
 category: internship
+discipline: other
 locations:
 - New York, NY
 terms:

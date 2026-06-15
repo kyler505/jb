@@ -2,6 +2,7 @@
 company: Tiber Technologies
 role: Web Developer/Visualization Analyst
 category: new-grad
+discipline: frontend
 locations:
 - Annapolis Junction, MD
 terms: []

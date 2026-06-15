@@ -2,6 +2,7 @@
 company: Lincoln Financial
 role: Associate – Actuarial Data Engineer
 category: new-grad
+discipline: data
 locations:
 - Villanova, PA
 - Charlotte, NC

@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Data Ecosystem
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

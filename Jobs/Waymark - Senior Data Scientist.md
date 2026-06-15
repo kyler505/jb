@@ -2,6 +2,7 @@
 company: Waymark
 role: Senior Data Scientist
 category: new-grad
+discipline: data
 locations:
 - SF
 terms: []

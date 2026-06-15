@@ -2,6 +2,7 @@
 company: Vertex Pharmaceuticals
 role: AI and Governance Co-op - AI and Governance
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

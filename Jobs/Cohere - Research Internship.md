@@ -2,6 +2,7 @@
 company: Cohere
 role: Research Internship
 category: internship
+discipline: other
 locations:
 - Montreal, QC, Canada
 - London, UK

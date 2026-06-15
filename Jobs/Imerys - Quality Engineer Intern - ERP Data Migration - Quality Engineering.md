@@ -2,6 +2,7 @@
 company: Imerys
 role: Quality Engineer Intern - ERP Data Migration - Quality Engineering
 category: internship
+discipline: other
 locations:
 - Niagara Falls, NY
 terms:

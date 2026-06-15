@@ -2,6 +2,7 @@
 company: iCapital Network
 role: Alternative Data Management Analyst
 category: new-grad
+discipline: other
 locations:
 - Salt Lake City, UT
 terms: []

@@ -2,6 +2,7 @@
 company: Epiroc
 role: Rig Control System Engineer
 category: new-grad
+discipline: other
 locations:
 - Garland, TX
 terms: []

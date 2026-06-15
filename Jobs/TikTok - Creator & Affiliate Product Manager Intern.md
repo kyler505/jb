@@ -2,6 +2,7 @@
 company: TikTok
 role: Creator & Affiliate Product Manager Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

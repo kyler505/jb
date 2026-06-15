@@ -2,6 +2,7 @@
 company: Anduril
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Boston, MA
 - Seattle, WA

@@ -2,6 +2,7 @@
 company: KBR
 role: Software Application Developer Intern for GOES-R Series Satellites
 category: internship
+discipline: swe
 locations:
 - Silver Spring, MD
 terms:

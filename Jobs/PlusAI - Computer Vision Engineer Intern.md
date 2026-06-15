@@ -2,6 +2,7 @@
 company: PlusAI
 role: Computer Vision Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Santa Clara, CA
 terms:

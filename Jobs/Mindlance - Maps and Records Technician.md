@@ -2,6 +2,7 @@
 company: Mindlance
 role: Maps and Records Technician
 category: new-grad
+discipline: other
 locations:
 - Syracuse, NY
 terms: []

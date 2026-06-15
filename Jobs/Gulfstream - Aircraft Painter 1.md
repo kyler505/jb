@@ -2,6 +2,7 @@
 company: Gulfstream
 role: Aircraft Painter 1
 category: new-grad
+discipline: other
 locations:
 - Savannah, GA
 terms: []

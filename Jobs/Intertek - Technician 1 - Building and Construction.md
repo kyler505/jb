@@ -2,6 +2,7 @@
 company: Intertek
 role: Technician 1 - Building and Construction
 category: new-grad
+discipline: other
 locations:
 - York, PA
 terms: []

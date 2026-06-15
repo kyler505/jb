@@ -2,6 +2,7 @@
 company: FlightHub
 role: Associate Technical Product Manager
 category: new-grad
+discipline: other
 locations:
 - Montreal, QC, Canada
 terms: []

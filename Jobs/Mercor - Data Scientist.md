@@ -2,6 +2,7 @@
 company: Mercor
 role: Data Scientist
 category: new-grad
+discipline: data
 locations:
 - SF
 terms: []

@@ -2,6 +2,7 @@
 company: Walrus
 role: Full Stack Developer Intern
 category: internship
+discipline: swe
 locations:
 - New York, NY
 terms:

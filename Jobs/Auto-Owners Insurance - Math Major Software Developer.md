@@ -2,6 +2,7 @@
 company: Auto-Owners Insurance
 role: Math Major Software Developer
 category: new-grad
+discipline: swe
 locations:
 - East Lansing, MI
 terms: []

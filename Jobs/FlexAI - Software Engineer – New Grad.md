@@ -2,6 +2,7 @@
 company: FlexAI
 role: Software Engineer – New Grad
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

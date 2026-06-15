@@ -2,6 +2,7 @@
 company: Life Fitness
 role: Embedded Software Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - Hoffman Estates, IL
 terms: []

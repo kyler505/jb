@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Onboard Fare Systems - Technology & Engineer Fellow
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

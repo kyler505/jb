@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Cambridge, MA
 terms: []

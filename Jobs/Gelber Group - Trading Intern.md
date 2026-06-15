@@ -2,6 +2,7 @@
 company: Gelber Group
 role: Trading Intern
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

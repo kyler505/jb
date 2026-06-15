@@ -2,6 +2,7 @@
 company: Hanger
 role: Assembly and Soldering Technician
 category: new-grad
+discipline: other
 locations:
 - Salt Lake City, UT
 terms: []

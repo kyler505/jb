@@ -2,6 +2,7 @@
 company: Cetera Financial Group
 role: Trading Specialist
 category: new-grad
+discipline: other
 locations:
 - St Cloud, MN
 terms: []

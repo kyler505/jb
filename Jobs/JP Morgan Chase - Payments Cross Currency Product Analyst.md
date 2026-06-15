@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Payments Cross Currency Product Analyst
 category: new-grad
+discipline: other
 locations:
 - Tampa, FL
 terms: []

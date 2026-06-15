@@ -2,6 +2,7 @@
 company: Adelphi Real World
 role: Data Processor 1
 category: new-grad
+discipline: other
 locations:
 - Buxton, UK
 terms: []

@@ -2,6 +2,7 @@
 company: SpaceX
 role: New Graduate Engineer - Software - Starlink
 category: new-grad
+discipline: other
 locations:
 - Redmond, WA
 terms: []

@@ -2,6 +2,7 @@
 company: Primerica
 role: Fraud Analyst Intern
 category: internship
+discipline: other
 locations:
 - Duluth, GA
 terms:

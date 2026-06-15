@@ -2,6 +2,7 @@
 company: Apple
 role: Software Engineer Silicon Engineering Documentation Tools
 category: new-grad
+discipline: swe
 locations:
 - Lafayette, KS
 terms: []

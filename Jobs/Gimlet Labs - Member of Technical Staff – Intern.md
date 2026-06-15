@@ -2,6 +2,7 @@
 company: Gimlet Labs
 role: Member of Technical Staff – Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Data Entry Associate/Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Exton, PA
 terms: []

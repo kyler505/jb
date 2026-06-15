@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Software Engineer Intern Co-op - Android Connectivity
 category: internship
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms:

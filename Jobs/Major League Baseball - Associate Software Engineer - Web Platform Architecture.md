@@ -2,6 +2,7 @@
 company: Major League Baseball
 role: Associate Software Engineer - Web Platform Architecture
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

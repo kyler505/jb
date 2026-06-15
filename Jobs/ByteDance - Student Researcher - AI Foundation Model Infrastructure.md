@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - AI Foundation Model Infrastructure
 category: internship
+discipline: devops
 locations:
 - Seattle, WA
 terms:

@@ -2,6 +2,7 @@
 company: Qorvo
 role: IC Substrate Development Engineer
 category: new-grad
+discipline: other
 locations:
 - Greensboro, NC
 terms: []

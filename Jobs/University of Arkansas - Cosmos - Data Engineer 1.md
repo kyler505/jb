@@ -2,6 +2,7 @@
 company: University of Arkansas
 role: Cosmos - Data Engineer 1
 category: new-grad
+discipline: data
 locations:
 - Little Rock, AR
 terms: []

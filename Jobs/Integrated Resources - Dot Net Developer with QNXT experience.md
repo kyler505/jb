@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Dot Net Developer with QNXT experience
 category: new-grad
+discipline: swe
 locations:
 - Cherry Hills Village, CO
 terms: []

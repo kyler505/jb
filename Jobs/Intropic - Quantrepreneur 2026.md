@@ -2,6 +2,7 @@
 company: Intropic
 role: Quantrepreneur 2026
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

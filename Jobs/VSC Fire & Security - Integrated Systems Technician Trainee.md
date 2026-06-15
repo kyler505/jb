@@ -2,6 +2,7 @@
 company: VSC Fire & Security
 role: Integrated Systems Technician Trainee
 category: internship
+discipline: other
 locations:
 - Dallas, TX
 terms:

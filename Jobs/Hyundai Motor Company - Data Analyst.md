@@ -2,6 +2,7 @@
 company: Hyundai Motor Company
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Irvine, CA
 terms: []

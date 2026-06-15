@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: AI Content Expert - Artificial General Intelligence
 category: new-grad
+discipline: other
 locations:
 - Cambridge, UK
 terms: []

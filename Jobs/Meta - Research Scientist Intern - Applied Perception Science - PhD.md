@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Applied Perception Science - PhD
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

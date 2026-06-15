@@ -2,6 +2,7 @@
 company: CLEAR
 role: Software Engineer - Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - NYC
 terms: []

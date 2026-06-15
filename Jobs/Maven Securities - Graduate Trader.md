@@ -2,6 +2,7 @@
 company: Maven Securities
 role: Graduate Trader
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

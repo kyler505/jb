@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Country Risk Data Owner - Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

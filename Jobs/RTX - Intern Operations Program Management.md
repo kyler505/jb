@@ -2,6 +2,7 @@
 company: RTX
 role: Intern Operations Program Management
 category: internship
+discipline: other
 locations:
 - Longueuil, QC, Canada
 terms:

@@ -2,6 +2,7 @@
 company: GM financial
 role: Risk Statistician
 category: new-grad
+discipline: other
 locations:
 - Fort Worth, TX
 terms: []

@@ -2,6 +2,7 @@
 company: REGENT
 role: Embedded Software Engineering Intern
 category: internship
+discipline: hardware
 locations:
 - North Kingstown, RI
 terms:

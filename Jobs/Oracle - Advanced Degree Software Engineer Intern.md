@@ -2,6 +2,7 @@
 company: Oracle
 role: Advanced Degree Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Pleasanton, CA
 - San Carlos, CA

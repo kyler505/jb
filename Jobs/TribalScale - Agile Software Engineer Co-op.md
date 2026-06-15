@@ -2,6 +2,7 @@
 company: TribalScale
 role: Agile Software Engineer Co-op
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms:

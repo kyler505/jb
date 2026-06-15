@@ -2,6 +2,7 @@
 company: True Anomaly
 role: Software Engineer - 1-2 - Prototype
 category: new-grad
+discipline: swe
 locations:
 - Denver, CO
 terms: []

@@ -2,6 +2,7 @@
 company: PNC Financial Services
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Pittsburgh, PA
 terms: []

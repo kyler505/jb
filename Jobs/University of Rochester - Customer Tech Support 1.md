@@ -2,6 +2,7 @@
 company: University of Rochester
 role: Customer Tech Support 1
 category: new-grad
+discipline: other
 locations:
 - Rochester, NY
 terms: []

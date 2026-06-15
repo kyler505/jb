@@ -2,6 +2,7 @@
 company: ByteDance
 role: RDMA Network Software Development Engineer Graduate - High Speed Network
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

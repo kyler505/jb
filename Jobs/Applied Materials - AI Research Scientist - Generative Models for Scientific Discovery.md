@@ -2,6 +2,7 @@
 company: Applied Materials
 role: AI Research Scientist - Generative Models for Scientific Discovery
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

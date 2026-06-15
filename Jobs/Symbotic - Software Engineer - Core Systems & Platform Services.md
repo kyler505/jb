@@ -2,6 +2,7 @@
 company: Symbotic
 role: Software Engineer - Core Systems & Platform Services
 category: new-grad
+discipline: swe
 locations:
 - Burlington, MA
 terms: []

@@ -2,6 +2,7 @@
 company: Rocket Lab USA
 role: Software Intern
 category: internship
+discipline: other
 locations:
 - Albuquerque, NM
 terms:

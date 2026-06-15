@@ -2,6 +2,7 @@
 company: Sika
 role: Graduate Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Solihull, UK
 - Leeds, UK

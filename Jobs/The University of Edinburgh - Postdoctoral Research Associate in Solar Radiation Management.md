@@ -2,6 +2,7 @@
 company: The University of Edinburgh
 role: Postdoctoral Research Associate in Solar Radiation Management
 category: new-grad
+discipline: other
 locations:
 - Edinburgh, UK
 terms: []

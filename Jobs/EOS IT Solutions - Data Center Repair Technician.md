@@ -2,6 +2,7 @@
 company: EOS IT Solutions
 role: Data Center Repair Technician
 category: new-grad
+discipline: other
 locations:
 - New Albany, OH
 terms: []

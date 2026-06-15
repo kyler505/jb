@@ -2,6 +2,7 @@
 company: KeyBank
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Brooklyn, OH
 terms: []

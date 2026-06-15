@@ -2,6 +2,7 @@
 company: RTX
 role: Digital Hardware Design Engineer 2 - Digital Hardware Design Engineer II
 category: new-grad
+discipline: hardware
 locations:
 - McKinney, TX
 terms: []

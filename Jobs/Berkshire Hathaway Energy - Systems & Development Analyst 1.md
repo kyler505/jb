@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Systems & Development Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Des Moines, IA
 - Richmond, VA

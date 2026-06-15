@@ -2,6 +2,7 @@
 company: Light & Wonder
 role: Associate Mathematician
 category: new-grad
+discipline: other
 locations:
 - Las Vegas, NV
 terms: []

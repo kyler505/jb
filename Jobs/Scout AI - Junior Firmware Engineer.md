@@ -2,6 +2,7 @@
 company: Scout AI
 role: Junior Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Sunnyvale, CA
 terms: []

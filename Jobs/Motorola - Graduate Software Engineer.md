@@ -2,6 +2,7 @@
 company: Motorola
 role: Graduate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Glasgow, UK
 terms: []

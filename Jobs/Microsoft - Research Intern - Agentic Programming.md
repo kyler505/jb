@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Agentic Programming
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

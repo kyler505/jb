@@ -2,6 +2,7 @@
 company: Hunt Oil Company
 role: SAP BTP Application Developer Intern - Summer 2026
 category: internship
+discipline: swe
 locations:
 - Dallas, TX
 terms:

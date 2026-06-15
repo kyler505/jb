@@ -2,6 +2,7 @@
 company: Duke Energy
 role: GIS Technologist 1
 category: new-grad
+discipline: other
 locations:
 - Cincinnati, OH
 terms: []

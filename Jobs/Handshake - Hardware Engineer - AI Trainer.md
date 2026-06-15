@@ -2,6 +2,7 @@
 company: Handshake
 role: Hardware Engineer - AI Trainer
 category: new-grad
+discipline: hardware
 locations:
 - Remote in USA
 terms: []

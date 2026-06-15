@@ -2,6 +2,7 @@
 company: PJM
 role: Engineer/Analyst 1 - II
 category: new-grad
+discipline: other
 locations:
 - King of Prussia, PA
 terms: []

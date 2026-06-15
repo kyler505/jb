@@ -2,6 +2,7 @@
 company: Vertiv
 role: Product Engineer - Energy Storage
 category: new-grad
+discipline: other
 locations:
 - Ohio
 terms: []

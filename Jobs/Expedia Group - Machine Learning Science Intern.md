@@ -2,6 +2,7 @@
 company: Expedia Group
 role: Machine Learning Science Intern
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 - Austin, TX

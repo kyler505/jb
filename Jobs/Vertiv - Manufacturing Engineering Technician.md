@@ -2,6 +2,7 @@
 company: Vertiv
 role: Manufacturing Engineering Technician
 category: new-grad
+discipline: other
 locations:
 - Ashland, KY
 terms: []

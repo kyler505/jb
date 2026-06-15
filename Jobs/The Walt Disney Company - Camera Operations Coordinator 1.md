@@ -2,6 +2,7 @@
 company: The Walt Disney Company
 role: Camera Operations Coordinator 1
 category: new-grad
+discipline: other
 locations:
 - Bristol, CT
 terms: []

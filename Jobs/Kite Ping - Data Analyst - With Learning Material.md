@@ -2,6 +2,7 @@
 company: Kite Ping
 role: Data Analyst - With Learning Material
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

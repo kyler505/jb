@@ -2,6 +2,7 @@
 company: Eurofins
 role: Intern
 category: internship
+discipline: other
 locations:
 - Hayward, CA
 terms:

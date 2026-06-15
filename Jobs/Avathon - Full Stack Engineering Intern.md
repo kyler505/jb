@@ -2,6 +2,7 @@
 company: Avathon
 role: Full Stack Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Pleasanton, CA
 terms:

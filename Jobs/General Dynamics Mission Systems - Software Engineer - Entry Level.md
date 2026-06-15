@@ -2,6 +2,7 @@
 company: General Dynamics Mission Systems
 role: Software Engineer - Entry Level
 category: new-grad
+discipline: swe
 locations:
 - Pittsfield, MA
 terms: []

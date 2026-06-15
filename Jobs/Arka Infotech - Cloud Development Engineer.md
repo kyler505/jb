@@ -2,6 +2,7 @@
 company: Arka Infotech
 role: Cloud Development Engineer
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

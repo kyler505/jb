@@ -2,6 +2,7 @@
 company: Ultra Intelligence and Communications
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Austin, TX
 terms:

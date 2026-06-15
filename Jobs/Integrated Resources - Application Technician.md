@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Application Technician
 category: new-grad
+discipline: other
 locations:
 - Elmira, NY
 terms: []

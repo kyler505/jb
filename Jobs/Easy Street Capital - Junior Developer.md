@@ -2,6 +2,7 @@
 company: Easy Street Capital
 role: Junior Developer
 category: new-grad
+discipline: swe
 locations:
 - Irvine, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Solink
 role: Software Engineer Co-op - R&D- Data Integrations
 category: internship
+discipline: swe
 locations:
 - Ottawa, ON, Canada
 terms:

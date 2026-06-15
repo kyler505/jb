@@ -2,6 +2,7 @@
 company: Higharc
 role: Research Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

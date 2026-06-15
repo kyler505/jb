@@ -2,6 +2,7 @@
 company: Neuralink
 role: Firmware Engineer - Robotics and Surgery Engineering
 category: internship
+discipline: hardware
 locations:
 - Fremont, CA
 terms:

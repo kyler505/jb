@@ -2,6 +2,7 @@
 company: Institute of Foundation Models
 role: AIE Intern
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

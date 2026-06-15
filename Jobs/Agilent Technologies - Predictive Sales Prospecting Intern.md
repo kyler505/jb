@@ -2,6 +2,7 @@
 company: Agilent Technologies
 role: Predictive Sales Prospecting Intern
 category: internship
+discipline: other
 locations:
 - Wilmington, DE
 terms:

@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Santa Clara, CA
 terms:

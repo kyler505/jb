@@ -2,6 +2,7 @@
 company: Testing Xperts
 role: Friedman Frontier Technical Expert
 category: new-grad
+discipline: other
 locations:
 - Cincinnati, OH
 terms: []

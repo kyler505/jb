@@ -2,6 +2,7 @@
 company: Microchip Technology
 role: Engineer 1-Device - Semiconductor Modeling Test & Analysis
 category: new-grad
+discipline: other
 locations:
 - Chandler, AZ
 terms: []

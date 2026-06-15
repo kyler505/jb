@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Facets .Net Developer - Need GC and USC
 category: new-grad
+discipline: swe
 locations:
 - California City, CA
 terms: []

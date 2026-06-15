@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

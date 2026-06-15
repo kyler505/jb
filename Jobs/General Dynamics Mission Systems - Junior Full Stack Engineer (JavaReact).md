@@ -2,6 +2,7 @@
 company: General Dynamics Mission Systems
 role: Junior Full Stack Engineer (Java/React)
 category: new-grad
+discipline: swe
 locations:
 - Dedham, MA
 terms: []

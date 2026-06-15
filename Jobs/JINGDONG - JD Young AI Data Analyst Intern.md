@@ -2,6 +2,7 @@
 company: JINGDONG
 role: JD Young AI Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

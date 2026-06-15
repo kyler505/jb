@@ -2,6 +2,7 @@
 company: Advanced Energy
 role: Electronics Service Intern
 category: internship
+discipline: other
 locations:
 - Fort Collins, CO
 terms:

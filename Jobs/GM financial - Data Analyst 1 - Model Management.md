@@ -2,6 +2,7 @@
 company: GM financial
 role: Data Analyst 1 - Model Management
 category: new-grad
+discipline: data
 locations:
 - Detroit, MI
 - Fort Worth, TX

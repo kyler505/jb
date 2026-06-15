@@ -2,6 +2,7 @@
 company: Jump Crypto
 role: Crypto Researcher
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

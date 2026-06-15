@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Graduate - Cloud Native Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Goldman Sachs
 role: Software Engineer - Data
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: BNY
 role: Associate 1
 category: new-grad
+discipline: other
 locations:
 - Lake Mary, FL
 terms: []

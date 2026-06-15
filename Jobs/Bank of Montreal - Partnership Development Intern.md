@@ -2,6 +2,7 @@
 company: Bank of Montreal
 role: Partnership Development Intern
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

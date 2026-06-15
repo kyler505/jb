@@ -2,6 +2,7 @@
 company: RTX
 role: Microelectronics Assembly Technician
 category: new-grad
+discipline: other
 locations:
 - Andover, MA
 terms: []

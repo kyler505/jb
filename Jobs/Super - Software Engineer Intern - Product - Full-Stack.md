@@ -2,6 +2,7 @@
 company: Super
 role: Software Engineer Intern - Product - Full-Stack
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms:

@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Computational Social Science
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

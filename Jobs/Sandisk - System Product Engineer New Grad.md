@@ -2,6 +2,7 @@
 company: Sandisk
 role: System Product Engineer New Grad
 category: new-grad
+discipline: other
 locations:
 - Milpitas, CA
 terms: []

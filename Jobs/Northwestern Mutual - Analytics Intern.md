@@ -2,6 +2,7 @@
 company: Northwestern Mutual
 role: Analytics Intern
 category: internship
+discipline: data
 locations:
 - Milwaukee, WI
 terms:

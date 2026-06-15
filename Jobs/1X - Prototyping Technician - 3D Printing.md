@@ -2,6 +2,7 @@
 company: 1X
 role: Prototyping Technician - 3D Printing
 category: new-grad
+discipline: other
 locations:
 - Palo Alto, CA
 terms: []

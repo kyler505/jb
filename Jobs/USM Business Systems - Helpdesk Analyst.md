@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Helpdesk Analyst
 category: new-grad
+discipline: other
 locations:
 - Baltimore, MD
 terms: []

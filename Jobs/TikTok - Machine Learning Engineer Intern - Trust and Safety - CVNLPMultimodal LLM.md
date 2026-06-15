@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 terms:

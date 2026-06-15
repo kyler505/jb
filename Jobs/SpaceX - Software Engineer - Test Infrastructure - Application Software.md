@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineer - Test Infrastructure - Application Software
 category: new-grad
+discipline: devops
 locations:
 - West Athens, CA
 terms: []

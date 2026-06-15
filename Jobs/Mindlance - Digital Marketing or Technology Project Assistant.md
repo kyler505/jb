@@ -2,6 +2,7 @@
 company: Mindlance
 role: Digital Marketing or Technology/ Project Assistant
 category: new-grad
+discipline: other
 locations:
 - Livingston, NJ
 terms: []

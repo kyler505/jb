@@ -2,6 +2,7 @@
 company: Orb
 role: Software Engineer – Early Career - Core Product
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

@@ -2,6 +2,7 @@
 company: General Motors
 role: Software Developer Intern - Virtualization and SIL Integration
 category: internship
+discipline: swe
 locations:
 - Markham, ON, Canada
 terms:

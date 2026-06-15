@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs
 category: internship
+discipline: ml
 locations:
 - Santa Clara, CA
 terms:

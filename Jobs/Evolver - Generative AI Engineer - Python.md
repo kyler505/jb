@@ -2,6 +2,7 @@
 company: Evolver
 role: Generative AI Engineer - Python
 category: new-grad
+discipline: ml
 locations:
 - Palo Alto, CA
 terms: []

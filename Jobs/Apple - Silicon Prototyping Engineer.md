@@ -2,6 +2,7 @@
 company: Apple
 role: Silicon Prototyping Engineer
 category: new-grad
+discipline: other
 locations:
 - Cupertino, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Nuro
 role: Vehicle Reliability Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 - Mountain View, CA

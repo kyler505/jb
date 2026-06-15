@@ -2,6 +2,7 @@
 company: DP World
 role: Business Intelligence Apprentice
 category: internship
+discipline: data
 locations:
 - Thurrock, UK
 terms:

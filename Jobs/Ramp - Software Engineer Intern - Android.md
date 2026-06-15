@@ -2,6 +2,7 @@
 company: Ramp
 role: Software Engineer Intern - Android
 category: internship
+discipline: swe
 locations:
 - SF
 - NYC

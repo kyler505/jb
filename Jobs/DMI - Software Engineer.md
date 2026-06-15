@@ -2,6 +2,7 @@
 company: DMI
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Cincinnati, OH
 terms: []

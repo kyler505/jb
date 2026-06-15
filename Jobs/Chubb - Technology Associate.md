@@ -2,6 +2,7 @@
 company: Chubb
 role: Technology Associate
 category: new-grad
+discipline: other
 locations:
 - Philadelphia, PA
 - NYC

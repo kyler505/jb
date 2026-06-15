@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist Intern - TikTok Search / Generative AI - LLM
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

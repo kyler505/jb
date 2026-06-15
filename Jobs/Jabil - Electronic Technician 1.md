@@ -2,6 +2,7 @@
 company: Jabil
 role: Electronic Technician 1
 category: new-grad
+discipline: other
 locations:
 - Memphis, TN
 terms: []

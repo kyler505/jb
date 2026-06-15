@@ -2,6 +2,7 @@
 company: Acuren
 role: Drone Operator - Pilot
 category: new-grad
+discipline: other
 locations:
 - Cincinnati, OH
 terms: []

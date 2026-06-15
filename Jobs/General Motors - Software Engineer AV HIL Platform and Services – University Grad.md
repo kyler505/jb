@@ -2,6 +2,7 @@
 company: General Motors
 role: Software Engineer AV HIL Platform and Services – University Grad
 category: new-grad
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms: []

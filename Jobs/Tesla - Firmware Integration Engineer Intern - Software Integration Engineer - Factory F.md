@@ -3,6 +3,7 @@ company: Tesla
 role: Firmware Integration Engineer Intern - Software Integration Engineer - Factory
   Firmware
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

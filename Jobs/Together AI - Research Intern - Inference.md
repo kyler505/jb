@@ -2,6 +2,7 @@
 company: Together AI
 role: Research Intern - Inference
 category: internship
+discipline: other
 locations:
 - SF
 terms:

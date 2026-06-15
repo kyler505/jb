@@ -3,6 +3,7 @@ company: Tesla
 role: Operational Automation Software Engineer Intern - Operational Automation Engineer
   - Residential Energy
 category: internship
+discipline: swe
 locations:
 - Draper, UT
 terms:

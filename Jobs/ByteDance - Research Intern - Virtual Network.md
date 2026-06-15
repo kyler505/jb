@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Intern - Virtual Network
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

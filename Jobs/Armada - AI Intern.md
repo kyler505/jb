@@ -2,6 +2,7 @@
 company: Armada
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - Bellevue, WA
 terms:

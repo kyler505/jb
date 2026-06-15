@@ -2,6 +2,7 @@
 company: Stash
 role: Engineer Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

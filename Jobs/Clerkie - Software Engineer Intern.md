@@ -2,6 +2,7 @@
 company: Clerkie
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

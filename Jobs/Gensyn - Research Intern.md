@@ -2,6 +2,7 @@
 company: Gensyn
 role: Research Intern
 category: internship
+discipline: other
 locations:
 - Remote in UK
 terms:

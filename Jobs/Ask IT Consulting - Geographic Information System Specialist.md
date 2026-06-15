@@ -2,6 +2,7 @@
 company: Ask IT Consulting
 role: Geographic Information System Specialist
 category: internship
+discipline: other
 locations:
 - Little Rock, AR
 terms:

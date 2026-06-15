@@ -2,6 +2,7 @@
 company: Aquatic Capital Management
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - London, UK
 - Chicago, IL

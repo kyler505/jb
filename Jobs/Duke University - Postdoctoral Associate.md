@@ -2,6 +2,7 @@
 company: Duke University
 role: Postdoctoral Associate
 category: new-grad
+discipline: other
 locations:
 - Durham, NC
 terms: []

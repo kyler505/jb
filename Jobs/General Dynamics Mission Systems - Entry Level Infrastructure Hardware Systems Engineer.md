@@ -2,6 +2,7 @@
 company: General Dynamics Mission Systems
 role: Entry Level Infrastructure Hardware Systems Engineer
 category: new-grad
+discipline: devops
 locations:
 - Pittsfield, MA
 terms: []

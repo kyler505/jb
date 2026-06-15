@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Engineering Technician B
 category: new-grad
+discipline: other
 locations:
 - Salt Lake City, UT
 terms: []

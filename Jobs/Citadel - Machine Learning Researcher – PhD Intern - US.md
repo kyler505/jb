@@ -2,6 +2,7 @@
 company: Citadel
 role: Machine Learning Researcher – PhD Intern - US
 category: internship
+discipline: ml
 locations:
 - NYC
 terms:

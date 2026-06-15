@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Engineer Intern - Software Engineer - AI Hardware Infrastructure
 category: internship
+discipline: devops
 locations:
 - Palo Alto, CA
 terms:

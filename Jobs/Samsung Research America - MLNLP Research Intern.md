@@ -2,6 +2,7 @@
 company: Samsung Research America
 role: ML/NLP Research Intern
 category: internship
+discipline: ml
 locations:
 - Mountain View, CA
 terms:

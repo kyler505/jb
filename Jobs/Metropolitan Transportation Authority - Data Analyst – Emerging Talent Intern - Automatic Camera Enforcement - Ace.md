@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Data Analyst – Emerging Talent Intern - Automatic Camera Enforcement - Ace
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

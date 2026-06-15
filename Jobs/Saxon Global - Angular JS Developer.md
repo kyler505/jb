@@ -2,6 +2,7 @@
 company: Saxon Global
 role: Angular JS Developer
 category: new-grad
+discipline: swe
 locations:
 - Denver, CO
 terms: []

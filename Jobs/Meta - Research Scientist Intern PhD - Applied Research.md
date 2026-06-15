@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern PhD - Applied Research
 category: internship
+discipline: other
 locations:
 - Menlo Park, CA
 - NYC

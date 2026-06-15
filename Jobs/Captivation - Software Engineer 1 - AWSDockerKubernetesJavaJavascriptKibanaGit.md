@@ -2,6 +2,7 @@
 company: Captivation
 role: Software Engineer 1 - AWS/Docker/Kubernetes/Java/Javascript/Kibana/Git
 category: new-grad
+discipline: swe
 locations:
 - Annapolis Junction, MD
 terms: []

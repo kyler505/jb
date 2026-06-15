@@ -2,6 +2,7 @@
 company: Tesla
 role: Engineering Technician - Passive Safety
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

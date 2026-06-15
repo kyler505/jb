@@ -2,6 +2,7 @@
 company: Tesla
 role: Data Labeler
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

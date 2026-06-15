@@ -2,6 +2,7 @@
 company: Ivo
 role: Software Engineer, Frontend
 category: new-grad
+discipline: frontend
 locations:
 - San Francisco, CA
 terms: []

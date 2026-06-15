@@ -2,6 +2,7 @@
 company: Valeo
 role: Sales & Data Analytics Intern
 category: internship
+discipline: data
 locations:
 - Troy, MI
 terms:

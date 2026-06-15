@@ -2,6 +2,7 @@
 company: RELX
 role: Solutions Analyst
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

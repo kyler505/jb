@@ -2,6 +2,7 @@
 company: Eurofins
 role: Engineering Intern - Test Engineer
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

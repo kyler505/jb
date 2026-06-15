@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Intern – Engineer Operations & Analytics
 category: internship
+discipline: data
 locations:
 - Omaha, NE
 terms:

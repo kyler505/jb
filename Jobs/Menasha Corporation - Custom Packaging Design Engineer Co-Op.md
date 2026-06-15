@@ -2,6 +2,7 @@
 company: Menasha Corporation
 role: Custom Packaging Design Engineer Co-Op
 category: internship
+discipline: other
 locations:
 - Mentor, OH
 terms:

@@ -2,6 +2,7 @@
 company: D2L
 role: Software Developer – New Graduate
 category: new-grad
+discipline: swe
 locations:
 - Winnipeg, MB, Canada
 - Toronto, ON, Canada

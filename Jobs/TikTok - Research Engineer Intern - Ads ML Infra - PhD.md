@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Engineer Intern - Ads ML Infra - PhD
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

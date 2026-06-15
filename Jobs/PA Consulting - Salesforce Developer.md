@@ -2,6 +2,7 @@
 company: PA Consulting
 role: Salesforce Developer
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

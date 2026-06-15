@@ -2,6 +2,7 @@
 company: Latitude AI
 role: GIS Production Analyst
 category: new-grad
+discipline: other
 locations:
 - Pittsburgh, PA
 terms: []

@@ -2,6 +2,7 @@
 company: ABB
 role: AI Vision Engineer Intern- AI Robotics
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

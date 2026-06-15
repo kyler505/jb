@@ -2,6 +2,7 @@
 company: Lightfield
 role: AI Product Engineer – New Grad
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

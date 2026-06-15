@@ -2,6 +2,7 @@
 company: Silna Health
 role: AI Deployment Analyst
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Uncountable
 role: Full-Stack Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 - SF

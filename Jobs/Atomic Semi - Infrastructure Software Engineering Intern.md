@@ -2,6 +2,7 @@
 company: Atomic Semi
 role: Infrastructure Software Engineering Intern
 category: internship
+discipline: devops
 locations:
 - San Francisco, CA
 - Austin, TX

@@ -2,6 +2,7 @@
 company: Amazon
 role: Data Scientist 1 - Demand Forecasting
 category: new-grad
+discipline: data
 locations:
 - Bellevue, WA
 terms: []

@@ -2,6 +2,7 @@
 company: TikTok
 role: AI Product Operations Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

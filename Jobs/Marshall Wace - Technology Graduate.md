@@ -2,6 +2,7 @@
 company: Marshall Wace
 role: Technology Graduate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

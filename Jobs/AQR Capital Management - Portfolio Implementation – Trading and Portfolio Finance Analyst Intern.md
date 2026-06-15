@@ -2,6 +2,7 @@
 company: AQR Capital Management
 role: Portfolio Implementation – Trading and Portfolio Finance Analyst Intern
 category: internship
+discipline: other
 locations:
 - Greenwich, CT
 terms:

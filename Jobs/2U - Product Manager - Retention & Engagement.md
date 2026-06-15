@@ -2,6 +2,7 @@
 company: 2U
 role: Product Manager - Retention & Engagement
 category: new-grad
+discipline: other
 locations:
 - Alexandria, VA
 terms: []

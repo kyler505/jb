@@ -2,6 +2,7 @@
 company: AnySignal
 role: Embedded Software Intern
 category: internship
+discipline: hardware
 locations:
 - Los Angeles, CA
 terms:

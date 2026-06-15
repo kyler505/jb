@@ -2,6 +2,7 @@
 company: Anima
 role: Intern/New Grad Software Engineer
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

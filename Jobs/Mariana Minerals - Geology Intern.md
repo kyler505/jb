@@ -2,6 +2,7 @@
 company: Mariana Minerals
 role: Geology Intern
 category: internship
+discipline: other
 locations:
 - Moab, UT
 terms:

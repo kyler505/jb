@@ -2,6 +2,7 @@
 company: Howmet Aerospace
 role: Product Engineer
 category: new-grad
+discipline: other
 locations:
 - Muskegon, MI
 terms: []

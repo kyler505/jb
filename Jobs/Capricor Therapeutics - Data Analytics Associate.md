@@ -2,6 +2,7 @@
 company: Capricor Therapeutics
 role: Data Analytics Associate
 category: new-grad
+discipline: data
 locations:
 - San Diego, CA
 terms: []

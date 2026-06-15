@@ -2,6 +2,7 @@
 company: Atria Group
 role: Business Warehouse
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

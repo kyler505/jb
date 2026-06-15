@@ -2,6 +2,7 @@
 company: Applied Materials
 role: Product Line Management - New College Grad-Master's - Santa Clara','CA
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

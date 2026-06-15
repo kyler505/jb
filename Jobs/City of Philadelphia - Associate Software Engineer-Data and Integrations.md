@@ -2,6 +2,7 @@
 company: City of Philadelphia
 role: Associate Software Engineer-Data and Integrations
 category: new-grad
+discipline: swe
 locations:
 - Philadelphia, PA
 terms: []

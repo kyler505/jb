@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Android Developer Intern
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

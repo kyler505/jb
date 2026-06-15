@@ -2,6 +2,7 @@
 company: Astemo
 role: Analysis Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Greenfield, IN
 terms: []

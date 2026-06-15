@@ -2,6 +2,7 @@
 company: Primetals Technologies
 role: Software Development & Data Science Analyst Intern - Month contract
 category: internship
+discipline: data
 locations:
 - Laval, QC, Canada
 - Mississauga, ON, Canada

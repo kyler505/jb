@@ -2,6 +2,7 @@
 company: Brunswick
 role: Embedded Software Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Oshkosh, WI
 terms: []

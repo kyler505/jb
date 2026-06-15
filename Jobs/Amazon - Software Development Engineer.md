@@ -2,6 +2,7 @@
 company: Amazon
 role: Software Development Engineer
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

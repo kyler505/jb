@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Development Engineer - Network Monitoring & Alerts
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

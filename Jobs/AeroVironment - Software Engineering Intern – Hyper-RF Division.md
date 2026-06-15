@@ -2,6 +2,7 @@
 company: AeroVironment
 role: Software Engineering Intern – Hyper-RF Division
 category: internship
+discipline: swe
 locations:
 - Germantown, MD
 terms:

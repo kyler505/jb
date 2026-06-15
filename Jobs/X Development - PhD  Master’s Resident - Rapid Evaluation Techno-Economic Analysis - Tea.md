@@ -2,6 +2,7 @@
 company: X Development
 role: PhD / Master’s Resident - Rapid Evaluation Techno-Economic Analysis - Tea
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

@@ -2,6 +2,7 @@
 company: Northwood Space
 role: Software Engineer – New grad / early career
 category: new-grad
+discipline: swe
 locations:
 - Carson, CA
 terms: []

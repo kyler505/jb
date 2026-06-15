@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Monetization Technology - 2026 Summer - BS/MS
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

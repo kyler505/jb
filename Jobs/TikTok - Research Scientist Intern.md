@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

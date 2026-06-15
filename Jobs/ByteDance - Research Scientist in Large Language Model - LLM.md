@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist in Large Language Model - LLM
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

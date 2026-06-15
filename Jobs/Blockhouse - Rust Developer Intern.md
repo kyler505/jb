@@ -2,6 +2,7 @@
 company: Blockhouse
 role: Rust Developer Intern
 category: internship
+discipline: swe
 locations:
 - Detroit, MI
 - NYC

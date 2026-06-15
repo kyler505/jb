@@ -2,6 +2,7 @@
 company: Quadric
 role: AI Kernel Engineer Intern - Kernel Optimization
 category: internship
+discipline: other
 locations:
 - Burlingame, CA
 terms:

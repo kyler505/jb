@@ -2,6 +2,7 @@
 company: Wellmark
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Des Moines, IA
 terms: []

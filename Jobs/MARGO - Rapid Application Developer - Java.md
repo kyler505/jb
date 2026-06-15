@@ -2,6 +2,7 @@
 company: MARGO
 role: Rapid Application Developer - Java
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Schonfeld
 role: Market Data Analyst
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

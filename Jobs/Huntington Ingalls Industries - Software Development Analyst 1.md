@@ -2,6 +2,7 @@
 company: Huntington Ingalls Industries
 role: Software Development Analyst 1
 category: new-grad
+discipline: swe
 locations:
 - Biloxi, MS
 terms: []

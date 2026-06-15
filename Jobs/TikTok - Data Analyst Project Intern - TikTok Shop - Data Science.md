@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Analyst Project Intern - TikTok Shop - Data Science
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

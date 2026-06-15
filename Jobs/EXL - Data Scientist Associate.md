@@ -2,6 +2,7 @@
 company: EXL
 role: Data Scientist Associate
 category: new-grad
+discipline: data
 locations:
 - United States
 terms: []

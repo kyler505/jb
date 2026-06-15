@@ -2,6 +2,7 @@
 company: Relativity Space
 role: Hardware Development Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - Long Beach, CA
 terms: []

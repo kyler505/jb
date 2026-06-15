@@ -2,6 +2,7 @@
 company: Lumotive
 role: Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - San Jose, CA
 terms: []

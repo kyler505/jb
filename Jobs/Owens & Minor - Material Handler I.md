@@ -2,6 +2,7 @@
 company: Owens & Minor
 role: Material Handler I
 category: new-grad
+discipline: other
 locations:
 - Cranberry Twp, PA
 terms: []

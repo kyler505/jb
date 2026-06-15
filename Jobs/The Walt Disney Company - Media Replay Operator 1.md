@@ -2,6 +2,7 @@
 company: The Walt Disney Company
 role: Media Replay Operator 1
 category: new-grad
+discipline: other
 locations:
 - Charlotte, NC
 terms: []

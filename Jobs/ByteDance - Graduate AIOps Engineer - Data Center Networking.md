@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate AIOps Engineer - Data Center Networking
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

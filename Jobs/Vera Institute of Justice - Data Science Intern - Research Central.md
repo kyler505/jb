@@ -2,6 +2,7 @@
 company: Vera Institute of Justice
 role: Data Science Intern - Research Central
 category: internship
+discipline: data
 locations:
 - Brooklyn, NY
 terms:

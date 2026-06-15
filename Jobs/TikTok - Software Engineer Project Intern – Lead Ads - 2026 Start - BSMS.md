@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Project Intern – Lead Ads - 2026 Start - BS/MS
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

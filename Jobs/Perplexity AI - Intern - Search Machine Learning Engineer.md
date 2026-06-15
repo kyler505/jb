@@ -2,6 +2,7 @@
 company: Perplexity AI
 role: Intern - Search Machine Learning Engineer
 category: internship
+discipline: ml
 locations:
 - London, UK
 terms:

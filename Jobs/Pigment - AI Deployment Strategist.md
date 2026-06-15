@@ -2,6 +2,7 @@
 company: Pigment
 role: AI Deployment Strategist
 category: new-grad
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms: []

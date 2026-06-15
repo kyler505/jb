@@ -2,6 +2,7 @@
 company: Two Dots
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

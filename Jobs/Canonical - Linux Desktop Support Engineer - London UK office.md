@@ -2,6 +2,7 @@
 company: Canonical
 role: Linux Desktop Support Engineer - London UK office
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

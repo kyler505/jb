@@ -2,6 +2,7 @@
 company: CLEAR
 role: Forward Deployed AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - NYC
 terms: []

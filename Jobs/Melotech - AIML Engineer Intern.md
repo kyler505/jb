@@ -2,6 +2,7 @@
 company: Melotech
 role: AI/ML Engineer Intern
 category: internship
+discipline: ml
 locations:
 - London, UK
 - NYC

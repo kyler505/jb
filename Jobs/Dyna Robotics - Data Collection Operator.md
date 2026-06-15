@@ -2,6 +2,7 @@
 company: Dyna Robotics
 role: Data Collection Operator
 category: new-grad
+discipline: other
 locations:
 - San Carlos, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Tesla
 role: AI Safety Operator
 category: new-grad
+discipline: other
 locations:
 - Orlando, FL
 terms: []

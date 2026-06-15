@@ -3,6 +3,7 @@ company: Tradeweb
 role: Tradeweb International Intern Program - JavaScript UI Developer - Technology
   Division
 category: internship
+discipline: swe
 locations:
 - London, UK
 terms:

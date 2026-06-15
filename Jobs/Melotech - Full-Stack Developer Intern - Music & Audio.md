@@ -2,6 +2,7 @@
 company: Melotech
 role: Full-Stack Developer Intern - Music & Audio
 category: internship
+discipline: swe
 locations:
 - London, UK
 - SF

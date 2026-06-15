@@ -2,6 +2,7 @@
 company: Ask IT Consulting
 role: Kentico Developer
 category: new-grad
+discipline: swe
 locations:
 - Waukesha, WI
 terms: []

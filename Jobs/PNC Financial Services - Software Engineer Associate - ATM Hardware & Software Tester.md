@@ -2,6 +2,7 @@
 company: PNC Financial Services
 role: Software Engineer Associate - ATM Hardware & Software Tester
 category: new-grad
+discipline: hardware
 locations:
 - Pittsburgh, PA
 terms: []

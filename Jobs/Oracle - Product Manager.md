@@ -2,6 +2,7 @@
 company: Oracle
 role: Product Manager
 category: new-grad
+discipline: other
 locations:
 - United States
 terms: []

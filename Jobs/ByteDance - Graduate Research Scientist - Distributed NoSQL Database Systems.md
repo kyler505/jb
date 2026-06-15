@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Research Scientist - Distributed NoSQL Database Systems
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

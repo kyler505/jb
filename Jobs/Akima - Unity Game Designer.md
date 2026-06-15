@@ -2,6 +2,7 @@
 company: Akima
 role: Unity Game Designer
 category: internship
+discipline: other
 locations:
 - Huntsville, AL
 terms:

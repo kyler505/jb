@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Associate – Field Engineering
 category: new-grad
+discipline: other
 locations:
 - Melbourne, FL
 terms: []

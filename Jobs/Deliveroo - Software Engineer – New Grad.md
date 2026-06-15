@@ -2,6 +2,7 @@
 company: Deliveroo
 role: Software Engineer – New Grad
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Quantitative Researcher PhD Graduate - US
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 - NYC

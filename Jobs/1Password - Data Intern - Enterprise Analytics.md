@@ -2,6 +2,7 @@
 company: 1Password
 role: Data Intern - Enterprise Analytics
 category: internship
+discipline: data
 locations:
 - Remote in USA
 - Remote in Canada

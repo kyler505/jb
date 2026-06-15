@@ -2,6 +2,7 @@
 company: NVIDIA
 role: ASIC Hardware Design Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Austin, TX
 terms: []

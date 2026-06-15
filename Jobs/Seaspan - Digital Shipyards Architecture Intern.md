@@ -2,6 +2,7 @@
 company: Seaspan
 role: Digital Shipyards Architecture Intern
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

@@ -2,6 +2,7 @@
 company: DataVisor
 role: Delivery Engineer Internship Spring/Summer 2026 - Canada
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

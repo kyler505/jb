@@ -2,6 +2,7 @@
 company: Royal Bank of Canada
 role: Associate Central Funding & Securitized Products Quants
 category: new-grad
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms: []

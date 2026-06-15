@@ -2,6 +2,7 @@
 company: Verisk
 role: Tech – Intern Program
 category: internship
+discipline: other
 locations:
 - Holmdel, NJ
 - NYC

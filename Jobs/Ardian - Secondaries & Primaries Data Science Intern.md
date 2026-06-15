@@ -2,6 +2,7 @@
 company: Ardian
 role: Secondaries & Primaries Data Science Intern
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

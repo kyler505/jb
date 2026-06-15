@@ -2,6 +2,7 @@
 company: Jahnel Group
 role: Associate Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Schenectady, NY
 terms: []

@@ -2,6 +2,7 @@
 company: Blue Origin
 role: Technician - Assembly & Integration
 category: internship
+discipline: other
 locations:
 - Florida
 terms:

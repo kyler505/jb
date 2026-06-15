@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - Speech Foundation Model
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

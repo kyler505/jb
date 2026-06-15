@@ -2,6 +2,7 @@
 company: True Anomaly
 role: Flight Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Long Beach, CA
 - Denver, CO

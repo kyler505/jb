@@ -2,6 +2,7 @@
 company: ALSO
 role: Dyno Technician
 category: new-grad
+discipline: other
 locations:
 - Palo Alto, CA
 terms: []

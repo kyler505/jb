@@ -2,6 +2,7 @@
 company: Haize Labs
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

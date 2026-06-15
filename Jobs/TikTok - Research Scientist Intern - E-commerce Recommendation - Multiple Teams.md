@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist Intern - E-commerce Recommendation - Multiple Teams
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 terms:

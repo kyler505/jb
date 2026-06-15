@@ -2,6 +2,7 @@
 company: Honeywell
 role: Embedded Engineer 1 New Grad
 category: new-grad
+discipline: hardware
 locations:
 - St. Charles, IL
 terms: []

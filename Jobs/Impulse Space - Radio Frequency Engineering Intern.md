@@ -2,6 +2,7 @@
 company: Impulse Space
 role: Radio Frequency Engineering Intern
 category: internship
+discipline: other
 locations:
 - El Segundo, CA
 terms:

@@ -2,6 +2,7 @@
 company: Origis Energy
 role: Operational Performance Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

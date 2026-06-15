@@ -2,6 +2,7 @@
 company: RXO
 role: Associate Analyst - Customer Accounts
 category: new-grad
+discipline: other
 locations:
 - Marietta, GA
 terms: []

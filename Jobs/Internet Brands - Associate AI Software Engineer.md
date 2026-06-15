@@ -2,6 +2,7 @@
 company: Internet Brands
 role: Associate AI Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - El Segundo, CA
 terms: []

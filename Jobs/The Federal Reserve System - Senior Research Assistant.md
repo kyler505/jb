@@ -2,6 +2,7 @@
 company: The Federal Reserve System
 role: Senior Research Assistant
 category: new-grad
+discipline: other
 locations:
 - Philadelphia, PA
 terms: []

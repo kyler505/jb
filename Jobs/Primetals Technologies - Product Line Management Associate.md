@@ -2,6 +2,7 @@
 company: Primetals Technologies
 role: Product Line Management Associate
 category: internship
+discipline: other
 locations:
 - Orlando, FL
 terms:

@@ -2,6 +2,7 @@
 company: Interstates
 role: Manufacturing Intern
 category: internship
+discipline: other
 locations:
 - Fort Collins, CO
 terms:

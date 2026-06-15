@@ -2,6 +2,7 @@
 company: Amazon
 role: Software Development Engineer - Rufus on Detail Page
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

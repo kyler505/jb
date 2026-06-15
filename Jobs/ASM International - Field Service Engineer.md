@@ -2,6 +2,7 @@
 company: ASM International
 role: Field Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Hillsboro, OR
 terms: []

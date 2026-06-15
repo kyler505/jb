@@ -2,6 +2,7 @@
 company: Truveta
 role: Software Engineer - Person Matching
 category: new-grad
+discipline: swe
 locations:
 - Seattle, WA
 terms: []

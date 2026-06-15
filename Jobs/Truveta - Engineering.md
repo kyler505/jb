@@ -2,6 +2,7 @@
 company: Truveta
 role: Engineering
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 terms:

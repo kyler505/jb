@@ -2,6 +2,7 @@
 company: Apple
 role: SoC DFT Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

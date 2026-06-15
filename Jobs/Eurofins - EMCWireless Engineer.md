@@ -2,6 +2,7 @@
 company: Eurofins
 role: EMC/Wireless Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

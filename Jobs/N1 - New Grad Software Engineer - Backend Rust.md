@@ -2,6 +2,7 @@
 company: N1
 role: New Grad Software Engineer - Backend Rust
 category: new-grad
+discipline: backend
 locations:
 - SF
 - Remote in USA

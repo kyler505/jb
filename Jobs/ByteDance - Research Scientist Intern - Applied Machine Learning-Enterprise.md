@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Intern - Applied Machine Learning-Enterprise
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

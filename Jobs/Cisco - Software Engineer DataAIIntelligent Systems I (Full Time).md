@@ -2,6 +2,7 @@
 company: Cisco
 role: Software Engineer Data/AI/Intelligent Systems I (Full Time)
 category: new-grad
+discipline: swe
 locations:
 - Austin, TX
 - San Jose, CA

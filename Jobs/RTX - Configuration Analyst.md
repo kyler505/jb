@@ -2,6 +2,7 @@
 company: RTX
 role: Configuration Analyst
 category: new-grad
+discipline: other
 locations:
 - Andover, MA
 terms: []

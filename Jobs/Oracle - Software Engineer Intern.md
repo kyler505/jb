@@ -2,6 +2,7 @@
 company: Oracle
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 - Santa Clara, CA

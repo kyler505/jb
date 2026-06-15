@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Geographic Information Systems Fellow - Technology & Engineer
 category: internship
+discipline: other
 locations:
 - Queens, NY
 terms:

@@ -2,6 +2,7 @@
 company: Aquatic Capital Management
 role: Quantitative Researcher – Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 - Chicago, IL

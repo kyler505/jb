@@ -2,6 +2,7 @@
 company: Tesla
 role: AI Inference Engineer Intern - Software Compiler Engineer - AI Inference
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

@@ -3,6 +3,7 @@ company: 3S Business Corporation
 role: Free training on SP - Sap Abap - MM','SD','Java','Dot Net','Oracel','Business
   Anolyisit
 category: internship
+discipline: other
 locations:
 - Houston, TX
 terms:

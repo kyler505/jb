@@ -2,6 +2,7 @@
 company: Flagship Pioneering
 role: Pioneering Intelligence Machine Learning Co-Op
 category: internship
+discipline: ml
 locations:
 - Cambridge, MA
 terms:

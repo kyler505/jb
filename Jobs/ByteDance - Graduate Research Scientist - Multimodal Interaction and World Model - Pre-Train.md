@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Research Scientist - Multimodal Interaction and World Model - Pre-Training
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

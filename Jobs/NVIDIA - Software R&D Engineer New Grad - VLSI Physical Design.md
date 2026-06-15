@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Software R&D Engineer New Grad - VLSI Physical Design
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

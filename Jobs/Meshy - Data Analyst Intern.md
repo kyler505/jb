@@ -2,6 +2,7 @@
 company: Meshy
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - California
 terms:

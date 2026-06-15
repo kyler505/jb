@@ -2,6 +2,7 @@
 company: Leidos
 role: Computer Scientist Associate
 category: new-grad
+discipline: other
 locations:
 - Honolulu, HI
 terms: []

@@ -2,6 +2,7 @@
 company: W.R. Berkley
 role: Business and Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - Farmington, CT
 terms:

@@ -2,6 +2,7 @@
 company: ServiceNow
 role: Software Engineer - Agentic AI Systems - Moveworks
 category: new-grad
+discipline: swe
 locations:
 - Mountain View, CA
 terms: []

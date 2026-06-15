@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Java Developer - Need Locals - Need GC and USC
 category: new-grad
+discipline: swe
 locations:
 - Bloomington, MN
 terms: []

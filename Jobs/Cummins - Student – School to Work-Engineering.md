@@ -2,6 +2,7 @@
 company: Cummins
 role: Student – School to Work-Engineering
 category: internship
+discipline: other
 locations:
 - Columbus, IN
 terms:

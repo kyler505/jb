@@ -2,6 +2,7 @@
 company: Gelber Group
 role: Software Engineering Intern - Backoffice Team
 category: internship
+discipline: swe
 locations:
 - Chicago, IL
 terms:

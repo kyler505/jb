@@ -2,6 +2,7 @@
 company: Ameresco
 role: AI Agent Integration and Powered Land Origination Co-op
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

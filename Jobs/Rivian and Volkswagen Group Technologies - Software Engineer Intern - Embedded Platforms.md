@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Software Engineer Intern - Embedded Platforms
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 - Irvine, CA

@@ -2,6 +2,7 @@
 company: Context
 role: Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

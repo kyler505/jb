@@ -2,6 +2,7 @@
 company: Asana
 role: Software Engineer Early Career - Product
 category: new-grad
+discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms: []

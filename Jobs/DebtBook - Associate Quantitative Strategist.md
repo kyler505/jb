@@ -2,6 +2,7 @@
 company: DebtBook
 role: Associate Quantitative Strategist
 category: new-grad
+discipline: other
 locations:
 - Charlotte, NC
 terms: []

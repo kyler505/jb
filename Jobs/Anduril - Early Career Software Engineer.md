@@ -2,6 +2,7 @@
 company: Anduril
 role: Early Career Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Newport Beach, CA
 terms: []

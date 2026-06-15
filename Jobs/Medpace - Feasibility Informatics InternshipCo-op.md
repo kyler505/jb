@@ -2,6 +2,7 @@
 company: Medpace
 role: Feasibility Informatics Internship/Co-op
 category: internship
+discipline: other
 locations:
 - Cincinnati, OH
 terms:

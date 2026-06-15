@@ -2,6 +2,7 @@
 company: GM financial
 role: Software Development Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

@@ -2,6 +2,7 @@
 company: iHeartMedia
 role: Board Operator
 category: new-grad
+discipline: other
 locations:
 - New Orleans, LA
 terms: []

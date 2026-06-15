@@ -2,6 +2,7 @@
 company: RWS
 role: AI Data Specialist - Florida - US
 category: new-grad
+discipline: other
 locations:
 - Florida
 terms: []

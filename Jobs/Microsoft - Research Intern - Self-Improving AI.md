@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Self-Improving AI
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 - NYC

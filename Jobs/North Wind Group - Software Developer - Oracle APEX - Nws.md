@@ -2,6 +2,7 @@
 company: North Wind Group
 role: Software Developer - Oracle APEX - Nws
 category: new-grad
+discipline: swe
 locations:
 - Livermore, CA
 terms: []

@@ -2,6 +2,7 @@
 company: William & Mary
 role: Data Specialist
 category: new-grad
+discipline: other
 locations:
 - Williamsburg, VA
 terms: []

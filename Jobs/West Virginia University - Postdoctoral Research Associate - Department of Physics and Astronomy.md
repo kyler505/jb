@@ -2,6 +2,7 @@
 company: West Virginia University
 role: Postdoctoral Research Associate - Department of Physics and Astronomy
 category: new-grad
+discipline: other
 locations:
 - Morgantown, WV
 terms: []

@@ -2,6 +2,7 @@
 company: Kroll Bond Rating Agency
 role: CMBS / CRE Research Associate
 category: new-grad
+discipline: other
 locations:
 - Horsham, PA
 terms: []

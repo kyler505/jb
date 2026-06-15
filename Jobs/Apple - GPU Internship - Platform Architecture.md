@@ -2,6 +2,7 @@
 company: Apple
 role: GPU Internship - Platform Architecture
 category: internship
+discipline: other
 locations:
 - London, UK
 - Cambridge, UK

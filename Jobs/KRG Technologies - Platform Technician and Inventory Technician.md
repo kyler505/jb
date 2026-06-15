@@ -2,6 +2,7 @@
 company: KRG Technologies
 role: Platform Technician and Inventory Technician
 category: new-grad
+discipline: other
 locations:
 - Hillsboro, OR
 terms: []

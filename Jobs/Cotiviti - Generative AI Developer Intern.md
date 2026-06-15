@@ -2,6 +2,7 @@
 company: Cotiviti
 role: Generative AI Developer Intern
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

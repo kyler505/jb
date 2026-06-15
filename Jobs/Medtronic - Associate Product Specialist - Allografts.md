@@ -2,6 +2,7 @@
 company: Medtronic
 role: Associate Product Specialist - Allografts
 category: new-grad
+discipline: other
 locations:
 - Memphis, TN
 terms: []

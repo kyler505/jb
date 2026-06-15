@@ -2,6 +2,7 @@
 company: Yext
 role: Associate Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Washington, DC
 terms: []

@@ -2,6 +2,7 @@
 company: Nissan Global
 role: Autonomous Driving Applications Research Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

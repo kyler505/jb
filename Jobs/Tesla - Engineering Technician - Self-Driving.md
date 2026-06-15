@@ -2,6 +2,7 @@
 company: Tesla
 role: Engineering Technician - Self-Driving
 category: new-grad
+discipline: other
 locations:
 - Fremont, CA
 terms: []

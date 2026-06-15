@@ -2,6 +2,7 @@
 company: ByteDance
 role: AI Vision Research Engineer Graduate - PhD
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

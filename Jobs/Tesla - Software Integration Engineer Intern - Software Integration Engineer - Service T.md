@@ -3,6 +3,7 @@ company: Tesla
 role: Software Integration Engineer Intern - Software Integration Engineer - Service
   Tooling
 category: internship
+discipline: other
 locations:
 - Fremont, CA
 terms:

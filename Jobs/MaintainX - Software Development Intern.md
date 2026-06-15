@@ -2,6 +2,7 @@
 company: MaintainX
 role: Software Development Intern
 category: internship
+discipline: swe
 locations:
 - Montreal, QC, Canada
 terms:

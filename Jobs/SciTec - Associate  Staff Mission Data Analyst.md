@@ -2,6 +2,7 @@
 company: SciTec
 role: Associate / Staff Mission Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Aurora, CO
 terms: []

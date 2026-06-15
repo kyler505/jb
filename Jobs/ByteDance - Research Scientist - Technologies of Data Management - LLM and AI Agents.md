@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist - Technologies of Data Management - LLM and AI Agents
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

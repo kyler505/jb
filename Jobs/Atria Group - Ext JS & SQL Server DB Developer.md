@@ -2,6 +2,7 @@
 company: Atria Group
 role: Ext JS & SQL Server DB Developer
 category: internship
+discipline: swe
 locations:
 - Alpharetta, GA
 terms:

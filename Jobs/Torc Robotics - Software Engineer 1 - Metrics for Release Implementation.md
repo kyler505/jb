@@ -2,6 +2,7 @@
 company: Torc Robotics
 role: Software Engineer 1 - Metrics for Release Implementation
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

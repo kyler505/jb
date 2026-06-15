@@ -2,6 +2,7 @@
 company: Torc Robotics
 role: ML Engineer - App Engine
 category: new-grad
+discipline: ml
 locations:
 - Ann Arbor, MI
 terms: []

@@ -2,6 +2,7 @@
 company: Wintermute
 role: Graduate DeFi Algorithmic Trader
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

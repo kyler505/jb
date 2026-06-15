@@ -2,6 +2,7 @@
 company: Tech Tammina
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Princeton, NJ
 terms: []

@@ -2,6 +2,7 @@
 company: Accenture
 role: Technology Development Program - Artificial Intelligence Analyst
 category: internship
+discipline: other
 locations:
 - Boston, MA
 - Seattle, WA

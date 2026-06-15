@@ -2,6 +2,7 @@
 company: Dyna Robotics
 role: Data Annotation Specialist
 category: new-grad
+discipline: other
 locations:
 - San Carlos, CA
 terms: []

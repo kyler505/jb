@@ -2,6 +2,7 @@
 company: BRINC Drones
 role: Production Technician
 category: new-grad
+discipline: other
 locations:
 - Seattle, WA
 terms: []

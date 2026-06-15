@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Healthcare Analyst
 category: new-grad
+discipline: other
 locations:
 - Birmingham, AL
 terms: []

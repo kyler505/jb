@@ -2,6 +2,7 @@
 company: TSC
 role: Senior Artificial Intelligence Engineer
 category: new-grad
+discipline: other
 locations:
 - Dahlgren, VA
 terms: []

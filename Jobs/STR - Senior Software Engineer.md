@@ -2,6 +2,7 @@
 company: STR
 role: Senior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Atlanta, GA
 terms: []

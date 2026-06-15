@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Applications Engineer Rotation Program
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

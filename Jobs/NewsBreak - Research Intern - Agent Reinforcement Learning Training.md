@@ -2,6 +2,7 @@
 company: NewsBreak
 role: Research Intern - Agent Reinforcement Learning Training
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

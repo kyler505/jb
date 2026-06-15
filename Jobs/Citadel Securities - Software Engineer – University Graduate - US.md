@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Software Engineer – University Graduate - US
 category: new-grad
+discipline: swe
 locations:
 - Miami, FL
 - NYC

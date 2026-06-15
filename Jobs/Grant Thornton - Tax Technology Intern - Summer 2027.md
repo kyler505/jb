@@ -2,6 +2,7 @@
 company: Grant Thornton
 role: Tax Technology Intern - Summer 2027
 category: internship
+discipline: other
 locations:
 - Dallas, TX
 terms:

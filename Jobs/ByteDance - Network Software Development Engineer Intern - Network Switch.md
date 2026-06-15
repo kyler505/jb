@@ -2,6 +2,7 @@
 company: ByteDance
 role: Network Software Development Engineer Intern - Network Switch
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

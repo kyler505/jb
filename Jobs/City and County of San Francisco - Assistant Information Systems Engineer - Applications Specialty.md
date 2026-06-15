@@ -2,6 +2,7 @@
 company: City and County of San Francisco
 role: Assistant Information Systems Engineer - Applications Specialty
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

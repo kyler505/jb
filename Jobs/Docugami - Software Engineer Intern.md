@@ -2,6 +2,7 @@
 company: Docugami
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Kirkland, WA
 terms:

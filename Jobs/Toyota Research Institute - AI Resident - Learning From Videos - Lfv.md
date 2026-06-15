@@ -2,6 +2,7 @@
 company: Toyota Research Institute
 role: AI Resident - Learning From Videos - Lfv
 category: new-grad
+discipline: other
 locations:
 - Mountain View, CA
 terms: []

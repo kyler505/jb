@@ -2,6 +2,7 @@
 company: CoServe Global Solutions
 role: C++ Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Sarasota, FL
 terms: []

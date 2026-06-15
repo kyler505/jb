@@ -2,6 +2,7 @@
 company: Sanofi
 role: External Manufacturing & Supply Business Data Analyst - VIE Contract
 category: new-grad
+discipline: data
 locations:
 - Cambridge, MA
 - Framingham, MA

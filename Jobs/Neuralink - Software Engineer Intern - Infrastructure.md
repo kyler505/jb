@@ -2,6 +2,7 @@
 company: Neuralink
 role: Software Engineer Intern - Infrastructure
 category: internship
+discipline: devops
 locations:
 - Fremont, CA
 terms:

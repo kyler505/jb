@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Deep Learning Kernel Software Performance Architect – New College Grad 2026
 category: new-grad
+discipline: ml
 locations:
 - Santa Clara, CA
 terms: []

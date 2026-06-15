@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Entry Level Failure Analysis Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

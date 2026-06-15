@@ -2,6 +2,7 @@
 company: Illinois Tool Works
 role: Product Support Engineer
 category: new-grad
+discipline: other
 locations:
 - Norwood, MA
 terms: []

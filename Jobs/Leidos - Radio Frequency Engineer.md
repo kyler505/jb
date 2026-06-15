@@ -2,6 +2,7 @@
 company: Leidos
 role: Radio Frequency Engineer
 category: new-grad
+discipline: other
 locations:
 - Huntsville, AL
 terms: []

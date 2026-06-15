@@ -2,6 +2,7 @@
 company: Medpace, Inc.
 role: Data Engineer Intern
 category: internship
+discipline: data
 locations:
 - Cincinnati, OH
 terms:

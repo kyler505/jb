@@ -2,6 +2,7 @@
 company: Nokia
 role: Software Engineering Co-op
 category: internship
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms:

@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Quality and Efficiency Technology
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Veolia
 role: Data Specialist
 category: new-grad
+discipline: other
 locations:
 - Beaumont, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Replit
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - San Mateo, CA
 terms:

@@ -2,6 +2,7 @@
 company: Magna
 role: Artificial Intelligence Student
 category: internship
+discipline: other
 locations:
 - Vaughan, ON, Canada
 terms:

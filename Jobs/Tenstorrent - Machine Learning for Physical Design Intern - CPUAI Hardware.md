@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Machine Learning for Physical Design Intern - CPU/AI Hardware
 category: internship
+discipline: ml
 locations:
 - Austin, TX
 - Santa Clara, CA

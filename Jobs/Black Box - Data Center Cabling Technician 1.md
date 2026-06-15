@@ -2,6 +2,7 @@
 company: Black Box
 role: Data Center Cabling Technician 1
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 - Plano, TX

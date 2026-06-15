@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Commerce Ads - 2026 Summer
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

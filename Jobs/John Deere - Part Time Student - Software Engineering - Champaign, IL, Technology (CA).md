@@ -2,6 +2,7 @@
 company: John Deere
 role: Part Time Student - Software Engineering - Champaign, IL, Technology (CA)
 category: internship
+discipline: swe
 locations:
 - Urbana, IL
 terms:

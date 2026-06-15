@@ -2,6 +2,7 @@
 company: Julius AI
 role: Refresh Software Engineer New Grad - Product
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

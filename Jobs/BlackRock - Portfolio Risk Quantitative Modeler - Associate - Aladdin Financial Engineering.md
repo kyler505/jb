@@ -2,6 +2,7 @@
 company: BlackRock
 role: Portfolio Risk Quantitative Modeler - Associate - Aladdin Financial Engineering
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

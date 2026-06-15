@@ -2,6 +2,7 @@
 company: GE Healthcare
 role: Field Engineer Apprentice
 category: internship
+discipline: other
 locations:
 - Dallas, TX
 terms:

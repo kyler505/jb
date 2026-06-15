@@ -2,6 +2,7 @@
 company: EROS Technologies
 role: Tableau Analyst
 category: new-grad
+discipline: other
 locations:
 - Pittsburgh, PA
 terms: []

@@ -2,6 +2,7 @@
 company: Point72
 role: Point72 Academy Investment Analyst Program for Experienced Professionals
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

@@ -2,6 +2,7 @@
 company: Steel Dynamics
 role: L2 Programmer
 category: new-grad
+discipline: swe
 locations:
 - Terre Haute, IN
 terms: []

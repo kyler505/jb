@@ -3,6 +3,7 @@ company: Best Buy
 role: Representative - Field Technical Service Representative - Des services techniques
   à domicile
 category: new-grad
+discipline: other
 locations:
 - Dearborn, MI
 terms: []

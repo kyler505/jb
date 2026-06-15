@@ -2,6 +2,7 @@
 company: Veeva Systems
 role: Marketing Analytics - Data Analyst - Adp
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

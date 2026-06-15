@@ -2,6 +2,7 @@
 company: Auctor
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

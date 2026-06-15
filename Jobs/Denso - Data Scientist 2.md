@@ -2,6 +2,7 @@
 company: Denso
 role: Data Scientist 2
 category: new-grad
+discipline: data
 locations:
 - Southfield, MI
 terms: []

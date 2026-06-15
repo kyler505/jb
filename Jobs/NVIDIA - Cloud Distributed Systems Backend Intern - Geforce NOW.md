@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Cloud Distributed Systems Backend Intern - Geforce NOW
 category: internship
+discipline: backend
 locations:
 - Canada
 - Santa Clara, CA

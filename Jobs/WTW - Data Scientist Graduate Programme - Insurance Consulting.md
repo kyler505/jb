@@ -2,6 +2,7 @@
 company: WTW
 role: Data Scientist Graduate Programme - Insurance Consulting
 category: new-grad
+discipline: data
 locations:
 - London, UK
 - Dorking, UK

@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Intern - Monetization Technology - Ads Creative
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Fanatics
 role: Quantitative Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

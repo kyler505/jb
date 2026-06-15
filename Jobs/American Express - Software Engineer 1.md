@@ -2,6 +2,7 @@
 company: American Express
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 - Brighton, UK

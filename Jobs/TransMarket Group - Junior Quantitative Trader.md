@@ -2,6 +2,7 @@
 company: TransMarket Group
 role: Junior Quantitative Trader
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

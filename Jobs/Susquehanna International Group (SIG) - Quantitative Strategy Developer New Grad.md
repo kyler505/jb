@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Quantitative Strategy Developer New Grad
 category: new-grad
+discipline: swe
 locations:
 - Ardmore, PA
 terms: []

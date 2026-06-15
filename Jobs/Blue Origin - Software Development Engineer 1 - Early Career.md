@@ -2,6 +2,7 @@
 company: Blue Origin
 role: Software Development Engineer 1 - Early Career
 category: new-grad
+discipline: swe
 locations:
 - Kent, WA
 terms: []

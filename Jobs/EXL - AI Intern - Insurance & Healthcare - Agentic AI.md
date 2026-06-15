@@ -2,6 +2,7 @@
 company: EXL
 role: AI Intern - Insurance & Healthcare - Agentic AI
 category: internship
+discipline: other
 locations:
 - United States
 terms:

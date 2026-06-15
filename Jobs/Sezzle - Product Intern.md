@@ -2,6 +2,7 @@
 company: Sezzle
 role: Product Intern
 category: internship
+discipline: other
 locations:
 - Remote in Canada
 terms:

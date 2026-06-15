@@ -2,6 +2,7 @@
 company: Robert Bosch Venture Capital
 role: Rotational Development Program - Software Engineer - Power Solutions
 category: new-grad
+discipline: swe
 locations:
 - Southfield, MI
 terms: []

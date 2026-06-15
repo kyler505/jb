@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - AI Alignment
 category: internship
+discipline: other
 locations:
 - Boston, MA
 - Seattle, WA

@@ -2,6 +2,7 @@
 company: 'TEGNA '
 role: Broadcast Engineer
 category: new-grad
+discipline: other
 locations:
 - Harrisburg, PA
 terms: []

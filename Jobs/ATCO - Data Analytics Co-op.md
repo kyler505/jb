@@ -2,6 +2,7 @@
 company: ATCO
 role: Data Analytics Co-op
 category: internship
+discipline: data
 locations:
 - Edmonton, AB, Canada
 terms:

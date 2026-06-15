@@ -2,6 +2,7 @@
 company: Nokia
 role: IT Network Software/AI Development Co-op/Intern
 category: internship
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms:

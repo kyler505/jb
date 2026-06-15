@@ -2,6 +2,7 @@
 company: PlusAI
 role: Software Engineer Intern - Data Infrastructure and Tools
 category: internship
+discipline: devops
 locations:
 - Santa Clara, CA
 terms:

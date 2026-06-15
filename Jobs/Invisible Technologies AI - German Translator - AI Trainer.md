@@ -2,6 +2,7 @@
 company: Invisible Technologies AI
 role: German Translator - AI Trainer
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

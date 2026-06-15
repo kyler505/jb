@@ -2,6 +2,7 @@
 company: Nuro
 role: Software Engineer New Grad - Performance
 category: new-grad
+discipline: swe
 locations:
 - Mountain View, CA
 terms: []

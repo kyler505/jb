@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Enterprise Architecture Fellow - Technology & Engineer
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

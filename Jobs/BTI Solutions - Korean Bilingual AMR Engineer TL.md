@@ -2,6 +2,7 @@
 company: BTI Solutions
 role: Korean Bilingual AMR Engineer TL
 category: new-grad
+discipline: other
 locations:
 - Gilbert, AZ
 terms: []

@@ -3,6 +3,7 @@ company: TikTok
 role: Product Strategist Intern - Global Monetization Product and Technology - 2026
   Summer - MBA
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

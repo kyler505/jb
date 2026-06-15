@@ -2,6 +2,7 @@
 company: Canonical
 role: Software Engineer – Graduate Level - Python - Cloud
 category: new-grad
+discipline: swe
 locations:
 - La Ronge, SK, Canada
 terms: []

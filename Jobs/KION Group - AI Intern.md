@@ -2,6 +2,7 @@
 company: KION Group
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - Grand Rapids, MI
 - Plano, TX

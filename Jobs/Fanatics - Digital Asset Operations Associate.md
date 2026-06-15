@@ -2,6 +2,7 @@
 company: Fanatics
 role: Digital Asset Operations Associate
 category: new-grad
+discipline: other
 locations:
 - Jacksonville, FL
 terms: []

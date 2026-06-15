@@ -2,6 +2,7 @@
 company: Apple
 role: Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern
 category: internship
+discipline: ml
 locations:
 - Cupertino, CA
 terms:

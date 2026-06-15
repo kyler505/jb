@@ -2,6 +2,7 @@
 company: Notability
 role: Android Software Engineer Co-op
 category: internship
+discipline: swe
 locations:
 - SF
 terms:

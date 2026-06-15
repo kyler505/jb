@@ -3,6 +3,7 @@ company: ByteDance
 role: AI LLM Network Software Development Engineer Graduate - High Speed Network -
   2026 Start PhD
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

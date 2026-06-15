@@ -2,6 +2,7 @@
 company: Cotiviti
 role: Generative AI/Agentic AI/Research Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

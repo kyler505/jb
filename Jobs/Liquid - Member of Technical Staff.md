@@ -2,6 +2,7 @@
 company: Liquid
 role: Member of Technical Staff
 category: new-grad
+discipline: other
 locations:
 - New York, NY
 terms: []

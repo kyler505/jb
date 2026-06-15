@@ -2,6 +2,7 @@
 company: Peraton
 role: All-Source Analyst - Junior
 category: new-grad
+discipline: other
 locations:
 - Wheatland, CA
 terms: []

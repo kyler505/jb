@@ -2,6 +2,7 @@
 company: Kelso Industries
 role: Web Development & Digital Marketing Intern
 category: internship
+discipline: frontend
 locations:
 - Salt Lake City, UT
 - Draper, UT

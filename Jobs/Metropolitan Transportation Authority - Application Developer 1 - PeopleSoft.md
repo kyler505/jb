@@ -2,6 +2,7 @@
 company: Metropolitan Transportation Authority
 role: Application Developer 1 - Peoplesoft - Tcu
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

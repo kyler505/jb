@@ -2,6 +2,7 @@
 company: HRL Laboratories
 role: Analog and Power Electronics Hardware Engineer - High Voltage
 category: new-grad
+discipline: hardware
 locations:
 - Delano, CA
 terms: []

@@ -2,6 +2,7 @@
 company: OpenAI
 role: Software Engineer - Cooperative AI
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 - SF

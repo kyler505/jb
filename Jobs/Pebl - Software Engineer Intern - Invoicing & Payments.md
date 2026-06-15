@@ -2,6 +2,7 @@
 company: Pebl
 role: Software Engineer Intern - Invoicing & Payments
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

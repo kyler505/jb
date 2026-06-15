@@ -3,6 +3,7 @@ company: LG Ad Solutions
 role: Entry Level Global Reporting & Analytics Analyst - Digital Campaign Management
   - Product Strategy and Business Intelligence
 category: new-grad
+discipline: data
 locations:
 - United Kingdom
 terms: []

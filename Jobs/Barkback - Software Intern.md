@@ -2,6 +2,7 @@
 company: Barkback
 role: Software Intern
 category: internship
+discipline: other
 locations:
 - Santa Barbara, CA
 terms:

@@ -2,6 +2,7 @@
 company: Danaher Corporation
 role: Field Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Tulsa, OK
 - Oklahoma City, OK

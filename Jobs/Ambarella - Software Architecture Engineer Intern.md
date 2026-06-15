@@ -2,6 +2,7 @@
 company: Ambarella
 role: Software Architecture Engineer Intern
 category: internship
+discipline: other
 locations:
 - United States
 terms:

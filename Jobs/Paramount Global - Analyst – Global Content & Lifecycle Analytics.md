@@ -2,6 +2,7 @@
 company: Paramount Global
 role: Analyst – Global Content & Lifecycle Analytics
 category: new-grad
+discipline: data
 locations:
 - Hollywood, LA
 - NYC

@@ -3,6 +3,7 @@ company: Memorial Sloan Kettering Cancer Center
 role: Postdoctoral Fellow / Research Scientist in MR-guided Radiotherapy - MR-guided
   Radiotherapy - Department of Medical Physics
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

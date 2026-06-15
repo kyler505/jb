@@ -2,6 +2,7 @@
 company: Intropic
 role: Quantrepreneur - Quantitative Development
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

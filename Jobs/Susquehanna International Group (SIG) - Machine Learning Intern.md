@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Machine Learning Intern
 category: internship
+discipline: ml
 locations:
 - Ardmore, PA
 terms:

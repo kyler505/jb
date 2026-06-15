@@ -2,6 +2,7 @@
 company: VITAS Healthcare
 role: Junior Strategy & Innovation Analyst
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 terms: []

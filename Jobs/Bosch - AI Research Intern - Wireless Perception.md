@@ -2,6 +2,7 @@
 company: Bosch
 role: AI Research Intern - Wireless Perception
 category: internship
+discipline: other
 locations:
 - Pittsburgh, PA
 terms:

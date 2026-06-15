@@ -2,6 +2,7 @@
 company: Evolver
 role: Applied Data Science Intern
 category: internship
+discipline: data
 locations:
 - Palo Alto, CA
 terms:

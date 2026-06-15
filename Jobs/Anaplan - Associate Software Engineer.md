@@ -2,6 +2,7 @@
 company: Anaplan
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Manchester, UK
 terms: []

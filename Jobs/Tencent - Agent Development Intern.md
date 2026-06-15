@@ -2,6 +2,7 @@
 company: Tencent
 role: Agent Development Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

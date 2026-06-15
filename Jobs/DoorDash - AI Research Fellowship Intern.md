@@ -2,6 +2,7 @@
 company: DoorDash
 role: AI Research Fellowship Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

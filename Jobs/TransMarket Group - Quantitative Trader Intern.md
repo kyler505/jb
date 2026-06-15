@@ -2,6 +2,7 @@
 company: TransMarket Group
 role: Quantitative Trader Intern
 category: internship
+discipline: other
 locations:
 - Chicago, IL
 terms:

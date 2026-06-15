@@ -2,6 +2,7 @@
 company: onsemi
 role: Transformation Program Associate - Corporate Transformation Team
 category: new-grad
+discipline: other
 locations:
 - Scottsdale, AZ
 terms: []

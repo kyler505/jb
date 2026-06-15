@@ -2,6 +2,7 @@
 company: TSC
 role: Embedded Software Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Aurora, CO
 - Huntsville, AL

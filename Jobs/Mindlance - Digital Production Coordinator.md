@@ -2,6 +2,7 @@
 company: Mindlance
 role: Digital Production Coordinator
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

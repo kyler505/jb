@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Project Intern - Content AI Infrastructure
 category: internship
+discipline: devops
 locations:
 - San Jose, CA
 terms:

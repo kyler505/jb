@@ -2,6 +2,7 @@
 company: Apple
 role: GPU DFT Design Verification Engineer
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

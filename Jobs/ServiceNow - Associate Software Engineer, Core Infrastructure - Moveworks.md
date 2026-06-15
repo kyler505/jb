@@ -2,6 +2,7 @@
 company: ServiceNow
 role: Associate Software Engineer, Core Infrastructure - Moveworks
 category: new-grad
+discipline: devops
 locations:
 - Mountain View, CA
 terms: []

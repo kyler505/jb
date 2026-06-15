@@ -2,6 +2,7 @@
 company: Vera Bradley
 role: Service Desk Intern - Retail
 category: internship
+discipline: other
 locations:
 - Columbia City, IN
 terms:

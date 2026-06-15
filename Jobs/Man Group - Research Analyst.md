@@ -2,6 +2,7 @@
 company: Man Group
 role: Research Analyst
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

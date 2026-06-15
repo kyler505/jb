@@ -2,6 +2,7 @@
 company: Nokia
 role: Data Science Co-op - Test Automation - Big Data Analysis
 category: internship
+discipline: data
 locations:
 - Long Island City, Queens, NY
 terms:

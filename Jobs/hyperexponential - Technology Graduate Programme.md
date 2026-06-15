@@ -2,6 +2,7 @@
 company: hyperexponential
 role: Technology Graduate Programme
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

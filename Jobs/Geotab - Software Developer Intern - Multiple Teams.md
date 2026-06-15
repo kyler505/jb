@@ -2,6 +2,7 @@
 company: Geotab
 role: Software Developer Intern - Multiple Teams
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Oakville, ON, Canada

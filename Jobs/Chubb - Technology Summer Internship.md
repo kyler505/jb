@@ -2,6 +2,7 @@
 company: Chubb
 role: Technology Summer Internship
 category: internship
+discipline: other
 locations:
 - Philadelphia, PA
 - NYC

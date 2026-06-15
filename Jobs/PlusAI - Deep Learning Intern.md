@@ -2,6 +2,7 @@
 company: PlusAI
 role: Deep Learning Intern
 category: internship
+discipline: ml
 locations:
 - Santa Clara, CA
 terms:

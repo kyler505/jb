@@ -2,6 +2,7 @@
 company: Cincinnati Children’s Hospital and Medical Center
 role: EMR Analyst 1 - Epic Patient Access
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

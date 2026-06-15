@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Science Intern - Advertisement Team - 2026 Start','PhD
 category: internship
+discipline: data
 locations:
 - San Jose, CA
 terms:

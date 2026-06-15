@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist - Tiktok Recommendation - Nextgen LLM
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

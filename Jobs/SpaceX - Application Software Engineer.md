@@ -2,6 +2,7 @@
 company: SpaceX
 role: Application Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - West Athens, CA
 terms: []

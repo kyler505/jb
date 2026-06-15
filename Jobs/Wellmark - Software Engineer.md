@@ -2,6 +2,7 @@
 company: Wellmark
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Des Moines, IA
 terms: []

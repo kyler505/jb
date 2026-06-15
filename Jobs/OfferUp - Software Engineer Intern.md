@@ -2,6 +2,7 @@
 company: OfferUp
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Bellevue, WA
 terms:

@@ -2,6 +2,7 @@
 company: Anthropic
 role: Anthropic AI Security Fellow
 category: internship
+discipline: security
 locations:
 - London, UK
 - SF

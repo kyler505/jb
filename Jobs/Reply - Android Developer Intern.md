@@ -2,6 +2,7 @@
 company: Reply
 role: Android Developer Intern
 category: internship
+discipline: swe
 locations:
 - Detroit, MI
 terms:

@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Physical Design Methodology Engineer
 category: new-grad
+discipline: other
 locations:
 - Beaverton, OR
 terms: []

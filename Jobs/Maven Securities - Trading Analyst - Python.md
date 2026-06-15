@@ -2,6 +2,7 @@
 company: Maven Securities
 role: Trading Analyst - Python
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

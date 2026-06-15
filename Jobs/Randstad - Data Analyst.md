@@ -2,6 +2,7 @@
 company: Randstad
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Charlotte, NC
 terms: []

@@ -2,6 +2,7 @@
 company: DellFor Technologies
 role: Entry Level .Net Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - AI/ML - Core Ads Growth
 category: internship
+discipline: ml
 locations:
 - London, UK
 terms:

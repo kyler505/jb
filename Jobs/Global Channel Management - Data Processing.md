@@ -2,6 +2,7 @@
 company: Global Channel Management
 role: Data Processing
 category: new-grad
+discipline: other
 locations:
 - Grove City, OH
 terms: []

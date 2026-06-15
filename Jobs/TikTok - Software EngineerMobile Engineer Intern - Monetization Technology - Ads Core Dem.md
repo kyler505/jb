@@ -3,6 +3,7 @@ company: TikTok
 role: Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core
   Demonstration
 category: internship
+discipline: mobile
 locations:
 - San Jose, CA
 terms:

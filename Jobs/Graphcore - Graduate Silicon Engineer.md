@@ -2,6 +2,7 @@
 company: Graphcore
 role: Graduate Silicon Engineer
 category: new-grad
+discipline: other
 locations:
 - Cambridge, UK
 terms: []

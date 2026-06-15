@@ -2,6 +2,7 @@
 company: NVIDIA
 role: PhD Software Engineer Intern - Decision Intelligence
 category: internship
+discipline: swe
 locations:
 - Santa Clara, CA
 terms:

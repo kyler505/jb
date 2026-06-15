@@ -2,6 +2,7 @@
 company: Lambda
 role: AI Research Marketing Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

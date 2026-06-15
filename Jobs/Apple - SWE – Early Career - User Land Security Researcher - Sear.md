@@ -2,6 +2,7 @@
 company: Apple
 role: SWE – Early Career - User Land Security Researcher - Sear
 category: new-grad
+discipline: security
 locations:
 - Gloucester, UK
 terms: []

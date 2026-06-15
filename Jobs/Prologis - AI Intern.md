@@ -2,6 +2,7 @@
 company: Prologis
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - San Francisco, CA
 terms:

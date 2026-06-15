@@ -2,6 +2,7 @@
 company: Cole Engineering Services
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - Hanover, MD
 terms:

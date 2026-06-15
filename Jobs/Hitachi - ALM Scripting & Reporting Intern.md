@@ -2,6 +2,7 @@
 company: Hitachi
 role: ALM Scripting & Reporting Intern
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

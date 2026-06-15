@@ -2,6 +2,7 @@
 company: 'LMI '
 role: Junior Data Scientist - Clearance Required
 category: new-grad
+discipline: data
 locations:
 - Colorado Springs, CO
 terms: []

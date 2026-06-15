@@ -2,6 +2,7 @@
 company: ASSA ABLOY
 role: IT Intern – Security Analytics & Data Management
 category: internship
+discipline: data
 locations:
 - New Haven, CT
 terms:

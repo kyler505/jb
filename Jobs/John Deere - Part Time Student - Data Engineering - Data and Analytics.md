@@ -2,6 +2,7 @@
 company: John Deere
 role: Part Time Student - Data Engineering - Data and Analytics
 category: internship
+discipline: data
 locations:
 - Grimes, IA
 terms:

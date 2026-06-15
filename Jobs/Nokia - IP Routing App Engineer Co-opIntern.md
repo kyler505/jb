@@ -2,6 +2,7 @@
 company: Nokia
 role: IP Routing App Engineer Co-op/Intern
 category: internship
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms:

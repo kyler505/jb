@@ -2,6 +2,7 @@
 company: Falcomm
 role: ML Software Engineer Intern - AI/CAD Integration
 category: internship
+discipline: swe
 locations:
 - Atlanta, GA
 terms:

@@ -2,6 +2,7 @@
 company: AllianceBernstein
 role: Global Analytics Performance Analyst
 category: new-grad
+discipline: data
 locations:
 - Nashville, TN
 terms: []

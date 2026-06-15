@@ -2,6 +2,7 @@
 company: Lendbuzz
 role: Machine Learning Engineer Co-op - Data Labeller
 category: internship
+discipline: ml
 locations:
 - Boston, MA
 terms:

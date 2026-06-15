@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Ardmore, PA
 terms: []

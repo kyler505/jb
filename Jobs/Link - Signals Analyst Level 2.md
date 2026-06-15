@@ -2,6 +2,7 @@
 company: Link
 role: Signals Analyst Level 2
 category: new-grad
+discipline: other
 locations:
 - Odenton, MD
 terms: []

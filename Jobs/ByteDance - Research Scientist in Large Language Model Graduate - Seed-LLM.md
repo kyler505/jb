@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist in Large Language Model Graduate - Seed-LLM
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Accel Learning
 role: Java & Python Instructor
 category: new-grad
+discipline: other
 locations:
 - Union City, NJ
 terms: []

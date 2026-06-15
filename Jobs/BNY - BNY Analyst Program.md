@@ -2,6 +2,7 @@
 company: BNY
 role: BNY Analyst Program
 category: new-grad
+discipline: other
 locations:
 - Manchester, UK
 terms: []

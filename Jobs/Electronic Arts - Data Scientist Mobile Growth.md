@@ -2,6 +2,7 @@
 company: Electronic Arts
 role: Data Scientist Mobile Growth
 category: new-grad
+discipline: data
 locations:
 - Vancouver, BC, Canada
 terms: []

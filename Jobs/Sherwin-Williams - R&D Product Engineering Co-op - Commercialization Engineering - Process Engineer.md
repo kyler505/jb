@@ -2,6 +2,7 @@
 company: Sherwin-Williams
 role: R&D Product Engineering Co-op - Commercialization Engineering - Process Engineering
 category: internship
+discipline: other
 locations:
 - Seven Hills, OH
 terms:

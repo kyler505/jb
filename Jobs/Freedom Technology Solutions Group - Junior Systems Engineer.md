@@ -2,6 +2,7 @@
 company: Freedom Technology Solutions Group
 role: Junior Systems Engineer
 category: new-grad
+discipline: other
 locations:
 - Annapolis Junction, MD
 terms: []

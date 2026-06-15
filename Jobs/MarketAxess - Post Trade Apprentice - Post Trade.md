@@ -2,6 +2,7 @@
 company: MarketAxess
 role: Post Trade Apprentice - Post Trade
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

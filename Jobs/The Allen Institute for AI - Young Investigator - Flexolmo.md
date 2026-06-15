@@ -2,6 +2,7 @@
 company: The Allen Institute for AI
 role: Young Investigator - Flexolmo
 category: new-grad
+discipline: other
 locations:
 - Berkeley, CA
 terms: []

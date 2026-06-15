@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Data Engineering Intern - AI & Analytics
 category: internship
+discipline: data
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: Internship
 role: AI Deployment Engineering Internship
 category: internship
+discipline: other
 locations:
 - New York, NY
 terms:

@@ -2,6 +2,7 @@
 company: Parallel Wireless
 role: Junior RT Software Engineer 5G Stack
 category: new-grad
+discipline: swe
 locations:
 - Nashua, NH
 terms: []

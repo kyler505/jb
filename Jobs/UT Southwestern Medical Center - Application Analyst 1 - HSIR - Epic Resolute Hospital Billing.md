@@ -2,6 +2,7 @@
 company: UT Southwestern Medical Center
 role: Application Analyst 1 - HSIR - Epic Resolute Hospital Billing
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Citi
 role: Global Spread Products Analyst - In-Business Risk / Trading
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

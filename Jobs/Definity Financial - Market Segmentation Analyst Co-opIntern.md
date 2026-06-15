@@ -2,6 +2,7 @@
 company: Definity Financial
 role: Market Segmentation Analyst Co-op/Intern
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

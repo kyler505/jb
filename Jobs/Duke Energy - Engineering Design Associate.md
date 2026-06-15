@@ -2,6 +2,7 @@
 company: Duke Energy
 role: Engineering Design Associate
 category: new-grad
+discipline: other
 locations:
 - St. Petersburg, FL
 terms: []

@@ -2,6 +2,7 @@
 company: Schmidt Sciences
 role: AI Institute Fellow in Residence
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

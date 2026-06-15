@@ -2,6 +2,7 @@
 company: QinetiQ
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Franklin, MA
 terms: []

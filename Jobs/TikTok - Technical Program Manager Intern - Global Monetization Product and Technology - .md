@@ -3,6 +3,7 @@ company: TikTok
 role: Technical Program Manager Intern - Global Monetization Product and Technology
   - BS/MS
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

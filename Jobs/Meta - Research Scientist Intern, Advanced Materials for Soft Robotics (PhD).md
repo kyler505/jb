@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

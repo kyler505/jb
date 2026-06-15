@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Lab Assistant 2
 category: new-grad
+discipline: other
 locations:
 - Milwaukee, WI
 terms: []

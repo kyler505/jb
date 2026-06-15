@@ -3,6 +3,7 @@ company: TikTok
 role: Platform-Product Solutions and Operations Intern - Ads Interface and Platform
   - 2026 Summer BS/MS
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

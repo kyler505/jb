@@ -2,6 +2,7 @@
 company: Société Générale de Surveillance (SGS)
 role: Field Evaluation Engineer
 category: new-grad
+discipline: other
 locations:
 - Suwanee, GA
 terms: []

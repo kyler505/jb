@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist - Generative AI - Tiktok Search
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

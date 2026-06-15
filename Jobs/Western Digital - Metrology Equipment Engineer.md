@@ -2,6 +2,7 @@
 company: Western Digital
 role: Metrology Equipment Engineer
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

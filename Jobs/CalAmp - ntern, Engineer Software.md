@@ -2,6 +2,7 @@
 company: CalAmp
 role: ntern, Engineer Software
 category: internship
+discipline: other
 locations:
 - Carlsbad, Ca
 terms:

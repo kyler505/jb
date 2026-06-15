@@ -2,6 +2,7 @@
 company: West Virginia University
 role: Part-time Adjunct Teaching Positions
 category: new-grad
+discipline: other
 locations:
 - Morgantown, WV
 - Berkeley Springs, WV

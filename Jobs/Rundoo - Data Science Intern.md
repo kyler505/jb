@@ -2,6 +2,7 @@
 company: Rundoo
 role: Data Science Intern
 category: internship
+discipline: data
 locations:
 - Chicago, IL
 terms:

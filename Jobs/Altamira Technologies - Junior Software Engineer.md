@@ -2,6 +2,7 @@
 company: Altamira Technologies
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Wright-Patterson AFB, OH
 terms: []

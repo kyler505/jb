@@ -2,6 +2,7 @@
 company: RWS
 role: AI Data Specialist - North Carolina - US
 category: internship
+discipline: other
 locations:
 - North Carolina
 terms:

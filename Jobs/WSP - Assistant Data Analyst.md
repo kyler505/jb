@@ -2,6 +2,7 @@
 company: WSP
 role: Assistant Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Birmingham, UK
 terms: []

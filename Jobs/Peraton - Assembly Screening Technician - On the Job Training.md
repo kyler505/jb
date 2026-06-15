@@ -2,6 +2,7 @@
 company: Peraton
 role: Assembly Screening Technician - On the Job Training
 category: new-grad
+discipline: other
 locations:
 - Topeka, KS
 terms: []

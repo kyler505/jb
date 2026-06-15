@@ -2,6 +2,7 @@
 company: Lila Sciences
 role: Data Extraction Co-op
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 terms:

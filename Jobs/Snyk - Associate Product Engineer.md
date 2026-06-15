@@ -2,6 +2,7 @@
 company: Snyk
 role: Associate Product Engineer
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

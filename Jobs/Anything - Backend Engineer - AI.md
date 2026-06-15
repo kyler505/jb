@@ -2,6 +2,7 @@
 company: Anything
 role: Backend Engineer - AI
 category: new-grad
+discipline: backend
 locations:
 - SF
 terms: []

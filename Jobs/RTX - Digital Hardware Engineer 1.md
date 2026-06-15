@@ -2,6 +2,7 @@
 company: RTX
 role: Digital Hardware Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - Huntsville, AL
 terms: []

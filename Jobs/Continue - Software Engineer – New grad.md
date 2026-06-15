@@ -2,6 +2,7 @@
 company: Continue
 role: Software Engineer – New grad
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

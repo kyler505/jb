@@ -2,6 +2,7 @@
 company: Red Hat
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Boston, MA
 terms: []

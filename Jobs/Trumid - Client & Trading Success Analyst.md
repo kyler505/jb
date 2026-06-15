@@ -2,6 +2,7 @@
 company: Trumid
 role: Client & Trading Success Analyst
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

@@ -2,6 +2,7 @@
 company: Apple
 role: Software Engineer-SoC Level Validation Engineer
 category: new-grad
+discipline: swe
 locations:
 - Beaverton, OR
 terms: []

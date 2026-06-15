@@ -2,6 +2,7 @@
 company: The Exploration Company
 role: Crew Systems Engineering Intern - Avionics/Software
 category: internship
+discipline: other
 locations:
 - Houston, TX
 terms:

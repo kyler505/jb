@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: IP Product Operations
 category: internship
+discipline: other
 locations:
 - Remote in USA
 - Remote in Canada

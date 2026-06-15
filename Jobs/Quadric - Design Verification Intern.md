@@ -2,6 +2,7 @@
 company: Quadric
 role: Design Verification Intern
 category: internship
+discipline: other
 locations:
 - Burlingame, CA
 terms:

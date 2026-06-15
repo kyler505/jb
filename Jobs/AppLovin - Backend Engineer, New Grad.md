@@ -2,6 +2,7 @@
 company: AppLovin
 role: Backend Engineer, New Grad
 category: new-grad
+discipline: backend
 locations:
 - Palo Alto, CA
 terms: []

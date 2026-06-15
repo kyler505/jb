@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern - Applied Vision and Image Quality - PhD
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: Wireless Protocol Software Engineer - Layer 2 - Radio Link Control
 category: new-grad
+discipline: swe
 locations:
 - Fleet, UK
 - Milan, Metropolitan City of Milan, Italy

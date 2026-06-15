@@ -2,6 +2,7 @@
 company: 1Password
 role: Developer Intern - Front-End Platform
 category: internship
+discipline: frontend
 locations:
 - Remote in USA
 - Remote in Canada

@@ -2,6 +2,7 @@
 company: Picarro
 role: Product Development Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

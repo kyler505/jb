@@ -2,6 +2,7 @@
 company: Impulse Space
 role: Embedded Software Engineer - Camera Systems
 category: new-grad
+discipline: hardware
 locations:
 - El Segundo, CA
 terms: []

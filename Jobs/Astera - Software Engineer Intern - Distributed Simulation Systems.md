@@ -2,6 +2,7 @@
 company: Astera
 role: Software Engineer Intern - Distributed Simulation Systems
 category: internship
+discipline: swe
 locations:
 - Oakland, CA
 terms:

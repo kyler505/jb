@@ -2,6 +2,7 @@
 company: Magna
 role: Tools Engineering Intern
 category: internship
+discipline: other
 locations:
 - Auburn Hills, MI
 - Southfield, MI

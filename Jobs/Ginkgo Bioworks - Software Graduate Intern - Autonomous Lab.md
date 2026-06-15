@@ -2,6 +2,7 @@
 company: Ginkgo Bioworks
 role: Software Graduate Intern - Autonomous Lab
 category: internship
+discipline: other
 locations:
 - Oakland, CA
 terms:

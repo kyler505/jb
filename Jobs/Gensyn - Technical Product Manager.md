@@ -2,6 +2,7 @@
 company: Gensyn
 role: Technical Product Manager
 category: new-grad
+discipline: other
 locations:
 - Remote in UK
 terms: []

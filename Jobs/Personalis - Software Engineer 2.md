@@ -2,6 +2,7 @@
 company: Personalis
 role: Software Engineer 2
 category: new-grad
+discipline: swe
 locations:
 - Fremont, CA
 terms: []

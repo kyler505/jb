@@ -2,6 +2,7 @@
 company: mthree
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - United States
 terms: []

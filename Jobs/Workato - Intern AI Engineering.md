@@ -2,6 +2,7 @@
 company: Workato
 role: Intern AI Engineering
 category: internship
+discipline: ml
 locations:
 - SF
 terms:

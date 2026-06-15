@@ -2,6 +2,7 @@
 company: Nokia
 role: Nokia Defense Software Co-op
 category: internship
+discipline: other
 locations:
 - Naperville, IL
 terms:

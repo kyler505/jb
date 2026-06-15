@@ -2,6 +2,7 @@
 company: Atria Group
 role: Informatica Admin
 category: internship
+discipline: other
 locations:
 - Plainview, NY
 terms:

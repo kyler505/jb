@@ -2,6 +2,7 @@
 company: Foxglove
 role: Software Engineer New Grad
 category: new-grad
+discipline: swe
 locations:
 - SF
 terms: []

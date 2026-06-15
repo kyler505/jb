@@ -2,6 +2,7 @@
 company: Hawk-Eye Innovations
 role: Hawk-Eye Systems Technician
 category: new-grad
+discipline: other
 locations:
 - Charlotte, NC
 terms: []

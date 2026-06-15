@@ -2,6 +2,7 @@
 company: HF Sinclair
 role: Data Analyst - Procurement
 category: new-grad
+discipline: data
 locations:
 - Dallas, TX
 terms: []

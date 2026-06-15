@@ -2,6 +2,7 @@
 company: Cerebras
 role: Codesign & Nextgen – New College Grad
 category: new-grad
+discipline: other
 locations:
 - Sunnyvale, CA
 terms: []

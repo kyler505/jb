@@ -2,6 +2,7 @@
 company: Fidelity Investments
 role: 'Undergraduate Software Engineer - Leap: Software Engineer'
 category: internship
+discipline: swe
 locations:
 - Durham, NC
 terms:

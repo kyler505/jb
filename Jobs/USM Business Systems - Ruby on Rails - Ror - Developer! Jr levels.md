@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Ruby on Rails - Ror - Developer! Jr levels
 category: new-grad
+discipline: swe
 locations:
 - Traverse City, MI
 terms: []

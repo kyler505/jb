@@ -2,6 +2,7 @@
 company: Waymo
 role: 2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer
 category: internship
+discipline: swe
 locations:
 - Mountain View, CA
 terms:

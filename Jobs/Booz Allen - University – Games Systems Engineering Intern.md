@@ -2,6 +2,7 @@
 company: Booz Allen
 role: University – Games Systems Engineering Intern
 category: internship
+discipline: other
 locations:
 - Honolulu, HI
 - Annapolis Junction, MD

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Development Engineer Intern - Network Automation
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

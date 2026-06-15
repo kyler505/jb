@@ -2,6 +2,7 @@
 company: Neuralink
 role: Manufacturing Technician
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

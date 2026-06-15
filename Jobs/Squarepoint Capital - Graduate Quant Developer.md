@@ -2,6 +2,7 @@
 company: Squarepoint Capital
 role: Graduate Quant Developer
 category: new-grad
+discipline: swe
 locations:
 - Montreal, QC, Canada
 - London, UK

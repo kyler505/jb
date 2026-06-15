@@ -2,6 +2,7 @@
 company: Nokia
 role: Software Designer Co-op/Intern
 category: internship
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms:

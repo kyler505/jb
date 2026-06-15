@@ -2,6 +2,7 @@
 company: Zipline
 role: Perception Intern
 category: internship
+discipline: other
 locations:
 - Dallas, TX
 - San Bruno, CA

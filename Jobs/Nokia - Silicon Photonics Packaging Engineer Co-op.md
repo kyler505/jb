@@ -2,6 +2,7 @@
 company: Nokia
 role: Silicon Photonics Packaging Engineer Co-op
 category: internship
+discipline: other
 locations:
 - NYC
 - Sunnyvale, CA

@@ -2,6 +2,7 @@
 company: Further
 role: Entry Level Software Developer – Graduate Leadership Program
 category: new-grad
+discipline: swe
 locations:
 - Dallas, TX
 terms: []

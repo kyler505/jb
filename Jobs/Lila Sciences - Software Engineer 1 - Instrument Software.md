@@ -2,6 +2,7 @@
 company: Lila Sciences
 role: Software Engineer 1 - Instrument Software
 category: new-grad
+discipline: swe
 locations:
 - Cambridge, MA
 terms: []

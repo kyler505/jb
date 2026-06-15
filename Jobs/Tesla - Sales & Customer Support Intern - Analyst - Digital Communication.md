@@ -2,6 +2,7 @@
 company: Tesla
 role: Sales & Customer Support Intern - Analyst - Digital Communication
 category: internship
+discipline: other
 locations:
 - Fremont, CA
 terms:

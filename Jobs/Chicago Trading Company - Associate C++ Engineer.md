@@ -2,6 +2,7 @@
 company: Chicago Trading Company
 role: Associate C++ Engineer
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 - NYC

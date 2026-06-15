@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: PhD Quantitative Researcher Intern
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

@@ -2,6 +2,7 @@
 company: Paccar
 role: Data Analyst Intern Fall 2026
 category: internship
+discipline: data
 locations:
 - Columbus, MS
 terms:

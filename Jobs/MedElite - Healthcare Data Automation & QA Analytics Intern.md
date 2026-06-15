@@ -2,6 +2,7 @@
 company: MedElite
 role: Healthcare Data Automation & QA Analytics Intern
 category: internship
+discipline: data
 locations:
 - Brooklyn, NY
 terms:

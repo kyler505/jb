@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Fixed Income Analyst/Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

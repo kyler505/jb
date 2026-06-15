@@ -2,6 +2,7 @@
 company: Unity
 role: Machine Learning Engineer – Entry-Level / New Grad PhD - Offline Infrastructure
 category: new-grad
+discipline: ml
 locations:
 - SF
 terms: []

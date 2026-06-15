@@ -2,6 +2,7 @@
 company: Adobe
 role: MBA Intern - Product Manager
 category: internship
+discipline: other
 locations:
 - SF
 - San Jose, CA

@@ -2,6 +2,7 @@
 company: Internet Brands
 role: Associate AI Research & Operations Analyst
 category: new-grad
+discipline: other
 locations:
 - El Segundo, CA
 terms: []

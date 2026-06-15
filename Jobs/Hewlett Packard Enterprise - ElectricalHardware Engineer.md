@@ -2,6 +2,7 @@
 company: Hewlett Packard Enterprise
 role: Electrical/Hardware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Spring, TX
 terms: []

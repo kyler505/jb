@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: SQL/PL SQL Developer
 category: new-grad
+discipline: swe
 locations:
 - Augusta, ME
 terms: []

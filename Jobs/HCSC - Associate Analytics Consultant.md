@@ -2,6 +2,7 @@
 company: HCSC
 role: Associate Analytics Consultant
 category: new-grad
+discipline: data
 locations:
 - Chicago, IL
 terms: []

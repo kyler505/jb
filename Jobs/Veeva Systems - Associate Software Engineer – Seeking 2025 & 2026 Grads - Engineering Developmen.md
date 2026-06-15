@@ -3,6 +3,7 @@ company: Veeva Systems
 role: Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development
   Program
 category: new-grad
+discipline: swe
 locations:
 - Raleigh, NC
 terms: []

@@ -2,6 +2,7 @@
 company: Amazon
 role: Software Development Engineer Intern - Military Veteran
 category: internship
+discipline: swe
 locations:
 - NYC
 - Culver City, CA

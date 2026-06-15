@@ -2,6 +2,7 @@
 company: Docugami
 role: Data Science PhD Intern
 category: internship
+discipline: data
 locations:
 - Kirkland, WA
 terms:

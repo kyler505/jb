@@ -2,6 +2,7 @@
 company: Blue Origin
 role: Avionics Software Intern
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 - LA

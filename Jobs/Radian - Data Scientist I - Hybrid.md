@@ -2,6 +2,7 @@
 company: Radian
 role: Data Scientist I - Hybrid
 category: new-grad
+discipline: data
 locations:
 - New York, NY
 terms: []

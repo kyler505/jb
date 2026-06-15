@@ -2,6 +2,7 @@
 company: City of Philadelphia
 role: Software Engineer Associate - Applications & Automation
 category: new-grad
+discipline: swe
 locations:
 - Philadelphia, PA
 terms: []

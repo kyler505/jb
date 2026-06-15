@@ -2,6 +2,7 @@
 company: Applied Materials
 role: AI Algorithm Developer
 category: new-grad
+discipline: swe
 locations:
 - Santa Clara, CA
 terms: []

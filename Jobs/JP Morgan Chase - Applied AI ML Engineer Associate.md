@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Applied AI ML Engineer Associate
 category: new-grad
+discipline: ml
 locations:
 - Columbus, OH
 terms: []

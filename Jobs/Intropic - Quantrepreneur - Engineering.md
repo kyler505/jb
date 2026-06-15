@@ -2,6 +2,7 @@
 company: Intropic
 role: Quantrepreneur - Engineering
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

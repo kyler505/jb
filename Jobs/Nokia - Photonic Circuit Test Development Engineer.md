@@ -2,6 +2,7 @@
 company: Nokia
 role: Photonic Circuit Test Development Engineer
 category: new-grad
+discipline: other
 locations:
 - California
 terms: []

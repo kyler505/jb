@@ -2,6 +2,7 @@
 company: Procom
 role: Web Developer
 category: new-grad
+discipline: frontend
 locations:
 - Chandler, AZ
 terms: []

@@ -2,6 +2,7 @@
 company: GE Vernova
 role: Applied AI & Controls Transformation Intern
 category: internship
+discipline: other
 locations:
 - Greenville, SC
 terms:

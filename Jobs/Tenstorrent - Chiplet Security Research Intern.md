@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Chiplet Security Research Intern
 category: internship
+discipline: security
 locations:
 - Santa Clara, CA
 terms:

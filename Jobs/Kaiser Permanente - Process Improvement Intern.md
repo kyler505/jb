@@ -2,6 +2,7 @@
 company: Kaiser Permanente
 role: Process Improvement Intern
 category: internship
+discipline: other
 locations:
 - Pasadena, CA
 terms:

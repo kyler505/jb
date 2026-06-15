@@ -2,6 +2,7 @@
 company: ASML
 role: Internship - Software Development Engineer in Test
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

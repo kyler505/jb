@@ -2,6 +2,7 @@
 company: KPH Healthcare Services
 role: Business Intelligence Intern
 category: internship
+discipline: data
 locations:
 - Syracuse, NY
 terms:

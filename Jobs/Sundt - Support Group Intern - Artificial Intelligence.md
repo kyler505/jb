@@ -2,6 +2,7 @@
 company: Sundt
 role: Support Group Intern - Artificial Intelligence
 category: internship
+discipline: other
 locations:
 - Tempe, AZ
 terms:

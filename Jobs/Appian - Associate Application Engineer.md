@@ -2,6 +2,7 @@
 company: Appian
 role: Associate Application Engineer
 category: new-grad
+discipline: other
 locations:
 - McLean, VA
 terms: []

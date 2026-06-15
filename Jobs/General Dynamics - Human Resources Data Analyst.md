@@ -2,6 +2,7 @@
 company: General Dynamics
 role: Human Resources Data Analyst
 category: new-grad
+discipline: data
 locations:
 - San Diego, CA
 terms: []

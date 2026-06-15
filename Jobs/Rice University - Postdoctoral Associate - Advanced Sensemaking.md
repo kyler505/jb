@@ -2,6 +2,7 @@
 company: Rice University
 role: Postdoctoral Associate - Advanced Sensemaking
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

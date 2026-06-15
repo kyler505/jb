@@ -2,6 +2,7 @@
 company: General Dynamics UK
 role: Junior Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Ashford District, UK
 terms: []

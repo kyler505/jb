@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: R&D Test Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Santa Rosa, CA
 terms: []

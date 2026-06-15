@@ -2,6 +2,7 @@
 company: Motorola
 role: Embedded Software Engineer - Modern C++ - Linux
 category: new-grad
+discipline: hardware
 locations:
 - Allen, TX
 terms: []

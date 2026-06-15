@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Ruby on Rails
 category: new-grad
+discipline: other
 locations:
 - Chantilly, VA
 terms: []

@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Graduate - 2026 Start and BS/MS
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

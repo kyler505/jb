@@ -2,6 +2,7 @@
 company: United Launch Alliance
 role: Contract Data Management 1
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

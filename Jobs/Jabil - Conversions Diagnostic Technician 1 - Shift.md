@@ -2,6 +2,7 @@
 company: Jabil
 role: Conversions Diagnostic Technician 1 - Shift
 category: new-grad
+discipline: other
 locations:
 - Florence, KY
 terms: []

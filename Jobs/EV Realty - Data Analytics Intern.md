@@ -2,6 +2,7 @@
 company: EV Realty
 role: Data Analytics Intern
 category: internship
+discipline: data
 locations:
 - Salt Lake City, UT
 - SF

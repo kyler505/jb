@@ -2,6 +2,7 @@
 company: Truveta
 role: Machine Learning Postdoctoral Researcher - Healthcare AI Innovation
 category: new-grad
+discipline: ml
 locations:
 - Seattle, WA
 terms: []

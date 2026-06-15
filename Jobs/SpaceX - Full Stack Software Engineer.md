@@ -2,6 +2,7 @@
 company: SpaceX
 role: Full Stack Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Palo Alto, CA
 terms: []

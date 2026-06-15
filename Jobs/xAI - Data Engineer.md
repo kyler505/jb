@@ -2,6 +2,7 @@
 company: xAI
 role: Data Engineer
 category: new-grad
+discipline: data
 locations:
 - Palo Alto, CA
 terms: []

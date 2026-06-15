@@ -2,6 +2,7 @@
 company: Apple
 role: CAD Engineer - Physical Design Verification
 category: new-grad
+discipline: other
 locations:
 - Austin, TX
 terms: []

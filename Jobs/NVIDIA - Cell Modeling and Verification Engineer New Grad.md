@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Cell Modeling and Verification Engineer New Grad
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

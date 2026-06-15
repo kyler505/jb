@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Quantitative Analytics Associate - Fraud Prevention Optimization Strategy
 category: new-grad
+discipline: data
 locations:
 - Columbus, OH
 - Wilmington, DE

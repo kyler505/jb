@@ -2,6 +2,7 @@
 company: 3S Business Corporation
 role: iOS Training and Placement
 category: internship
+discipline: other
 locations:
 - Houston, TX
 terms:

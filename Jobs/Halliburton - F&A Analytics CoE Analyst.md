@@ -2,6 +2,7 @@
 company: Halliburton
 role: F&A Analytics CoE Analyst
 category: new-grad
+discipline: data
 locations:
 - Houston, TX
 terms: []

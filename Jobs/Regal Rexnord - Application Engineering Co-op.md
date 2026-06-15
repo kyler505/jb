@@ -2,6 +2,7 @@
 company: Regal Rexnord
 role: Application Engineering Co-op
 category: internship
+discipline: other
 locations:
 - Florence, KY
 terms:

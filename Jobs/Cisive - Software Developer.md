@@ -2,6 +2,7 @@
 company: Cisive
 role: Software Developer
 category: new-grad
+discipline: swe
 locations:
 - New Mexico
 - Independence, KS

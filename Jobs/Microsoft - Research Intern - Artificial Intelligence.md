@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Artificial Intelligence
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

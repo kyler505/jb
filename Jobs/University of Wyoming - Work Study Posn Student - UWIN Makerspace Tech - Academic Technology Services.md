@@ -2,6 +2,7 @@
 company: University of Wyoming
 role: Work Study Posn Student - UWIN Makerspace Tech - Academic Technology Services
 category: internship
+discipline: other
 locations:
 - Laramie, WY
 terms:

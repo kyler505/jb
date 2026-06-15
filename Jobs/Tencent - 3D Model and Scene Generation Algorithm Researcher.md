@@ -2,6 +2,7 @@
 company: Tencent
 role: 3D Model and Scene Generation Algorithm Researcher
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Torc Robotics
 role: Software Engineer - Data Engineering
 category: new-grad
+discipline: data
 locations:
 - Ann Arbor, MI
 terms: []

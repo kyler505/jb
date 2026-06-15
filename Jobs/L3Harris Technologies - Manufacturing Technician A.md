@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Manufacturing Technician A
 category: new-grad
+discipline: other
 locations:
 - Cincinnati, OH
 terms: []

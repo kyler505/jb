@@ -3,6 +3,7 @@ company: Qualcomm
 role: GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software
   Engineering
 category: new-grad
+discipline: swe
 locations:
 - San Diego, CA
 terms: []

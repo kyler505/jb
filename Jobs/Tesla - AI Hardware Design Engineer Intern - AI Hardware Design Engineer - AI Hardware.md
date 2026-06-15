@@ -2,6 +2,7 @@
 company: Tesla
 role: AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 - Austin, TX

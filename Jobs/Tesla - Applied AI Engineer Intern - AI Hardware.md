@@ -2,6 +2,7 @@
 company: Tesla
 role: Applied AI Engineer Intern - AI Hardware
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 terms:

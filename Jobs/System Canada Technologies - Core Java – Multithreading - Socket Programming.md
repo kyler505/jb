@@ -2,6 +2,7 @@
 company: System Canada Technologies
 role: Core Java – Multithreading - Socket Programming
 category: new-grad
+discipline: other
 locations:
 - Chicago, IL
 terms: []

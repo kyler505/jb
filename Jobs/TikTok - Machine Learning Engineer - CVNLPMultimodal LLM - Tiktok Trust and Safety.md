@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety
 category: new-grad
+discipline: ml
 locations:
 - San Jose, CA
 terms: []

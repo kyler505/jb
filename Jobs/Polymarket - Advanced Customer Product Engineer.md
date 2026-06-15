@@ -2,6 +2,7 @@
 company: Polymarket
 role: Advanced Customer Product Engineer
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

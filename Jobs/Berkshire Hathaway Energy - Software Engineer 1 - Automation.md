@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Software Engineer 1 - Automation
 category: new-grad
+discipline: swe
 locations:
 - Salt Lake City, UT
 - Las Vegas, NV

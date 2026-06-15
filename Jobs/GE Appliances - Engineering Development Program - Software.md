@@ -2,6 +2,7 @@
 company: GE Appliances
 role: Engineering Development Program - Software
 category: new-grad
+discipline: other
 locations:
 - Louisville, KY
 terms: []

@@ -2,6 +2,7 @@
 company: Tesla
 role: AI Tooling Intern - Fullstack Engineer - AI Tooling
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

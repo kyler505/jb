@@ -2,6 +2,7 @@
 company: Skydio
 role: Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2026
 category: internship
+discipline: ml
 locations:
 - San Mateo, CA
 terms:

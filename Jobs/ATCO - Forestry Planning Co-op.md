@@ -2,6 +2,7 @@
 company: ATCO
 role: Forestry Planning Co-op
 category: internship
+discipline: other
 locations:
 - Edmonton, AB, Canada
 terms:

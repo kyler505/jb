@@ -2,6 +2,7 @@
 company: Threatlocker
 role: Application Technician
 category: new-grad
+discipline: other
 locations:
 - Orlando, FL
 terms: []

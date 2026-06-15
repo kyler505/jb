@@ -2,6 +2,7 @@
 company: Zello
 role: Applied AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - Austin, TX
 terms: []

@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Device Lab Technician
 category: new-grad
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms: []

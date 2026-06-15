@@ -2,6 +2,7 @@
 company: Marvell
 role: Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree
 category: internship
+discipline: other
 locations:
 - Irvine, CA
 terms:

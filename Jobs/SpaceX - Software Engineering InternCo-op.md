@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineering Intern/Co-op
 category: internship
+discipline: swe
 locations:
 - Bastrop, TX
 - Irvine, CA

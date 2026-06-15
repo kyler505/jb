@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Project Intern - Network Security
 category: internship
+discipline: security
 locations:
 - San Jose, CA
 terms:

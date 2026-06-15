@@ -2,6 +2,7 @@
 company: Marvell
 role: Computer Science/Data Science Intern - Bachelor's Degree
 category: internship
+discipline: data
 locations:
 - Santa Clara, CA
 terms:

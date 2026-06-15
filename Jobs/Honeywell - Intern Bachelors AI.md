@@ -2,6 +2,7 @@
 company: Honeywell
 role: Intern Bachelors AI
 category: internship
+discipline: other
 locations:
 - Kanata, Ottawa, ON, Canada
 terms:

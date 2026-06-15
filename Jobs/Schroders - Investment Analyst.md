@@ -2,6 +2,7 @@
 company: Schroders
 role: Investment Analyst
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

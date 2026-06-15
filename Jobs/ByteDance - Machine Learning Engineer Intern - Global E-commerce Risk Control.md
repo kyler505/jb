@@ -2,6 +2,7 @@
 company: ByteDance
 role: Machine Learning Engineer Intern - Global E-commerce Risk Control
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 terms:

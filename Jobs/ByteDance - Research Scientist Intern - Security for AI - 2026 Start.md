@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Intern - Security for AI - 2026 Start
 category: internship
+discipline: security
 locations:
 - San Jose, CA
 terms:

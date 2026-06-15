@@ -2,6 +2,7 @@
 company: Huxley
 role: Software Engineer 1
 category: internship
+discipline: swe
 locations:
 - Raleigh, NC
 terms:

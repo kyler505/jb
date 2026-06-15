@@ -2,6 +2,7 @@
 company: Marmon Holdings
 role: Sofware Developer Intern OR Student Co-Op
 category: internship
+discipline: swe
 locations:
 - Chicago, IL
 terms:

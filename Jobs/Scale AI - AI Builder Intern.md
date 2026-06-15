@@ -2,6 +2,7 @@
 company: Scale AI
 role: AI Builder Intern
 category: internship
+discipline: other
 locations:
 - SF
 - NYC

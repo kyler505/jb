@@ -2,6 +2,7 @@
 company: GXO Logistics
 role: Business Intelligence Engineer
 category: new-grad
+discipline: data
 locations:
 - Union City, GA
 terms: []

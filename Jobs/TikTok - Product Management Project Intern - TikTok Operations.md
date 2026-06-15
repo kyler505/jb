@@ -2,6 +2,7 @@
 company: TikTok
 role: Product Management Project Intern - TikTok Operations
 category: internship
+discipline: other
 locations:
 - LA
 terms:

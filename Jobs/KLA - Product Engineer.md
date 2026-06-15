@@ -2,6 +2,7 @@
 company: KLA
 role: Product Engineer
 category: new-grad
+discipline: other
 locations:
 - Ann Arbor, MI
 terms: []

@@ -2,6 +2,7 @@
 company: Anterior
 role: Clinical AI Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

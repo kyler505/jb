@@ -2,6 +2,7 @@
 company: University of Arkansas
 role: Cosmos Graduate Research Assistant
 category: new-grad
+discipline: other
 locations:
 - Little Rock, AR
 terms: []

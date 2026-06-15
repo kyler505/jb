@@ -2,6 +2,7 @@
 company: Ambarella
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - United States
 terms:

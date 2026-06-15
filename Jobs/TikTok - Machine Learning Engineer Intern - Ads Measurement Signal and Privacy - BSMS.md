@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Intern - Ads Measurement Signal and Privacy - BS/MS
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

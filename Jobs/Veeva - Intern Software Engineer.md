@@ -2,6 +2,7 @@
 company: Veeva
 role: Intern Software Engineer
 category: internship
+discipline: swe
 locations:
 - Pleasanton, CA
 terms:

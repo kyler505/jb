@@ -2,6 +2,7 @@
 company: UT Southwestern Medical Center
 role: Computational Scientist BioHPC
 category: internship
+discipline: other
 locations:
 - Dallas, TX
 terms:

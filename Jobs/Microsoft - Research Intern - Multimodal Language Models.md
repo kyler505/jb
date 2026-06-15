@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Multimodal Language Models
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

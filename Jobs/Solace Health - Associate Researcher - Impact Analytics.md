@@ -2,6 +2,7 @@
 company: Solace Health
 role: Associate Researcher - Impact Analytics
 category: new-grad
+discipline: data
 locations:
 - United States
 terms: []

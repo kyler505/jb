@@ -2,6 +2,7 @@
 company: Icon
 role: Founding Engineer
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

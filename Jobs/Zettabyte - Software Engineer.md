@@ -2,6 +2,7 @@
 company: Zettabyte
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Palo Alto, CA
 terms: []

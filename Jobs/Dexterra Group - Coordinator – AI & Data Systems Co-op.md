@@ -2,6 +2,7 @@
 company: Dexterra Group
 role: Coordinator – AI & Data Systems Co-op
 category: internship
+discipline: other
 locations:
 - Mississauga, ON, Canada
 terms:

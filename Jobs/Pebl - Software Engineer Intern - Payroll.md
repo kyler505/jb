@@ -2,6 +2,7 @@
 company: Pebl
 role: Software Engineer Intern - Payroll
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

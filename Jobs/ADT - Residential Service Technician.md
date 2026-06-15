@@ -2,6 +2,7 @@
 company: ADT
 role: Residential Service Technician
 category: new-grad
+discipline: other
 locations:
 - Springfield, VA
 terms: []

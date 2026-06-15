@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Co-op - Design Verification Engineer
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

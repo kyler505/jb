@@ -2,6 +2,7 @@
 company: Tencent
 role: Game Research & Development Intern - Engine Research
 category: internship
+discipline: other
 locations:
 - LA
 terms:

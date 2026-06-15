@@ -2,6 +2,7 @@
 company: Neuralink
 role: Machine Learning Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Fremont, CA
 terms:

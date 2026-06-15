@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Scientist Graduate - TikTok Shop DS
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Prosper Funding
 role: AI Engineer Intern
 category: internship
+discipline: ml
 locations:
 - SF
 terms:

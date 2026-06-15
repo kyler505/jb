@@ -2,6 +2,7 @@
 company: Anthropic
 role: AI Safety Fellow
 category: internship
+discipline: other
 locations:
 - London, UK
 - Ontario, CA

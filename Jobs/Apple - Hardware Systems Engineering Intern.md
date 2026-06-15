@@ -2,6 +2,7 @@
 company: Apple
 role: Hardware Systems Engineering Intern
 category: internship
+discipline: hardware
 locations:
 - Austin, TX
 terms:

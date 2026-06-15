@@ -2,6 +2,7 @@
 company: Tesla
 role: Electrical Hardware Validation Engineer - Optimus
 category: new-grad
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms: []

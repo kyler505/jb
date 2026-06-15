@@ -2,6 +2,7 @@
 company: Cotiviti
 role: Generative AI Research Engineer Intern
 category: internship
+discipline: other
 locations:
 - Remote in USA
 terms:

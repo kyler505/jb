@@ -2,6 +2,7 @@
 company: Uncountable
 role: Product Manager
 category: new-grad
+discipline: other
 locations:
 - San Francisco
 - New York

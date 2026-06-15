@@ -2,6 +2,7 @@
 company: Aptiv
 role: GPU Driver Development Senior Engineer - System
 category: new-grad
+discipline: other
 locations:
 - Kanata, Ottawa, ON, Canada
 - Kitchener, ON, Canada

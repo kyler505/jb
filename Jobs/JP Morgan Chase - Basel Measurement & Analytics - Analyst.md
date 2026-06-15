@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Basel Measurement & Analytics - Analyst
 category: new-grad
+discipline: data
 locations:
 - Newark, DE
 terms: []

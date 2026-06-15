@@ -2,6 +2,7 @@
 company: Apple
 role: Machine Learning and Artificial Intelligence Intern
 category: internship
+discipline: ml
 locations:
 - United States
 terms:

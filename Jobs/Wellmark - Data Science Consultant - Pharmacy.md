@@ -2,6 +2,7 @@
 company: Wellmark
 role: Data Science Consultant - Pharmacy
 category: new-grad
+discipline: data
 locations:
 - Des Moines, IA
 terms: []

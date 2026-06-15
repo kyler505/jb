@@ -2,6 +2,7 @@
 company: Shepherd
 role: Actuarial Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Chicago, IL
 - NYC

@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Software Research Engineer
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

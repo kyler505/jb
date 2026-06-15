@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Intern – Enterprise Analytics
 category: internship
+discipline: data
 locations:
 - Des Moines, IA
 terms:

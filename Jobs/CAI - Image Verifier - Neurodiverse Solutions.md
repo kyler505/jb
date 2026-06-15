@@ -2,6 +2,7 @@
 company: CAI
 role: Image Verifier - Neurodiverse Solutions
 category: new-grad
+discipline: other
 locations:
 - Pennsylvania
 terms: []

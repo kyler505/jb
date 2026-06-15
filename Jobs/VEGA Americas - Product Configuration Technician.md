@@ -2,6 +2,7 @@
 company: VEGA Americas
 role: Product Configuration Technician
 category: new-grad
+discipline: other
 locations:
 - Mason, OH
 terms: []

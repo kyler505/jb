@@ -2,6 +2,7 @@
 company: Nokia
 role: Tools and Automation SW Dev Intern/Co-op
 category: internship
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms:

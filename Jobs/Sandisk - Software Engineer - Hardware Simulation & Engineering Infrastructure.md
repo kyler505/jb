@@ -2,6 +2,7 @@
 company: Sandisk
 role: Software Engineer - Hardware Simulation & Engineering Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - Edinburgh, UK
 terms: []

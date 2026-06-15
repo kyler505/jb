@@ -2,6 +2,7 @@
 company: Hunt Oil Company
 role: AI Engineer
 category: internship
+discipline: ml
 locations:
 - Dallas, TX
 terms:

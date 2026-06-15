@@ -2,6 +2,7 @@
 company: Skydio
 role: Autonomy Engineer Intern - Deep Learning - Computational Photography
 category: internship
+discipline: ml
 locations:
 - San Mateo, CA
 terms:

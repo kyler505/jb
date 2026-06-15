@@ -2,6 +2,7 @@
 company: ASM International
 role: Engineer – Field Service
 category: new-grad
+discipline: other
 locations:
 - Phoenix, AZ
 terms: []

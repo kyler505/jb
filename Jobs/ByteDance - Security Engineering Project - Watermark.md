@@ -2,6 +2,7 @@
 company: ByteDance
 role: Security Engineering Project - Watermark
 category: internship
+discipline: security
 locations:
 - San Jose, CA
 terms:

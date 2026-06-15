@@ -2,6 +2,7 @@
 company: Ingram Micro
 role: Associate Agentic AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - Irvine, CA
 terms: []

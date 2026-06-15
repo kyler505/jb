@@ -2,6 +2,7 @@
 company: Anduril
 role: Product Operations Associate - Tier 1
 category: new-grad
+discipline: other
 locations:
 - Irvine, CA
 terms: []

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Graduate - Computational Imaging-Pico - 2026 Start
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

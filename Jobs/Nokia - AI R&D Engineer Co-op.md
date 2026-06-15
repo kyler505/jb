@@ -2,6 +2,7 @@
 company: Nokia
 role: AI R&D Engineer Co-op
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

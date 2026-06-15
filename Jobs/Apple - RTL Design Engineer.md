@@ -2,6 +2,7 @@
 company: Apple
 role: RTL Design Engineer
 category: new-grad
+discipline: other
 locations:
 - Morrisville, NC
 terms: []

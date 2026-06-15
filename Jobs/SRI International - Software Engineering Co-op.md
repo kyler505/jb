@@ -2,6 +2,7 @@
 company: SRI International
 role: Software Engineering Co-op
 category: internship
+discipline: swe
 locations:
 - Princeton, NJ
 terms:

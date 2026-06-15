@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Quantitative Systematic Trader
 category: new-grad
+discipline: other
 locations:
 - Ardmore, PA
 terms: []

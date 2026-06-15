@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI Systems & Architecture
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 - Mountain View, CA

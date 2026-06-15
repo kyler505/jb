@@ -2,6 +2,7 @@
 company: Mercedes-Benz
 role: OBD Certification & Compliance Intern
 category: internship
+discipline: other
 locations:
 - Ann Arbor, MI
 terms:

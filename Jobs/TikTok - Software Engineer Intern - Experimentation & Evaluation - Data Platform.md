@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Experimentation & Evaluation - Data Platform
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

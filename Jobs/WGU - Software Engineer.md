@@ -2,6 +2,7 @@
 company: WGU
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Salt Lake City, UT
 terms: []

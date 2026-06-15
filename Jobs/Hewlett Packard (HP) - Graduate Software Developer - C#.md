@@ -2,6 +2,7 @@
 company: Hewlett Packard (HP)
 role: Graduate Software Developer - C#
 category: new-grad
+discipline: swe
 locations:
 - Cambridge, UK
 terms: []

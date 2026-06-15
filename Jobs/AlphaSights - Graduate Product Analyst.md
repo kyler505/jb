@@ -2,6 +2,7 @@
 company: AlphaSights
 role: Graduate Product Analyst
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Susquehanna International Group (SIG)
 role: Tax AI Co-op
 category: internship
+discipline: other
 locations:
 - Ardmore, PA
 terms:

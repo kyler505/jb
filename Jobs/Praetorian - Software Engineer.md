@@ -2,6 +2,7 @@
 company: Praetorian
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Austin, TX
 terms: []

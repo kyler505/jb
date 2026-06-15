@@ -2,6 +2,7 @@
 company: PennState University
 role: Research and Development Engineering Intern
 category: internship
+discipline: other
 locations:
 - State College, PA
 terms:

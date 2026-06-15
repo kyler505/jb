@@ -2,6 +2,7 @@
 company: Amazon
 role: Applied Science Intern - Multiple Teams
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 - Boston, MA

@@ -2,6 +2,7 @@
 company: Toyota Research Institute
 role: Human-Centered AI Intern - CAD Design Reasoning Machine Learning
 category: internship
+discipline: ml
 locations:
 - Mountain View, CA
 terms:

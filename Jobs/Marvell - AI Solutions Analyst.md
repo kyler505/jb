@@ -2,6 +2,7 @@
 company: Marvell
 role: AI Solutions Analyst
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

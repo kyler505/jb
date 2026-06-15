@@ -2,6 +2,7 @@
 company: Tangram Interiors
 role: AV Technician - Tangram Technology
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

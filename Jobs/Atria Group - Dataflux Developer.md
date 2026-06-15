@@ -2,6 +2,7 @@
 company: Atria Group
 role: Dataflux Developer
 category: internship
+discipline: swe
 locations:
 - Thousand Oaks, CA
 terms:

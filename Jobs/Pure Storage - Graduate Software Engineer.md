@@ -2,6 +2,7 @@
 company: Pure Storage
 role: Graduate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Santa Clara, CA
 terms: []

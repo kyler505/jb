@@ -2,6 +2,7 @@
 company: Saxon Global
 role: PHP Developer
 category: new-grad
+discipline: swe
 locations:
 - Westchester County, NY
 terms: []

@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern, Computational Chemist
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

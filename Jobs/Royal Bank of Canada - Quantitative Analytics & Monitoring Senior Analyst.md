@@ -2,6 +2,7 @@
 company: Royal Bank of Canada
 role: Quantitative Analytics & Monitoring Senior Analyst
 category: new-grad
+discipline: data
 locations:
 - Toronto, ON, Canada
 terms: []

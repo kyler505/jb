@@ -2,6 +2,7 @@
 company: Mistral AI
 role: Applied Scientist / Research Engineer – Internship
 category: internship
+discipline: other
 locations:
 - London, UK
 - Paris, France

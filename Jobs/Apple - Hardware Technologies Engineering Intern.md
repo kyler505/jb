@@ -2,6 +2,7 @@
 company: Apple
 role: Hardware Technologies Engineering Intern
 category: internship
+discipline: hardware
 locations:
 - United States
 terms:

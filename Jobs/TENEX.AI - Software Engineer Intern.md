@@ -2,6 +2,7 @@
 company: TENEX.AI
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

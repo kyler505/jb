@@ -2,6 +2,7 @@
 company: Scale AI
 role: Technical Advisor Specialist – Part-Time Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

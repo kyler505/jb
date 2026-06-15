@@ -2,6 +2,7 @@
 company: Fanatics
 role: Collectibles Intern - Product - Physical Trading Cards
 category: internship
+discipline: other
 locations:
 - Coppell, TX
 terms:

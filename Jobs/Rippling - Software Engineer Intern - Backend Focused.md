@@ -2,6 +2,7 @@
 company: Rippling
 role: Software Engineer Intern - Backend Focused
 category: internship
+discipline: backend
 locations:
 - Seattle, WA
 - SF

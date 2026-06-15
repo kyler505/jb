@@ -2,6 +2,7 @@
 company: Tech Tammina
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Rockford, IL
 terms: []

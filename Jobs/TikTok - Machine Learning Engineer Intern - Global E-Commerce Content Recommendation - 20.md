@@ -3,6 +3,7 @@ company: TikTok
 role: Machine Learning Engineer Intern - Global E-Commerce Content Recommendation
   - 2026 Summer
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 terms:

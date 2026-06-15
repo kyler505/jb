@@ -2,6 +2,7 @@
 company: Paccar
 role: Facilities MRO Information Systems Intern
 category: internship
+discipline: other
 locations:
 - Columbus, MS
 terms:

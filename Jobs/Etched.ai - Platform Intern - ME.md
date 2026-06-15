@@ -2,6 +2,7 @@
 company: Etched.ai
 role: Platform Intern - ME
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

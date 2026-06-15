@@ -2,6 +2,7 @@
 company: Magna
 role: Engineering ADAS Perception Features Intern
 category: internship
+discipline: other
 locations:
 - Auburn Hills, MI
 terms:

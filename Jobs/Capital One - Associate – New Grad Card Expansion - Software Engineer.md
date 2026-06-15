@@ -2,6 +2,7 @@
 company: Capital One
 role: Associate – New Grad Card Expansion - Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []

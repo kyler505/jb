@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: Engineering Apprentice - Calibration & Test
 category: internship
+discipline: other
 locations:
 - Stoke-on-Trent, UK
 terms:

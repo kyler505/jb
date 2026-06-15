@@ -2,6 +2,7 @@
 company: Innodata
 role: Generative AI Annotator
 category: new-grad
+discipline: other
 locations:
 - Wyoming
 terms: []

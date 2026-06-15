@@ -2,6 +2,7 @@
 company: Worldwide TechServices
 role: Dynamic PC Support
 category: new-grad
+discipline: other
 locations:
 - Maui, Hawaii
 terms: []

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Student Researcher - Seed Vision - Long-Range Video Generation
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

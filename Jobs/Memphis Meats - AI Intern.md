@@ -2,6 +2,7 @@
 company: Memphis Meats
 role: AI Intern
 category: internship
+discipline: other
 locations:
 - Oakland, CA
 terms:

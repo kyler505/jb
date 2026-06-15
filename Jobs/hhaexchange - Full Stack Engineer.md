@@ -2,6 +2,7 @@
 company: hhaexchange
 role: Full Stack Engineer
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

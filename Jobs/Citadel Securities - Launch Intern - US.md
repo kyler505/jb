@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Launch Intern - US
 category: internship
+discipline: other
 locations:
 - Miami, FL
 - NYC

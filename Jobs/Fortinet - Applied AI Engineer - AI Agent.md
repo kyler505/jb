@@ -2,6 +2,7 @@
 company: Fortinet
 role: Applied AI Engineer - AI Agent
 category: new-grad
+discipline: ml
 locations:
 - Sunnyvale, CA
 terms: []

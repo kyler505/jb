@@ -2,6 +2,7 @@
 company: Atomic Semi
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - SF
 terms:

@@ -2,6 +2,7 @@
 company: Hunt Oil Company
 role: Energy Trading Analyst
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

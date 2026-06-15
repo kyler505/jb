@@ -2,6 +2,7 @@
 company: Innodata
 role: Data AI Annotator
 category: new-grad
+discipline: other
 locations:
 - Idaho
 terms: []

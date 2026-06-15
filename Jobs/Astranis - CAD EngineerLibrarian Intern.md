@@ -2,6 +2,7 @@
 company: Astranis
 role: CAD Engineer/Librarian Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

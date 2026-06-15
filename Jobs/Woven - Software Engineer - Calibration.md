@@ -2,6 +2,7 @@
 company: Woven
 role: Software Engineer - Calibration
 category: new-grad
+discipline: swe
 locations:
 - Ann Arbor, MI
 terms: []

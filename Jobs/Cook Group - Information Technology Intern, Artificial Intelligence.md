@@ -2,6 +2,7 @@
 company: Cook Group
 role: Information Technology Intern, Artificial Intelligence
 category: internship
+discipline: other
 locations:
 - Bloomington, IN
 terms:

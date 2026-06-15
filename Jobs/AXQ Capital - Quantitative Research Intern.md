@@ -2,6 +2,7 @@
 company: AXQ Capital
 role: Quantitative Research Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

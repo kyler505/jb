@@ -2,6 +2,7 @@
 company: Jabil
 role: Diagnostic Technician 1
 category: new-grad
+discipline: other
 locations:
 - Florence, KY
 terms: []

@@ -2,6 +2,7 @@
 company: BlinqLABS
 role: Java Web Development Intern
 category: internship
+discipline: frontend
 locations:
 - Southfield, MI
 terms:

@@ -2,6 +2,7 @@
 company: TrueBuilt
 role: Founding Engineer
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

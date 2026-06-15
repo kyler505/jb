@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Asset Management - Equity Quant Researcher - Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

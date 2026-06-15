@@ -2,6 +2,7 @@
 company: BAE Systems
 role: Software Engineering Intern – Internal Tools 2026 (hybrid)
 category: internship
+discipline: swe
 locations:
 - Cedar Rapids, IA
 terms:

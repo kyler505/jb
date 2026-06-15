@@ -2,6 +2,7 @@
 company: Thermo Fisher Scientific
 role: Field Service Engineer 1 - Asset Management
 category: new-grad
+discipline: other
 locations:
 - Rhode Island
 terms: []

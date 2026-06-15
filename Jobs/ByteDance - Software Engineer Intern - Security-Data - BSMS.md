@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Intern - Security-Data - BS/MS
 category: internship
+discipline: security
 locations:
 - San Jose, CA
 terms:

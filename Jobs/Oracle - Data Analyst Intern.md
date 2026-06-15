@@ -2,6 +2,7 @@
 company: Oracle
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - Nashville, TN
 terms:

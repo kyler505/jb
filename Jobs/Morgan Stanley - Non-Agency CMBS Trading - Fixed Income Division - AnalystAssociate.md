@@ -2,6 +2,7 @@
 company: Morgan Stanley
 role: Non-Agency CMBS Trading - Fixed Income Division - Analyst/Associate
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

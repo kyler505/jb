@@ -2,6 +2,7 @@
 company: Commonwealth of Massachusetts
 role: Geospatial AI Data Engineer Co-op Fall 2026
 category: internship
+discipline: data
 locations:
 - Boston, MA
 terms:

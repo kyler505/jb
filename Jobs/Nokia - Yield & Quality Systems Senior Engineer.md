@@ -2,6 +2,7 @@
 company: Nokia
 role: Yield & Quality Systems Senior Engineer
 category: new-grad
+discipline: other
 locations:
 - United States
 terms: []

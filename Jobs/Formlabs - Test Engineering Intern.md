@@ -2,6 +2,7 @@
 company: Formlabs
 role: Test Engineering Intern
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 terms:

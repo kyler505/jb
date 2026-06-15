@@ -2,6 +2,7 @@
 company: TikTok
 role: Product Manager Intern - TikTok Product Content Ecosystem - BS/MS
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

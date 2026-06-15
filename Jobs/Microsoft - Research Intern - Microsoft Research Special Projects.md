@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Microsoft Research Special Projects
 category: internship
+discipline: other
 locations:
 - Cambridge, MA
 - Kitsap County, WA

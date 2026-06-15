@@ -2,6 +2,7 @@
 company: Infojini
 role: GIS Technician
 category: new-grad
+discipline: other
 locations:
 - Atlanta, GA
 terms: []

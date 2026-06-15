@@ -2,6 +2,7 @@
 company: Saxon Global
 role: HP Autonomy Developer
 category: new-grad
+discipline: swe
 locations:
 - Orange, CA
 terms: []

@@ -2,6 +2,7 @@
 company: DAT Freight & Analytics
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Denver, CO
 terms: []

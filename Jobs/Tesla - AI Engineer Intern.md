@@ -2,6 +2,7 @@
 company: Tesla
 role: AI Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 terms:

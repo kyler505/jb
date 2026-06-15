@@ -2,6 +2,7 @@
 company: Pattern Data
 role: Software Engineer - Entry
 category: new-grad
+discipline: swe
 locations:
 - Richmond, VA
 terms: []

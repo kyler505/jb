@@ -2,6 +2,7 @@
 company: SoloPulse
 role: Systems Engineering Intern
 category: internship
+discipline: other
 locations:
 - Norcross, GA
 terms:

@@ -2,6 +2,7 @@
 company: Amazon
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Bellevue, WA
 terms: []

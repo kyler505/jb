@@ -2,6 +2,7 @@
 company: Marmon Holdings
 role: Data Engineering Intern Co-op
 category: internship
+discipline: data
 locations:
 - Milwaukee, WI
 terms:

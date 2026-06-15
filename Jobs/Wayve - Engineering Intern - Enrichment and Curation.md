@@ -2,6 +2,7 @@
 company: Wayve
 role: Engineering Intern - Enrichment and Curation
 category: internship
+discipline: other
 locations:
 - Sunnyvale, CA
 terms:

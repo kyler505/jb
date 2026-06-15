@@ -2,6 +2,7 @@
 company: SentiLink
 role: Data Scientist – New Grad
 category: new-grad
+discipline: data
 locations:
 - Remote in USA
 terms: []

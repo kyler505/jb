@@ -2,6 +2,7 @@
 company: Kepler Communications
 role: Embedded Software Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - Toronto, ON, Canada
 terms:

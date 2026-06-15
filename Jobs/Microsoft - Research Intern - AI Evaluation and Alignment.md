@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI Evaluation and Alignment
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

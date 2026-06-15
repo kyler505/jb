@@ -2,6 +2,7 @@
 company: Truveta
 role: ML PhD Intern - LLMs & Generative AI
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 terms:

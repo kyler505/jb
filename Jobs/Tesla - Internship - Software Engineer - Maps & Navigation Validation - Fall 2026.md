@@ -2,6 +2,7 @@
 company: Tesla
 role: Internship - Software Engineer - Maps & Navigation Validation - Fall 2026
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

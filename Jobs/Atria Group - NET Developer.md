@@ -2,6 +2,7 @@
 company: Atria Group
 role: .NET Developer
 category: new-grad
+discipline: swe
 locations:
 - Novato, CA
 terms: []

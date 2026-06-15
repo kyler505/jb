@@ -2,6 +2,7 @@
 company: Career Guidant
 role: Kofax Developer
 category: new-grad
+discipline: swe
 locations:
 - Minneapolis, MN
 terms: []

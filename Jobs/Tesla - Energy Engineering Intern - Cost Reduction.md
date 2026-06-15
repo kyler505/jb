@@ -2,6 +2,7 @@
 company: Tesla
 role: Energy Engineering Intern - Cost Reduction
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

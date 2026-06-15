@@ -2,6 +2,7 @@
 company: Netcompany
 role: Graduate Data Engineer
 category: new-grad
+discipline: data
 locations:
 - Leeds, UK
 terms: []

@@ -2,6 +2,7 @@
 company: University of Maryland - College Park
 role: ARLIS Artificial Intelligence Research Professional
 category: new-grad
+discipline: other
 locations:
 - Hyattsville, MD
 terms: []

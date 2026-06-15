@@ -2,6 +2,7 @@
 company: Atria Group
 role: Unix Developer
 category: new-grad
+discipline: swe
 locations:
 - St. Louis, MO
 terms: []

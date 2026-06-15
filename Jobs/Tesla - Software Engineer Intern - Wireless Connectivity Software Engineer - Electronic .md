@@ -3,6 +3,7 @@ company: Tesla
 role: Software Engineer Intern - Wireless Connectivity Software Engineer - Electronic
   Devices
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

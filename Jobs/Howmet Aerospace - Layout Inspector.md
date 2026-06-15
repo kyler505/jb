@@ -2,6 +2,7 @@
 company: Howmet Aerospace
 role: Layout Inspector
 category: new-grad
+discipline: other
 locations:
 - Hampton, VA
 terms: []

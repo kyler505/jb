@@ -2,6 +2,7 @@
 company: Magnet Forensics
 role: Software Developer Co-op
 category: internship
+discipline: swe
 locations:
 - Canada
 - Ottawa, ON, Canada

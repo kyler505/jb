@@ -2,6 +2,7 @@
 company: HSSSoft
 role: Python Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

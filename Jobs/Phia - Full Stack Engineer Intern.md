@@ -2,6 +2,7 @@
 company: Phia
 role: Full Stack Engineer Intern
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

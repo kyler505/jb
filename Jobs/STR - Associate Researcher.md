@@ -2,6 +2,7 @@
 company: STR
 role: Associate Researcher
 category: new-grad
+discipline: other
 locations:
 - Burlington, MA
 terms: []

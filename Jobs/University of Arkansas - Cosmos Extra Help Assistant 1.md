@@ -2,6 +2,7 @@
 company: University of Arkansas
 role: Cosmos Extra Help Assistant 1
 category: new-grad
+discipline: other
 locations:
 - Little Rock, AR
 terms: []

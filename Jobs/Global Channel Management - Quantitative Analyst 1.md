@@ -2,6 +2,7 @@
 company: Global Channel Management
 role: Quantitative Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Columbia, SC
 terms: []

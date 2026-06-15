@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Central Equity Quant Research Intern - Ceqr
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

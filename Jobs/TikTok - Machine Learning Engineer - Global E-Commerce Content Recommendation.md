@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer - Global E-Commerce Content Recommendation
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

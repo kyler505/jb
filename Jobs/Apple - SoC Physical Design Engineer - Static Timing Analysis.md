@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Physical Design Engineer - Static Timing Analysis
 category: new-grad
+discipline: other
 locations:
 - Beaverton, OR
 terms: []

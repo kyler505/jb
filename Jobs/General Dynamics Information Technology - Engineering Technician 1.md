@@ -2,6 +2,7 @@
 company: General Dynamics Information Technology
 role: Engineering Technician 1
 category: new-grad
+discipline: other
 locations:
 - Seattle, WA
 terms: []

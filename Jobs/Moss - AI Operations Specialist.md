@@ -2,6 +2,7 @@
 company: Moss
 role: AI Operations Specialist
 category: new-grad
+discipline: other
 locations:
 - London, UK
 - Berlin, Germany

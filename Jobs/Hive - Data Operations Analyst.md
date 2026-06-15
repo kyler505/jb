@@ -2,6 +2,7 @@
 company: Hive
 role: Data Operations Analyst
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

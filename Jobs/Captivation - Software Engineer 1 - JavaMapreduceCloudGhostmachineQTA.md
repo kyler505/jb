@@ -2,6 +2,7 @@
 company: Captivation
 role: Software Engineer 1 - Java/Mapreduce/Cloud/Ghostmachine/QTA
 category: new-grad
+discipline: swe
 locations:
 - Annapolis Junction, MD
 terms: []

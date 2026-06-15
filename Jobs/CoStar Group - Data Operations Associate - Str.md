@@ -2,6 +2,7 @@
 company: CoStar Group
 role: Data Operations Associate - Str
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Harbinger Motors
 role: Production Data Analytics Intern
 category: internship
+discipline: data
 locations:
 - Westminster, CA
 terms:

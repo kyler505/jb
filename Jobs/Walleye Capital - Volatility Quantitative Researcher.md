@@ -2,6 +2,7 @@
 company: Walleye Capital
 role: Volatility Quantitative Researcher
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 terms: []

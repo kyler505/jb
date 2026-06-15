@@ -2,6 +2,7 @@
 company: TikTok
 role: Product Manager Project Intern
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

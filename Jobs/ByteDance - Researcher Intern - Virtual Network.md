@@ -2,6 +2,7 @@
 company: ByteDance
 role: Researcher Intern - Virtual Network
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 terms:

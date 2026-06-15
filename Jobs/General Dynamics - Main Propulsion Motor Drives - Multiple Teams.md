@@ -2,6 +2,7 @@
 company: General Dynamics
 role: Main Propulsion Motor Drives - Multiple Teams
 category: new-grad
+discipline: other
 locations:
 - Groton, CT
 terms: []

@@ -2,6 +2,7 @@
 company: Nokia
 role: IP R&D Lab Technologist Co-op/Intern
 category: internship
+discipline: other
 locations:
 - Kanata, Ottawa, ON, Canada
 terms:

@@ -2,6 +2,7 @@
 company: Nokia
 role: Software Developer Co-op/Intern
 category: internship
+discipline: swe
 locations:
 - Ottawa, ON, Canada
 terms:

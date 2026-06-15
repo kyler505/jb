@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Graduate - Cloud Native Infrastructure - BS/MS
 category: new-grad
+discipline: devops
 locations:
 - Seattle, WA
 terms: []

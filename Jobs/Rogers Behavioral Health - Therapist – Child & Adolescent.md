@@ -2,6 +2,7 @@
 company: Rogers Behavioral Health
 role: Therapist – Child & Adolescent
 category: new-grad
+discipline: other
 locations:
 - St Paul, MN
 - Woodbury, MN

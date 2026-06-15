@@ -2,6 +2,7 @@
 company: Tesla
 role: Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

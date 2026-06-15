@@ -2,6 +2,7 @@
 company: Heraeus Group
 role: Electronics Technician - Troubleshoot and Repair
 category: new-grad
+discipline: other
 locations:
 - Oconomowoc, WI
 terms: []

@@ -2,6 +2,7 @@
 company: d-Matrix
 role: Applied AI Engineering Intern
 category: internship
+discipline: ml
 locations:
 - Santa Clara, CA
 terms:

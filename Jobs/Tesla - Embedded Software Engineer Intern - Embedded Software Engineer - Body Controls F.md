@@ -3,6 +3,7 @@ company: Tesla
 role: Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls
   Firmware
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

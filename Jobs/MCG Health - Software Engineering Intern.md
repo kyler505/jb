@@ -2,6 +2,7 @@
 company: MCG Health
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 terms:

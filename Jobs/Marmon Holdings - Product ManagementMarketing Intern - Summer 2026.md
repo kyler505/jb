@@ -2,6 +2,7 @@
 company: Marmon Holdings
 role: Product Management/Marketing Intern - Summer 2026
 category: internship
+discipline: other
 locations:
 - Charlotte, NC
 terms:

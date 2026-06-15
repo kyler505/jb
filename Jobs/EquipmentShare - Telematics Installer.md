@@ -2,6 +2,7 @@
 company: EquipmentShare
 role: Telematics Installer
 category: new-grad
+discipline: other
 locations:
 - Dayton, OH
 terms: []

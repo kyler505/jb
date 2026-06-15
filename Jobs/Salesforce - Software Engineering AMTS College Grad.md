@@ -2,6 +2,7 @@
 company: Salesforce
 role: Software Engineering AMTS College Grad
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 - Seattle, WA

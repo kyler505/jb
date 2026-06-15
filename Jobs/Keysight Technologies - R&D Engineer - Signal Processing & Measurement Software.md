@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: R&D Engineer - Signal Processing & Measurement Software
 category: new-grad
+discipline: other
 locations:
 - Santa Rosa, CA
 terms: []

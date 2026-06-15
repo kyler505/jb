@@ -2,6 +2,7 @@
 company: BillionToOne
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Menlo Park, CA
 terms:

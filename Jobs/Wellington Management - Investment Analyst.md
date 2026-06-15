@@ -2,6 +2,7 @@
 company: Wellington Management
 role: Investment Analyst
 category: new-grad
+discipline: other
 locations:
 - Boston, MA
 terms: []

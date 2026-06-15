@@ -2,6 +2,7 @@
 company: dv01
 role: Data Analytics Engineer 1
 category: new-grad
+discipline: data
 locations:
 - Remote in USA
 terms: []

@@ -2,6 +2,7 @@
 company: Five Rings Capital
 role: Software Development Intensive Program
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

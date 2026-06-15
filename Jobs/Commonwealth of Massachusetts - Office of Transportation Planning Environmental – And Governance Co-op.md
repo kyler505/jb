@@ -2,6 +2,7 @@
 company: Commonwealth of Massachusetts
 role: Office of Transportation Planning Environmental – And Governance Co-op
 category: internship
+discipline: other
 locations:
 - United States
 terms:

@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Global Site Reliability Engineer
 category: internship
+discipline: devops
 locations:
 - San Jose, CA
 terms:

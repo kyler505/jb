@@ -2,6 +2,7 @@
 company: Al Warren Oil Company
 role: Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - Elk Grove Village, IL
 terms:

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist in AI Foundation Model Infrastructure – Graduates - Seed
 category: internship
+discipline: devops
 locations:
 - Seattle, WA
 terms:

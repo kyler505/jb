@@ -2,6 +2,7 @@
 company: BryceTech
 role: Junior Exercise Software IT Specialist
 category: new-grad
+discipline: other
 locations:
 - Suffolk, VA
 terms: []

@@ -2,6 +2,7 @@
 company: Mercor
 role: Data Science Intern
 category: internship
+discipline: data
 locations:
 - San Francisco, CA
 terms:

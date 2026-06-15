@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Machine Learning Engineer Intern - Reliability Energy Engineering
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 terms:

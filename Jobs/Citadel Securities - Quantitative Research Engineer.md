@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Quantitative Research Engineer
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 - New York, NY

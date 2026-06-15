@@ -2,6 +2,7 @@
 company: AI Fund
 role: 'Visiting Engineer: Live Selling Copilot Intern'
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

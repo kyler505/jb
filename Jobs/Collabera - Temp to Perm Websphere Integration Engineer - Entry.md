@@ -2,6 +2,7 @@
 company: Collabera
 role: Temp to Perm Websphere Integration Engineer - Entry
 category: new-grad
+discipline: other
 locations:
 - Radcliff, KY
 terms: []

@@ -2,6 +2,7 @@
 company: Anduril
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Boston, MA
 - Seattle, WA

@@ -2,6 +2,7 @@
 company: Physical Intelligence
 role: Research Scientist
 category: internship
+discipline: other
 locations:
 - SF
 terms:

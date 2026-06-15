@@ -2,6 +2,7 @@
 company: H1
 role: Research Analyst
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

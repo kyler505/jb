@@ -2,6 +2,7 @@
 company: Five Rings Capital
 role: Trading Assistant - Trading Assistant
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

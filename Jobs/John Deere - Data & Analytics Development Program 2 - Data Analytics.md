@@ -2,6 +2,7 @@
 company: John Deere
 role: Data & Analytics Development Program 2 - Data Analytics
 category: new-grad
+discipline: data
 locations:
 - Grimes, IA
 - Davenport, IA

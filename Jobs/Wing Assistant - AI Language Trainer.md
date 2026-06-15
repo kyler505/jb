@@ -2,6 +2,7 @@
 company: Wing Assistant
 role: AI Language Trainer
 category: new-grad
+discipline: other
 locations:
 - Manchester, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Fashion Nova
 role: Product Development Coordinator
 category: new-grad
+discipline: other
 locations:
 - Culver City, CA
 terms: []

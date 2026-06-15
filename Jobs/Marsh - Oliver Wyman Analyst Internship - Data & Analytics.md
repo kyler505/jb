@@ -2,6 +2,7 @@
 company: Marsh
 role: Oliver Wyman Analyst Internship - Data & Analytics
 category: internship
+discipline: data
 locations:
 - Newcastle upon Tyne, UK
 terms:

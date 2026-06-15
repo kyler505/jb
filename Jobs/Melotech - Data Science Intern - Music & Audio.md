@@ -2,6 +2,7 @@
 company: Melotech
 role: Data Science Intern - Music & Audio
 category: internship
+discipline: data
 locations:
 - London, UK
 - SF

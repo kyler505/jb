@@ -2,6 +2,7 @@
 company: Meta
 role: Research Scientist Intern, Organic Optoelectronic Materials (PhD)
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

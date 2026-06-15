@@ -2,6 +2,7 @@
 company: Lyft
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - New York, NY
 terms:

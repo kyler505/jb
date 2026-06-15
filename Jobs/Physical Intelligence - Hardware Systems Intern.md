@@ -2,6 +2,7 @@
 company: Physical Intelligence
 role: Hardware Systems Intern
 category: internship
+discipline: hardware
 locations:
 - SF
 terms:

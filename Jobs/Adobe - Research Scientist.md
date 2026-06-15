@@ -2,6 +2,7 @@
 company: Adobe
 role: Research Scientist
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

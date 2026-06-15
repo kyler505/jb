@@ -2,6 +2,7 @@
 company: GM financial
 role: Support Technician 1
 category: new-grad
+discipline: other
 locations:
 - Fort Worth, TX
 terms: []

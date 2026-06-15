@@ -2,6 +2,7 @@
 company: Intertek
 role: Engineer Energy Safety
 category: new-grad
+discipline: other
 locations:
 - Lake Forest, CA
 terms: []

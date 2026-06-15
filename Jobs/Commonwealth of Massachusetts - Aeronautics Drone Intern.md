@@ -2,6 +2,7 @@
 company: Commonwealth of Massachusetts
 role: Aeronautics Drone Intern
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

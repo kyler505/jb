@@ -2,6 +2,7 @@
 company: IMC Trading
 role: Graduate Floor Trader
 category: new-grad
+discipline: other
 locations:
 - Miami, FL
 - NYC

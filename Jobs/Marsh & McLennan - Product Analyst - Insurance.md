@@ -2,6 +2,7 @@
 company: Marsh & McLennan
 role: Product Analyst - Insurance
 category: new-grad
+discipline: other
 locations:
 - Malvern, PA
 terms: []

@@ -2,6 +2,7 @@
 company: John Deere
 role: Part Time Student - Data & Analytics - Data Analytics
 category: internship
+discipline: data
 locations:
 - Davenport, IA
 terms:

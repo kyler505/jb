@@ -2,6 +2,7 @@
 company: CoStar Group
 role: Bilingual French/English Associate Sales Comparable Researcher
 category: new-grad
+discipline: other
 locations:
 - Richmond, VA
 terms: []

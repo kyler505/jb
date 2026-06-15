@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Science Operations Intern - Business Integrity Data Cycling Center
 category: internship
+discipline: data
 locations:
 - San Jose, CA
 terms:

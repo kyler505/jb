@@ -2,6 +2,7 @@
 company: Latitude
 role: Entry Level Software Developer - Data & Database Focus
 category: new-grad
+discipline: swe
 locations:
 - Baltimore, MD
 terms: []

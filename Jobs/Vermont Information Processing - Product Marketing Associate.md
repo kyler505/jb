@@ -2,6 +2,7 @@
 company: Vermont Information Processing
 role: Product Marketing Associate
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

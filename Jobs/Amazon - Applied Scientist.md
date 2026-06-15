@@ -2,6 +2,7 @@
 company: Amazon
 role: Applied Scientist
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 terms:

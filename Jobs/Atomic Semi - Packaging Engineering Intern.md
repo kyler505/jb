@@ -2,6 +2,7 @@
 company: Atomic Semi
 role: Packaging Engineering Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

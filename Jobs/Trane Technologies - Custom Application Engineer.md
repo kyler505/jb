@@ -2,6 +2,7 @@
 company: Trane Technologies
 role: Custom Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Lexington, KY
 - Fort Smith, AR

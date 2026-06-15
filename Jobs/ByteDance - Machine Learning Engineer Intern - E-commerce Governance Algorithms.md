@@ -2,6 +2,7 @@
 company: ByteDance
 role: Machine Learning Engineer Intern - E-commerce Governance Algorithms
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 terms:

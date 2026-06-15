@@ -2,6 +2,7 @@
 company: Ciena
 role: Embedded Software Development Co-op
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

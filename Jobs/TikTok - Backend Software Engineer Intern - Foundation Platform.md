@@ -2,6 +2,7 @@
 company: TikTok
 role: Backend Software Engineer Intern - Foundation Platform
 category: internship
+discipline: backend
 locations:
 - San Jose, CA
 terms:

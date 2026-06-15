@@ -2,6 +2,7 @@
 company: Innodata
 role: Generative AI Associate
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

@@ -2,6 +2,7 @@
 company: Perpay
 role: Software Engineer – New Grad
 category: new-grad
+discipline: swe
 locations:
 - Philadelphia, PA
 terms: []

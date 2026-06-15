@@ -2,6 +2,7 @@
 company: Regal Rexnord
 role: Application Engineering Co-Op
 category: internship
+discipline: other
 locations:
 - Fort Wayne, IN
 terms:

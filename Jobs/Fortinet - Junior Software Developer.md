@@ -2,6 +2,7 @@
 company: Fortinet
 role: Junior Software Developer
 category: new-grad
+discipline: swe
 locations:
 - Santa Clara, CA
 terms: []

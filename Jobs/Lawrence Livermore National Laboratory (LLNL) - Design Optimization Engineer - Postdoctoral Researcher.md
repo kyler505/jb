@@ -2,6 +2,7 @@
 company: Lawrence Livermore National Laboratory (LLNL)
 role: Design Optimization Engineer - Postdoctoral Researcher
 category: new-grad
+discipline: other
 locations:
 - Livermore, CA
 terms: []

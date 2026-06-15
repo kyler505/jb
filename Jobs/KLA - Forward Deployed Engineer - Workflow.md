@@ -2,6 +2,7 @@
 company: KLA
 role: Forward Deployed Engineer - Workflow
 category: new-grad
+discipline: other
 locations:
 - Ann Arbor, MI
 terms: []

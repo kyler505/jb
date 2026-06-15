@@ -2,6 +2,7 @@
 company: BNY
 role: 2026 BNY Analyst Program - Engineering Data Science - Manchester
 category: new-grad
+discipline: data
 locations:
 - Manchester, UK
 terms: []

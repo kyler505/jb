@@ -2,6 +2,7 @@
 company: Further
 role: Graduate Leadership Program - AI/Data Engineer
 category: new-grad
+discipline: data
 locations:
 - Cleveland, OH
 - Dallas, TX

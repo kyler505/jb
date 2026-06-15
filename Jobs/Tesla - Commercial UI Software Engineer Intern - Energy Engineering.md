@@ -2,6 +2,7 @@
 company: Tesla
 role: Commercial UI Software Engineer Intern - Energy Engineering
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

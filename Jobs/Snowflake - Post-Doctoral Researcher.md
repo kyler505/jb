@@ -2,6 +2,7 @@
 company: Snowflake
 role: Post-Doctoral Researcher
 category: new-grad
+discipline: other
 locations:
 - Bellevue, WA
 terms: []

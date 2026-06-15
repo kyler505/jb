@@ -2,6 +2,7 @@
 company: BCforward
 role: VNF Systems Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 - Jackson Township, NJ

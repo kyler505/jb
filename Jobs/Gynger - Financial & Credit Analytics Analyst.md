@@ -2,6 +2,7 @@
 company: Gynger
 role: Financial & Credit Analytics Analyst
 category: new-grad
+discipline: data
 locations:
 - NYC
 terms: []

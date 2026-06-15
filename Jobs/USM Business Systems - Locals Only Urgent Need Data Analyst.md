@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Locals Only Urgent Need Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Washington, DC
 terms: []

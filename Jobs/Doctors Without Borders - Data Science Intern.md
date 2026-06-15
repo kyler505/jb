@@ -2,6 +2,7 @@
 company: Doctors Without Borders
 role: Data Science Intern
 category: internship
+discipline: data
 locations:
 - New York, NY
 terms:

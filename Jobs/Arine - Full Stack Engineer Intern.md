@@ -2,6 +2,7 @@
 company: Arine
 role: Full Stack Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Remote in USA
 terms:

@@ -2,6 +2,7 @@
 company: Halliburton
 role: Data Integration Engineer
 category: new-grad
+discipline: other
 locations:
 - Oxford, UK
 terms: []

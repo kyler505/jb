@@ -2,6 +2,7 @@
 company: Perplexity AI
 role: Member of Technical Staff - AI Policy and Strategic Initiatives
 category: new-grad
+discipline: other
 locations:
 - Washington, DC
 - SF

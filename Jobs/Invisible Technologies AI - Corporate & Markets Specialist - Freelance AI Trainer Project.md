@@ -2,6 +2,7 @@
 company: Invisible Technologies AI
 role: Corporate & Markets Specialist - Freelance AI Trainer Project
 category: new-grad
+discipline: other
 locations:
 - Remote in UK
 terms: []

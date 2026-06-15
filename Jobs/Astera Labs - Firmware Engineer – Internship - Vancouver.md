@@ -2,6 +2,7 @@
 company: Astera Labs
 role: Firmware Engineer – Internship - Vancouver
 category: internship
+discipline: hardware
 locations:
 - Vancouver, BC, Canada
 terms:

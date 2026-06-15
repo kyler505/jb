@@ -2,6 +2,7 @@
 company: University of Texas at Austin
 role: Data Engineer 1
 category: new-grad
+discipline: data
 locations:
 - Austin, TX
 terms: []

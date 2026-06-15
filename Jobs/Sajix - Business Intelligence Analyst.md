@@ -2,6 +2,7 @@
 company: Sajix
 role: Business Intelligence Analyst
 category: internship
+discipline: data
 locations:
 - Pleasanton, CA
 terms:

@@ -2,6 +2,7 @@
 company: Invisible Technologies
 role: AI Training Generalist - AI Trainer
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

@@ -2,6 +2,7 @@
 company: Ciena
 role: Digital Verification Engineer – New Grad
 category: new-grad
+discipline: other
 locations:
 - Rochester, NY
 terms: []

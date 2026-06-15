@@ -2,6 +2,7 @@
 company: Rice University
 role: Rice360 Global Health Post-Baccalaureate Fellow
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

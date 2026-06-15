@@ -2,6 +2,7 @@
 company: Brain Corp
 role: Software Engineer 1 - Firmware
 category: new-grad
+discipline: hardware
 locations:
 - San Diego, CA
 terms: []

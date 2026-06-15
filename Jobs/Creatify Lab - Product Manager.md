@@ -2,6 +2,7 @@
 company: 'Creatify Lab '
 role: Product Manager
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

@@ -2,6 +2,7 @@
 company: Cohere
 role: Data Annotation Specialist - Arabic Language Najdi/Hijazi Dialect
 category: new-grad
+discipline: other
 locations:
 - Montreal, QC, Canada
 - Toronto, ON, Canada

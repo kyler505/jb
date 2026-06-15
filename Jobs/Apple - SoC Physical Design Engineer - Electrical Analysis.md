@@ -2,6 +2,7 @@
 company: Apple
 role: SoC Physical Design Engineer - Electrical Analysis
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

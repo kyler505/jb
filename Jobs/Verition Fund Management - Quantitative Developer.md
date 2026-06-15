@@ -2,6 +2,7 @@
 company: Verition Fund Management
 role: Quantitative Developer
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 - Waterbury, CT

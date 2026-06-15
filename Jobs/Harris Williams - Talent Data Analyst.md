@@ -2,6 +2,7 @@
 company: Harris Williams
 role: Talent Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Richmond, VA
 terms: []

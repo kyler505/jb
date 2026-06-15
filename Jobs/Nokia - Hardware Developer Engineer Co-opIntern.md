@@ -2,6 +2,7 @@
 company: Nokia
 role: Hardware Developer Engineer Co-op/Intern
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

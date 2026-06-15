@@ -2,6 +2,7 @@
 company: Tenstorrent
 role: Acceleration Kernel Developer Intern
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms:

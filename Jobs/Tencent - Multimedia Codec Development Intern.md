@@ -2,6 +2,7 @@
 company: Tencent
 role: Multimedia Codec Development Intern
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

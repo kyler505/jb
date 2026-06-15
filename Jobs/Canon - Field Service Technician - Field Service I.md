@@ -2,6 +2,7 @@
 company: Canon
 role: Field Service Technician - Field Service I
 category: new-grad
+discipline: other
 locations:
 - Brooklyn, NY
 - Queens, NY

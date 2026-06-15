@@ -2,6 +2,7 @@
 company: Super
 role: Payments Engineer Intern
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

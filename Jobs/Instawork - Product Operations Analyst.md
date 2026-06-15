@@ -2,6 +2,7 @@
 company: Instawork
 role: Product Operations Analyst
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

@@ -2,6 +2,7 @@
 company: Mach Industries
 role: Field Drone Technician
 category: new-grad
+discipline: other
 locations:
 - Huntington Beach, CA
 terms: []

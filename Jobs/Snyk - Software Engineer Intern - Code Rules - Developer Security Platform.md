@@ -2,6 +2,7 @@
 company: Snyk
 role: Software Engineer Intern - Code Rules - Developer Security Platform
 category: internship
+discipline: security
 locations:
 - London, UK
 terms:

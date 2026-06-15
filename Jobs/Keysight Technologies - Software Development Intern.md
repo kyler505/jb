@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: Software Development Intern
 category: internship
+discipline: swe
 locations:
 - Fleet, UK
 terms:

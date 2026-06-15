@@ -2,6 +2,7 @@
 company: Crest Industries
 role: CIS/CS Internship
 category: internship
+discipline: other
 locations:
 - Alexandria, LA
 terms:

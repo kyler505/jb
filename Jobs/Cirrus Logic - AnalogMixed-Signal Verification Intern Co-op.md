@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Analog/Mixed-Signal Verification Intern Co-op
 category: internship
+discipline: other
 locations:
 - Austin, TX
 terms:

@@ -2,6 +2,7 @@
 company: Blue Origin
 role: Avionics Software – Early Career - Embedded - Engineer I
 category: new-grad
+discipline: hardware
 locations:
 - LA
 - Kent, WA

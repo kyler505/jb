@@ -2,6 +2,7 @@
 company: KLA
 role: Camera System Firmware Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Milpitas, CA
 terms: []

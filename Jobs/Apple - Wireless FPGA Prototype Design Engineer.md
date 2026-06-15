@@ -2,6 +2,7 @@
 company: Apple
 role: Wireless FPGA Prototype Design Engineer
 category: new-grad
+discipline: hardware
 locations:
 - SF
 terms: []

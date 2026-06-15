@@ -2,6 +2,7 @@
 company: Vertiv
 role: Quality Inspection/Final Test 1
 category: new-grad
+discipline: other
 locations:
 - Ashland, KY
 terms: []

@@ -2,6 +2,7 @@
 company: Eulerity
 role: Mobile iOS Developer Intern
 category: internship
+discipline: mobile
 locations:
 - NYC
 terms:

@@ -2,6 +2,7 @@
 company: Quantcast
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - London, UK
 terms: []

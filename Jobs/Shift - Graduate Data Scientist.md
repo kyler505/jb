@@ -2,6 +2,7 @@
 company: Shift
 role: Graduate Data Scientist
 category: new-grad
+discipline: data
 locations:
 - London, UK
 terms: []

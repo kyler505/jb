@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Pricing Analytics Solutions Associate
 category: new-grad
+discipline: data
 locations:
 - Wilmington, DE
 terms: []

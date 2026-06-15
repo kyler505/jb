@@ -2,6 +2,7 @@
 company: Prior Labs
 role: Research Scientist Intern - PhD
 category: internship
+discipline: other
 locations:
 - Freiburg im Breisgau, Germany
 - NYC

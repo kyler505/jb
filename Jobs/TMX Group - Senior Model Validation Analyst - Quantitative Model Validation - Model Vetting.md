@@ -2,6 +2,7 @@
 company: TMX Group
 role: Senior Model Validation Analyst - Quantitative Model Validation - Model Vetting
 category: new-grad
+discipline: other
 locations:
 - Montreal, QC, Canada
 - Toronto, ON, Canada

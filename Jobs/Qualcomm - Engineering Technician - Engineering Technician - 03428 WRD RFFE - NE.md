@@ -2,6 +2,7 @@
 company: Qualcomm
 role: Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE
 category: new-grad
+discipline: other
 locations:
 - Boxborough, MA
 terms: []

@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Equity Index Exotics - Trading Services - Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

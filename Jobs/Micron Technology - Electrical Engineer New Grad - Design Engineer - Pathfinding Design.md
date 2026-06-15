@@ -2,6 +2,7 @@
 company: Micron Technology
 role: Electrical Engineer New Grad - Design Engineer - Pathfinding Design
 category: new-grad
+discipline: hardware
 locations:
 - Folsom, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Citadel Securities
 role: Quantitative Researcher Engineer – PhD Intern - Europe
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

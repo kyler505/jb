@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - MSR Inclusive Futures Team
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

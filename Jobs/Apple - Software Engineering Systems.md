@@ -2,6 +2,7 @@
 company: Apple
 role: Software Engineering Systems
 category: new-grad
+discipline: swe
 locations:
 - San Diego, CA
 terms: []

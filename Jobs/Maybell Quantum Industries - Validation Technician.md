@@ -2,6 +2,7 @@
 company: Maybell Quantum Industries
 role: Validation Technician
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

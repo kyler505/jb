@@ -2,6 +2,7 @@
 company: Cengage Group
 role: Associate Vocabulary Editor
 category: new-grad
+discipline: other
 locations:
 - California
 terms: []

@@ -2,6 +2,7 @@
 company: Truist Bank
 role: Java Software Engineer 1 - Full-Stack - Financial Crimes
 category: new-grad
+discipline: swe
 locations:
 - Raleigh, NC
 terms: []

@@ -2,6 +2,7 @@
 company: Skydio
 role: PhD Autonomy Engineer Intern - Deep Learning or Computer Vision
 category: internship
+discipline: ml
 locations:
 - San Mateo, CA
 terms:

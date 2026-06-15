@@ -2,6 +2,7 @@
 company: Instawork
 role: Product Operations Intern
 category: internship
+discipline: other
 locations:
 - Chicago, IL
 terms:

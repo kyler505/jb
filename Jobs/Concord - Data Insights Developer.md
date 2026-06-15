@@ -2,6 +2,7 @@
 company: Concord
 role: Data Insights Developer
 category: new-grad
+discipline: swe
 locations:
 - Nashville, TN
 terms: []

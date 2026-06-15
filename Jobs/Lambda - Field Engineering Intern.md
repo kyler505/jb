@@ -2,6 +2,7 @@
 company: Lambda
 role: Field Engineering Intern
 category: internship
+discipline: other
 locations:
 - SF
 terms:

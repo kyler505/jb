@@ -2,6 +2,7 @@
 company: Brevian
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Sunnyvale, CA
 terms:

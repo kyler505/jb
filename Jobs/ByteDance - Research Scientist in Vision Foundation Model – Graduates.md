@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist in Vision Foundation Model – Graduates
 category: internship
+discipline: other
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist – Generative AI Graduate - Intelligent Creation
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

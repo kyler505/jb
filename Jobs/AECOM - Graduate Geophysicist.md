@@ -2,6 +2,7 @@
 company: AECOM
 role: Graduate Geophysicist
 category: new-grad
+discipline: other
 locations:
 - Nottingham, UK
 terms: []

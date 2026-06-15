@@ -2,6 +2,7 @@
 company: PlusAI
 role: Research Engineer Intern - Mapping & Localization
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

@@ -2,6 +2,7 @@
 company: Nationwide
 role: Investment Analyst - Front/Middle Office
 category: new-grad
+discipline: other
 locations:
 - Columbus, OH
 terms: []

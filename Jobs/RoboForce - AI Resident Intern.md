@@ -2,6 +2,7 @@
 company: RoboForce
 role: AI Resident Intern
 category: internship
+discipline: other
 locations:
 - Milpitas, CA
 terms:

@@ -2,6 +2,7 @@
 company: AAR
 role: Repairs Representative - Trading
 category: new-grad
+discipline: other
 locations:
 - Elk Grove Village, IL
 terms: []

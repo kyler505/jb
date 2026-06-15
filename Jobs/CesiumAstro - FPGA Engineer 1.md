@@ -2,6 +2,7 @@
 company: CesiumAstro
 role: FPGA Engineer 1
 category: new-grad
+discipline: hardware
 locations:
 - Milton Keynes, UK
 terms: []

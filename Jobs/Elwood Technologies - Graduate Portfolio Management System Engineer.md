@@ -2,6 +2,7 @@
 company: Elwood Technologies
 role: Graduate Portfolio Management System Engineer
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

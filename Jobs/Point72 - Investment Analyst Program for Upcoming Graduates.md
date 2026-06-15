@@ -2,6 +2,7 @@
 company: Point72
 role: Investment Analyst Program for Upcoming Graduates
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

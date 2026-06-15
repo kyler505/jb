@@ -2,6 +2,7 @@
 company: Berkshire Hathaway Energy
 role: Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Des Moines, IA
 - Richmond, VA

@@ -2,6 +2,7 @@
 company: Apple
 role: Graphics Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Austin, TX
 terms: []

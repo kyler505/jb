@@ -2,6 +2,7 @@
 company: Collabera
 role: Engineering Intern
 category: internship
+discipline: other
 locations:
 - Olathe, KS
 terms:

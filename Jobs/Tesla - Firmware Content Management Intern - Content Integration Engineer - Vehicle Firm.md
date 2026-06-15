@@ -3,6 +3,7 @@ company: Tesla
 role: Firmware Content Management Intern - Content Integration Engineer - Vehicle
   Firmware
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

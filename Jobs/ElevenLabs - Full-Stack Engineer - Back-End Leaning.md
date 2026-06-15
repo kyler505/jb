@@ -2,6 +2,7 @@
 company: ElevenLabs
 role: Full-Stack Engineer - Back-End Leaning
 category: new-grad
+discipline: backend
 locations:
 - Remote in UK
 terms: []

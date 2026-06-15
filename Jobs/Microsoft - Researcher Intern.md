@@ -2,6 +2,7 @@
 company: Microsoft
 role: Researcher Intern
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 - Mountain View, CA

@@ -2,6 +2,7 @@
 company: SandboxAQ
 role: Geospatial Analyst Resident
 category: internship
+discipline: other
 locations:
 - United States
 terms:

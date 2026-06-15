@@ -2,6 +2,7 @@
 company: FluidStack
 role: Level 1 Data Center Technician
 category: new-grad
+discipline: other
 locations:
 - Lubbock, TX
 terms: []

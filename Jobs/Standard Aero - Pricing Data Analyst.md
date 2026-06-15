@@ -2,6 +2,7 @@
 company: Standard Aero
 role: Pricing Data Analyst
 category: new-grad
+discipline: data
 locations:
 - San Antonio, TX
 terms: []

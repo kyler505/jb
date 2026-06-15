@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - AI Frontiers
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

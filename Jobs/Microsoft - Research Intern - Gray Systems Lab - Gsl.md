@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Gray Systems Lab - Gsl
 category: internship
+discipline: other
 locations:
 - Madison, WI
 - Redmond, WA

@@ -2,6 +2,7 @@
 company: Halifax Health
 role: Revenue Cycle Analyst 1
 category: new-grad
+discipline: other
 locations:
 - Daytona Beach, FL
 terms: []

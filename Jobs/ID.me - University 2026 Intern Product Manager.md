@@ -2,6 +2,7 @@
 company: ID.me
 role: 'University 2026 Intern: Product Manager'
 category: internship
+discipline: other
 locations:
 - McLean, VA
 - Mountain View, CA

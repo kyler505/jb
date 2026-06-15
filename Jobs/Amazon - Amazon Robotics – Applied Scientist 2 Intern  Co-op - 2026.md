@@ -2,6 +2,7 @@
 company: Amazon
 role: Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026
 category: internship
+discipline: other
 locations:
 - Seattle, WA
 - Wakefield, MA

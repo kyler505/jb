@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineer - Hardware-in-the-Loop - Starlink
 category: new-grad
+discipline: hardware
 locations:
 - Redmond, WA
 terms: []

@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Technology for Religious Empowerment
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 terms:

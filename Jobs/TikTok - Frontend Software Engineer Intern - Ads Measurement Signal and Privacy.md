@@ -2,6 +2,7 @@
 company: TikTok
 role: Frontend Software Engineer Intern - Ads Measurement Signal and Privacy
 category: internship
+discipline: frontend
 locations:
 - San Jose, CA
 terms:

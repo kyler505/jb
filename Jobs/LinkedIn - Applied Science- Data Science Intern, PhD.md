@@ -2,6 +2,7 @@
 company: LinkedIn
 role: Applied Science- Data Science Intern, PhD
 category: internship
+discipline: data
 locations:
 - Mountain View, CA
 terms:

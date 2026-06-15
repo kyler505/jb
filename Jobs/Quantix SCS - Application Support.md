@@ -2,6 +2,7 @@
 company: Quantix SCS
 role: Application Support
 category: new-grad
+discipline: other
 locations:
 - Wheat Ridge, CO
 terms: []

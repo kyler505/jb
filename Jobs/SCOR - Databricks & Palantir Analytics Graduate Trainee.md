@@ -2,6 +2,7 @@
 company: SCOR
 role: Databricks & Palantir Analytics Graduate Trainee
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

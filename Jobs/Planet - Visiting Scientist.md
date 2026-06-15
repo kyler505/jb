@@ -2,6 +2,7 @@
 company: Planet
 role: Visiting Scientist
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

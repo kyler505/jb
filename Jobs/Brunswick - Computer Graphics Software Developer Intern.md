@@ -2,6 +2,7 @@
 company: Brunswick
 role: Computer Graphics Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - Urbana, IL
 terms:

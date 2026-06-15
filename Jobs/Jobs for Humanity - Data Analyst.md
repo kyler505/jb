@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Cincinnati, OH
 terms: []

@@ -2,6 +2,7 @@
 company: Cirrus Logic
 role: Graduate Mixed Signal IC Layout Designer
 category: new-grad
+discipline: other
 locations:
 - Edinburgh, UK
 terms: []

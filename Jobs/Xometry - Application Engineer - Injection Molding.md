@@ -2,6 +2,7 @@
 company: Xometry
 role: Application Engineer - Injection Molding
 category: new-grad
+discipline: other
 locations:
 - Lexington, KY
 terms: []

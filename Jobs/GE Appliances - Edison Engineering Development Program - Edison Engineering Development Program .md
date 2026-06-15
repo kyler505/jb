@@ -3,6 +3,7 @@ company: GE Appliances
 role: Edison Engineering Development Program - Edison Engineering Development Program
   - Software
 category: new-grad
+discipline: other
 locations:
 - Louisville, KY
 terms: []

@@ -2,6 +2,7 @@
 company: Tesla
 role: Software Integration Engineer Intern - Software Integration Engineer - Optimus
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

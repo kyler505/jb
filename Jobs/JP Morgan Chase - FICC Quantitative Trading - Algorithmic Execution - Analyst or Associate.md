@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: FICC Quantitative Trading - Algorithmic Execution - Analyst or Associate
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

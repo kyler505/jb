@@ -3,6 +3,7 @@ company: ByteDance
 role: Software Development Engineer-AI/LLM Network-Global Frontier Tech Recruitment
   Program
 category: new-grad
+discipline: swe
 locations:
 - San Jose, CA
 terms: []

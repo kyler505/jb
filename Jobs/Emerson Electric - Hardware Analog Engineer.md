@@ -2,6 +2,7 @@
 company: Emerson Electric
 role: Hardware Analog Engineer
 category: new-grad
+discipline: hardware
 locations:
 - Austin, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Octaura
 role: Intern Software Engineer
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

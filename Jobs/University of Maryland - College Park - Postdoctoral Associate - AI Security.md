@@ -2,6 +2,7 @@
 company: University of Maryland - College Park
 role: Postdoctoral Associate - AI Security
 category: new-grad
+discipline: security
 locations:
 - Hyattsville, MD
 terms: []

@@ -2,6 +2,7 @@
 company: William & Mary
 role: Physics Fellow - Experimental Particle Physics
 category: new-grad
+discipline: other
 locations:
 - Williamsburg, VA
 terms: []

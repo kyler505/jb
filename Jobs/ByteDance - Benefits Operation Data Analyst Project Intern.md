@@ -2,6 +2,7 @@
 company: ByteDance
 role: Benefits Operation Data Analyst Project Intern
 category: internship
+discipline: data
 locations:
 - San Jose, CA
 terms:

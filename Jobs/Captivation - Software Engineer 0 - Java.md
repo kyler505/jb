@@ -2,6 +2,7 @@
 company: Captivation
 role: Software Engineer 0 - Java
 category: new-grad
+discipline: swe
 locations:
 - Annapolis Junction, MD
 terms: []

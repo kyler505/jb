@@ -2,6 +2,7 @@
 company: Rainmaker
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - El Segundo, CA
 terms:

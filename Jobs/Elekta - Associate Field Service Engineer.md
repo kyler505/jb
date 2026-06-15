@@ -2,6 +2,7 @@
 company: Elekta
 role: Associate Field Service Engineer
 category: new-grad
+discipline: other
 locations:
 - Louisiana
 terms: []

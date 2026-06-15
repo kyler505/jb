@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Graduate - Security Flow
 category: new-grad
+discipline: security
 locations:
 - San Jose, CA
 terms: []

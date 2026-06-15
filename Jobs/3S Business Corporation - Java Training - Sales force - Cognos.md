@@ -2,6 +2,7 @@
 company: 3S Business Corporation
 role: Java Training - Sales force - Cognos
 category: new-grad
+discipline: other
 locations:
 - Houston, TX
 terms: []

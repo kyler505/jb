@@ -2,6 +2,7 @@
 company: Faculty AI
 role: UK Defence Veterans - Civilian Work Attachment
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

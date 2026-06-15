@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Applied Speech Research
 category: internship
+discipline: other
 locations:
 - Berkeley, CA
 - Burlington, MA

@@ -2,6 +2,7 @@
 company: Zurn Elkay Water Solutions
 role: Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Erie, PA
 terms: []

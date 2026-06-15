@@ -2,6 +2,7 @@
 company: Kanshe Infotech
 role: Dot Net Developer
 category: internship
+discipline: swe
 locations:
 - Houston, TX
 terms:

@@ -2,6 +2,7 @@
 company: Keystone AI
 role: AI and Workflow Analytics Intern
 category: internship
+discipline: data
 locations:
 - Boston, MA
 terms:

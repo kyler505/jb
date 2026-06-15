@@ -2,6 +2,7 @@
 company: Magna
 role: Robotics AI Software- R&D
 category: internship
+discipline: other
 locations:
 - Troy, MI
 terms:

@@ -2,6 +2,7 @@
 company: Genmo
 role: Research Engineer
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

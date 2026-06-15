@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - MSR AI Interaction and Learning
 category: internship
+discipline: other
 locations:
 - Redmond, WA
 - NYC

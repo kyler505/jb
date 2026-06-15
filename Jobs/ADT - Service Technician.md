@@ -2,6 +2,7 @@
 company: ADT
 role: Service Technician
 category: new-grad
+discipline: other
 locations:
 - Agawam, MA
 terms: []

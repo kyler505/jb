@@ -2,6 +2,7 @@
 company: Astranis
 role: Embedded Software Developer – Network/Payload Software Intern
 category: internship
+discipline: hardware
 locations:
 - SF
 terms:

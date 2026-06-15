@@ -2,6 +2,7 @@
 company: Cluely
 role: 'Engineering Intern - '
 category: internship
+discipline: other
 locations:
 - SF
 terms:

@@ -2,6 +2,7 @@
 company: IXL Learning
 role: Software Developer New Grad
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []

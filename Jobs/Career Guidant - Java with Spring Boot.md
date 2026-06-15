@@ -2,6 +2,7 @@
 company: Career Guidant
 role: Java with Spring Boot
 category: new-grad
+discipline: other
 locations:
 - NYC
 terms: []

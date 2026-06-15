@@ -2,6 +2,7 @@
 company: L3Harris Technologies
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Anaheim, CA
 terms: []

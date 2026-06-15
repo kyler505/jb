@@ -2,6 +2,7 @@
 company: Synergy ECP
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Annapolis Junction, MD
 terms: []

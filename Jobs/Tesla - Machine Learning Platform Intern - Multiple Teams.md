@@ -2,6 +2,7 @@
 company: Tesla
 role: Machine Learning Platform Intern - Multiple Teams
 category: internship
+discipline: ml
 locations:
 - Palo Alto, CA
 terms:

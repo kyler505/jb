@@ -2,6 +2,7 @@
 company: Edgestream
 role: Quantitative Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Princeton, NJ
 - NYC

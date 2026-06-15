@@ -2,6 +2,7 @@
 company: SOTI
 role: Software Developer Intern
 category: internship
+discipline: swe
 locations:
 - Mississauga, ON, Canada
 terms:

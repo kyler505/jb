@@ -2,6 +2,7 @@
 company: Xylem
 role: Engineer Technician
 category: new-grad
+discipline: other
 locations:
 - Wayzata, MN
 terms: []

@@ -2,6 +2,7 @@
 company: RTX
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - Cedar Rapids, IA
 terms: []

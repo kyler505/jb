@@ -2,6 +2,7 @@
 company: Stantec
 role: Junior Geoscientist
 category: new-grad
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms: []

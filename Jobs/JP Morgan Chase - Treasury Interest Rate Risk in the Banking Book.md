@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Treasury Interest Rate Risk in the Banking Book
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

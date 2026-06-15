@@ -2,6 +2,7 @@
 company: Capital One
 role: Applied Researcher 1 - AI Foundations - LLM Core and Agentic AI
 category: new-grad
+discipline: other
 locations:
 - Cambridge, MA
 - SF

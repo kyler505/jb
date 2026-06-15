@@ -2,6 +2,7 @@
 company: Atomic Semi
 role: Embedded Software Engineering Intern
 category: internship
+discipline: hardware
 locations:
 - SF
 terms:

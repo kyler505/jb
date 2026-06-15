@@ -2,6 +2,7 @@
 company: Egis Group
 role: BIM Developer
 category: new-grad
+discipline: swe
 locations:
 - Bristol, UK
 terms: []

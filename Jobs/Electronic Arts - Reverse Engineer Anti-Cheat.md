@@ -2,6 +2,7 @@
 company: Electronic Arts
 role: Reverse Engineer Anti-Cheat
 category: new-grad
+discipline: other
 locations:
 - Guildford, UK
 terms: []

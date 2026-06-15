@@ -2,6 +2,7 @@
 company: Idealforce
 role: Web Developer
 category: new-grad
+discipline: frontend
 locations:
 - Phoenix, AZ
 terms: []

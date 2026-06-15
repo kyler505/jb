@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer
 category: internship
+discipline: data
 locations:
 - San Jose, CA
 terms:

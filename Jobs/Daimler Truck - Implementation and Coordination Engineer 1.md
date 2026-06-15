@@ -2,6 +2,7 @@
 company: Daimler Truck
 role: Implementation and Coordination Engineer 1
 category: new-grad
+discipline: other
 locations:
 - Portland, OR
 terms: []

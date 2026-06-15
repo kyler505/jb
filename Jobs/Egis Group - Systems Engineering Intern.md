@@ -2,6 +2,7 @@
 company: Egis Group
 role: Systems Engineering Intern
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

@@ -2,6 +2,7 @@
 company: First Quantum Minerals
 role: Trading Operations Administrator
 category: new-grad
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms: []

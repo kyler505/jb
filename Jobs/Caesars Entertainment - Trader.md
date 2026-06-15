@@ -2,6 +2,7 @@
 company: Caesars Entertainment
 role: Trader
 category: new-grad
+discipline: other
 locations:
 - Las Vegas, NV
 terms: []

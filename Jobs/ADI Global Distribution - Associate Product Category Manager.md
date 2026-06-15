@@ -2,6 +2,7 @@
 company: ADI Global Distribution
 role: Associate Product Category Manager
 category: new-grad
+discipline: other
 locations:
 - Manchester, UK
 terms: []

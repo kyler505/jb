@@ -2,6 +2,7 @@
 company: Northrop Grumman
 role: SCA Engineering Technician 1
 category: new-grad
+discipline: other
 locations:
 - Warner Robins, GA
 terms: []

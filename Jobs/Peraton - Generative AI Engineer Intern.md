@@ -2,6 +2,7 @@
 company: Peraton
 role: Generative AI Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Remote in USA
 terms:

@@ -2,6 +2,7 @@
 company: Markon
 role: Software Engineer Level 0
 category: new-grad
+discipline: swe
 locations:
 - Odenton, MD
 terms: []

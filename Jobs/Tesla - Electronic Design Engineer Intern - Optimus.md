@@ -2,6 +2,7 @@
 company: Tesla
 role: Electronic Design Engineer Intern - Optimus
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

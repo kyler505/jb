@@ -2,6 +2,7 @@
 company: Medical Informatics Engineering
 role: Development Intern
 category: internship
+discipline: other
 locations:
 - Fort Wayne, IN
 terms:

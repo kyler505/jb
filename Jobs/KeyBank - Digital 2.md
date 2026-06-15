@@ -2,6 +2,7 @@
 company: KeyBank
 role: Digital 2
 category: new-grad
+discipline: other
 locations:
 - Cleveland, OH
 - Brooklyn, OH

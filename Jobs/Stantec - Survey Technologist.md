@@ -2,6 +2,7 @@
 company: Stantec
 role: Survey Technologist
 category: new-grad
+discipline: other
 locations:
 - Sylvan Lake, AB, Canada
 terms: []

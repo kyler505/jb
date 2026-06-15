@@ -2,6 +2,7 @@
 company: Advanced Energy
 role: Firmware Engineer Intern
 category: internship
+discipline: hardware
 locations:
 - Fort Collins, CO
 terms:

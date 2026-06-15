@@ -2,6 +2,7 @@
 company: PlusAI
 role: Reinforcement Learning Planning Research Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

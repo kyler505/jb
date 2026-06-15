@@ -2,6 +2,7 @@
 company: Tesla
 role: Supercharger Product Engineer Intern - Supercharger Product Support Engineering
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

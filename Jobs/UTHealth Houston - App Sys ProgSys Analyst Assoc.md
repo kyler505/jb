@@ -2,6 +2,7 @@
 company: UTHealth Houston
 role: App Sys Prog/Sys Analyst Assoc
 category: new-grad
+discipline: other
 locations:
 - San Antonio, TX
 terms: []

@@ -2,6 +2,7 @@
 company: SHEIN
 role: Data Analysis Intern
 category: internship
+discipline: other
 locations:
 - United States
 terms:

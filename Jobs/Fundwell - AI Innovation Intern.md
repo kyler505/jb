@@ -2,6 +2,7 @@
 company: Fundwell
 role: AI Innovation Intern
 category: internship
+discipline: other
 locations:
 - NYC
 terms:

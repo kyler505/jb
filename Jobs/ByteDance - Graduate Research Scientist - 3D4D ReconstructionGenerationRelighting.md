@@ -2,6 +2,7 @@
 company: ByteDance
 role: Graduate Research Scientist - 3D/4D Reconstruction/Generation/Relighting
 category: new-grad
+discipline: other
 locations:
 - San Jose, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Atria Group
 role: Infosphere Developer with Informatica
 category: new-grad
+discipline: swe
 locations:
 - Hartford, CT
 terms: []

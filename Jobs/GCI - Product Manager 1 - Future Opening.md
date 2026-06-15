@@ -2,6 +2,7 @@
 company: GCI
 role: Product Manager 1 - Future Opening
 category: new-grad
+discipline: other
 locations:
 - Anchorage, AK
 terms: []

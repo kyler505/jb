@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Discretionary and Advisory Product Development - Analyst
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

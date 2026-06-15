@@ -2,6 +2,7 @@
 company: Nokia
 role: Embedded C/C++ Software Developer Co-op/Intern
 category: internship
+discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:

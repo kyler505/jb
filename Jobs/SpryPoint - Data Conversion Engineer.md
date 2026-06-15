@@ -2,6 +2,7 @@
 company: SpryPoint
 role: Data Conversion Engineer
 category: new-grad
+discipline: other
 locations:
 - Remote in Canada
 terms: []

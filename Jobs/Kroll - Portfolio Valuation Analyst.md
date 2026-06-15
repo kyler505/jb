@@ -2,6 +2,7 @@
 company: Kroll
 role: Portfolio Valuation Analyst
 category: new-grad
+discipline: other
 locations:
 - Atlanta, GA
 terms: []

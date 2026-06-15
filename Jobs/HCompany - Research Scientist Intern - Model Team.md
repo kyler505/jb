@@ -2,6 +2,7 @@
 company: HCompany
 role: Research Scientist Intern - Model Team
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

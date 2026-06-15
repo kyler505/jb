@@ -2,6 +2,7 @@
 company: Black Box
 role: AI Intern USA
 category: internship
+discipline: other
 locations:
 - Plano, TX
 terms:

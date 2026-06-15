@@ -2,6 +2,7 @@
 company: Johnson & Johnson
 role: R&D Applications
 category: new-grad
+discipline: other
 locations:
 - West Chester, PA
 - Columbia City, IN

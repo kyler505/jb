@@ -2,6 +2,7 @@
 company: 'Coherent '
 role: Systems Software Engineer - Test & Automation Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - Fremont, CA
 terms: []

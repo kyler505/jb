@@ -2,6 +2,7 @@
 company: Tesla
 role: Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer
 category: internship
+discipline: hardware
 locations:
 - Palo Alto, CA
 terms:

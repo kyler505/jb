@@ -2,6 +2,7 @@
 company: Tencent
 role: Hunyuan Multimodal Reinforcement Learning Research Intern
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

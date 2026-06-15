@@ -2,6 +2,7 @@
 company: Leidos
 role: Junior Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Columbia, MD
 terms: []

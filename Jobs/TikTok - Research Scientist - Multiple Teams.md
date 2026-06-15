@@ -2,6 +2,7 @@
 company: TikTok
 role: Research Scientist - Multiple Teams
 category: new-grad
+discipline: other
 locations:
 - Seattle, WA
 terms: []

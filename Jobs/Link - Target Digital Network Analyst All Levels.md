@@ -2,6 +2,7 @@
 company: Link
 role: Target Digital Network Analyst All Levels
 category: internship
+discipline: other
 locations:
 - Odenton, MD
 terms:

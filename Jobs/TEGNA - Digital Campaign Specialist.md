@@ -2,6 +2,7 @@
 company: 'TEGNA '
 role: Digital Campaign Specialist
 category: new-grad
+discipline: other
 locations:
 - Dallas, TX
 terms: []

@@ -2,6 +2,7 @@
 company: Arthur Grand Technologies
 role: Syteline ERP Support
 category: new-grad
+discipline: other
 locations:
 - Nebraska
 terms: []

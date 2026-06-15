@@ -2,6 +2,7 @@
 company: BCforward
 role: Net Developer
 category: new-grad
+discipline: swe
 locations:
 - Chicago, IL
 terms: []

@@ -2,6 +2,7 @@
 company: TikTok
 role: Machine Learning Engineer Intern  Lead Ads - 2026 Summer - BS/MS
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

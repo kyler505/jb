@@ -3,6 +3,7 @@ company: Tesla
 role: Software Engineer Intern - Residential Energy Device Software Engineer - Energy
   Engineering
 category: internship
+discipline: swe
 locations:
 - Palo Alto, CA
 terms:

@@ -2,6 +2,7 @@
 company: LAXIR
 role: Junior Full-Stack Engineer
 category: internship
+discipline: other
 locations:
 - LA
 terms:

@@ -2,6 +2,7 @@
 company: Eurofins
 role: Business Intelligence Intern
 category: internship
+discipline: data
 locations:
 - Lancaster, PA
 terms:

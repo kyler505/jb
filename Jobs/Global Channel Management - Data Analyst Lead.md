@@ -2,6 +2,7 @@
 company: Global Channel Management
 role: Data Analyst Lead
 category: internship
+discipline: data
 locations:
 - Mason, OH
 terms:

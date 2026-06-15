@@ -2,6 +2,7 @@
 company: Amazon
 role: Artificial Intelligence Data Associate - Artificial General Intelligence
 category: new-grad
+discipline: other
 locations:
 - London, UK
 - United Kingdom

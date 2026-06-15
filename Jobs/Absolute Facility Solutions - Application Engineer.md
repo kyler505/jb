@@ -2,6 +2,7 @@
 company: Absolute Facility Solutions
 role: Application Engineer
 category: new-grad
+discipline: other
 locations:
 - Lakeway, TX
 terms: []

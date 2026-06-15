@@ -2,6 +2,7 @@
 company: Intel
 role: Image Processing Engineer - C++/Linux
 category: new-grad
+discipline: other
 locations:
 - Santa Clara, CA
 terms: []

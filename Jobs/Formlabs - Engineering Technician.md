@@ -2,6 +2,7 @@
 company: Formlabs
 role: Engineering Technician
 category: new-grad
+discipline: other
 locations:
 - Cambridge, MA
 terms: []

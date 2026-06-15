@@ -2,6 +2,7 @@
 company: Otter
 role: Strategy & Planning Associate
 category: new-grad
+discipline: other
 locations:
 - LA
 terms: []

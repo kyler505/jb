@@ -2,6 +2,7 @@
 company: Meshy
 role: Data Infra Engineer Intern
 category: internship
+discipline: other
 locations:
 - California
 terms:

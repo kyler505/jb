@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Engineer - E-commerce - BS/MS
 category: internship
+discipline: data
 locations:
 - San Jose, CA
 terms:

@@ -2,6 +2,7 @@
 company: Cerebras
 role: Software Engineer - Kernel Reliability
 category: new-grad
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Sunnyvale, CA

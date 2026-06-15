@@ -2,6 +2,7 @@
 company: Adobe
 role: AI/ML Intern – Machine Learning Engineer/Researcher Intern
 category: internship
+discipline: ml
 locations:
 - Seattle, WA
 - SF

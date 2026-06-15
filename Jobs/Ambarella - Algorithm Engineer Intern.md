@@ -2,6 +2,7 @@
 company: Ambarella
 role: Algorithm Engineer Intern
 category: internship
+discipline: other
 locations:
 - United States
 terms:

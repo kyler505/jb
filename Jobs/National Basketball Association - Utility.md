@@ -2,6 +2,7 @@
 company: National Basketball Association
 role: Utility
 category: new-grad
+discipline: other
 locations:
 - Memphis, TN
 terms: []

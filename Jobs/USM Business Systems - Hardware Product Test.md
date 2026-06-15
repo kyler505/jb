@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Hardware Product Test
 category: new-grad
+discipline: hardware
 locations:
 - El Segundo, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Ambarella
 role: Senior ASIC Design Engineer
 category: new-grad
+discipline: hardware
 locations:
 - United States
 terms: []

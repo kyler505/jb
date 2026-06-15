@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineer - Starshield
 category: new-grad
+discipline: swe
 locations:
 - Redmond, WA
 terms: []

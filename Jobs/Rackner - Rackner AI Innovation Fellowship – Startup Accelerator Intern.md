@@ -2,6 +2,7 @@
 company: Rackner
 role: Rackner AI Innovation Fellowship – Startup Accelerator Intern
 category: internship
+discipline: other
 locations:
 - Hyattsville, MD
 terms:

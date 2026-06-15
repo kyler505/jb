@@ -2,6 +2,7 @@
 company: ByteDance
 role: Software Engineer Intern - Developer Infrastructure
 category: internship
+discipline: devops
 locations:
 - San Jose, CA
 terms:

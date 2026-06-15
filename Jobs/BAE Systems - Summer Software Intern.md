@@ -2,6 +2,7 @@
 company: BAE Systems
 role: Summer Software Intern
 category: internship
+discipline: other
 locations:
 - Fort Wayne, IN
 terms:

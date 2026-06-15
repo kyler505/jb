@@ -2,6 +2,7 @@
 company: Aechelon Technology
 role: Junior Software Engineer – Internship
 category: internship
+discipline: swe
 locations:
 - Overland Park, KS
 terms:

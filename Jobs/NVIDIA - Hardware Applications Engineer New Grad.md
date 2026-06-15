@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Hardware Applications Engineer New Grad
 category: new-grad
+discipline: hardware
 locations:
 - Santa Clara, CA
 terms: []

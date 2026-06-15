@@ -2,6 +2,7 @@
 company: RTW Investments
 role: Data Analyst Intern
 category: internship
+discipline: data
 locations:
 - NYC
 terms:

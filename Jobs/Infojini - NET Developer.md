@@ -2,6 +2,7 @@
 company: Infojini
 role: NET Developer
 category: new-grad
+discipline: swe
 locations:
 - Battle Creek, MI
 terms: []

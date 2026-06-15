@@ -2,6 +2,7 @@
 company: Uplifter
 role: Product Specialist
 category: new-grad
+discipline: other
 locations:
 - Toronto, ON, Canada
 - Mississauga, ON, Canada

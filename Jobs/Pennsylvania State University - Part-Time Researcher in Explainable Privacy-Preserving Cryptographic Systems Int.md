@@ -3,6 +3,7 @@ company: Pennsylvania State University
 role: Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems
   Intern
 category: internship
+discipline: security
 locations:
 - State College, PA
 terms:

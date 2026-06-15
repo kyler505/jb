@@ -2,6 +2,7 @@
 company: ASM International
 role: Software Engineering Intern
 category: internship
+discipline: swe
 locations:
 - Phoenix, AZ
 terms:

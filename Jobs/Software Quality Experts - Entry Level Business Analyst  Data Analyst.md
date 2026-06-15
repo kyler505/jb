@@ -2,6 +2,7 @@
 company: Software Quality Experts
 role: Entry Level Business Analyst / Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Dulles, VA
 terms: []

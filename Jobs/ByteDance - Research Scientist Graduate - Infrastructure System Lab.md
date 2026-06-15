@@ -2,6 +2,7 @@
 company: ByteDance
 role: Research Scientist Graduate - Infrastructure System Lab
 category: new-grad
+discipline: devops
 locations:
 - San Jose, CA
 terms: []

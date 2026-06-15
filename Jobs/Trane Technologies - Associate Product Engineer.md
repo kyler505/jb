@@ -2,6 +2,7 @@
 company: Trane Technologies
 role: Associate Product Engineer
 category: new-grad
+discipline: other
 locations:
 - Columbia, SC
 terms: []

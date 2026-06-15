@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Commodities Trading Intern
 category: internship
+discipline: other
 locations:
 - Houston, TX
 terms:

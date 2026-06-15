@@ -2,6 +2,7 @@
 company: ALTEN Technology
 role: Data Collection Operator
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

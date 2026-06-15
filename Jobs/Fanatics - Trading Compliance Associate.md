@@ -2,6 +2,7 @@
 company: Fanatics
 role: Trading Compliance Associate
 category: new-grad
+discipline: other
 locations:
 - Denver, CO
 terms: []

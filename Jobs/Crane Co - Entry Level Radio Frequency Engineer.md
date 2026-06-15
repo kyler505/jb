@@ -2,6 +2,7 @@
 company: Crane Co.
 role: Entry Level Radio Frequency Engineer
 category: new-grad
+discipline: other
 locations:
 - Chandler, AZ
 terms: []

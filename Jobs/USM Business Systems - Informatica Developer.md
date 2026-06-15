@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: Informatica Developer
 category: new-grad
+discipline: swe
 locations:
 - Columbus, OH
 terms: []

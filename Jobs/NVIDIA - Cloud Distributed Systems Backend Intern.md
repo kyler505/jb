@@ -2,6 +2,7 @@
 company: NVIDIA
 role: Cloud Distributed Systems Backend Intern
 category: internship
+discipline: backend
 locations:
 - Santa Clara, CA
 terms:

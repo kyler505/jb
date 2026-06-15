@@ -2,6 +2,7 @@
 company: TikTok
 role: Data Analyst Intern - TikTok Live
 category: internship
+discipline: data
 locations:
 - London, UK
 terms:

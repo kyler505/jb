@@ -2,6 +2,7 @@
 company: Expedia Group
 role: Software Development Engineer
 category: internship
+discipline: swe
 locations:
 - Seattle, WA
 - Austin, TX

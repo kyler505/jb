@@ -2,6 +2,7 @@
 company: The Boeing Company
 role: Flight Simulation Software Engineer Senior
 category: new-grad
+discipline: swe
 locations:
 - Daytona Beach, FL
 terms: []

@@ -2,6 +2,7 @@
 company: EXL
 role: Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Jackson Township, NJ
 terms: []

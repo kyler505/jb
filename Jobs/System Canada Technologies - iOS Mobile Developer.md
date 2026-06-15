@@ -2,6 +2,7 @@
 company: System Canada Technologies
 role: iOS Mobile Developer
 category: new-grad
+discipline: mobile
 locations:
 - Toronto, ON, Canada
 terms: []

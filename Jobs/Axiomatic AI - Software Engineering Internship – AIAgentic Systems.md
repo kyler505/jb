@@ -2,6 +2,7 @@
 company: Axiomatic AI
 role: Software Engineering Internship – AI/Agentic Systems
 category: internship
+discipline: swe
 locations:
 - Boston, MA
 terms:

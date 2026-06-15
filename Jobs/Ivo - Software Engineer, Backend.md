@@ -2,6 +2,7 @@
 company: Ivo
 role: Software Engineer, Backend
 category: new-grad
+discipline: backend
 locations:
 - San Francisco, CA
 terms: []

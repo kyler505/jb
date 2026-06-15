@@ -2,6 +2,7 @@
 company: Dover
 role: Engineering Technician
 category: new-grad
+discipline: other
 locations:
 - Sharonville, OH
 terms: []

@@ -2,6 +2,7 @@
 company: Strala Group
 role: Deployment Strategist
 category: new-grad
+discipline: other
 locations:
 - SF
 terms: []

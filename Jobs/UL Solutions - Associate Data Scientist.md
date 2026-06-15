@@ -2,6 +2,7 @@
 company: UL Solutions
 role: Associate Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Northbrook, IL
 terms: []

@@ -2,6 +2,7 @@
 company: KLA
 role: AI & Process Automation Intern
 category: internship
+discipline: other
 locations:
 - Ann Arbor, MI
 terms:

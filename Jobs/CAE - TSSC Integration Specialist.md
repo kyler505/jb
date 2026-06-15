@@ -2,6 +2,7 @@
 company: CAE
 role: TSSC Integration Specialist
 category: new-grad
+discipline: other
 locations:
 - Hurlburt Field, FL
 terms: []

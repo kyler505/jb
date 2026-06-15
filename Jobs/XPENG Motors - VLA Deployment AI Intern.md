@@ -2,6 +2,7 @@
 company: XPENG Motors
 role: VLA Deployment AI Intern
 category: internship
+discipline: other
 locations:
 - Santa Clara, CA
 terms:

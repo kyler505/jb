@@ -2,6 +2,7 @@
 company: Medtronic
 role: Product Engineer 1 - AiBLE Cranial & Spinal Technologies
 category: new-grad
+discipline: other
 locations:
 - Lafayette, CO
 terms: []

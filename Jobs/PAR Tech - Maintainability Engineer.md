@@ -2,6 +2,7 @@
 company: PAR Tech
 role: Maintainability Engineer
 category: new-grad
+discipline: other
 locations:
 - Utica, NY
 terms: []

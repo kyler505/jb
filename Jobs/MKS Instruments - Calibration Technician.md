@@ -2,6 +2,7 @@
 company: MKS Instruments
 role: Calibration Technician
 category: new-grad
+discipline: other
 locations:
 - Logan, UT
 terms: []

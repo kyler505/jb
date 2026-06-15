@@ -2,6 +2,7 @@
 company: Squarepoint Capital
 role: Trading Applications Specialist
 category: new-grad
+discipline: other
 locations:
 - London, UK
 - Houston, TX

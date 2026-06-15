@@ -2,6 +2,7 @@
 company: Point72
 role: Fund Flow Quantitative Researcher
 category: internship
+discipline: other
 locations:
 - Stamford, CT
 - NYC

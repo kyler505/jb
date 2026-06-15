@@ -2,6 +2,7 @@
 company: Geotab
 role: Software Developer Intern - Prism
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Kitchener, ON, Canada

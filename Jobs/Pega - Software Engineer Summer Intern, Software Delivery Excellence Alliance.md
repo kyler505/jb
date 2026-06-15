@@ -2,6 +2,7 @@
 company: Pega
 role: Software Engineer Summer Intern, Software Delivery Excellence Alliance
 category: internship
+discipline: swe
 locations:
 - Waltham, MA
 terms:

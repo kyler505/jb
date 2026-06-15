@@ -2,6 +2,7 @@
 company: JP Morgan Chase
 role: Trading Services Analyst
 category: new-grad
+discipline: other
 locations:
 - Christchurch, UK
 terms: []

@@ -2,6 +2,7 @@
 company: Verkada
 role: Hardware Engineer Co-op
 category: internship
+discipline: hardware
 locations:
 - San Mateo, CA
 terms:

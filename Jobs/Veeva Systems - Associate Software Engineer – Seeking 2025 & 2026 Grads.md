@@ -2,6 +2,7 @@
 company: Veeva Systems
 role: Associate Software Engineer – Seeking 2025 & 2026 Grads
 category: new-grad
+discipline: swe
 locations:
 - Pleasanton, CA
 terms: []

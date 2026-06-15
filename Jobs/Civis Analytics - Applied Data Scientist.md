@@ -2,6 +2,7 @@
 company: Civis Analytics
 role: Applied Data Scientist
 category: new-grad
+discipline: data
 locations:
 - Pennsylvania
 - Washington, DC

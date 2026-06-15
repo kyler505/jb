@@ -2,6 +2,7 @@
 company: Socket
 role: Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Remote in USA
 terms: []

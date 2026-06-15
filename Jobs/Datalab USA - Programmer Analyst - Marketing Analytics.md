@@ -2,6 +2,7 @@
 company: Datalab USA
 role: Programmer Analyst - Marketing Analytics
 category: new-grad
+discipline: data
 locations:
 - Germantown, MD
 terms: []

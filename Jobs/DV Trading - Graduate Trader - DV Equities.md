@@ -2,6 +2,7 @@
 company: DV Trading
 role: Graduate Trader - DV Equities
 category: new-grad
+discipline: other
 locations:
 - London, UK
 terms: []

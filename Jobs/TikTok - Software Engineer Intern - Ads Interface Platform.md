@@ -2,6 +2,7 @@
 company: TikTok
 role: Software Engineer Intern - Ads Interface Platform
 category: internship
+discipline: swe
 locations:
 - San Jose, CA
 terms:

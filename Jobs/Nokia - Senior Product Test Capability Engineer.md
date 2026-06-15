@@ -2,6 +2,7 @@
 company: Nokia
 role: Senior Product Test Capability Engineer
 category: new-grad
+discipline: other
 locations:
 - Allentown, PA
 terms: []

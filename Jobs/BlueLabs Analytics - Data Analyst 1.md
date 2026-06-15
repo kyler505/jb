@@ -2,6 +2,7 @@
 company: BlueLabs Analytics
 role: Data Analyst 1
 category: new-grad
+discipline: data
 locations:
 - Washington, DC
 terms: []

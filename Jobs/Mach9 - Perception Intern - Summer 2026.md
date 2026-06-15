@@ -2,6 +2,7 @@
 company: Mach9
 role: Perception Intern - Summer 2026
 category: internship
+discipline: other
 locations:
 - SF
 terms:

@@ -2,6 +2,7 @@
 company: BAE Systems
 role: Software Intern, Summer 2026
 category: internship
+discipline: other
 locations:
 - Totowa, NJ
 terms:

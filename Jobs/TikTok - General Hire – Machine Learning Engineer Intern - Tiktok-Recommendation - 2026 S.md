@@ -3,6 +3,7 @@ company: TikTok
 role: General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - 2026
   Summer
 category: internship
+discipline: ml
 locations:
 - San Jose, CA
 terms:

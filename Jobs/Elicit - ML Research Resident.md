@@ -2,6 +2,7 @@
 company: Elicit
 role: ML Research Resident
 category: internship
+discipline: other
 locations:
 - Oakland, CA
 terms:

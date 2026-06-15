@@ -2,6 +2,7 @@
 company: Per Scholas
 role: Instructional Assistant - Cloud Systems Engineering
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

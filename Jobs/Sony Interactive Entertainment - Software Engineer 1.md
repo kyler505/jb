@@ -2,6 +2,7 @@
 company: Sony Interactive Entertainment
 role: Software Engineer 1
 category: new-grad
+discipline: swe
 locations:
 - San Diego, CA
 terms: []

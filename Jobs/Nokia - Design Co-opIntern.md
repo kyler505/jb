@@ -2,6 +2,7 @@
 company: Nokia
 role: Design Co-op/Intern
 category: internship
+discipline: other
 locations:
 - Ottawa, ON, Canada
 terms:

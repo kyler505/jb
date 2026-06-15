@@ -2,6 +2,7 @@
 company: Metalenz
 role: Camera Software Intern
 category: internship
+discipline: other
 locations:
 - Boston, MA
 terms:

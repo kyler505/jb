@@ -2,6 +2,7 @@
 company: Mindlance
 role: Senior Business System Analyst/ Production Support/ Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Charlotte, NC
 terms: []

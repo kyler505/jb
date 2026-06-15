@@ -2,6 +2,7 @@
 company: MongoDB
 role: Software Engineer Intern - Developer Productivity
 category: internship
+discipline: swe
 locations:
 - NYC
 terms:

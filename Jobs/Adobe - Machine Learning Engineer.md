@@ -2,6 +2,7 @@
 company: Adobe
 role: Machine Learning Engineer
 category: new-grad
+discipline: ml
 locations:
 - Seattle, WA
 terms: []

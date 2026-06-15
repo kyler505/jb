@@ -2,6 +2,7 @@
 company: University of Wisconsin System
 role: Data Science Assistant Professor
 category: new-grad
+discipline: data
 locations:
 - Winona, MN
 terms: []

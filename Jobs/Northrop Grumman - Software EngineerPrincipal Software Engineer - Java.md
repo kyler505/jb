@@ -2,6 +2,7 @@
 company: Northrop Grumman
 role: Software Engineer/Principal Software Engineer - Java
 category: new-grad
+discipline: swe
 locations:
 - Escondido, CA
 terms: []

@@ -2,6 +2,7 @@
 company: QuEra Computing
 role: Photonics Data Engineer Intern - Data Management
 category: internship
+discipline: data
 locations:
 - Boston, MA
 terms:

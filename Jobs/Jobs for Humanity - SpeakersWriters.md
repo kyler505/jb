@@ -2,6 +2,7 @@
 company: Jobs for Humanity
 role: Speakers/Writers
 category: new-grad
+discipline: other
 locations:
 - Kansas City, MO
 terms: []

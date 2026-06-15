@@ -2,6 +2,7 @@
 company: Aviatrix
 role: Mts Sdet – Test Infrastructure
 category: new-grad
+discipline: devops
 locations:
 - Santa Clara, CA
 terms: []

@@ -2,6 +2,7 @@
 company: Expedia Group
 role: Machine Learning Science Graduate - PhD - 2026
 category: new-grad
+discipline: ml
 locations:
 - Seattle, WA
 - San Jose, CA

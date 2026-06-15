@@ -2,6 +2,7 @@
 company: Direct Staffing
 role: Product Engineer
 category: new-grad
+discipline: other
 locations:
 - Perrysburg, OH
 terms: []

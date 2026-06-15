@@ -2,6 +2,7 @@
 company: onsemi
 role: Quality and Reliability Intern
 category: internship
+discipline: other
 locations:
 - Allen, TX
 terms:

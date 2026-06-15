@@ -2,6 +2,7 @@
 company: Virtu Financial
 role: Software Engineer - Desktop Frontend Developer - C#/Winforms
 category: new-grad
+discipline: frontend
 locations:
 - NYC
 terms: []

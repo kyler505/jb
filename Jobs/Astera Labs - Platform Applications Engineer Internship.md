@@ -2,6 +2,7 @@
 company: Astera Labs
 role: Platform Applications Engineer Internship
 category: internship
+discipline: other
 locations:
 - Vancouver, BC, Canada
 terms:

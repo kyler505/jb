@@ -2,6 +2,7 @@
 company: SpaceX
 role: Software Engineer - Platform Team
 category: new-grad
+discipline: swe
 locations:
 - Bastrop, TX
 terms: []

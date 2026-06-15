@@ -2,6 +2,7 @@
 company: Keysight Technologies
 role: Electrical/Electronics Calibration Technician - Test & Measurement
 category: new-grad
+discipline: other
 locations:
 - Stoke-on-Trent, UK
 terms: []

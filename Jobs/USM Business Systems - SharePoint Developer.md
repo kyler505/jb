@@ -2,6 +2,7 @@
 company: USM Business Systems
 role: SharePoint Developer
 category: new-grad
+discipline: swe
 locations:
 - Southfield, MI
 terms: []

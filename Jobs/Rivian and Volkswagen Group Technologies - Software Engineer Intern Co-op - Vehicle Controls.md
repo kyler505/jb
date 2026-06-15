@@ -2,6 +2,7 @@
 company: Rivian and Volkswagen Group Technologies
 role: Software Engineer Intern Co-op - Vehicle Controls
 category: internship
+discipline: swe
 locations:
 - Toronto, ON, Canada
 - Vancouver, BC, Canada

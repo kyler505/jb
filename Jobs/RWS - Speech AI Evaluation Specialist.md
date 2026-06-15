@@ -2,6 +2,7 @@
 company: RWS
 role: Speech AI Evaluation Specialist
 category: new-grad
+discipline: other
 locations:
 - Remote in USA
 terms: []

@@ -2,6 +2,7 @@
 company: Teledyne
 role: Service Repair Technician
 category: new-grad
+discipline: other
 locations:
 - Hampton, VA
 terms: []

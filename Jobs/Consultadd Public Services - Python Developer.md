@@ -2,6 +2,7 @@
 company: Consultadd Public Services
 role: Python Developer
 category: new-grad
+discipline: swe
 locations:
 - NYC
 terms: []

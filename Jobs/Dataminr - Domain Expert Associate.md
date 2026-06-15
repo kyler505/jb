@@ -2,6 +2,7 @@
 company: Dataminr
 role: Domain Expert Associate
 category: new-grad
+discipline: other
 locations:
 - Remote in UK
 - Remote in Ireland

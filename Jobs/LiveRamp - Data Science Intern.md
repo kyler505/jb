@@ -2,6 +2,7 @@
 company: LiveRamp
 role: Data Science Intern
 category: internship
+discipline: data
 locations:
 - SF
 - NYC

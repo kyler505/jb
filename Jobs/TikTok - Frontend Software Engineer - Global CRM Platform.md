@@ -2,6 +2,7 @@
 company: TikTok
 role: Frontend Software Engineer - Global CRM Platform
 category: new-grad
+discipline: frontend
 locations:
 - San Jose, CA
 terms: []

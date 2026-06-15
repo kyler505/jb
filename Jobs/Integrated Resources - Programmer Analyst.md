@@ -2,6 +2,7 @@
 company: Integrated Resources
 role: Programmer Analyst
 category: new-grad
+discipline: swe
 locations:
 - Ambler, PA
 terms: []

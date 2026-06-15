@@ -2,6 +2,7 @@
 company: Entergy
 role: Data Scientist
 category: new-grad
+discipline: data
 locations:
 - New Orleans, LA
 terms: []

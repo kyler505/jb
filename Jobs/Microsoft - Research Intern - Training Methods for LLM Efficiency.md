@@ -2,6 +2,7 @@
 company: Microsoft
 role: Research Intern - Training Methods for LLM Efficiency
 category: internship
+discipline: other
 locations:
 - Mountain View, CA
 terms:

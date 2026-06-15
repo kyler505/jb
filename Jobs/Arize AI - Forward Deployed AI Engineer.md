@@ -2,6 +2,7 @@
 company: Arize AI
 role: Forward Deployed AI Engineer
 category: new-grad
+discipline: ml
 locations:
 - NYC
 terms: []

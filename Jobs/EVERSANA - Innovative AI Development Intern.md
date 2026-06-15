@@ -2,6 +2,7 @@
 company: EVERSANA
 role: Innovative AI Development Intern
 category: internship
+discipline: other
 locations:
 - Chicago, IL
 terms:

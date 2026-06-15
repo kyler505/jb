@@ -2,6 +2,7 @@
 company: Insilico Logix
 role: Data Analyst
 category: new-grad
+discipline: data
 locations:
 - Reston, VA
 terms: []

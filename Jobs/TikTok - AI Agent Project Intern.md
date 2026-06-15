@@ -2,6 +2,7 @@
 company: TikTok
 role: AI Agent Project Intern
 category: internship
+discipline: other
 locations:
 - London, UK
 terms:

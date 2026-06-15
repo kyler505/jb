@@ -2,6 +2,7 @@
 company: RESPEC
 role: Student Engineering Intern - Data Science
 category: internship
+discipline: data
 locations:
 - Rapid City, SD
 terms:

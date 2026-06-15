@@ -2,6 +2,7 @@
 company: Tencent
 role: Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal
 category: internship
+discipline: other
 locations:
 - Palo Alto, CA
 terms:

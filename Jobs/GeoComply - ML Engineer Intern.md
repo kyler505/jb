@@ -2,6 +2,7 @@
 company: GeoComply
 role: ML Engineer Intern
 category: internship
+discipline: ml
 locations:
 - Vancouver, BC, Canada
 terms:

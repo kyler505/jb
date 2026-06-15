@@ -2,6 +2,7 @@
 company: Cresta
 role: Data Science Intern - Customer Success
 category: internship
+discipline: data
 locations:
 - Remote in USA
 terms:

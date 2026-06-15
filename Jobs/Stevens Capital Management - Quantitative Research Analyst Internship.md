@@ -2,6 +2,7 @@
 company: Stevens Capital Management
 role: Quantitative Research Analyst Internship
 category: internship
+discipline: other
 locations:
 - Villanova, PA
 terms:

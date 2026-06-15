@@ -2,6 +2,7 @@
 company: Stoke Space
 role: Software Intern - Software
 category: internship
+discipline: other
 locations:
 - Kent, WA
 terms:

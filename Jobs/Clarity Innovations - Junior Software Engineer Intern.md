@@ -2,6 +2,7 @@
 company: Clarity Innovations
 role: Junior Software Engineer Intern
 category: internship
+discipline: swe
 locations:
 - Reston, VA
 terms:

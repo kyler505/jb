@@ -2,6 +2,7 @@
 company: Equifax
 role: Data & Analytics Intern
 category: internship
+discipline: data
 locations:
 - Alpharetta, GA
 terms:

@@ -2,6 +2,7 @@
 company: Addepar
 role: Associate Software Engineer - Data Intelligence - Adx
 category: new-grad
+discipline: swe
 locations:
 - Edinburgh, UK
 terms: []

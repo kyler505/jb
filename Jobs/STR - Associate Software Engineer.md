@@ -2,6 +2,7 @@
 company: STR
 role: Associate Software Engineer
 category: new-grad
+discipline: swe
 locations:
 - Arlington, VA
 terms: []

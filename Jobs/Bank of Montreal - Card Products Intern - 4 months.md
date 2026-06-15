@@ -2,6 +2,7 @@
 company: Bank of Montreal
 role: Card Products Intern - 4 months
 category: internship
+discipline: other
 locations:
 - Toronto, ON, Canada
 terms:

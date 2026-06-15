@@ -2,6 +2,7 @@
 company: Metalcraft of Mayville
 role: Engineering Support Technician
 category: new-grad
+discipline: other
 locations:
 - Fond du Lac, WI
 terms: []

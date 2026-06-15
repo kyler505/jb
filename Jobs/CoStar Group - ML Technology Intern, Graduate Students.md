@@ -2,6 +2,7 @@
 company: CoStar Group
 role: ML Technology Intern, Graduate Students
 category: internship
+discipline: other
 locations:
 - Arlington, VA
 terms:
