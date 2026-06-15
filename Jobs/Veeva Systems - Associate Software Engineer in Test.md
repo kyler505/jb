@@ -4,14 +4,14 @@ role: Associate Software Engineer in Test
 category: new-grad
 discipline: swe
 locations:
-- Toronto, ON, Canada
+- Pleasanton, CA
 terms: []
-url: https://jobs.lever.co/veeva/eea03b21-0e9e-467b-957d-31ba416b4016/apply
+url: https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply
 source: simplify-new-grad
-listing_id: 5e87eb4b-25a6-4c78-b01a-897e3f2a26b3
-active: true
-date_posted: '2025-10-18'
-date_updated: '2025-11-12'
+listing_id: 6770055a-7548-4e7b-bd26-7cda7d1b59b8
+active: false
+date_posted: '2025-10-31'
+date_updated: '2025-10-31'
 status: to-apply
 applied_date: null
 deadline: null

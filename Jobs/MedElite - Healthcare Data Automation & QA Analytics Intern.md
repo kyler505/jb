@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/medelitellc/jobs/5258038008
 source: simplify-internships
 listing_id: 51831bd6-ee7c-478a-b8f3-6aad9eeb91fe
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-06-13'
 status: to-apply

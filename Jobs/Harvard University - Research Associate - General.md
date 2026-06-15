@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Boston, MA
 terms: []
-url: https://jobs.smartrecruiters.com/HarvardUniversity/3743990013607846
+url: https://jobs.smartrecruiters.com/HarvardUniversity/3743990013259557
 source: simplify-new-grad
-listing_id: 4c61f91f-2722-46bc-8b41-a5011417140b
-active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
+listing_id: 8ff9f7a3-dcc0-41fc-921c-3637e2f3a14a
+active: false
+date_posted: '2026-05-25'
+date_updated: '2026-05-26'
 status: to-apply
 applied_date: null
 deadline: null

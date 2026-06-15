@@ -4,15 +4,15 @@ role: Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team
 category: internship
 discipline: ml
 locations:
-- San Jose, CA
+- Seattle, WA
 terms:
 - Summer 2026
-url: https://lifeattiktok.com/search/7534851658053830930
+url: https://lifeattiktok.com/search/7535234137146444040
 source: simplify-internships
-listing_id: 8b7487b4-2afb-4936-8fd5-58e6125750f0
-active: true
+listing_id: 21809924-cc40-4f2d-9f0e-6c096067ba32
+active: false
 date_posted: '2025-10-31'
-date_updated: '2025-10-31'
+date_updated: '2026-03-09'
 status: to-apply
 applied_date: null
 deadline: null

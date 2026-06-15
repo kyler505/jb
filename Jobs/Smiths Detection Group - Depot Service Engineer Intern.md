@@ -4,15 +4,15 @@ role: Depot Service Engineer Intern
 category: internship
 discipline: other
 locations:
-- Gunpowder, MD
+- Parsippany-Troy Hills, NJ
 terms:
 - N/A
-url: https://jobs.smartrecruiters.com/SmithsGroup2/744000125196499
+url: https://jobs.smartrecruiters.com/SmithsGroup2/744000127050189
 source: simplify-internships
-listing_id: 0a319815-2604-4c98-94da-26b6a462a885
-active: true
-date_posted: '2026-05-07'
-date_updated: '2026-05-07'
+listing_id: d7b70764-2bdf-4e34-9c39-5dd9943904dd
+active: false
+date_posted: '2026-05-18'
+date_updated: '2026-05-18'
 status: to-apply
 applied_date: null
 deadline: null

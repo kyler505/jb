@@ -10,7 +10,7 @@ terms:
 url: https://lifeattiktok.com/search/7633668061979543813
 source: simplify-internships
 listing_id: 810e50c9-00ba-458d-bdb0-89ae72adc9f9
-active: true
+active: false
 date_posted: '2026-04-29'
 date_updated: '2026-04-29'
 status: to-apply

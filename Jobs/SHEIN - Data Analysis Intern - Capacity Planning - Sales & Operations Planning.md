@@ -10,7 +10,7 @@ terms:
 url: https://fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SHEIN/job/USA73475043
 source: simplify-internships
 listing_id: 0fa42606-0472-428a-9a17-52df8ce4773f
-active: true
+active: false
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
 status: to-apply

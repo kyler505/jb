@@ -17,15 +17,4 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: medium
 ---
-
-## Research
-
-**Why interested:** High-ownership, deploy-in-the-field engineering. Strong technical reputation.
-
-**Eligibility:** Verify class year. Some roles need clearance/US person — verify. Key skills: Strong SWE fundamentals; data plumbing, APIs.
-
-**Comp/location:** Competitive. Washington DC / New York NY. Fall 2026.
-
-**Notes:** Confirm the specific Fall 2026 req on Palantir's Lever board and update the link.
