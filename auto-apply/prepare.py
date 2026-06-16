@@ -71,7 +71,13 @@ def _autofill_block(profile: dict[str, Any]) -> str:
         ("Full name", f"{g('first_name')} {g('last_name')}"),
         ("Email", g("email")),
         ("Phone", g("phone")),
-        ("Location", g("location")),
+        ("Current location", g("location")),
+        ("Mailing address", f"{g('street_address')}, {g('address_city')}, "
+                            f"{g('address_state')} {g('address_zip')}"),
+        ("Current job", f"{g('current_job_title')} at {g('current_employer')} "
+                        f"({g('current_job_location')}, {g('current_job_start')}–present)"
+                        if profile.get("currently_employed") else
+                        f"{g('current_job_title')} at {g('current_employer')}"),
         ("LinkedIn", g("linkedin")),
         ("GitHub", g("github")),
         ("Portfolio", g("portfolio")),
