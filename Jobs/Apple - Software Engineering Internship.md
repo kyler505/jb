@@ -14,7 +14,7 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: medium
+priority: 42.0
 ---
 
 ## Research
