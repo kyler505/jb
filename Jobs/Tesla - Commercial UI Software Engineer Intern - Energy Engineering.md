@@ -13,12 +13,16 @@ listing_id: e899751e-0313-4b38-844c-137b5cba368a
 active: true
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-16
 deadline: null
 notes: null
 priority: 59.53
 resume_used: resume
+apply_method: auto
+apply_result: success
+confirmation: null
+needs_review: false
 ---
 
 ## Application 2026-06-16

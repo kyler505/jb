@@ -46,6 +46,53 @@ For each job, Claude will:
    - on any blocker: `apply_result: needs-review`, `needs_review: true`,
      `apply_error: <what happened>` — it surfaces in the **Needs Review** view.
 
+### Self-healing Q&A (learn-once, reuse-forever)
+When the Apply step hits a question that **isn't covered by `Profile/` and has no
+confident match in the Q&A bank** — e.g. "expected hourly rate?", "willing to
+relocate?", "security clearance?", "preferred start date?" — Claude does NOT
+guess. It:
+1. Looks up the question first: `python qa_store.py find "<question>"`.
+2. If no confident match, **asks you** for the answer.
+3. Records your answer to the bank: `python qa_store.py record "<question>" "<answer>"`
+   → creates `Profile/QA/<slug>.md` (`category: learned`, `source: self-heal`).
+4. Uses it now, and **auto-answers it next time** — the bank grows with every
+   application, so the same question never interrupts you twice.
+
+Matching is token-overlap + keyword-phrase based, so paraphrases ("salary
+expectations" vs "expected hourly rate") still resolve to the stored answer.
+Edit or delete any `source: self-heal` note in `Profile/QA/` to correct what was
+learned.
+
+### Browser-step gotchas (learned the hard way)
+- **Always type into fields with real keystrokes**, never set values
+  programmatically. Frameworks like Ashby track their own internal state via
+  input events; a directly-set value shows on screen but fails validation as
+  "missing" on submit. (This bit the 1Password Full Name field.) Use real
+  click + type; for typeahead/combobox fields, type then click the option.
+- **Scan for duplicate required questions before submitting.** Some postings
+  repeat a question in both a general section and a role-specific section (the
+  1Password form had "What brought you to this job posting" twice). Fill every
+  instance, then submit — the validation banner only lists what's still empty,
+  so re-check it after each submit attempt until it clears.
+- **Verify after submit.** A real submission ends on a success page / green
+  confirmation. If the form re-renders with a red "needs corrections" banner,
+  it did NOT submit — read the banner, fix, resubmit.
+- **Upload the resume BEFORE typing other fields (Ashby).** Ashby's "autofill
+  from resume" re-renders the form on upload and wipes anything typed just
+  before. Attach the resume first, let it settle, then fill the text fields.
+- **Native dropdowns: select with the keyboard, not a value-set.** On sites like
+  Tesla, programmatically setting a `<select>` value often doesn't register with
+  the component. Click the field, type the option text, press Enter. (Holds for
+  country, months, gender/EEO selects, etc.)
+- **Don't press Enter/Return inside a date textbox on Tesla** — it navigates to
+  the previous step and clears that step. Use the calendar picker instead, or
+  type then click away.
+- **Acknowledgement checkboxes may be gated behind a scrollable disclosure.**
+  Tesla's EEO acknowledgement stays disabled until the disclosure box is scrolled
+  to its very bottom. Scroll inside that box first, then check it.
+- **Multi-step forms re-mint element refs on each step change.** After clicking
+  Next/Previous, re-read the page for fresh refs before acting.
+
 ---
 
 ## Daily routine
