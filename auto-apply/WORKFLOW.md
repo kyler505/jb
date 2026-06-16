@@ -117,3 +117,46 @@ The pipeline writes these frontmatter fields:
 They **must** be added to the preserved-fields list in the `kyler505/job-scraper`
 repo, or the daily scrape will strip them. (Body `## Application` sections already
 survive re-scrapes.)
+
+---
+
+## Workday (`myworkdayjobs.com`) handling
+
+Workday powers most large enterprises. Detect it by `*.myworkdayjobs.com` in the
+`url`. Flow: **Apply → "Start Your Application" modal → "Apply Manually"** (also
+offers "Autofill with Resume" / "Use My Last Application"), then a 6-step wizard:
+
+`My Information → My Experience → Application Questions → Voluntary Disclosures → Self Identify → Review`
+
+### The account wall is tenant-dependent (and is the hard stop)
+- **Defer-type** (e.g. Adobe `wd5`): you can fill all 6 steps; account creation
+  (email + password) is only demanded at the final **Submit**. Fill everything,
+  stop at Submit.
+- **Gate-type** (e.g. GE Appliances `haier.wd3`): a **Create Account** screen
+  (email + password) is step 0, before any form fields. Hard stop immediately.
+
+Either way, **never create the account or enter a password** — that's the user's
+action, same as any submit. Fill up to the account/Submit boundary and hand off.
+
+### Field-handling notes (learned on Adobe `wd5`)
+- **"How Did You Hear About Us?"** is a nested picklist: pick a category
+  (Job Board, Social Media, Through my University...) then an option. No generic
+  "Other" under Job Board; LinkedIn is a reasonable default but it's a
+  per-application judgment call.
+- **State** is a native `<select>`: type-ahead works (click, type "Texas", Enter).
+- **Country / Country Phone Code** usually default to US; **Phone Device Type**
+  defaults to Mobile.
+- **Address** (street, line 2, city, state, postal) is often *optional* — fill
+  City/State from Profile; Profile has no street address or ZIP, so if a tenant
+  marks them required, self-heal (ask + record).
+- **My Experience**: Job Title / Company / Location + "I currently work here";
+  employment start dates aren't in Profile — self-heal if required. Also has an
+  Education block and a resume upload (attach `out/resumes/<name>.pdf`).
+- **Application Questions / Voluntary Disclosures / Self Identify**: map from
+  Profile + QA bank exactly like the other platforms (work auth, sponsorship =
+  No, grad date 2027-05, gender/race/veteran/disability).
+
+### Gotcha
+Workday is heavy; `Page.captureScreenshot` and ref reads time out intermittently
+even though the page is fine. Retry after a short wait; prefer keyboard selection
+for dropdowns; re-read refs after each step transition.
