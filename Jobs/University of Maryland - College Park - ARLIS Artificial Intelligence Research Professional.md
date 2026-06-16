@@ -10,8 +10,8 @@ url: https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-P
 source: simplify-new-grad
 listing_id: aca2cbca-71c0-435f-83b5-d07623be4c1a
 active: true
-date_posted: '2025-10-19'
-date_updated: '2025-10-19'
+date_posted: '2026-06-13'
+date_updated: '2026-06-14'
 status: to-apply
 applied_date: null
 deadline: null
