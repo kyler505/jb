@@ -10,10 +10,10 @@ keywords:
 category: general
 ---
 
-I feel qualified for this role because I've built and worked on real systems that support operational workflows, so I understand how digital tools impact efficiency and decision-making.
+I've built and maintained real systems that people use to get their work done, so I understand how the software affects whether things actually run smoothly.
 
-My experience building internal tools shows that I'm comfortable debugging, working with structured datasets, and improving systems rather than just writing code once.
+Building internal tools means I'm comfortable debugging, working with structured data, and improving something over time instead of writing it once and walking away.
 
-Beyond the technical side, I think about impact. In my past work I focused on improving reliability and reducing friction in workflows -- which I know is critical in environments where performance, safety, and cost matter.
+I also pay attention to impact. A lot of my work has been about making things more reliable and less annoying to use, which matters most where downtime or mistakes are expensive.
 
-I also bring strong collaboration and accountability. I'm used to working on teams, communicating clearly with directors, and taking ownership of deliverables.
+And I work well with people. I'm used to being on a team, talking straight with the people I report to, and owning what I said I'd deliver.

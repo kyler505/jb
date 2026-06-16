@@ -12,8 +12,8 @@ category: behavioral
 
 **Pick one, lead with a story:**
 
-**Reliable** -- At TechHub the senior software developers were initially unsure of my experience; now they rely on me to build full-stack systems and debug workflow problems independently.
+**Reliable.** At the TechHub the senior devs weren't sure what I could do at first. Now they hand me full-stack features and workflow bugs and trust me to work through them on my own.
 
-**Agile learner** -- I love learning new skills and technology. I built my personal website this past week and it's in Rust -- I didn't even know how to code in Rust last week.
+**Fast learner.** I pick up new tech quickly. I built my personal website this past week in Rust, and I didn't know any Rust the week before.
 
-**Resilient** -- When deploying my DMS app to production there were lots of problems and errors. Things didn't work as expected, but I adapted and found workarounds and solutions. It now processes 150+ orders/month at 99.8% uptime.
+**Resilient.** Deploying my DMS app to production was a mess of errors I didn't see coming. Stuff that worked locally broke in prod, and I kept working through it until it held. It now handles 150+ orders a month at 99.8% uptime.

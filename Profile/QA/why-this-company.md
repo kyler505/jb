@@ -10,9 +10,9 @@ keywords:
 category: general
 ---
 
-Frame: I'm drawn to {{company}} because {{specific product/mission}}. I like building reliable systems that have real impact, and {{role}} would let me {{what you'd build/learn}} in an environment that challenges me and pushes me to grow.
+Frame: I want to work at {{company}} because {{specific product/mission}}. I like building reliable systems that actually matter, and {{role}} would let me {{what you'd build/learn}} somewhere that pushes me to get better.
 
 - Lead with something specific and true about the company (product, scale, mission).
-- Tie back to your strength: building real operational tools, improving reliability/efficiency, working with structured data.
+- Tie it back to your strength: building real operational tools, improving reliability, working with structured data.
 
-**Example (Woodside):** I'm drawn to Woodside because energy operations have real-world impact -- they must be reliable and accurate. I've contributed to projects involving early tech adoption and large-scale systems. I want to be in an environment that challenges me and pushes me to grow while being impactful.
+**Example (Woodside):** I want to work at Woodside because energy operations have to be reliable and accurate, and the work has real consequences. I've worked on projects involving early tech adoption and large-scale systems, and I want to be somewhere that challenges me and where the work matters.

@@ -11,6 +11,6 @@ category: behavioral
 
 **Have two ready; always include how you're improving:**
 
-**Non-confrontational** -- Especially in group settings I've avoided raising issues for fear of confrontation. I'm working on addressing problems directly and early -- the sprint-conflict situation (CSCE 331) taught me that raising it data-first via metrics and 1:1s gets better outcomes without drama.
+**Non-confrontational.** In group settings I've held back from raising problems because I didn't want the friction. I'm working on bringing things up directly and early. The sprint conflict in CSCE 331 taught me that raising it with data, through metrics and quick 1:1s, gets a better outcome without the drama.
 
-**Hesitant to ask questions** -- I used to worry asking would make me look unqualified or unreliable. I've learned that asking early saves time and is what reliable teammates actually do.
+**Hesitant to ask questions.** I used to think asking would make me look like I didn't know what I was doing. I've learned that asking early saves everyone time, and it's what reliable teammates actually do.

@@ -10,4 +10,4 @@ keywords:
 category: general
 ---
 
-Growing as an engineer who owns meaningful systems end-to-end -- ideally deepening in scalable backend/systems work while keeping a foot in data/ML. Looking to be somewhere that challenges me and where my work has measurable impact.
+Owning real systems end to end, hopefully going deeper on backend and systems work while staying close to data and ML. I want to be somewhere that pushes me and where I can actually see the impact of what I build.

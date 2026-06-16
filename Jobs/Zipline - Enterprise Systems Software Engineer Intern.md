@@ -21,7 +21,7 @@ priority: 58.41
 resume_used: resume
 apply_method: auto
 apply_result: needs-review
-apply_error: "Fully prefilled (Greenhouse) incl. 4 essay answers — review essays & click Submit"
+apply_error: "Verified + Submit clicked; Greenhouse requires 8-char email human-verification code sent to kcao@tamu.edu — enter code from your inbox to finish"
 needs_review: true
 ---
 
