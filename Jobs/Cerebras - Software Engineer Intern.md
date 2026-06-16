@@ -20,6 +20,10 @@ deadline: null
 notes: null
 priority: 58.41
 resume_used: resume
+apply_method: auto
+apply_result: needs-review
+apply_error: Fully prefilled (Greenhouse) — awaiting your manual Submit click
+needs_review: true
 ---
 
 ## Application 2026-06-16
