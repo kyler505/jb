@@ -17,12 +17,13 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.41
+needs_review: true
 resume_used: resume
 apply_method: auto
+apply_error: Fully prefilled (Greenhouse) incl. 4 essay answers — review essays &
+  click Submit
 apply_result: needs-review
-apply_error: "Fully prefilled (Greenhouse) incl. 4 essay answers — review essays & click Submit"
-needs_review: true
+priority: 58.41
 ---
 
 ## Application 2026-06-16
