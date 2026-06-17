@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4691638005
 source: simplify-internships
 listing_id: 669c2881-14d7-40b8-ab54-622ff58e7d84
-active: true
+active: false
 date_posted: '2026-05-01'
 date_updated: '2026-05-01'
 status: to-apply

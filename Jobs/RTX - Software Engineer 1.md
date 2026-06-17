@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Cedar Rapids, IA
+- El Segundo, CA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152
 source: simplify-new-grad
-listing_id: 703cda76-22ba-4087-a142-4fe4289646b5
-active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
+listing_id: 70a25a5c-fceb-42fd-8775-06160a182225
+active: false
+date_posted: '2026-06-11'
+date_updated: '2026-06-11'
 status: to-apply
 applied_date: null
 deadline: null

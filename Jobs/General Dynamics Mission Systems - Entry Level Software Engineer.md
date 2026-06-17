@@ -4,17 +4,16 @@ role: Entry Level Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Brooklyn, OH
+- Manassas, VA
 terms: []
-url: https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false
+url: https://careers-gdms.icims.com/jobs/73140/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 684c01a1-1150-43b2-81a8-aaf6e5bd06db
+listing_id: bed37cac-7110-483e-b908-3e624efd76d4
 active: true
-date_posted: '2026-05-18'
-date_updated: '2026-05-20'
+date_posted: '2026-06-16'
+date_updated: '2026-06-16'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 47.68
 ---

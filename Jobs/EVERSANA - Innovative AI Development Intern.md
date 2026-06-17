@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/EVERSANA1/744000130882264
 source: simplify-internships
 listing_id: 81475574-2c4a-4641-923a-dea16212df47
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: to-apply

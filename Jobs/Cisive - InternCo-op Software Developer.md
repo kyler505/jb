@@ -10,7 +10,7 @@ terms:
 url: https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100237
 source: simplify-internships
 listing_id: fd0abe71-c931-4031-bad7-5291b117150b
-active: true
+active: false
 date_posted: '2026-03-19'
 date_updated: '2026-03-19'
 status: to-apply

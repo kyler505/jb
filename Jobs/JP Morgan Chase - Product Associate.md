@@ -6,12 +6,12 @@ discipline: other
 locations:
 - London, UK
 terms: []
-url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751114
+url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751278
 source: simplify-new-grad
-listing_id: 46eea035-78f4-4e37-9a49-1daa581fada3
-active: true
-date_posted: '2026-06-04'
-date_updated: '2026-06-04'
+listing_id: f0f15760-e658-4f7e-9e6c-9e55ca9b1ef6
+active: false
+date_posted: '2026-05-21'
+date_updated: '2026-05-21'
 status: to-apply
 applied_date: null
 deadline: null

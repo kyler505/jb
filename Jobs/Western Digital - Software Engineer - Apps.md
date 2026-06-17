@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - San Jose, CA
 terms: []
-url: https://jobs.smartrecruiters.com/WesternDigital/744000126594220
+url: https://jobs.smartrecruiters.com/WesternDigital/744000124012539
 source: simplify-new-grad
-listing_id: b278496b-e98d-485e-b9f2-d14b9bc4ffef
-active: true
-date_posted: '2026-05-15'
-date_updated: '2026-05-15'
+listing_id: 678b8d7f-ebd1-46c2-810e-369033816a7e
+active: false
+date_posted: '2026-04-30'
+date_updated: '2026-04-30'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 46.96
 ---

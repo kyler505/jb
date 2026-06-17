@@ -13,7 +13,7 @@ terms:
 url: https://uscareers-waters.icims.com/jobs/25420/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 7b1fe7e1-417e-4ba4-afc3-c3c0f10fa1a2
-active: true
+active: false
 date_posted: '2026-02-13'
 date_updated: '2026-02-26'
 status: to-apply

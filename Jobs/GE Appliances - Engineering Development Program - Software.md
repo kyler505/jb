@@ -9,7 +9,7 @@ terms: []
 url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806
 source: simplify-new-grad
 listing_id: 9c49f57d-6085-4172-b0ed-68b2a3041ef2
-active: true
+active: false
 date_posted: '2026-06-06'
 date_updated: '2026-06-06'
 status: to-apply

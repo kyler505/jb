@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.entergy.com/job/New-Orleans-Utility-Engineer-Loui/1339028300/?ats=successfactors
 source: simplify-new-grad
 listing_id: 1f4a504e-6ef5-48a8-a95e-6d9ab6c66d3b
-active: true
+active: false
 date_posted: '2026-05-22'
 date_updated: '2026-05-23'
 status: to-apply
