@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/appian/jobs/7943862
 source: simplify-new-grad
 listing_id: 6eeea8fc-9677-4a3b-b0db-3346353c2d19
-active: true
+active: false
 date_posted: '2026-05-19'
 date_updated: '2026-05-26'
 status: to-apply

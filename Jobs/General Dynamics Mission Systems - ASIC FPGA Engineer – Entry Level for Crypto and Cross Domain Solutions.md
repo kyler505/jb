@@ -9,7 +9,7 @@ terms: []
 url: https://careers-gdms.icims.com/jobs/73026/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: b4556f1e-dea1-44c9-a542-678f03840014
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

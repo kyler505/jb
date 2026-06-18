@@ -18,12 +18,12 @@ status: applied
 applied_date: 2026-06-16
 deadline: null
 notes: null
-resume_used: resume
-apply_result: success
-apply_method: auto
 confirmation: null
 priority: 59.53
+apply_method: auto
+apply_result: success
 needs_review: false
+resume_used: resume
 ---
 
 ## Application 2026-06-16

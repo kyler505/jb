@@ -13,7 +13,7 @@ terms: []
 url: https://job-boards.greenhouse.io/scotch/jobs/5266126008
 source: simplify-new-grad
 listing_id: bf6b46fc-b4a0-4b9a-ad6c-79e9d4fbd6e7
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

@@ -6,15 +6,14 @@ discipline: other
 locations:
 - NYC
 terms: []
-url: https://jobs.ashbyhq.com/silnahealth.com/18dd6319-4df0-4535-b974-882f61f26101/application
+url: https://jobs.ashbyhq.com/silnahealth.com/28ba5d0b-b862-4e04-995d-d5eff22d269e/application
 source: simplify-new-grad
-listing_id: 772a2d21-c205-40ad-9ef1-3d7df917020f
+listing_id: e855ed5c-e613-43b2-9c65-61c5cdc7930b
 active: false
-date_posted: '2026-05-07'
-date_updated: '2026-05-07'
+date_posted: '2026-06-17'
+date_updated: '2026-06-17'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 21.34
 ---

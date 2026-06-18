@@ -13,7 +13,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/SikaAG/744000130240509
 source: simplify-new-grad
 listing_id: 49a0fe15-8737-40c8-8a1d-9ba969d6ed24
-active: true
+active: false
 date_posted: '2026-06-04'
 date_updated: '2026-06-04'
 status: to-apply

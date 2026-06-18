@@ -18,12 +18,12 @@ locations:
 - Research Triangle, Durham, NC
 - Atlanta, GA
 terms: []
-url: https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Full-Time----United-States_2000081
+url: https://careers.cisco.com/global/en/job/2000081
 source: simplify-new-grad
-listing_id: 6fb0e2ea-dabd-4c75-8ad3-7a7c830656fb
-active: true
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+listing_id: aec98da3-3097-4a36-b643-d8a76173f735
+active: false
+date_posted: '2025-11-20'
+date_updated: '2025-11-20'
 status: to-apply
 applied_date: null
 deadline: null
