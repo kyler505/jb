@@ -4,14 +4,14 @@ role: Field Service Engineer 1
 category: new-grad
 discipline: other
 locations:
-- United States
+- Chicago, IL
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-I---Joplin--MO_R4042292-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1
 source: simplify-new-grad
-listing_id: dfa85167-97c6-4ac9-86f9-6fd4698843bf
-active: true
-date_posted: '2026-06-17'
-date_updated: '2026-06-18'
+listing_id: 24ee3d12-9b35-4c67-a394-f7756e2d8ef9
+active: false
+date_posted: '2026-06-13'
+date_updated: '2026-06-19'
 status: to-apply
 applied_date: null
 deadline: null

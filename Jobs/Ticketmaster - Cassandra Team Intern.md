@@ -10,7 +10,7 @@ terms:
 url: https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Beverly-Hills-CA-USA/Intern--Cassandra-Team_JR-90146
 source: simplify-internships
 listing_id: 110d438d-c5c6-4c10-9e21-5b2f5e015e1b
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625
 source: simplify-new-grad
 listing_id: a3ee586e-9f97-4009-92cc-dc4affda3b3a
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

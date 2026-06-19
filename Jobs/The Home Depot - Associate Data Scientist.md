@@ -6,12 +6,12 @@ discipline: data
 locations:
 - Atlanta, GA
 terms: []
-url: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req183776
+url: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req183993
 source: simplify-new-grad
-listing_id: e4fe1246-7b41-43d4-ae14-874fab3e83aa
+listing_id: 854edc4e-b75d-45db-b9f6-9af76f207298
 active: true
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-06-19'
+date_updated: '2026-06-19'
 status: to-apply
 applied_date: null
 deadline: null

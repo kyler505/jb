@@ -6,15 +6,14 @@ discipline: other
 locations:
 - Huntsville, AL
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RF-Engineer_R-00176557-1
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/RF-Engineer_R-00185737
 source: simplify-new-grad
-listing_id: cb388efe-d374-4911-af46-aad02fa45408
+listing_id: 14d9a1e5-5664-4e2b-92e4-6b1814c5aa6b
 active: true
-date_posted: '2026-04-18'
-date_updated: '2026-04-18'
+date_posted: '2026-06-18'
+date_updated: '2026-06-18'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 18.85
 ---
