@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Fort Wayne, IN
+- Fulton, MD
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-1--Onsite-_01853876
 source: simplify-new-grad
-listing_id: 9cf6befe-5806-49aa-aed1-c3765502fb5b
+listing_id: 33c76abf-c180-4765-b5b6-ac462699871b
 active: false
-date_posted: '2026-05-11'
-date_updated: '2026-05-11'
+date_posted: '2026-06-19'
+date_updated: '2026-06-19'
 status: to-apply
 applied_date: null
 deadline: null

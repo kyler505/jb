@@ -4,14 +4,14 @@ role: Dynamic Server Support
 category: new-grad
 discipline: other
 locations:
-- Pearl, MS
+- South Bend, IN
 terms: []
-url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000131712460
+url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000133089187
 source: simplify-new-grad
-listing_id: cf4eea3e-0096-47a1-b125-3161b5ff24c7
+listing_id: 5b35fe1a-ac46-4c8b-90f4-e6563c1ce913
 active: true
-date_posted: '2026-06-11'
-date_updated: '2026-06-11'
+date_posted: '2026-06-19'
+date_updated: '2026-06-19'
 status: to-apply
 applied_date: null
 deadline: null

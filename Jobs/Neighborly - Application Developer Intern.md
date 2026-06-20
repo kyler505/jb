@@ -11,7 +11,7 @@ terms:
 url: https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/Application-Developer-Intern_JR0003834
 source: simplify-internships
 listing_id: 927ad1ca-fdfb-4ece-9b52-844a9ede34ce
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

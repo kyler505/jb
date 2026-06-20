@@ -9,7 +9,7 @@ terms: []
 url: https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Eden-Prairie-MN/Salesforce-Support-Associate_R-103173
 source: simplify-new-grad
 listing_id: 632f88f9-5a99-4ab9-b2cc-8e6a66eeab59
-active: true
+active: false
 date_posted: '2026-06-05'
 date_updated: '2026-06-05'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-II_R0082222
 source: simplify-new-grad
 listing_id: d004a30f-6408-4997-bf70-b4e49e9e1520
-active: true
+active: false
 date_posted: '2026-03-17'
 date_updated: '2026-03-17'
 status: to-apply

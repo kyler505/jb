@@ -9,7 +9,7 @@ terms: []
 url: https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Principal-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2602418
 source: simplify-new-grad
 listing_id: d5970422-fe27-4301-85a8-de89cb370b46
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

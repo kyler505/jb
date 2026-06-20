@@ -10,7 +10,7 @@ terms: []
 url: https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/
 source: simplify-new-grad
 listing_id: 00c2f102-60e5-4ef5-84c6-4515f2459a86
-active: true
+active: false
 date_posted: '2025-10-23'
 date_updated: '2025-10-23'
 status: to-apply

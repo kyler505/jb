@@ -11,7 +11,7 @@ terms:
 url: https://neighborlybrands.wd1.myworkdayjobs.com/neighborly/job/Irving-TX/AI-Internship_JR0003837
 source: simplify-internships
 listing_id: e77d92ce-a393-43db-a681-bd25937a8b58
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

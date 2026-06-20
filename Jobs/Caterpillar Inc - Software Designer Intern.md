@@ -10,7 +10,7 @@ terms:
 url: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000367629
 source: simplify-internships
 listing_id: 7d56664e-6cbd-4dd9-9f69-32a295e02e4d
-active: true
+active: false
 date_posted: '2026-05-01'
 date_updated: '2026-05-01'
 status: to-apply
