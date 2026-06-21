@@ -16,5 +16,5 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 30.05
+priority: 29.98
 ---
