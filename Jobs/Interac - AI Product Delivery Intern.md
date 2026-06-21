@@ -10,7 +10,7 @@ terms:
 url: https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2283
 source: simplify-internships
 listing_id: 64142086-10bc-4450-8938-7578f98d0a66
-active: true
+active: false
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
 status: to-apply

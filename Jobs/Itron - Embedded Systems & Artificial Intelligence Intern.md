@@ -10,7 +10,7 @@ terms:
 url: https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-California-San-Jose/Intern---Embedded-Systems---Artificial-Intelligence_JR102573-1
 source: simplify-internships
 listing_id: 3d4729cf-689c-4861-9ba2-8445de078601
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

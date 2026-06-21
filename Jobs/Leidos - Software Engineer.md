@@ -4,17 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Aurora, CO
-- Annapolis Junction, MD
-- Alexandria, VA
-- San Diego, CA
+- Reston, VA
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/2143-Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00176836
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer_R-00185662
 source: simplify-new-grad
-listing_id: a7cc0774-97d0-4a06-9229-b827f35ca01c
-active: false
-date_posted: '2026-05-16'
-date_updated: '2026-05-28'
+listing_id: 604e6a3b-69cc-4064-be2a-c231a96870e0
+active: true
+date_posted: '2026-06-17'
+date_updated: '2026-06-17'
 status: to-apply
 applied_date: null
 deadline: null

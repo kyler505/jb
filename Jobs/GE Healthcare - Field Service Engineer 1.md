@@ -4,14 +4,14 @@ role: Field Service Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Chicago, IL
+- Remote in USA
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4041924-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4042117-1
 source: simplify-new-grad
-listing_id: 24ee3d12-9b35-4c67-a394-f7756e2d8ef9
-active: true
-date_posted: '2026-06-13'
-date_updated: '2026-06-19'
+listing_id: be43ff91-9943-4a01-a2c4-622e32f55495
+active: false
+date_posted: '2026-06-12'
+date_updated: '2026-06-12'
 status: to-apply
 applied_date: null
 deadline: null

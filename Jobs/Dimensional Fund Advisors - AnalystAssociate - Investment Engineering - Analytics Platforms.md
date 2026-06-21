@@ -10,7 +10,7 @@ terms: []
 url: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Charlotte/Analyst-Associate--Investment-Engineering--Analytics-Platforms-_2026-8867-1
 source: simplify-new-grad
 listing_id: acca8fbe-f291-42c6-8ff3-daf3d1aa10ae
-active: true
+active: false
 date_posted: '2026-06-09'
 date_updated: '2026-06-09'
 status: to-apply
