@@ -12,7 +12,7 @@ terms: []
 url: https://job-boards.greenhouse.io/attentionarc/jobs/8011031
 source: simplify-new-grad
 listing_id: ec96122c-1f99-4999-9d2a-adc142aa3239
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-21'
 status: to-apply

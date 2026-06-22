@@ -9,7 +9,7 @@ terms: []
 url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354
 source: simplify-new-grad
 listing_id: e739e2f1-b776-4dd0-a1e8-e2b24a8ac460
-active: false
+active: true
 date_posted: '2026-05-30'
 date_updated: '2026-06-01'
 status: to-apply
