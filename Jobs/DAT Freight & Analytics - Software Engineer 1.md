@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Denver, CO
+- Seattle, WA
 terms: []
-url: https://careers.dat.com/jobs/5990621004?gh_jid=5990621004
+url: https://careers.dat.com/jobs/6099144004?gh_jid=6099144004
 source: simplify-new-grad
-listing_id: 8aba2157-0b80-47b7-8504-24aed69dd39e
+listing_id: 3859ee3a-9bd7-4c36-98c9-4e3c8984ced5
 active: true
-date_posted: '2026-05-14'
-date_updated: '2026-05-14'
+date_posted: '2026-06-22'
+date_updated: '2026-06-22'
 status: to-apply
 applied_date: null
 deadline: null

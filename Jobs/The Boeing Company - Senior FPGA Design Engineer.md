@@ -6,9 +6,9 @@ discipline: hardware
 locations:
 - Huntsville, AL
 terms: []
-url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/FPGA-Design-Engineer_JR2026503754-1
+url: https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/FPGA-Design-Engineer_JR2026503754
 source: simplify-new-grad
-listing_id: 6cd2a5b6-1824-41ce-9e5f-b9183e0ba96b
+listing_id: 0a0d64c2-775a-4585-ae6d-3a55b66907e5
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'

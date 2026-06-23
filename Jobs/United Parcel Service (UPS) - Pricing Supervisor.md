@@ -9,7 +9,7 @@ terms: []
 url: https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-SUPPLY-CHAIN-SOLUTIONS-GAAPR/Pricing-Supervisor---20C_R26010457
 source: simplify-new-grad
 listing_id: 6813d968-8261-4e68-bf55-826013c51567
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: to-apply

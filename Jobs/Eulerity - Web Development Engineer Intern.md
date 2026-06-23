@@ -7,12 +7,12 @@ locations:
 - NYC
 terms:
 - Summer 2026
-url: https://job-boards.greenhouse.io/eulerity/jobs/4689194006
+url: https://job-boards.greenhouse.io/eulerity/jobs/4691224006
 source: simplify-internships
-listing_id: a67f3d7e-403e-4ae0-8608-1af033714104
+listing_id: c9806a4c-cba2-46f3-82e7-06146c2bd5de
 active: false
-date_posted: '2026-06-13'
-date_updated: '2026-06-13'
+date_posted: '2026-06-23'
+date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null

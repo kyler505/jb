@@ -17,13 +17,13 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.96
-apply_error: Ashby flagged automated submission as possible spam; form fully prefilled
-  — submit manually
 needs_review: true
 apply_method: auto
-apply_result: needs-review
 resume_used: resume
+apply_result: needs-review
+apply_error: Ashby flagged automated submission as possible spam; form fully prefilled
+  — submit manually
+priority: 58.96
 ---
 
 ## Application 2026-06-16

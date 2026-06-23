@@ -4,15 +4,14 @@ role: Electrical Testing Technician
 category: new-grad
 discipline: other
 locations:
-- Austin, TX
-- San Antonio, TX
+- Baton Rouge, LA
 terms: []
-url: https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273464
+url: https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20269267
 source: simplify-new-grad
-listing_id: 65ebadfe-3812-4947-b8e7-ec568101bb13
+listing_id: 19adce26-0592-4086-b333-e3a2c7c7dc14
 active: true
-date_posted: '2026-06-19'
-date_updated: '2026-06-19'
+date_posted: '2026-03-24'
+date_updated: '2026-06-20'
 status: to-apply
 applied_date: null
 deadline: null

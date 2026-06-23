@@ -9,7 +9,7 @@ terms: []
 url: https://relx.wd3.myworkdayjobs.com/en-US/relx/job/PHL-RE-Shared-Services-Manila/Data-Analyst-I_R114265
 source: simplify-new-grad
 listing_id: 6626be78-e317-41ce-8cbb-16754b3cb1c3
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: to-apply

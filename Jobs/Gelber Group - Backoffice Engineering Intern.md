@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/gelberhandshake/jobs/4657274006
 source: simplify-internships
 listing_id: 128ba955-1cb8-455f-a2f8-e1c35108cd47
-active: true
+active: false
 date_posted: '2026-02-24'
 date_updated: '2026-02-24'
 status: to-apply

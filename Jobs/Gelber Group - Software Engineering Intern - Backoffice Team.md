@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006
 source: simplify-internships
 listing_id: 159923fa-e2a9-452d-8473-d84dcca80863
-active: true
+active: false
 date_posted: '2026-04-29'
 date_updated: '2026-04-29'
 status: to-apply
