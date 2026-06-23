@@ -18,16 +18,18 @@ applied_date: null
 deadline: null
 notes: null
 resume_used: resume
-apply_method: manual
+apply_method: assisted-generic
 needs_review: true
 priority: 62.0
+apply_result: manual_required
+apply_error: "captcha: Live probe found visible Google reCAPTCHA checkbox on the submit form."
 ---
 
 ## Application 2026-06-23
 
 **Apply URL:** https://www.murumed.com/job-listings/web-software-engineer-intern
 **Resume:** `resume.tex`  ⚠ PDF not compiled — attach manually
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** prepared — assisted apply with human checkpoints
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -48,6 +50,31 @@ priority: 62.0
 - **Veteran status:** I am not a protected veteran
 - **Disability status:** No, I do not have a disability
 
+### Assisted apply steps
+- Open the application URL
+- Attach the prepared resume PDF
+- Fill autofill fields from the packet
+- Fill screening answers from the Q&A bank
+- Resolve any visible {{placeholders}} only from facts in the vault
+- Stop at the review boundary and wait for human approval
+- Use the review checklist and stop if any required field is ambiguous
+
+### Legitimate browser behavior profile
+- **Mode:** assisted
+- **Action pacing:** 350-1200 ms between actions
+- **Settle after actions:** 900 ms
+- **Settle after uploads:** 1500 ms
+- **Re-scan each step:** Yes
+- Prefer native clicks, keyboard entry, and visible controls only
+- Avoid hidden-field writes or bypass-style DOM mutation
+- Re-read the page after uploads, save-and-continue actions, and validation errors
+- Stop immediately when challenge text or anti-bot UI appears
+
+### Human checkpoints
+- **challenge:** Any CAPTCHA, anti-bot, unusual-traffic, or security-check prompt → Pause, capture screenshot/state, mark manual_required, and wait for the user to complete the prompt
+- **verification:** Any email OTP, SMS code, account-creation password, or identity-verification boundary → Pause and request the user to complete the verification step before resuming
+- **final-review:** Final review screen before submit → Present the completed application summary and wait for explicit human approval before submit
+
 ### Screening answers (from Q&A bank)
 **Q: Are you available for a full-time internship?**
 
@@ -56,6 +83,10 @@ Yes
 **Q: Do you need to write a thesis or report for your university as part of your internship?**
 
 No
+
+**Q: Expected work authorization?**
+
+No sponsorship required
 
 **Q: What is your greatest strength?**
 
