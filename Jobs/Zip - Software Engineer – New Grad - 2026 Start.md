@@ -1,10 +1,10 @@
 ---
 company: Zip
-role: Software Engineer – New Grad - 2026 Start
+role: Software Engineer New Grad - 2026 Start
 category: new-grad
 discipline: swe
 locations:
-- SF
+- Toronto, ON, Canada
 terms: []
 url: 'https://simplify.jobs/c/Zip'
 source: simplify-new-grad

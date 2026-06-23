@@ -1,6 +1,6 @@
 ---
 company: USAA
-role: Software Engineer Entry Level
+role: Kafka Software Engineer Entry Level
 category: new-grad
 discipline: swe
 locations:

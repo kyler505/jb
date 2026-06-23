@@ -1,10 +1,10 @@
 ---
 company: Cadence Design Systems
-role: Product Engineer New Grad
+role: Software Engineer New Grad - Numerical Analysis - C++ 🎓
 category: new-grad
 discipline: swe
 locations:
-- San Jose, CA
+- Boston, MA
 terms: []
 url: 'https://simplify.jobs/c/Cadence-Design-Systems'
 source: simplify-new-grad

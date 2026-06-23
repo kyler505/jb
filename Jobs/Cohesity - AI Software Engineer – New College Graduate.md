@@ -1,6 +1,6 @@
 ---
 company: Cohesity
-role: AI Software Engineer – New College Graduate
+role: AI Software Engineer-New Graduate
 category: new-grad
 discipline: swe
 locations:

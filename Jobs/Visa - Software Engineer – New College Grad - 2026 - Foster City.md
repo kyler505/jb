@@ -1,10 +1,10 @@
 ---
 company: Visa
-role: Software Engineer – New College Grad - 2026 - Foster City
+role: Software Engineer – New College Grad
 category: new-grad
 discipline: swe
 locations:
-- San Mateo, CA
+- Austin, TX
 terms: []
 url: 'https://simplify.jobs/c/Visa'
 source: simplify-new-grad

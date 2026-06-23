@@ -1,10 +1,10 @@
 ---
 company: IXL Learning
-role: Software Developer – New Grad
+role: Software Engineer – New Grad
 category: new-grad
 discipline: swe
 locations:
-- Toronto, ON, Canada
+- San Mateo, CA
 terms: []
 url: 'https://simplify.jobs/c/IXL-Learning'
 source: simplify-new-grad

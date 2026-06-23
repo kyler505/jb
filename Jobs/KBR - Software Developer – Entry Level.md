@@ -1,6 +1,6 @@
 ---
 company: KBR
-role: Software Developer – Entry Level
+role: Entry Level Software Engineer - External Interfaces
 category: new-grad
 discipline: swe
 locations:

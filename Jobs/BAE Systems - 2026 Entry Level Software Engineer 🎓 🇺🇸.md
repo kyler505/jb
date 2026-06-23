@@ -1,13 +1,10 @@
 ---
 company: BAE Systems
-role: 2026 Entry Level Software Engineer 🎓 🇺🇸
+role: Software Engineer I (Entry Level) 🇺🇸
 category: new-grad
 discipline: swe
 locations:
-- Hudson, NH
-- Nashua, NH
-- Merrimack, NH
-- Manchester, NH
+- Patuxent River, MD
 terms: []
 url: 'https://simplify.jobs/c/BAE-Systems'
 source: simplify-new-grad

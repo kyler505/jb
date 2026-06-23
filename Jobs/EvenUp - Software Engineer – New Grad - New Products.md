@@ -1,6 +1,6 @@
 ---
 company: EvenUp
-role: Software Engineer – New Grad - New Products
+role: Software Engineer – New Grad - Cases Product
 category: new-grad
 discipline: swe
 locations:

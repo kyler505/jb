@@ -1,10 +1,11 @@
 ---
 company: mthree
-role: Entry Level Full-Stack Developer
+role: Entry Level Software Developer
 category: new-grad
 discipline: swe
 locations:
-- Montreal, QC, Canada
+- Quincy, MA
+- Boston, MA
 terms: []
 url: 'https://simplify.jobs/c/Mthree'
 source: simplify-new-grad

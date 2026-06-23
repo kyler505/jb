@@ -1,14 +1,14 @@
 ---
 company: Podium
-role: Software Engineering Intern
+role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
 - Lehi, UT
 terms:
-- Summer 2027
+- Summer 2026
 url: 'https://job-boards.greenhouse.io/podium81/jobs/7939921'
-source: vansh-internships
+source: simplify-internships
 listing_id: 2d7e6351-1991-46ea-98cf-af4a5c9fa957
 active: true
 date_posted: 2026-05-18

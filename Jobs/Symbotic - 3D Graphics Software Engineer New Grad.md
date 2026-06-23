@@ -1,10 +1,10 @@
 ---
 company: Symbotic
-role: 3D Graphics Software Engineer New Grad
+role: Software Engineer New Grad
 category: new-grad
 discipline: swe
 locations:
-- Milpitas, CA
+- Burlington, MA
 terms: []
 url: 'https://simplify.jobs/c/symbotic'
 source: simplify-new-grad

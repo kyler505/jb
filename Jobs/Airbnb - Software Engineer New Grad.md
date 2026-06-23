@@ -1,8 +1,8 @@
 ---
 company: Airbnb
-role: Software Engineer New Grad
+role: iOS Software Engineer – New Grad
 category: new-grad
-discipline: swe
+discipline: mobile
 locations:
 - Seattle, WA
 - SF

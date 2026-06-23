@@ -1,10 +1,10 @@
 ---
 company: The Boeing Company
-role: Entry Level Software Engineer - Developer
+role: Simulation Software Engineer – Entry level
 category: new-grad
 discipline: swe
 locations:
-- Tukwila, WA
+- Crawley, UK
 terms: []
 url: 'https://simplify.jobs/c/Boeing'
 source: simplify-new-grad

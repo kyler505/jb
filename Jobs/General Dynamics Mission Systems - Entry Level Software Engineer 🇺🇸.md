@@ -1,6 +1,6 @@
 ---
 company: General Dynamics Mission Systems
-role: Entry Level Software Engineer 🇺🇸
+role: Software Engineer – Entry Level 🇺🇸
 category: new-grad
 discipline: swe
 locations:

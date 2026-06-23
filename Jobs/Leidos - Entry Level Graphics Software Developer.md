@@ -1,6 +1,6 @@
 ---
 company: Leidos
-role: Entry Level Graphics Software Developer
+role: Entry Level Software Developer
 category: new-grad
 discipline: swe
 locations:

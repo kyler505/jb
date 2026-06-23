@@ -1,6 +1,6 @@
 ---
 company: SOTI
-role: Software Developer New Grad
+role: Software Developer – New Grad - 8-month Contract
 category: new-grad
 discipline: swe
 locations:

@@ -1,6 +1,6 @@
 ---
 company: NVIDIA
-role: Software Engineer – New College Grad 2026 - Distributed Systems
+role: Systems Software Engineer – New Grad 2025 - Geforce NOW Low Latency Streaming Technology
 category: new-grad
 discipline: hardware
 locations:
