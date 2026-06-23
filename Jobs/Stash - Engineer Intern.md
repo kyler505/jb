@@ -18,7 +18,7 @@ terms:
 url: https://ats.comparably.com/api/v2/stash/post/7979793:?gh_jid=7979793
 source: simplify-internships
 listing_id: 68127dda-73b9-40f5-9686-c6a63d8651ca
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: to-apply

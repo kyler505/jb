@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/morsecorpcoop/jobs/7608048003
 source: simplify-internships
 listing_id: d1e9c8cb-7abe-4917-896d-1387cde21ec4
-active: true
+active: false
 date_posted: '2026-01-28'
 date_updated: '2026-01-28'
 status: to-apply

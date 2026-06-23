@@ -11,7 +11,7 @@ terms:
 url: https://boards.greenhouse.io/embed/job_app?token=7231006
 source: simplify-internships
 listing_id: 17f0421d-363e-4dcd-aa7f-0aa75fb79290
-active: true
+active: false
 date_posted: '2026-02-04'
 date_updated: '2026-02-04'
 status: to-apply

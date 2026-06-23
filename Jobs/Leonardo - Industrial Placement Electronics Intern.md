@@ -10,7 +10,7 @@ terms:
 url: https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Electronics_R0022588
 source: simplify-internships
 listing_id: 6497bf7d-8d31-4c4e-97a3-b253eddd669d
-active: true
+active: false
 date_posted: '2026-04-18'
 date_updated: '2026-04-18'
 status: to-apply

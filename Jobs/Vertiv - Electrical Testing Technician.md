@@ -4,14 +4,15 @@ role: Electrical Testing Technician
 category: new-grad
 discipline: other
 locations:
-- Kansas City, MO
+- Austin, TX
+- San Antonio, TX
 terms: []
-url: https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274275
+url: https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273464
 source: simplify-new-grad
-listing_id: 34b59017-2163-468c-9501-d09e2c4d5e3e
+listing_id: 65ebadfe-3812-4947-b8e7-ec568101bb13
 active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
+date_posted: '2026-06-19'
+date_updated: '2026-06-19'
 status: to-apply
 applied_date: null
 deadline: null

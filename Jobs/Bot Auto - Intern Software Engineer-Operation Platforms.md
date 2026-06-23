@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/botauto/jobs/5182922008
 source: simplify-internships
 listing_id: 7d21d415-d47c-4e23-844f-3c1b4bf5ab82
-active: true
+active: false
 date_posted: '2026-04-09'
 date_updated: '2026-04-09'
 status: to-apply

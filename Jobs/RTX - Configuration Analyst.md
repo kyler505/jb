@@ -4,14 +4,14 @@ role: Configuration Analyst
 category: new-grad
 discipline: other
 locations:
-- Andover, MA
+- McKinney, TX
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Configuration-Analyst_01851867-1
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Configuration-Analyst_01849460
 source: simplify-new-grad
-listing_id: dcf3878a-e682-408e-8cef-d9baa47de007
+listing_id: 31b7f70c-a169-487e-a379-b84328b186b8
 active: true
-date_posted: '2026-06-10'
-date_updated: '2026-06-10'
+date_posted: '2026-06-01'
+date_updated: '2026-06-02'
 status: to-apply
 applied_date: null
 deadline: null

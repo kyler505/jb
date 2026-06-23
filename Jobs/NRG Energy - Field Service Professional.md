@@ -4,14 +4,14 @@ role: Field Service Professional
 category: new-grad
 discipline: other
 locations:
-- Suffolk, VA
+- Chicago, IL
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Suffolk-Field-Service-Professional-Suffolk,-VA-VA-23435/1399492600/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Chicago-Field-Service-Professional-Chicago,-IL-IL-60616/1401327800/?ats=successfactors
 source: simplify-new-grad
-listing_id: d3ca3bc7-618b-4f32-9679-dc40a87f0900
+listing_id: 159a564b-9bf6-4e38-b25e-8299ea7ff313
 active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
+date_posted: '2026-06-18'
+date_updated: '2026-06-18'
 status: to-apply
 applied_date: null
 deadline: null

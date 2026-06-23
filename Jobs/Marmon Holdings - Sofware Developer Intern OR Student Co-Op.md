@@ -12,7 +12,7 @@ terms:
 url: https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Sofware-Developer-Intern-OR-Student-Co-Op_JR0000037304
 source: simplify-internships
 listing_id: f35b4577-1447-4b14-bf5f-2e9009d26676
-active: true
+active: false
 date_posted: '2026-03-04'
 date_updated: '2026-03-04'
 status: to-apply

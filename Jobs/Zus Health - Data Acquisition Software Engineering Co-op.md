@@ -12,7 +12,7 @@ terms:
 url: https://jobs.lever.co/zushealth/86db99fb-95c2-4369-b54f-b0d21fa59ba0/apply
 source: simplify-internships
 listing_id: fde33627-2e9a-4b21-9159-702b327694be
-active: true
+active: false
 date_posted: '2026-05-06'
 date_updated: '2026-05-06'
 status: to-apply

@@ -13,7 +13,7 @@ terms:
 url: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-MBA-Intern---Product-Manager_R160316
 source: simplify-internships
 listing_id: 426d3dcc-37c8-4349-921a-d8816e426cdb
-active: true
+active: false
 date_posted: '2026-05-16'
 date_updated: '2026-05-16'
 status: to-apply

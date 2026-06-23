@@ -9,7 +9,7 @@ terms: []
 url: https://www.asana.com/jobs/apply/7979625?gh_jid=7979625
 source: simplify-new-grad
 listing_id: ad125cde-512f-426e-a370-7fb65c3cb8ec
-active: true
+active: false
 date_posted: '2026-06-04'
 date_updated: '2026-06-04'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://amazon.jobs/en/jobs/10438958/data-scientist-i-demand-forecasting
 source: simplify-new-grad
 listing_id: 993d72df-8433-4a0e-90ff-ddac9fd609c5
-active: true
+active: false
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
 status: to-apply

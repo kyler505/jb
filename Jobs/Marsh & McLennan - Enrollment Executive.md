@@ -2,6 +2,7 @@
 company: Marsh & McLennan
 role: Enrollment Executive
 category: new-grad
+discipline: other
 locations:
 - Mumbai, Maharashtra, India
 - NYC

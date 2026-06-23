@@ -4,13 +4,13 @@ role: Field Service Engineer
 category: new-grad
 discipline: other
 locations:
-- Dallas, TX
+- Winter Haven, FL
 terms: []
-url: https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11569
+url: https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11537
 source: simplify-new-grad
-listing_id: 0c7db345-2e86-486a-9795-d04f4f8ccbb1
+listing_id: 5621c473-e6bf-449c-8264-8afc0d9c5a3e
 active: true
-date_posted: '2026-05-14'
+date_posted: '2026-05-12'
 date_updated: '2026-05-26'
 status: to-apply
 applied_date: null

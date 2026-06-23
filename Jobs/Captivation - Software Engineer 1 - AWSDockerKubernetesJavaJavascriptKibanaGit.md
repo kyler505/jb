@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/captivation/jobs/5225182008
 source: simplify-new-grad
 listing_id: 71b88a56-d53c-465f-8149-8b28bf441aef
-active: true
+active: false
 date_posted: '2026-05-19'
 date_updated: '2026-05-26'
 status: to-apply

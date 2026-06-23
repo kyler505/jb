@@ -13,7 +13,7 @@ terms:
 url: https://amazon.jobs/en/jobs/3183839/data-engineer-internship-uk-amazon-university-talent-acquisition-auta
 source: simplify-internships
 listing_id: 2c78d5df-2090-4cba-974c-dbfd42aea222
-active: true
+active: false
 date_posted: '2026-02-18'
 date_updated: '2026-02-18'
 status: to-apply

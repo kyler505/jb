@@ -17,7 +17,7 @@ terms: []
 url: https://www.google.com/about/careers/applications/jobs/results/96957711316329158
 source: simplify-new-grad
 listing_id: 69a569db-0492-4d86-9612-4eda81524c70
-active: true
+active: false
 date_posted: '2025-12-11'
 date_updated: '2026-06-06'
 status: to-apply
