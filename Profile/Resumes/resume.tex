@@ -96,8 +96,8 @@
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[itemsep=0pt, topsep=2pt, parsep=0pt, partopsep=0pt]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-6pt}}
 
 %-------------------------------------------
 %%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,6 +106,11 @@
 \begin{document}
 
 %----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
 \begin{center}
     \textbf{\Huge \scshape Kyler Cao} \\ \vspace{1pt}
     \small (832) 966-4150 $|$ \href{mailto:kcao@tamu.edu}{\underline{kcao@tamu.edu}} $|$
@@ -121,7 +126,7 @@
         {Texas A\&M University}{College Station, TX}
         {Bachelor of Science in Computer Science, Minor in Business}{Aug. 2023 -- May 2027}
         \resumeItemListStart
-        \resumeItem{\textbf{Relevant Coursework:} Computer Systems, Computer Organization, Programming Languages, Discrete Structures, Design and Analysis of Algorithms, Program Design and Concepts, Machine Learning}
+        \resumeItem{\textbf{Relevant Coursework:} Computer Systems, Computer Organization, Programming Languages, Discrete Structures, Algorithms, Machine Learning}
         \resumeItemListEnd
   \resumeSubHeadingListEnd
 
@@ -129,9 +134,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Java, Python, C++, SQL (PostgreSQL), JavaScript/TypeScript, HTML/CSS, C\#} \\
-     \textbf{Frameworks}{: React, Next.js, Flask, FastAPI, Node.js, Unity, FastAPI, Tailwind CSS, Django} \\
-  	 \textbf{Developer Tools}{: Git, Docker, Jupyter, VS Code, IntelliJ, Postman, PostgreSQL, MySQL} \\
+     \textbf{Languages}{: Java, Python, C++, C\#, COBOL, SQL (PostgreSQL), JavaScript/TypeScript, HTML/CSS} \\
+     \textbf{Frameworks}{: React, Next.js, .NET, Flask, FastAPI, Node.js, Unity, Tailwind CSS, Django} \\
+  	 \textbf{Developer Tools}{: Git, Docker, Jupyter, VS Code, IntelliJ, Postman, PostgreSQL, MySQL, TestArchitect} \\
      \textbf{Libraries}{: pandas, NumPy, SciPy, Matplotlib, Seaborn, scikit-learn, statsmodels, XGBoost, Recharts} \\ }
      }
  \end{itemize}
@@ -140,6 +145,15 @@
 %-----------EXPERIENCE-----------
 \section{Experience}
   \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Product \& Engineering Intern}{May 2026 -- Aug. 2026}
+      {Global Shop Solutions}{The Woodlands, TX}
+      \resumeItemListStart
+        \resumeItem{Built an automated \textbf{TestArchitect analysis pipeline} using \textbf{AI, React, and .NET} to ingest Global Shop, VM, and execution logs plus screenshots/video to triage failures and generate reports}
+        \resumeItem{Developing an internally deployed \textbf{React + .NET dashboard} connected to a licensed VM so team members can queue and compile \textbf{COBOL} projects under a shared \textbf{.NET 7.0 compiler} environment}
+        \resumeItem{Building an automated loop across \textbf{TestArchitect VMs} to compare \textbf{COBOL} and \textbf{C\#} programs, surface behavioral differences, and generate alignment suggestions}
+      \resumeItemListEnd
 
     \resumeSubheading
       {Student Technician}{October 2025 -- Present}
@@ -161,6 +175,16 @@
   \resumeItem{Led and instructed weekly laboratory sessions for \textbf{PHYS 216 (Mechanics)}, guiding students through experimental setup, data analysis, and lab reports}
   \resumeItem{Graded \textbf{400+} assignments, lab reports, and exams with average \textbf{24-hour} turnaround time, providing detailed feedback and support to students}
       \resumeItemListEnd
+
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
 
     \resumeSubHeadingListEnd
 
