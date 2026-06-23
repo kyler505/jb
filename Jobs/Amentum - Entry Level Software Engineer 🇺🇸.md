@@ -1,11 +1,10 @@
 ---
 company: Amentum
-role: Entry Level Software Engineer/Software Tester
+role: Entry Level Software Engineer 🇺🇸
 category: new-grad
 discipline: swe
 locations:
-- Fredericksburg, VA
-- Dahlgren, VA
+- Huntsville, AL
 terms: []
 url: 'https://simplify.jobs/c/Amentum'
 source: simplify-new-grad

@@ -1,8 +1,8 @@
 ---
 company: Nuro
-role: Software Engineer – New Grad - AI Platform
+role: Software Engineer New Grad - Performance
 category: new-grad
-discipline: ml
+discipline: swe
 locations:
 - Mountain View, CA
 terms: []

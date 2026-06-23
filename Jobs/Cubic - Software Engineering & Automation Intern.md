@@ -11,8 +11,8 @@ url: 'https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Herndon-Virginia
 source: simplify-internships
 listing_id: 8c554a10-a65a-4245-8df8-ce07f094aae9
 active: true
-date_posted: 2026-06-17
-date_updated: 2026-06-17
+date_posted: 2026-06-16
+date_updated: 2026-06-16
 status: to-apply
 applied_date: null
 deadline: null

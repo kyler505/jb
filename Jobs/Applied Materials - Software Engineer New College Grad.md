@@ -1,9 +1,10 @@
 ---
 company: Applied Materials
-role: Software Engineer New Grad
+role: Software Engineer New College Grad
 category: new-grad
 discipline: swe
 locations:
+- Austin, TX
 - Santa Clara, CA
 terms: []
 url: 'https://simplify.jobs/c/Applied-Materials'

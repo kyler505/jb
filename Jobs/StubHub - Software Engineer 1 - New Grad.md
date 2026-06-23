@@ -1,10 +1,10 @@
 ---
 company: StubHub
-role: Software Engineer 1 – New Grad - Marketplace Operations
+role: Software Engineer 1 - New Grad
 category: new-grad
 discipline: swe
 locations:
-- NYC
+- LA
 terms: []
 url: 'https://simplify.jobs/c/StubHub'
 source: simplify-new-grad

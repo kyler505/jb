@@ -1,10 +1,10 @@
 ---
 company: CLEAR
-role: Software Engineer – New Grad - Web
+role: Software Engineer, New Grad, Backend
 category: new-grad
-discipline: swe
+discipline: backend
 locations:
-- NYC
+- New York, NY
 terms: []
 url: 'https://simplify.jobs/c/CLEAR'
 source: simplify-new-grad

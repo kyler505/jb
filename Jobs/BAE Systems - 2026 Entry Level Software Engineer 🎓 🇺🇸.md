@@ -1,10 +1,10 @@
 ---
 company: BAE Systems
-role: Software Engineer I (Entry Level) 🇺🇸
+role: Entry Level Software Engineer 🇺🇸
 category: new-grad
 discipline: swe
 locations:
-- Patuxent River, MD
+- Greenlawn, NY
 terms: []
 url: 'https://simplify.jobs/c/BAE-Systems'
 source: simplify-new-grad

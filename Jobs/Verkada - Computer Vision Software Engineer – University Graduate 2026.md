@@ -1,8 +1,8 @@
 ---
 company: Verkada
-role: Frontend Software Engineer – University Graduate 2026
+role: Computer Vision Software Engineer – University Graduate 2026
 category: new-grad
-discipline: frontend
+discipline: swe
 locations:
 - San Mateo, CA
 terms: []

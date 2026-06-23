@@ -1,13 +1,10 @@
 ---
 company: Uber
-role: Graduate Software Engineer 1 - Mobile
+role: Graduate Software Engineer 1 - Mobile - iOS
 category: new-grad
 discipline: mobile
 locations:
-- Seattle, WA
 - SF
-- NYC
-- Sunnyvale, CA
 terms: []
 url: 'https://simplify.jobs/c/Uber'
 source: simplify-new-grad

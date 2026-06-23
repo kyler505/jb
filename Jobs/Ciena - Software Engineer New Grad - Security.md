@@ -1,10 +1,11 @@
 ---
 company: Ciena
-role: Software Engineer – Performance and Test Automation New Grad
+role: Software Engineer – New Grad - Security
 category: new-grad
-discipline: swe
+discipline: security
 locations:
 - Ottawa, ON, Canada
+- Atlanta, GA
 terms: []
 url: 'https://simplify.jobs/c/Ciena'
 source: simplify-new-grad

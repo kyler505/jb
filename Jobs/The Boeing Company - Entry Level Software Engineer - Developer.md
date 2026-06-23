@@ -1,10 +1,10 @@
 ---
 company: The Boeing Company
-role: Simulation Software Engineer – Entry level
+role: Entry Level Software Engineer-Simulation - Simulation
 category: new-grad
 discipline: swe
 locations:
-- Crawley, UK
+- Hazelwood, MO
 terms: []
 url: 'https://simplify.jobs/c/Boeing'
 source: simplify-new-grad

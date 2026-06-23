@@ -1,10 +1,10 @@
 ---
 company: Okta
-role: Software Engineer I – New Grad
+role: Software Engineer 1 - New Grad
 category: new-grad
 discipline: swe
 locations:
-- Toronto, ON, Canada
+- SF
 terms: []
 url: 'https://simplify.jobs/c/Okta'
 source: simplify-new-grad

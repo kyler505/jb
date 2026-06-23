@@ -1,10 +1,10 @@
 ---
 company: Palantir
-role: Forward Deployed Software Engineer – New Grad - Commercial
+role: Software Engineer – New Grad - Production Infrastructure
 category: new-grad
-discipline: swe
+discipline: devops
 locations:
-- London, UK
+- NYC
 terms: []
 url: 'https://simplify.jobs/c/Palantir'
 source: simplify-new-grad

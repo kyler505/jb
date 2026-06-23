@@ -1,10 +1,10 @@
 ---
 company: NVIDIA
-role: Systems Software Engineer – New Grad 2025 - Geforce NOW Low Latency Streaming Technology
+role: Systems Software Engineer New Grad 🎓
 category: new-grad
 discipline: hardware
 locations:
-- Santa Clara, CA
+- Hillsboro, OR
 terms: []
 url: 'https://simplify.jobs/c/NVIDIA'
 source: simplify-new-grad

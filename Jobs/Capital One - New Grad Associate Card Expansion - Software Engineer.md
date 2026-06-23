@@ -1,6 +1,6 @@
 ---
 company: Capital One
-role: Associate New Grad - Software Engineer
+role: New Grad Associate Card Expansion - Software Engineer
 category: new-grad
 discipline: swe
 locations:

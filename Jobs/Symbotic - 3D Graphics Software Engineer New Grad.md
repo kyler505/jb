@@ -1,6 +1,6 @@
 ---
 company: Symbotic
-role: Software Engineer New Grad
+role: New Grad-Software Engineer
 category: new-grad
 discipline: swe
 locations:

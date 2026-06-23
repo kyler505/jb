@@ -1,10 +1,10 @@
 ---
 company: General Dynamics Mission Systems
-role: Software Engineer – Entry Level 🇺🇸
+role: Software Engineer – Entry Level for Crypto and Cross Domain Solutions
 category: new-grad
 discipline: swe
 locations:
-- Manassas, VA
+- Scottsdale, AZ
 terms: []
 url: 'https://simplify.jobs/c/General-Dynamics-Mission-Systems'
 source: simplify-new-grad

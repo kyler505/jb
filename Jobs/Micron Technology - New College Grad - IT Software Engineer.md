@@ -1,10 +1,10 @@
 ---
 company: Micron Technology
-role: College Graduate - Semiconductor Product Engineer
+role: New College Grad - IT Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Manassas, VA
+- Boise, ID
 terms: []
 url: 'https://simplify.jobs/c/Micron-Technology'
 source: simplify-new-grad

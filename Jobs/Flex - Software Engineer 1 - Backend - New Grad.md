@@ -1,8 +1,8 @@
 ---
 company: Flex
-role: Software Engineer 1 – New Grad - Fullstack - Risk Engineering
+role: Software Engineer 1 - Backend - New Grad
 category: new-grad
-discipline: swe
+discipline: backend
 locations:
 - Remote in USA
 terms: []

@@ -11,8 +11,8 @@ url: 'https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH
 source: simplify-internships
 listing_id: 9df55307-e4b3-44ce-b8d2-42ed1a51a03a
 active: true
-date_posted: 2026-06-17
-date_updated: 2026-06-17
+date_posted: 2026-06-16
+date_updated: 2026-06-16
 status: to-apply
 applied_date: null
 deadline: null
