@@ -13,8 +13,8 @@ listing_id: d85d289c-51f3-4f64-a4f9-fb72a227ccf2
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: '2026-06-23'
 deadline: null
 notes: null
 priority: 61.35
@@ -24,6 +24,12 @@ needs_review: true
 apply_result: manual_required
 apply_error: "verification: Workday Apply Manually flow reached Create Account boundary."
 ---
+
+### Workday Account
+- **Email:** kcao@tamu.edu
+- **Password:** cn1A}VXA}Z)%{{HO=+HM
+- **Credential file:** `~/.hermes/cache/interac-workday-account.txt`
+- **Created:** 2026-06-23
 
 ## Application 2026-06-23
 

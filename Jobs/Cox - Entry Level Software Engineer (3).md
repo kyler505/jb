@@ -12,8 +12,8 @@ listing_id: 90513668-ab20-a6d7-416a-8f97e7886af2
 active: true
 date_posted: 2026-06-23
 date_updated: 2026-06-23
-status: to-apply
-applied_date: null
+status: applied
+applied_date: '2026-06-23'
 deadline: null
 notes: null
 priority: 60.0
@@ -23,6 +23,11 @@ needs_review: true
 apply_result: manual_required
 apply_error: "verification: Workday Apply Manually flow reached Create Account boundary for Burlington posting."
 ---
+
+### Workday Account
+- **Email:** kcao@tamu.edu
+- **Password:** *uyER[^{{w)U&.!h6Q.3
+- **Created:** 2026-06-23
 
 ## Application 2026-06-23
 
