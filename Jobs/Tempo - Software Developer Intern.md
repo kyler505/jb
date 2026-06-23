@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/tempo-io/bbe3cb36-8802-4414-8db8-9ec51c935ee7/application
 source: simplify-internships
 listing_id: 6e304a0f-04de-4491-8600-ba72701d74a7
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

@@ -7,12 +7,12 @@ discipline: other
 locations:
 - United States
 terms: []
-url: https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010801
+url: https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011362
 source: simplify-new-grad
-listing_id: 16712a97-0b3c-446e-a6d8-11a42ec868e8
+listing_id: 903aa634-4b1b-47f8-825d-15ac4c99ba27
 active: true
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
+date_posted: '2026-06-23'
+date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null

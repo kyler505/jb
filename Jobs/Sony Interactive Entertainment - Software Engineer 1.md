@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - San Diego, CA
 terms: []
-url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5859292004
+url: https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099045004
 source: simplify-new-grad
-listing_id: 1b197e54-3fda-4576-9746-301754b040df
+listing_id: 854b7fbf-6a94-4938-b966-149a71aca887
 active: true
-date_posted: '2026-05-22'
-date_updated: '2026-05-22'
+date_posted: '2026-06-22'
+date_updated: '2026-06-22'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 48.76
 ---

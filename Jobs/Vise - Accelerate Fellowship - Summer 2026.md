@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/viseai/jobs/7615931003
 source: simplify-internships
 listing_id: 00cd722a-6801-4d80-9f34-348b1bd6e1e2
-active: true
+active: false
 date_posted: '2026-02-03'
 date_updated: '2026-02-03'
 status: to-apply

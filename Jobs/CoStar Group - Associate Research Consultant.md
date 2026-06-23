@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Richmond, VA
 terms: []
-url: https://costar.wd1.myworkdayjobs.com/confidential/job/US-VA-Richmond/Associate-Research-Consultant---May-2026-Graduates_R37170-2
+url: https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934
 source: simplify-new-grad
-listing_id: 1752e2db-89d2-42d9-a338-a18f3585942c
+listing_id: 654a8203-8795-40c6-92f5-76afc4273093
 active: false
-date_posted: '2026-06-22'
-date_updated: '2026-06-22'
+date_posted: '2026-05-30'
+date_updated: '2026-06-02'
 status: to-apply
 applied_date: null
 deadline: null
