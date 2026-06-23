@@ -20,6 +20,8 @@ priority: 60.0
 resume_used: resume
 apply_method: assisted-workday
 needs_review: true
+apply_result: manual_required
+apply_error: "site-mismatch: Live probe found this Workday page is for current Boeing Subsidiary Employees only; page text directs external applicants to jobs.Boeing.com instead of applying here."
 ---
 
 ## Application 2026-06-23

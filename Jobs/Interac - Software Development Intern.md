@@ -21,6 +21,8 @@ priority: 61.35
 resume_used: resume
 apply_method: assisted-workday
 needs_review: true
+apply_result: manual_required
+apply_error: "verification: Workday Apply Manually flow reached Create Account boundary."
 ---
 
 ## Application 2026-06-23

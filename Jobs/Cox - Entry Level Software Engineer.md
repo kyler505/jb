@@ -20,6 +20,8 @@ priority: 60.0
 resume_used: resume
 apply_method: assisted-workday
 needs_review: true
+apply_result: manual_required
+apply_error: "verification: Workday Apply Manually flow reached Create Account boundary for Irvine posting."
 ---
 
 ## Application 2026-06-23
