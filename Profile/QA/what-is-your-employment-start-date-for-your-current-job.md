@@ -13,4 +13,4 @@ source: self-heal
 recorded: 2026-06-16
 ---
 
-October 2025 (Student Software Developer, Texas A&M University TechHub — currently employed)
+May 2026 (Product & Engineering Intern, Global Shop Solutions — currently employed)

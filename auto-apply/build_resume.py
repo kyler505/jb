@@ -24,8 +24,17 @@ def resume_name_for_category(category: str) -> str:
 
 def _engine() -> str | None:
     for eng in ("pdflatex", "xelatex", "tectonic"):
-        if shutil.which(eng):
-            return eng
+        found = shutil.which(eng)
+        if found:
+            return found
+
+    # Cron / non-login shells may not include ~/.local/bin in PATH.
+    for candidate in (
+        Path.home() / '.local/bin/tectonic',
+        Path.home() / 'bin/tectonic',
+    ):
+        if candidate.exists() and candidate.is_file():
+            return str(candidate)
     return None
 
 
@@ -51,7 +60,8 @@ def compile_resume(name: str, force: bool = False) -> Path | None:
               file=sys.stderr)
         return None
 
-    if engine == "tectonic":
+    engine_name = Path(engine).name
+    if engine_name == "tectonic":
         cmd = [engine, "--outdir", str(config.RESUME_PDF_DIR), str(tex)]
         runs = 1
     else:

@@ -28,14 +28,16 @@ apply_error: "verification: Live probe hit iCIMS email/consent gate and protecte
 ## Application 2026-06-23
 
 **Apply URL:** https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false
-**Resume:** `resume.tex`  ⚠ PDF not compiled — attach manually
-**State:** prepared — assisted apply with human checkpoints
+**Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
+**State:** prepared — review & submit (pipeline does not submit on its own)
 
 ### Autofill data
 - **Full name:** Kyler Cao
 - **Email:** kcao@tamu.edu
 - **Phone:** (832) 966-4150
 - **Current location:** College Station, TX
+- **Mailing address:** 9810 Orchid Cove Court, Cypress, TX 77433
+- **Current job:** Product & Engineering Intern at Global Shop Solutions (The Woodlands, TX, 2026-05–present)
 - **LinkedIn:** https://linkedin.com/in/kylercao
 - **GitHub:** https://github.com/kyler505
 - **Portfolio:** https://people.tamu.edu/~kcao
@@ -49,31 +51,6 @@ apply_error: "verification: Live probe hit iCIMS email/consent gate and protecte
 - **Race/ethnicity:** Asian
 - **Veteran status:** I am not a protected veteran
 - **Disability status:** No, I do not have a disability
-
-### Assisted apply steps
-- Open the application URL
-- Attach the prepared resume PDF
-- Fill autofill fields from the packet
-- Fill screening answers from the Q&A bank
-- Resolve any visible {{placeholders}} only from facts in the vault
-- Stop at the review boundary and wait for human approval
-- Treat repeated sections as independent; duplicate questions happen
-
-### Legitimate browser behavior profile
-- **Mode:** assisted
-- **Action pacing:** 350-1200 ms between actions
-- **Settle after actions:** 900 ms
-- **Settle after uploads:** 1500 ms
-- **Re-scan each step:** Yes
-- Prefer native clicks, keyboard entry, and visible controls only
-- Avoid hidden-field writes or bypass-style DOM mutation
-- Re-read the page after uploads, save-and-continue actions, and validation errors
-- Stop immediately when challenge text or anti-bot UI appears
-
-### Human checkpoints
-- **challenge:** Any CAPTCHA, anti-bot, unusual-traffic, or security-check prompt → Pause, capture screenshot/state, mark manual_required, and wait for the user to complete the prompt
-- **verification:** Any email OTP, SMS code, account-creation password, or identity-verification boundary → Pause and request the user to complete the verification step before resuming
-- **final-review:** Final review screen before submit → Present the completed application summary and wait for explicit human approval before submit
 
 ### Screening answers (from Q&A bank)
 **Q: Are you available for a full-time internship?**
@@ -117,13 +94,13 @@ No sponsorship required
 
 **Q: Tell me about yourself.**
 
-I'm a junior studying Computer Science at Texas A&M, with a business minor, originally from Houston. I like building practical systems that hold up under real use and using data to make better calls. At the A&M TechHub I build and maintain internal full-stack tools the staff depend on every day. I'm also into machine learning, which I've poked at through side projects like an ensemble heat-wave prediction model.
+I'm a junior studying Computer Science at Texas A&M, with a business minor, originally from Houston. I like building practical systems that hold up under real use and using data to make better calls. I'm currently a Product & Engineering Intern at Global Shop Solutions, where I work on AI-assisted test analysis and internal React + .NET tooling. I also build and maintain internal full-stack tools at the A&M TechHub, and I'm into machine learning through side projects like an ensemble heat-wave prediction model.
 
 Outside of that I play volleyball, watch a lot of shows and movies, and travel when I can.
 
 **Q: What is your employment start date for your current job?**
 
-October 2025 (Student Software Developer, Texas A&M University TechHub — currently employed)
+May 2026 (Product & Engineering Intern, Global Shop Solutions — currently employed)
 
 **Q: Where do you see yourself in 5 years?**
 
@@ -173,5 +150,5 @@ Kyler Cao
 - [ ] ⚠ Resolve placeholder in One sentence on why this company specifically — a product, value, or team that genuinely interests you.
 - [ ] ⚠ Resolve placeholder in Second sentence tying a skill from that work to what this role needs — e.g. debugging, systems reliability, working with structured data.
 - [ ] ⚠ Resolve placeholder in Optional paragraph: a project that maps to the job's stack — e.g. Project SHADE (LSTM/ML pipeline) or FlightPath (Flask/REST/SQL). Name the technologies.
-- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{specific product/mission}}
-- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{what you'd build/learn}}
+- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' → {{specific product/mission}}
+- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' → {{what you'd build/learn}}

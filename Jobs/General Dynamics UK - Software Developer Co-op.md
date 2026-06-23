@@ -157,7 +157,7 @@ Kyler Cao
 - **Phone:** (832) 966-4150
 - **Current location:** College Station, TX
 - **Mailing address:** 9810 Orchid Cove Court, Cypress, TX 77433
-- **Current job:** Student Software Developer at Texas A&M University TechHub (College Station, TX, 2025-10–present)
+- **Current job:** Product & Engineering Intern at Global Shop Solutions (The Woodlands, TX, 2026-05–present)
 - **LinkedIn:** https://linkedin.com/in/kylercao
 - **GitHub:** https://github.com/kyler505
 - **Portfolio:** https://people.tamu.edu/~kcao
@@ -180,6 +180,10 @@ Yes
 **Q: Do you need to write a thesis or report for your university as part of your internship?**
 
 No
+
+**Q: Expected work authorization?**
+
+No sponsorship required
 
 **Q: What is your greatest strength?**
 
@@ -210,13 +214,13 @@ No
 
 **Q: Tell me about yourself.**
 
-I'm a junior studying Computer Science at Texas A&M, with a business minor, originally from Houston. I like building practical systems that hold up under real use and using data to make better calls. At the A&M TechHub I build and maintain internal full-stack tools the staff depend on every day. I'm also into machine learning, which I've poked at through side projects like an ensemble heat-wave prediction model.
+I'm a junior studying Computer Science at Texas A&M, with a business minor, originally from Houston. I like building practical systems that hold up under real use and using data to make better calls. I'm currently a Product & Engineering Intern at Global Shop Solutions, where I work on AI-assisted test analysis and internal React + .NET tooling. I also build and maintain internal full-stack tools at the A&M TechHub, and I'm into machine learning through side projects like an ensemble heat-wave prediction model.
 
 Outside of that I play volleyball, watch a lot of shows and movies, and travel when I can.
 
 **Q: What is your employment start date for your current job?**
 
-October 2025 (Student Software Developer, Texas A&M University TechHub — currently employed)
+May 2026 (Product & Engineering Intern, Global Shop Solutions — currently employed)
 
 **Q: Where do you see yourself in 5 years?**
 
