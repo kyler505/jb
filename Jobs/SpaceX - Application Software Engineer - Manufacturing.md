@@ -15,7 +15,7 @@ date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null
-notes: null
+notes: "2026-06-24 live apply pass: saved GPA/SAT/clearance/source answers to Profile/QA, attached resume, filled core fields; remaining blockers are Greenhouse select mis-targeting on several required dropdowns and final reCAPTCHA."
 priority: 59.35
 resume_used: resume
 apply_method: assisted-greenhouse
@@ -156,7 +156,7 @@ Kyler Cao
 
 **Apply URL:** https://boards.greenhouse.io/spacex/jobs/8603667002
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** live pass in progress — resume attached, core fields filled, some Greenhouse selects still need review before submit
 
 ### Autofill data
 - **Full name:** Kyler Cao
