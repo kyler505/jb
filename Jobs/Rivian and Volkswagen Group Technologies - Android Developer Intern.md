@@ -23,7 +23,7 @@ resume_used: resume
 apply_result: needs-review
 apply_error: Ashby flagged automated submission as possible spam; form fully prefilled
   — submit manually
-priority: 55.46
+priority: 55.02
 ---
 
 ## Application 2026-06-16
