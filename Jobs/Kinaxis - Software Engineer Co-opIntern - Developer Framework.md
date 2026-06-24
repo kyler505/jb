@@ -17,12 +17,13 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 60.72
-resume_used: resume
 apply_method: assisted-icims
+apply_error: 'verification: Live probe hit iCIMS email/consent gate and protected-by-hCaptcha
+  boundary before application entry.'
+priority: 60.72
 needs_review: true
+resume_used: resume
 apply_result: manual_required
-apply_error: "verification: Live probe hit iCIMS email/consent gate and protected-by-hCaptcha boundary before application entry."
 ---
 
 ## Application 2026-06-23

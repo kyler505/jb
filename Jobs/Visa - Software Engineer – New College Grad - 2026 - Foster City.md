@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - San Mateo, CA
 terms: []
-url: 'https://simplify.jobs/c/Visa'
+url: https://simplify.jobs/c/Visa
 source: simplify-new-grad
 listing_id: 3c255cb9-1cd1-a1ff-ddd8-06b19ef55bd6
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

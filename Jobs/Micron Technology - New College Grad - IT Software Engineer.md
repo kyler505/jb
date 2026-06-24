@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Boise, ID
 terms: []
-url: 'https://simplify.jobs/c/Micron-Technology'
+url: https://simplify.jobs/c/Micron-Technology
 source: simplify-new-grad
 listing_id: 562de6e6-ebe4-25fe-107a-de430114be5b
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

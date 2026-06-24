@@ -6,10 +6,10 @@ discipline: ml
 locations:
 - SF
 terms: []
-url: 'https://simplify.jobs/c/Abridge'
+url: https://simplify.jobs/c/Abridge
 source: simplify-new-grad
 listing_id: e78ef4e0-d1e7-7e3b-5a11-cb74ec09a0ca
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

@@ -4,15 +4,17 @@ role: Software Development Intern
 category: internship
 discipline: swe
 locations:
-- Lincoln, NE
+- Scottsdale, AZ
 terms:
 - Summer 2026
-url: https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern
+- Spring 2026
+- Fall 2026
+url: https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern
 source: simplify-internships
-listing_id: c59aa3f2-08bd-413a-a82e-29840631cfd4
+listing_id: 1560cb5a-5cc1-4788-aa55-44b8c25b2336
 active: true
-date_posted: '2026-04-13'
-date_updated: '2026-04-13'
+date_posted: '2026-06-24'
+date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null

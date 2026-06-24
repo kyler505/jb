@@ -9,10 +9,10 @@ locations:
 - Winnipeg, MB, Canada
 - Vancouver, BC, Canada
 terms: []
-url: 'https://simplify.jobs/c/D2L'
+url: https://simplify.jobs/c/D2L
 source: simplify-new-grad
 listing_id: 8324f09d-a910-4370-a67e-37098fdbdcc6
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

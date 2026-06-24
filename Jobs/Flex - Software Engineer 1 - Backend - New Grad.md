@@ -6,10 +6,10 @@ discipline: backend
 locations:
 - Remote in USA
 terms: []
-url: 'https://simplify.jobs/c/Get-Flex'
+url: https://simplify.jobs/c/Get-Flex
 source: simplify-new-grad
 listing_id: 17bb2053-f538-fd42-1813-3c79fc92316d
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

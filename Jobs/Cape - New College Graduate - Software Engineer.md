@@ -7,10 +7,10 @@ locations:
 - Washington, DC
 - NYC
 terms: []
-url: 'https://simplify.jobs/c/Cape'
+url: https://simplify.jobs/c/Cape
 source: simplify-new-grad
 listing_id: b200ce70-8cb8-4b65-e5fc-302e9b44819a
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

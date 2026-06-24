@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Aurora, CO
 terms: []
-url: 'https://simplify.jobs/c/RTX'
+url: https://simplify.jobs/c/RTX
 source: simplify-new-grad
 listing_id: fb69da49-7c94-f1a2-754c-ee1ff14660e0
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

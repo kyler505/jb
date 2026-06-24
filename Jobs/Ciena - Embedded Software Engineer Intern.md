@@ -6,13 +6,13 @@ discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms:
-- Summer 2026
-url: 'https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146'
+- Fall 2026
+url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232
 source: simplify-internships
-listing_id: 32e24b4c-ba64-4d4b-b70b-2cdc68dc2aab
+listing_id: 8c0e53b2-9855-47d4-a4eb-5a83f80e3e7f
 active: true
-date_posted: 2026-06-04
-date_updated: 2026-06-04
+date_posted: '2026-06-23'
+date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null

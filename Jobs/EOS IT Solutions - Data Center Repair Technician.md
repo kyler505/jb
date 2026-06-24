@@ -4,14 +4,14 @@ role: Data Center Repair Technician
 category: new-grad
 discipline: other
 locations:
-- New Albany, OH
+- Columbus, OH
 terms: []
-url: https://eosits.com/company/careers/?gh_jid=8536933002
+url: https://eosits.com/company/careers/?gh_jid=8449935002
 source: simplify-new-grad
-listing_id: 8137c2b8-54f4-4d64-9145-0f9c9074a0eb
-active: true
-date_posted: '2026-05-06'
-date_updated: '2026-05-16'
+listing_id: 4b5deec1-659d-422a-933a-e578c898ef65
+active: false
+date_posted: '2026-03-24'
+date_updated: '2026-03-24'
 status: to-apply
 applied_date: null
 deadline: null

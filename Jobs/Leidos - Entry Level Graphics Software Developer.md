@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Bethesda, MD
 terms: []
-url: 'https://simplify.jobs/c/Leidos'
+url: https://simplify.jobs/c/Leidos
 source: simplify-new-grad
 listing_id: e4061971-e4bf-e2fb-9b4d-6318b75b4d35
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

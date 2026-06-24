@@ -7,10 +7,10 @@ locations:
 - Seattle, WA
 - SF
 terms: []
-url: 'https://simplify.jobs/c/Airbnb'
+url: https://simplify.jobs/c/Airbnb
 source: simplify-new-grad
 listing_id: 9a9d7dec-50e2-c995-04c2-d46e4f3d7715
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

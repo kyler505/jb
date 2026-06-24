@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - SF
 terms: []
-url: 'https://simplify.jobs/c/New-Lantern'
+url: https://simplify.jobs/c/New-Lantern
 source: simplify-new-grad
 listing_id: 8bbad116-9917-9250-5a38-03b5deeedd5b
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

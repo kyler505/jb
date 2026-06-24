@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - SF
 terms: []
-url: 'https://simplify.jobs/c/Crusoe'
+url: https://simplify.jobs/c/Crusoe
 source: simplify-new-grad
 listing_id: 2d7b7b31-f459-91fd-6635-924bd1b012fc
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

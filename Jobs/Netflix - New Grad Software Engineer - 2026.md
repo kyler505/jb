@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Los Gatos, CA
 terms: []
-url: 'https://simplify.jobs/c/Netflix'
+url: https://simplify.jobs/c/Netflix
 source: simplify-new-grad
 listing_id: 3898e7fb-2ed8-bf96-6d73-fcb2ab42247a
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

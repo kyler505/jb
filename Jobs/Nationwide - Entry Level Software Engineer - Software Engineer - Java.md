@@ -7,10 +7,10 @@ locations:
 - Des Moines, IA
 - Columbus, OH
 terms: []
-url: 'https://simplify.jobs/c/Nationwide'
+url: https://simplify.jobs/c/Nationwide
 source: simplify-new-grad
 listing_id: 7c258775-7c65-acd3-3052-69b2d6f55d0f
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

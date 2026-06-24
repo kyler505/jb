@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - LA
 terms: []
-url: 'https://simplify.jobs/c/StubHub'
+url: https://simplify.jobs/c/StubHub
 source: simplify-new-grad
 listing_id: 5ca928b8-d874-dba4-7cd9-df23f0df169f
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

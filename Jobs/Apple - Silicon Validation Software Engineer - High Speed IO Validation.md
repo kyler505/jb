@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Cupertino, CA
 terms: []
-url: https://jobs.apple.com/en-us/details/200657428
+url: https://jobs.apple.com/en-us/details/200640564
 source: simplify-new-grad
-listing_id: 2cef1aaf-437f-4fe0-a0a4-af857ac8fa9b
-active: true
+listing_id: a5e1bb7f-602a-459d-84dc-63a10f8c96b4
+active: false
 date_posted: '2026-05-06'
 date_updated: '2026-05-06'
 status: to-apply

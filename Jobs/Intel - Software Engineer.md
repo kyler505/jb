@@ -17,12 +17,13 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 59.35
-resume_used: resume
 apply_method: assisted-workday
+apply_error: 'verification: Workday Apply Manually flow reached Create Account boundary
+  for Intel posting.'
+priority: 59.35
 needs_review: true
+resume_used: resume
 apply_result: manual_required
-apply_error: "verification: Workday Apply Manually flow reached Create Account boundary for Intel posting."
 ---
 
 ## Application 2026-06-23

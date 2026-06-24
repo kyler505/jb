@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Burlington, VT
 terms: []
-url: 'https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034'
+url: https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034
 source: simplify-new-grad
 listing_id: 90513668-ab20-a6d7-416a-8f97e7886af2
-active: true
+active: false
 date_posted: 2026-06-23
 date_updated: 2026-06-23
 status: applied
@@ -21,7 +21,8 @@ resume_used: resume
 apply_method: assisted-workday
 needs_review: true
 apply_result: manual_required
-apply_error: "verification: Workday Apply Manually flow reached Create Account boundary for Burlington posting."
+apply_error: 'verification: Workday Apply Manually flow reached Create Account boundary
+  for Burlington posting.'
 ---
 
 ### Workday Account

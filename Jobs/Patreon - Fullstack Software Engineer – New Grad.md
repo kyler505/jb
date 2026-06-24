@@ -7,10 +7,10 @@ locations:
 - SF
 - NYC
 terms: []
-url: 'https://simplify.jobs/c/Patreon'
+url: https://simplify.jobs/c/Patreon
 source: simplify-new-grad
 listing_id: fd1d0f64-7568-c6fb-faa5-1764734a2ad6
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

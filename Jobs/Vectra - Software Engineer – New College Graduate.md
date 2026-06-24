@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Austin, TX
 terms: []
-url: 'https://simplify.jobs/c/Vectra'
+url: https://simplify.jobs/c/Vectra
 source: simplify-new-grad
 listing_id: 053fbba4-7962-03d3-5cc4-b7ae2bd2b5fb
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

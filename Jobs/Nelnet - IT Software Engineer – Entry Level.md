@@ -8,10 +8,10 @@ locations:
 - Centennial, CO
 - Lincoln, NE
 terms: []
-url: 'https://simplify.jobs/c/Nelnet'
+url: https://simplify.jobs/c/Nelnet
 source: simplify-new-grad
 listing_id: 9d386780-c56b-de85-dbfa-e7c5e555225c
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

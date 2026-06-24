@@ -17,10 +17,10 @@ locations:
 - Phoenix, AZ
 - Atlanta, GA
 terms: []
-url: 'https://simplify.jobs/c/Circle'
+url: https://simplify.jobs/c/Circle
 source: simplify-new-grad
 listing_id: 9044096a-eb45-ca52-432c-72e2579f3396
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

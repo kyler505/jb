@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Rome, NY
 terms: []
-url: 'https://simplify.jobs/c/CACI'
+url: https://simplify.jobs/c/CACI
 source: simplify-new-grad
 listing_id: 7126caad-3e05-df2f-c630-38cd1eac782e
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

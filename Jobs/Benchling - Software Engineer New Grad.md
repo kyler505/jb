@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - SF
 terms: []
-url: 'https://simplify.jobs/c/Benchling'
+url: https://simplify.jobs/c/Benchling
 source: simplify-new-grad
 listing_id: ec82c0b3-0289-a275-01a3-9b16afbdda5d
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

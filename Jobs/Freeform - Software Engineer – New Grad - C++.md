@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - West Athens, CA
 terms: []
-url: 'https://simplify.jobs/c/FreeformFuture'
+url: https://simplify.jobs/c/FreeformFuture
 source: simplify-new-grad
 listing_id: 646e176d-751a-8b30-ab35-9900632b3e3f
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

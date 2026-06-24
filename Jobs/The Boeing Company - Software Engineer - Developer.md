@@ -16,12 +16,14 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 59.35
-resume_used: resume
 apply_method: assisted-workday
+apply_error: 'site-mismatch: Live probe found this Workday page is for current Boeing
+  Subsidiary Employees only; page text directs external applicants to jobs.Boeing.com
+  instead of applying here.'
+priority: 59.35
 needs_review: true
+resume_used: resume
 apply_result: manual_required
-apply_error: "site-mismatch: Live probe found this Workday page is for current Boeing Subsidiary Employees only; page text directs external applicants to jobs.Boeing.com instead of applying here."
 ---
 
 ## Application 2026-06-23

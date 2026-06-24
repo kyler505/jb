@@ -4,14 +4,14 @@ role: Telematics Installer
 category: new-grad
 discipline: other
 locations:
-- Cheyenne, WY
+- Heath, OH
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=7994041
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=7966332
 source: simplify-new-grad
-listing_id: 63c7a822-8e1e-40be-b1ad-2c313ace6beb
+listing_id: d3f31c3b-a2ee-4105-b746-a30e1aa9d19b
 active: true
-date_posted: '2026-06-19'
-date_updated: '2026-06-19'
+date_posted: '2026-05-29'
+date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null

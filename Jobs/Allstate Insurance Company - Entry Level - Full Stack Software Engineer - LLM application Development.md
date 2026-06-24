@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Remote in USA
 terms: []
-url: 'https://simplify.jobs/c/Allstate-Insurance-Company'
+url: https://simplify.jobs/c/Allstate-Insurance-Company
 source: simplify-new-grad
 listing_id: d7549752-b46d-e48e-74e4-1cd5a345e206
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply
