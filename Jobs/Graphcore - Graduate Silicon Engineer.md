@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Cambridge, UK
 terms: []
-url: https://job-boards.greenhouse.io/graphcore/jobs/8360506002
+url: https://job-boards.greenhouse.io/graphcore/jobs/8604095002
 source: simplify-new-grad
-listing_id: 2b482c61-059b-4d91-b72e-b538eef56c4b
-active: true
-date_posted: '2026-01-06'
-date_updated: '2026-01-06'
+listing_id: ad37db83-e20e-42cf-8b02-4ad06055a073
+active: false
+date_posted: '2026-06-24'
+date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null

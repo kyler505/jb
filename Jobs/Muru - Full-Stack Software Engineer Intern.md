@@ -17,13 +17,13 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
+apply_result: manual_required
+needs_review: true
+resume_used: resume
 apply_method: assisted-generic
 apply_error: 'captcha: Live probe found visible Google reCAPTCHA checkbox on the submit
   form.'
 priority: 61.35
-needs_review: true
-resume_used: resume
-apply_result: manual_required
 ---
 
 ## Application 2026-06-23

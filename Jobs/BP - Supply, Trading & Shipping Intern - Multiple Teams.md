@@ -10,7 +10,7 @@ terms:
 url: https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Operations---Chicago--IL_RQ112246
 source: simplify-internships
 listing_id: 2cb02a9a-ccbb-4cc6-9bc2-8b8ee9dbe9ab
-active: false
+active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/faculty/c613b833-4bdd-45ab-9596-e64ef3fd28b9/application
 source: simplify-new-grad
 listing_id: 862eb48a-cef1-4f8c-943b-34178f31b90f
-active: true
+active: false
 date_posted: '2026-05-28'
 date_updated: '2026-05-28'
 status: to-apply

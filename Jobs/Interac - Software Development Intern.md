@@ -17,12 +17,12 @@ status: applied
 applied_date: '2026-06-23'
 deadline: null
 notes: null
+apply_result: manual_required
+needs_review: true
+resume_used: resume
 apply_method: assisted-workday
 apply_error: 'verification: Workday Apply Manually flow reached Create Account boundary.'
 priority: 61.35
-needs_review: true
-resume_used: resume
-apply_result: manual_required
 ---
 
 ### Workday Account
