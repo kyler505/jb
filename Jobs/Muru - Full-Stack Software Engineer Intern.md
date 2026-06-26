@@ -13,13 +13,13 @@ listing_id: ac9a60d7-eb51-4cbb-af68-97f00839f454
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-26
 deadline: null
-notes: null
-apply_result: manual_required
-needs_review: true
-resume_used: resume
+**State:** submitted — NopeCHA solved reCAPTCHA on embedded form. Confirmation shown.
+apply_result: submitted
+needs_review: false
+
 apply_method: assisted-generic
 apply_error: 'captcha: Live probe found visible Google reCAPTCHA checkbox on the submit
   form.'

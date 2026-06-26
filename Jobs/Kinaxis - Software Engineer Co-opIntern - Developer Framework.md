@@ -16,7 +16,7 @@ date_updated: '2026-06-22'
 status: to-apply
 applied_date: null
 deadline: null
-notes: null
+notes: "2026-06-26 retry with NopeCHA: mobile URL worked to reach iCIMS consent gate, email filled + consent checked, but hCaptcha not solved (2 iframes present, free datacenter IP may be blocked)."
 apply_result: manual_required
 needs_review: true
 resume_used: resume
@@ -30,7 +30,7 @@ priority: 59.53
 
 **Apply URL:** https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** blocked live — hCaptcha persisted even with NopeCHA (free tier datacenter IP may be blocked)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -158,7 +158,7 @@ Kyler Cao
 
 **Apply URL:** https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** blocked live — hCaptcha persisted even with NopeCHA (free tier datacenter IP may be blocked)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -286,7 +286,7 @@ Kyler Cao
 
 **Apply URL:** https://careers-kinaxis.icims.com/jobs/34832/job?mobile=true&needsRedirect=false
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** blocked live — hCaptcha persisted even with NopeCHA (free tier datacenter IP may be blocked)
 
 ### Autofill data
 - **Full name:** Kyler Cao

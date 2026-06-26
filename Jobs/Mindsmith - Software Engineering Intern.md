@@ -17,7 +17,7 @@ date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null
-notes: "2026-06-26 live apply pass: form filled, resume attached, submit attempted; Dover blocked final submission with CAPTCHA verification requirement."
+notes: "2026-06-26 retry with NopeCHA: form filled (4 fields) + resume attached, submit clicked but no confirmation shown; Dover form has no visible reCAPTCHA — submission may be AJAX-based and silently failing."
 priority: 60.72
 resume_used: resume
 ---
