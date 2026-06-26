@@ -15,8 +15,13 @@ date_updated: '2026-06-25'
 status: to-apply
 applied_date: null
 deadline: null
+<<<<<<< Updated upstream
 notes: '2026-06-26 live pass: SuccessFactors account wall — requires sign-in or account
   creation before applying.'
+=======
+notes: "2026-06-26 live pass: SuccessFactors account wall — requires sign-in or account creation before applying."
+app_password: "bWYSSRVM05_CQHosWwrz"
+>>>>>>> Stashed changes
 priority: 59.35
 resume_used: resume
 ---
@@ -25,7 +30,7 @@ resume_used: resume
 
 **Apply URL:** https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800/?ats=successfactors
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** blocked live — SuccessFactors requires account creation/sign-in before application
+**State:** ready to resume — SuccessFactors account created, application form open, needs resume upload (custom upload dialog) then fill sections
 
 ### Autofill data
 - **Full name:** Kyler Cao

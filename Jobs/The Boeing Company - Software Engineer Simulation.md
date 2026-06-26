@@ -16,7 +16,12 @@ date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null
+<<<<<<< Updated upstream
 notes: null
+=======
+notes: "2026-06-26 live pass: subsidiary-only Workday page — explicitly says external applicants should use jobs.Boeing.com."
+resume_used: resume
+>>>>>>> Stashed changes
 priority: 58.11
 resume_used: resume
 ---
