@@ -18,5 +18,6 @@ date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null
-notes: null
+app_password: "tGDur0zRBXBTNrNG"
+notes: "2026-06-26 Sandhills account created, personal info page filled. Needs remaining sections."
 ---

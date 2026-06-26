@@ -16,6 +16,7 @@ date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null
+app_password: "UnE1brdnIt7hEFrs"
 notes: '2026-06-26 live apply pass: Delta Avature offers non-login entry, but the
   registration flow still requires account password creation before continuing.'
 priority: 58.72

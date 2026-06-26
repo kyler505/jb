@@ -15,5 +15,5 @@ date_updated: '2026-06-16'
 status: to-apply
 applied_date: null
 deadline: null
-notes: null
+notes: "2026-06-26 Workday account created and verified via Gmail. Step 1/6 completed. Resume attached. Step 2 blocked by date picker complexity."
 ---
