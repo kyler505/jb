@@ -17,7 +17,8 @@ date_updated: '2026-06-24'
 status: applied
 applied_date: 2026-06-26
 deadline: null
-notes: "2026-06-26 submitted successfully on Breezy. User-confirmed: no business/LLC, no SMS, yes to clearance process, yes to full-time W2."
+notes: '2026-06-26 submitted successfully on Breezy. User-confirmed: no business/LLC,
+  no SMS, yes to clearance process, yes to full-time W2.'
 priority: 60.72
 resume_used: resume
 ---

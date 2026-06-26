@@ -13,7 +13,7 @@ terms: []
 url: https://job-boards.greenhouse.io/baltimoreorioles/jobs/5650705004
 source: simplify-new-grad
 listing_id: a88cb225-af03-4d24-9a0b-4e4f43806682
-active: true
+active: false
 date_posted: '2025-10-29'
 date_updated: '2025-10-29'
 status: to-apply

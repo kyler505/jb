@@ -17,7 +17,8 @@ date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null
-notes: "2026-06-26 live apply pass: resume uploaded and autofill parsed, but Harman requires creating an account password on the application form before continuing."
+notes: '2026-06-26 live apply pass: resume uploaded and autofill parsed, but Harman
+  requires creating an account password on the application form before continuing.'
 priority: 60.72
 resume_used: resume
 ---

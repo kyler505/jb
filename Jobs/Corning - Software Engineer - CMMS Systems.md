@@ -15,7 +15,8 @@ date_updated: '2026-06-25'
 status: to-apply
 applied_date: null
 deadline: null
-notes: "2026-06-26 live pass: SuccessFactors account wall — requires sign-in or account creation before applying."
+notes: '2026-06-26 live pass: SuccessFactors account wall — requires sign-in or account
+  creation before applying.'
 priority: 59.35
 resume_used: resume
 ---

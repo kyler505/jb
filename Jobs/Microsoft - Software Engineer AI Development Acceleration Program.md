@@ -16,10 +16,10 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-needs_review: true
-resume_used: resume
 apply_method: assisted-generic
+needs_review: true
 priority: 58.11
+resume_used: resume
 ---
 
 ## Application 2026-06-23

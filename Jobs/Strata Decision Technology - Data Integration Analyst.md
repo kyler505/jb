@@ -1,14 +1,14 @@
 ---
-company: EOS IT Solutions
-role: Data Center Repair Technician 1 - Mal
+company: Strata Decision Technology
+role: Data Integration Analyst
 category: new-grad
 discipline: other
 locations:
-- Alabama
+- Chicago, IL
 terms: []
-url: https://eosits.com/company/careers/?gh_jid=8609192002
+url: https://job-boards.greenhouse.io/stratacareers/jobs/7784495003
 source: simplify-new-grad
-listing_id: 8f953f48-f630-4a12-a1bf-80cfc39736bf
+listing_id: 9c3e5c8b-b509-484a-ab45-27aa8cf7cc88
 active: true
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
