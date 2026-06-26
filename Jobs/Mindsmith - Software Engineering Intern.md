@@ -26,7 +26,7 @@ resume_used: resume
 
 **Apply URL:** https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** live pass in progress — form filled and resume attached, but final submit is blocked by CAPTCHA
+**State:** prepared — review & submit (pipeline does not submit on its own)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -53,6 +53,10 @@ resume_used: resume
 **Q: Are you available for a full-time internship?**
 
 Yes
+
+**Q: Do you currently have your own business or LLC?**
+
+No, I do not currently have my own business or LLC.
 
 **Q: Do you have a GRE score?**
 

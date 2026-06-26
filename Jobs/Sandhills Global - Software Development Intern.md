@@ -27,7 +27,7 @@ resume_used: resume
 
 **Apply URL:** https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1196/software-development-intern
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** blocked live — secure application requires temporary-account password creation before the form
+**State:** prepared — review & submit (pipeline does not submit on its own)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -54,6 +54,10 @@ resume_used: resume
 **Q: Are you available for a full-time internship?**
 
 Yes
+
+**Q: Do you currently have your own business or LLC?**
+
+No, I do not currently have my own business or LLC.
 
 **Q: Do you have a GRE score?**
 

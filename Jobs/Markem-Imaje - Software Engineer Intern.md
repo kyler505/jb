@@ -25,7 +25,7 @@ resume_used: resume
 
 **Apply URL:** https://careers.dovercorporation.com/job/Keene-Software-Engineer-Intern-NH-03431/1404722033
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** dead listing — live Dover page says the position has been filled
+**State:** prepared — review & submit (pipeline does not submit on its own)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -52,6 +52,10 @@ resume_used: resume
 **Q: Are you available for a full-time internship?**
 
 Yes
+
+**Q: Do you currently have your own business or LLC?**
+
+No, I do not currently have my own business or LLC.
 
 **Q: Do you have a GRE score?**
 

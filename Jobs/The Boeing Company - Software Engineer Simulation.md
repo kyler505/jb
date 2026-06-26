@@ -309,6 +309,10 @@ Kyler Cao
 
 Yes
 
+**Q: Do you currently have your own business or LLC?**
+
+No, I do not currently have my own business or LLC.
+
 **Q: Do you have a GRE score?**
 
 No GRE score.

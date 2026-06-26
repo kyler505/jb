@@ -26,7 +26,7 @@ resume_used: resume
 
 **Apply URL:** https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** blocked live — resume uploaded, but account-password creation is required before submit path can continue
+**State:** prepared — review & submit (pipeline does not submit on its own)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -53,6 +53,10 @@ resume_used: resume
 **Q: Are you available for a full-time internship?**
 
 Yes
+
+**Q: Do you currently have your own business or LLC?**
+
+No, I do not currently have my own business or LLC.
 
 **Q: Do you have a GRE score?**
 

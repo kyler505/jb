@@ -24,7 +24,7 @@ resume_used: resume
 
 **Apply URL:** https://www.qualtrics.com/careers/us/en/job/8018763?gh_jid=8018763
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** dead listing — live Qualtrics page says the job has been filled
+**State:** prepared — review & submit (pipeline does not submit on its own)
 
 ### Autofill data
 - **Full name:** Kyler Cao
@@ -51,6 +51,10 @@ resume_used: resume
 **Q: Are you available for a full-time internship?**
 
 Yes
+
+**Q: Do you currently have your own business or LLC?**
+
+No, I do not currently have my own business or LLC.
 
 **Q: Do you have a GRE score?**
 
