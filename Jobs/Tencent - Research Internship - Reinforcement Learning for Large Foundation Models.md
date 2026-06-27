@@ -1,6 +1,6 @@
 ---
 company: Tencent
-role: Research Internship - Reinforcement Learning for Large Foundation Models
+role: Research Intern
 category: internship
 discipline: other
 locations:
@@ -14,8 +14,8 @@ url: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bel
 source: simplify-internships
 listing_id: 2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84
 active: true
-date_posted: '2025-10-30'
-date_updated: '2025-10-30'
+date_posted: '2026-06-13'
+date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null

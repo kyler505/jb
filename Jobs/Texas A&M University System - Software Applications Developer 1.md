@@ -15,10 +15,10 @@ date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null
-app_password: "qwE$eCP$qv0pAW"
-notes: "2026-06-26 Workday account created. Needs email verification + application form."
-priority: 57.53
+notes: 2026-06-26 Workday account created. Needs email verification + application
+  form.
 resume_used: resume
+priority: 57.53
 ---
 
 ## Application 2026-06-26

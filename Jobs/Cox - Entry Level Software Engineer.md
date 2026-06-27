@@ -15,12 +15,5 @@ date_updated: '2026-06-22'
 status: to-apply
 applied_date: null
 deadline: null
-<<<<<<< Updated upstream
 notes: null
-=======
-notes: "2026-06-26 account created (Workday), password saved. Needs sign-in + application form."
-app_password: "Tvq32Dld&McYPTwJ"
-priority: 57.53
-resume_used: resume
->>>>>>> Stashed changes
 ---
