@@ -19,7 +19,7 @@ deadline: null
 notes: null
 apply_method: auto
 needs_review: true
-priority: 54.19
+priority: 53.79
 resume_used: resume
 apply_error: Ashby flagged automated submission as possible spam; form fully prefilled
   — submit manually

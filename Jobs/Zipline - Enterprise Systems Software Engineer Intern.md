@@ -19,7 +19,7 @@ deadline: null
 notes: null
 apply_method: auto
 needs_review: true
-priority: 53.79
+priority: 53.41
 resume_used: resume
 apply_error: Verified + Submit clicked; Greenhouse requires 8-char email human-verification
   code sent to kcao@tamu.edu — enter code from your inbox to finish
