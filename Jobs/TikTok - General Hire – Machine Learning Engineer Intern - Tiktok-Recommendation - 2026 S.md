@@ -1,7 +1,6 @@
 ---
 company: TikTok
-role: General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - 2026
-  Summer
+role: Machine Learning Engineer Intern - Tiktok-Recommendation
 category: internship
 discipline: ml
 locations:
@@ -12,8 +11,8 @@ url: https://lifeattiktok.com/search/7527065936093858055
 source: simplify-internships
 listing_id: f58e93bf-7cfb-42e9-953f-7fd06e435426
 active: true
-date_posted: '2025-10-31'
-date_updated: '2025-11-12'
+date_posted: '2026-06-15'
+date_updated: '2026-06-15'
 status: to-apply
 applied_date: null
 deadline: null

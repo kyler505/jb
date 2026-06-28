@@ -4,15 +4,15 @@ role: Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LL
 category: internship
 discipline: ml
 locations:
-- Seattle, WA
+- San Jose, CA
 terms:
 - Summer 2026
-url: https://lifeattiktok.com/search/7527589875165563143
+url: https://lifeattiktok.com/search/7527589557336869138
 source: simplify-internships
-listing_id: aea71032-563a-4c3c-aade-447f8ec52a91
+listing_id: d3034ffb-ae0b-4d73-9de9-9fa8dfb69282
 active: true
-date_posted: '2025-12-18'
-date_updated: '2025-12-18'
+date_posted: '2026-06-15'
+date_updated: '2026-06-15'
 status: to-apply
 applied_date: null
 deadline: null

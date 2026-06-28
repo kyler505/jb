@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/pvminc/jobs/4073946007
 source: simplify-internships
 listing_id: 3edf8525-a520-4b2c-95a3-3f32a1ba9a39
-active: true
+active: false
 date_posted: '2025-10-31'
 date_updated: '2026-01-08'
 status: to-apply

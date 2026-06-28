@@ -10,7 +10,7 @@ terms:
 url: https://apply.workable.com/falcomm/j/B5EB495F31/apply
 source: simplify-internships
 listing_id: 07034482-de7a-4324-917d-b746e275d734
-active: true
+active: false
 date_posted: '2025-10-30'
 date_updated: '2026-03-17'
 status: to-apply

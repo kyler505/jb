@@ -1,17 +1,18 @@
 ---
 company: TikTok
-role: Machine Learning Engineer - CV/NLP/Multimodal LLM - Tiktok Trust and Safety
+role: Machine Learning Engineer Graduate - Tiktok Trust and Safety-CV/NLP/Multimodal
+  LLM - 2026 Start - PhD
 category: new-grad
 discipline: ml
 locations:
-- San Jose, CA
+- Seattle, WA
 terms: []
 url: https://lifeattiktok.com/search/7517108164819454216
 source: simplify-new-grad
 listing_id: 1e397c92-8682-482b-bcf4-ae906960e06c
 active: true
-date_posted: '2025-10-31'
-date_updated: '2025-10-31'
+date_posted: '2026-04-16'
+date_updated: '2026-06-16'
 status: to-apply
 applied_date: null
 deadline: null

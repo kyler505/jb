@@ -18,8 +18,8 @@ applied_date: null
 deadline: null
 notes: '2026-06-26 live apply pass: Dover posting now says ''Sorry, this position
   has been filled.'''
-resume_used: resume
 priority: 59.53
+resume_used: resume
 ---
 
 ## Application 2026-06-26

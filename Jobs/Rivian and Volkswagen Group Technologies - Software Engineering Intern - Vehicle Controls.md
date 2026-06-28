@@ -19,8 +19,8 @@ applied_date: null
 deadline: null
 notes: '2026-06-26 live apply pass: form fully filled, resume attached, submit attempted;
   Ashby rejected submission with ''flagged as possible spam.'''
-resume_used: resume
 priority: 59.53
+resume_used: resume
 ---
 
 ## Application 2026-06-26

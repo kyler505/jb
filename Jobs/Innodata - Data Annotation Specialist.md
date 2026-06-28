@@ -4,12 +4,12 @@ role: Data Annotation Specialist
 category: new-grad
 discipline: other
 locations:
-- Concord, NH
+- South Carolina
 terms: []
-url: https://job-boards.greenhouse.io/innodatainc/jobs/4232528009
+url: https://job-boards.greenhouse.io/innodatainc/jobs/4232498009
 source: simplify-new-grad
-listing_id: c92a0407-cf7d-4d81-999b-93dbf48139a3
-active: true
+listing_id: f298c2cb-f7cd-478c-bdab-1eaed9860a3c
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

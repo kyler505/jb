@@ -18,13 +18,13 @@ deadline: null
 notes: '2026-06-24 live apply pass: saved GPA/SAT/clearance/source answers to Profile/QA,
   attached resume, filled core fields; remaining blockers are Greenhouse select mis-targeting
   on several required dropdowns and final reCAPTCHA.'
-resume_used: resume
-apply_result: manual_required
-apply_method: assisted-greenhouse
 apply_error: 'captcha: Live probe found a Greenhouse application page with protected-by-reCAPTCHA
   widget at the bottom of the form.'
-priority: 56.96
+apply_result: manual_required
+apply_method: assisted-greenhouse
 needs_review: true
+priority: 56.96
+resume_used: resume
 ---
 
 ## Application 2026-06-23

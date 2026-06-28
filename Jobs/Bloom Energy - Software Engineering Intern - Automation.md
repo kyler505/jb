@@ -10,7 +10,7 @@ terms:
 url: https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625
 source: simplify-internships
 listing_id: 9b607872-8ed3-4901-ae4f-273f50f1fb1a
-active: true
+active: false
 date_posted: '2025-10-30'
 date_updated: '2025-10-30'
 status: to-apply
