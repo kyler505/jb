@@ -20,11 +20,11 @@ notes: '2026-06-24 live apply pass: saved GPA/SAT/clearance/source answers to Pr
   on several required dropdowns and final reCAPTCHA.'
 apply_error: 'captcha: Live probe found a Greenhouse application page with protected-by-reCAPTCHA
   widget at the bottom of the form.'
-apply_result: manual_required
-apply_method: assisted-greenhouse
 needs_review: true
-priority: 56.41
+apply_result: manual_required
 resume_used: resume
+apply_method: assisted-greenhouse
+priority: 56.41
 ---
 
 ## Application 2026-06-23
