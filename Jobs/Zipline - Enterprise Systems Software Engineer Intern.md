@@ -22,7 +22,7 @@ apply_error: Verified + Submit clicked; Greenhouse requires 8-char email human-v
 apply_result: needs-review
 apply_method: auto
 needs_review: true
-priority: 53.04
+priority: 52.68
 resume_used: resume
 ---
 

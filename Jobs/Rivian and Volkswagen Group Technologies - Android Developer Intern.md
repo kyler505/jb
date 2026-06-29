@@ -22,7 +22,7 @@ apply_error: Ashby flagged automated submission as possible spam; form fully pre
 apply_result: needs-review
 apply_method: auto
 needs_review: true
-priority: 53.41
+priority: 53.04
 resume_used: resume
 ---
 
