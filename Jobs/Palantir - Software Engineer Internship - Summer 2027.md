@@ -17,7 +17,13 @@ active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: applied
+<<<<<<< Updated upstream
 applied_date: '2026-06-29'
+=======
+applied_date: 2026-06-29
+subrole: Production Infrastructure (Foundations)
+app_location: Washington, D.C.
+>>>>>>> Stashed changes
 deadline: null
-notes: Pursuing BS/MS/PhD in CS or related field graduating in 2027 or 2028.
+notes: Applied via Simplify/Lever. Sub-role: Production Infrastructure (Foundations). Essays saved to Profile/Materials.
 ---

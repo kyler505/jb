@@ -32,6 +32,9 @@ Nothing is submitted. Re-running is idempotent (it replaces the day's packet).
 
 ### Stage 2 — Apply (interactive, in Cowork with Claude in Chrome)
 Ask Cowork: **"Run the apply workflow on today's queue"** (or "…on the top 3").
+
+> ⚠ **Humanizer required on long responses.** Any long-form text Hermes generates during this stage (cover letters, application essays, "why this company" paragraphs, or any answer over ~50 words) **must** be passed through the `humanizer` skill before writing back to the note. The skill is already installed — load it with `skill_view(name='humanizer')` and follow its process: draft → audit for AI tells → rewrite → verify → write. Short answers (single sentence, autofill fields) don't need it.
+
 For each job, Claude will:
 1. Open the job note's `Apply URL` in your connected browser.
 2. Research the company and fill the flagged `{{placeholders}}` (the
