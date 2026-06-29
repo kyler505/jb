@@ -3,7 +3,7 @@ company: Capital One
 role: July 2026 | Capital One Tech Summit
 locations: Virtual (Zoom)
 category: event
-status: to-apply
+status: applied
 active: true
 url: https://capitalone.eightfold.ai/events/candidate?plannedEventId=yP20k397
 deadline: 2026-07-06
