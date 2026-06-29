@@ -1,6 +1,14 @@
 filters:
   and:
     - file.folder == "Jobs"
+formulas:
+  days_ago_posted: 'if(date_posted, (today() - date(date_posted)).days, "")'
+  days_until_deadline: 'if(deadline, (date(deadline) - today()).days, "")'
+  is_overdue: 'if(deadline, date(deadline) < today() && status == "to-apply", false)'
+  priority_badge: 'if(priority >= 50, "🔴 High", if(priority >= 40, "🟡 Medium", if(priority >= 30, "🟢 Low", "")))'
+  status_icon: 'if(status == "to-apply", "📋", if(status == "applied", "✅", if(status == "interviewing", "🎙️", if(status == "offer", "🎉", if(status == "rejected", "❌", if(status == "skip", "⏭️", "⚪"))))))'
+  app_age_days: 'if(applied_date, (today() - date(applied_date)).days, "")'
+  days_since_update: 'if(date_updated, (today() - date(date_updated)).days, "")'
 properties:
   company:
     displayName: Company
@@ -40,6 +48,20 @@ properties:
     displayName: Review?
   priority:
     displayName: Priority
+  formula.days_ago_posted:
+    displayName: Days Ago
+  formula.days_until_deadline:
+    displayName: Days Left
+  formula.is_overdue:
+    displayName: Overdue?
+  formula.priority_badge:
+    displayName: Tier
+  formula.status_icon:
+    displayName: ""
+  formula.app_age_days:
+    displayName: Days Since Apply
+  formula.days_since_update:
+    displayName: Days Since Update
 views:
   - type: table
     name: To Apply
@@ -52,6 +74,8 @@ views:
       - company
       - role
       - discipline
+      - formula.priority_badge
+      - formula.days_ago_posted
       - locations
       - terms
       - status
@@ -66,9 +90,11 @@ views:
       - applied_date
       - company
       - role
+      - formula.status_icon
       - discipline
       - category
       - locations
+      - formula.app_age_days
       - terms
       - apply_method
       - apply_result
@@ -82,6 +108,7 @@ views:
     order:
       - company
       - role
+      - formula.status_icon
       - discipline
       - category
       - locations
@@ -97,10 +124,13 @@ views:
       - status
       - company
       - role
+      - formula.status_icon
       - discipline
+      - formula.priority_badge
       - locations
       - terms
       - deadline
+      - formula.days_until_deadline
       - date_posted
       - url
   - type: table
@@ -112,10 +142,13 @@ views:
       - status
       - company
       - role
+      - formula.status_icon
       - discipline
+      - formula.priority_badge
       - locations
       - terms
       - deadline
+      - formula.days_until_deadline
       - date_posted
       - url
   - type: table
@@ -126,6 +159,7 @@ views:
     order:
       - company
       - role
+      - formula.status_icon
       - apply_result
       - apply_error
       - url
@@ -138,6 +172,7 @@ views:
       - applied_date
       - company
       - role
+      - formula.status_icon
       - discipline
       - category
       - apply_result
@@ -154,8 +189,10 @@ views:
       - company
       - role
       - discipline
+      - formula.priority_badge
       - locations
       - terms
+      - formula.days_ago_posted
       - url
   - type: table
     name: All
@@ -163,11 +200,14 @@ views:
       - status
       - company
       - role
+      - formula.status_icon
       - discipline
+      - formula.priority_badge
       - category
       - locations
       - terms
       - deadline
       - applied_date
       - date_posted
+      - formula.days_ago_posted
       - url

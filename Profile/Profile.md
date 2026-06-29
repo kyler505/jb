@@ -29,6 +29,19 @@ race_ethnicity: Asian
 veteran_status: I am not a protected veteran
 disability_status: No, I do not have a disability
 default_resume: resume
+tags:
+  - profile
+  - applicant
+aliases:
+  - Kyler Cao
+  - Applicant Profile
 ---
 
-<!-- Personal profile -- fill in demographic fields when applications ask for them. -->
+> [!info] Personal Profile
+> Fill in demographic fields when applications ask for them. The pipeline reads these fields from frontmatter.
+
+> [!tip] Work Authorization
+> ==US Citizen== · Does not require sponsorship · Available ==Sept–Dec 2026==
+
+> [!warning] EEO Data
+> Fields like `gender`, `race_ethnicity`, `veteran_status`, and `disability_status` are filled from frontmatter. Review each field before submitting — some applications require specific phrasing.

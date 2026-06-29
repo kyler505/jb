@@ -1,0 +1,208 @@
+{
+  "nodes": [
+    {
+      "id": "a0b1c2d3e4f56789",
+      "type": "text",
+      "x": 300,
+      "y": 20,
+      "width": 400,
+      "height": 80,
+      "text": "# Job Search Strategy\n\nFall 2026 Internships → 2027 New Grad",
+      "color": "6"
+    },
+    {
+      "id": "a1b2c3d4e5f67890",
+      "type": "group",
+      "x": 20,
+      "y": 160,
+      "width": 440,
+      "height": 300,
+      "label": "Target Roles",
+      "color": "4"
+    },
+    {
+      "id": "a2b3c4d5e6f78901",
+      "type": "text",
+      "x": 40,
+      "y": 200,
+      "width": 180,
+      "height": 80,
+      "text": "## SWE\n\nBackend, Full-Stack, Systems",
+      "color": "5"
+    },
+    {
+      "id": "a3b4c5d6e7f89012",
+      "type": "text",
+      "x": 250,
+      "y": 200,
+      "width": 180,
+      "height": 80,
+      "text": "## ML / AI\n\nData Science, ML Eng, Research",
+      "color": "5"
+    },
+    {
+      "id": "a4b5c6d7e8f90123",
+      "type": "text",
+      "x": 40,
+      "y": 320,
+      "width": 180,
+      "height": 80,
+      "text": "## Data\n\nData Engineering, Analytics",
+      "color": "5"
+    },
+    {
+      "id": "a5b6c7d8e9f01234",
+      "type": "text",
+      "x": 250,
+      "y": 320,
+      "width": 180,
+      "height": 80,
+      "text": "## Mobile / Frontend\n\niOS, Android, Web",
+      "color": "5"
+    },
+    {
+      "id": "b0c1d2e3f4567890",
+      "type": "group",
+      "x": 520,
+      "y": 160,
+      "width": 440,
+      "height": 300,
+      "label": "Target Companies",
+      "color": "5"
+    },
+    {
+      "id": "b1c2d3e4f5678901",
+      "type": "text",
+      "x": 540,
+      "y": 200,
+      "width": 200,
+      "height": 80,
+      "text": "## Big Tech\n\nApple, Google, Amazon, Microsoft, Meta",
+      "color": "3"
+    },
+    {
+      "id": "b2c3d4e5f6789012",
+      "type": "text",
+      "x": 750,
+      "y": 200,
+      "width": 200,
+      "height": 80,
+      "text": "## Startups\n\nAI, Infrastructure, Developer Tools",
+      "color": "3"
+    },
+    {
+      "id": "b3c4d5e6f7890123",
+      "type": "text",
+      "x": 540,
+      "y": 320,
+      "width": 200,
+      "height": 80,
+      "text": "## Fintech / Quant\n\nTrading, Banking, Payments",
+      "color": "3"
+    },
+    {
+      "id": "b4c5d6e7f8901234",
+      "type": "text",
+      "x": 750,
+      "y": 320,
+      "width": 200,
+      "height": 80,
+      "text": "## Defense / Aerospace\n\nAnduril, SpaceX, True Anomaly",
+      "color": "3"
+    },
+    {
+      "id": "c0d1e2f345678901",
+      "type": "group",
+      "x": 20,
+      "y": 520,
+      "width": 440,
+      "height": 280,
+      "label": "Pipeline Throughput",
+      "color": "3"
+    },
+    {
+      "id": "c1d2e3f456789012",
+      "type": "text",
+      "x": 40,
+      "y": 560,
+      "width": 400,
+      "height": 100,
+      "text": "- ~~1900+ total listings~~\n- 25/day auto-apply queue\n- 1 pipeline runs/day\n- **Goal: 100+ apps/week**\n- Target: Full pipeline → 500+ by end of Summer",
+      "color": "3"
+    },
+    {
+      "id": "c2d3e4f567890123",
+      "type": "text",
+      "x": 40,
+      "y": 680,
+      "width": 400,
+      "height": 80,
+      "text": "## Current Status\n\n~3 submitted · 2 needs-review · 1900+ to-apply",
+      "color": "1"
+    },
+    {
+      "id": "d0e1f2345678901a",
+      "type": "group",
+      "x": 520,
+      "y": 520,
+      "width": 440,
+      "height": 280,
+      "label": "Preparation Materials",
+      "color": "6"
+    },
+    {
+      "id": "d1e2f3456789012a",
+      "type": "text",
+      "x": 540,
+      "y": 560,
+      "width": 400,
+      "height": 100,
+      "text": "- Resume (LaTeX): 1 general variant\n- Cover letter template\n- Q&A: 20+ questions answered\n- STAR bank: behavioral stories\n- Interview prep: Woodside notes",
+      "color": "6"
+    },
+    {
+      "id": "d2e3f4567890123a",
+      "type": "text",
+      "x": 540,
+      "y": 680,
+      "width": 400,
+      "height": 80,
+      "text": "## Gaps\n\n- Add resume variants (SWE, ML, Data)\n- Expand Q&A bank → 50+ answers\n- Practice interviews",
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge0a1b2c3d4e5f",
+      "fromNode": "a0b1c2d3e4f56789",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f67890",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge1b2c3d4e5f6g",
+      "fromNode": "a0b1c2d3e4f56789",
+      "fromSide": "bottom",
+      "toNode": "b0c1d2e3f4567890",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge2b3c4d5e6f7g",
+      "fromNode": "a0b1c2d3e4f56789",
+      "fromSide": "bottom",
+      "toNode": "c0d1e2f345678901",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge3b4c5d6e7f8g",
+      "fromNode": "a0b1c2d3e4f56789",
+      "fromSide": "bottom",
+      "toNode": "d0e1f2345678901a",
+      "toSide": "top",
+      "toEnd": "arrow"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "nodes": [
+    {
+      "id": "c1a2b3d4e5f67890",
+      "type": "text",
+      "x": 40,
+      "y": 40,
+      "width": 360,
+      "height": 120,
+      "text": "# Job Scraper (GitHub Actions)\n\nRuns daily → scrapes ~1900+ listings → writes/updates Jobs/*.md",
+      "color": "5"
+    },
+    {
+      "id": "c2b3c4d5e6f78901",
+      "type": "group",
+      "x": 40,
+      "y": 240,
+      "width": 800,
+      "height": 400,
+      "label": "Stage 1 — Prep (file-only, safe to automate)",
+      "color": "4"
+    },
+    {
+      "id": "c3c4d5e6f7890123",
+      "type": "text",
+      "x": 80,
+      "y": 280,
+      "width": 320,
+      "height": 100,
+      "text": "# Filter & Rank\n\nselector.py filters by Targeting.md → scores by discipline/category/recency → writes priority field",
+      "color": "5"
+    },
+    {
+      "id": "c4d5e6f789012345",
+      "type": "text",
+      "x": 480,
+      "y": 280,
+      "width": 320,
+      "height": 100,
+      "text": "# Daily Queue\n\n25 jobs/day (configurable cap) written to out/queue.md + out/queue.json",
+      "color": "5"
+    },
+    {
+      "id": "c5d6e7f890123456",
+      "type": "text",
+      "x": 80,
+      "y": 420,
+      "width": 320,
+      "height": 100,
+      "text": "# Build Resume\n\nbuild_resume.py compiles Profile/Resumes/*.tex → out/resumes/*.pdf",
+      "color": "5"
+    },
+    {
+      "id": "c6d7e8f901234567",
+      "type": "text",
+      "x": 480,
+      "y": 420,
+      "width": 320,
+      "height": 100,
+      "text": "# Application Packet\n\nprepare.py writes ## Application <date> into each job note: answers, cover letter, review checklist",
+      "color": "5"
+    },
+    {
+      "id": "c7d8e9f012345678",
+      "type": "group",
+      "x": 40,
+      "y": 700,
+      "width": 800,
+      "height": 380,
+      "label": "Stage 2 — Apply (interactive, human-in-the-loop)",
+      "color": "4"
+    },
+    {
+      "id": "c8d9e0f123456789",
+      "type": "text",
+      "x": 80,
+      "y": 740,
+      "width": 320,
+      "height": 120,
+      "text": "# Prefill Form\n\nOpen Apply URL in browser → research company → fill placeholders → autofill from QA bank + Profile",
+      "color": "5"
+    },
+    {
+      "id": "c9d0e1f234567890",
+      "type": "text",
+      "x": 480,
+      "y": 740,
+      "width": 320,
+      "height": 120,
+      "text": "# Human Review & Submit\n\n==YOU review the filled form== → click submit → write-back: status, result, confirmation, resume_used",
+      "color": "1"
+    },
+    {
+      "id": "d0e1f23456789012",
+      "type": "text",
+      "x": 80,
+      "y": 880,
+      "width": 320,
+      "height": 100,
+      "text": "# Self-Healing Q&A\n\nUnknown questions? QA bank: find() → if missing, ask user → record() for next time",
+      "color": "5"
+    },
+    {
+      "id": "e1f2345678901234",
+      "type": "text",
+      "x": 480,
+      "y": 880,
+      "width": 320,
+      "height": 100,
+      "text": "# Needs Review\n\nIf pipeline can't finish → needs_review: true → surfaces in Needs Review view",
+      "color": "3"
+    },
+    {
+      "id": "f234567890123456",
+      "type": "link",
+      "x": 960,
+      "y": 40,
+      "width": 300,
+      "height": 80,
+      "url": "https://github.com/kyler505/job-scraper",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1a2b3c4d5e6f789",
+      "fromNode": "c1a2b3d4e5f67890",
+      "fromSide": "bottom",
+      "toNode": "c3c4d5e6f7890123",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "listings"
+    },
+    {
+      "id": "e2b3c4d5e6f78901",
+      "fromNode": "c3c4d5e6f7890123",
+      "fromSide": "right",
+      "toNode": "c4d5e6f789012345",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "ranked queue"
+    },
+    {
+      "id": "e3c4d5e6f7890123",
+      "fromNode": "c4d5e6f789012345",
+      "fromSide": "bottom",
+      "toNode": "c6d7e8f901234567",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "top N jobs"
+    },
+    {
+      "id": "e4d5e6f789012345",
+      "fromNode": "c5d6e7f890123456",
+      "fromSide": "right",
+      "toNode": "c6d7e8f901234567",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "compiled PDF"
+    },
+    {
+      "id": "e5e6f78901234567",
+      "fromNode": "c6d7e8f901234567",
+      "fromSide": "bottom",
+      "toNode": "c8d9e0f123456789",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "packet written"
+    },
+    {
+      "id": "e6f7890123456789",
+      "fromNode": "c8d9e0f123456789",
+      "fromSide": "right",
+      "toNode": "c9d0e1f234567890",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "prefilled form"
+    },
+    {
+      "id": "e7f8901234567890",
+      "fromNode": "d0e1f23456789012",
+      "fromSide": "right",
+      "toNode": "c8d9e0f123456789",
+      "toSide": "bottom",
+      "toEnd": "arrow",
+      "label": "answers"
+    },
+    {
+      "id": "e8f9012345678901",
+      "fromNode": "c9d0e1f234567890",
+      "fromSide": "bottom",
+      "toNode": "e1f2345678901234",
+      "toSide": "top",
+      "toEnd": "arrow",
+      "label": "if blocked"
+    }
+  ]
+}
