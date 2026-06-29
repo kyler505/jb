@@ -16,8 +16,8 @@ listing_id: null
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: '2026-06-29'
 deadline: null
 notes: Pursuing BS/MS/PhD in CS or related field graduating in 2027 or 2028.
 ---
