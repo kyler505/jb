@@ -16,8 +16,8 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: '2026-06-26: Account created (kcao@tamu.edu). Awaiting verification.'
-resume_used: resume
 priority: 56.41
+resume_used: resume
 ---
 
 ## Application 2026-06-26
