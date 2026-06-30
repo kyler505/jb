@@ -23,7 +23,7 @@ needs_review: true
 apply_result: needs-review
 resume_used: resume
 apply_method: auto
-priority: 52.68
+priority: 52.34
 ---
 
 ## Application 2026-06-16
