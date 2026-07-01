@@ -16,9 +16,10 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-priority: 55.36
+priority: 54.86
 apply_method: auto
-apply_result: wizard_end
+apply_result: dead_link
 needs_review: true
-apply_error: Reached end of wizard — review debug output above
+ — review debug output above
+apply_error: Job posting no longer exists on Workday
 ---

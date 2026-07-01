@@ -12,13 +12,14 @@ listing_id: 77334296-b10a-4f5a-bdfa-7e946a5d4d1c
 active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 52.6
-apply_method: none
-apply_result: skipped
+apply_method: simplify
+apply_result: success
 needs_review: false
 apply_error: rate_limit_ashby
+resume_used: resume.pdf
 ---

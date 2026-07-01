@@ -12,16 +12,17 @@ listing_id: c9536506-69db-490b-b03f-a262ebf6c170
 active: true
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.91
+priority: 53.46
 resume_used: resume
 apply_method: auto
-apply_result: wizard_end
-needs_review: true
-apply_error: Reached end of wizard — review debug output above
+apply_result: retry
+needs_review: false
+ — review debug output above
+apply_error: Job posting no longer exists on Workday
 ---
 
 ## Application 2026-06-22

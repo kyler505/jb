@@ -19,11 +19,12 @@ deadline: null
 notes: null
 needs_review: true
 apply_method: auto
-priority: 55.87
-apply_result: wizard_end
-apply_error: Reached end of wizard — review debug output above
+priority: 55.36
+apply_result: dead_link
+ — review debug output above
   for Intel posting.'
 resume_used: resume
+apply_error: Job posting no longer exists on Workday
 ---
 
 ## Application 2026-06-23

@@ -12,13 +12,14 @@ listing_id: 1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 52.41
-apply_method: none
-apply_result: skipped
+apply_method: simplify
+apply_result: success
 needs_review: false
 apply_error: rate_limit_ashby
+resume_used: resume.pdf
 ---

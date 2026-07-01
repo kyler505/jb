@@ -16,11 +16,12 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: '2026-06-26: Account created (kcao@tamu.edu). Awaiting verification.'
-priority: 56.41
+priority: 55.87
 resume_used: resume
 apply_method: auto
 apply_result: wizard_end
 needs_review: true
+ — review debug output above
 apply_error: Reached end of wizard — review debug output above
 ---
 

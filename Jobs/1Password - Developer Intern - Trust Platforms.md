@@ -14,14 +14,14 @@ listing_id: 4474324d-fc29-44ab-ac6b-ad29c0babae6
 active: true
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 52.34
-resume_used: resume
-apply_method: none
-apply_result: skipped
+resume_used: resume.pdf
+apply_method: simplify
+apply_result: success
 needs_review: false
 apply_error: rate_limit_ashby
 ---

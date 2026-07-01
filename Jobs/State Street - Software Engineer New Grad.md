@@ -12,13 +12,14 @@ listing_id: 61a5b2d5-126a-48db-83d3-12380d0a42d3
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.46
+priority: 53.02
 apply_method: auto
-apply_result: wizard_end
-needs_review: true
-apply_error: Reached end of wizard — review debug output above
+apply_result: retry
+needs_review: false
+ — review debug output above
+apply_error: Job posting no longer exists on Workday
 ---
