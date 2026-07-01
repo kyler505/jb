@@ -14,13 +14,17 @@ listing_id: b6c42e15-97af-489f-9211-33b2ce059197
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: '2026-06-26 live apply pass: form fully filled, resume attached, submit attempted;
   Ashby rejected submission with ''flagged as possible spam.'''
 priority: 58.41
 resume_used: resume
+apply_method: auto
+apply_result: exception
+needs_review: true
+apply_error: _handle_ashby() takes 3 positional arguments but 4 were given
 ---
 
 ## Application 2026-06-26

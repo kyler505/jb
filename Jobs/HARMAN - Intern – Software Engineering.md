@@ -14,12 +14,16 @@ listing_id: 8b859d22-1375-43c9-87ac-1af93ace29a5
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 58.41
 resume_used: resume
+apply_method: auto
+apply_result: exception
+needs_review: true
+apply_error: _handle_generic() takes 3 positional arguments but 4 were given
 ---
 
 ## Application 2026-06-28

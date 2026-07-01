@@ -14,7 +14,7 @@ listing_id: d5f656c8-3f10-4705-8103-f3f7a76b54b1
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: '2026-06-26 retry with NopeCHA: form filled (4 fields) + resume attached, submit
@@ -22,6 +22,10 @@ notes: '2026-06-26 retry with NopeCHA: form filled (4 fields) + resume attached,
   may be AJAX-based and silently failing.'
 priority: 58.41
 resume_used: resume
+apply_method: auto
+apply_result: exception
+needs_review: true
+apply_error: _handle_generic() takes 3 positional arguments but 4 were given
 ---
 
 ## Application 2026-06-26
