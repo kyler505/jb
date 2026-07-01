@@ -12,14 +12,14 @@ listing_id: 61a5b2d5-126a-48db-83d3-12380d0a42d3
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 53.02
 apply_method: auto
-apply_result: retry
-needs_review: false
+apply_result: dead_link
+needs_review: true
  — review debug output above
 apply_error: Job posting no longer exists on Workday
 ---

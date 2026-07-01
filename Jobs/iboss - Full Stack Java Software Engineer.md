@@ -32,9 +32,13 @@ listing_id: 09f00af3-f301-47dc-8feb-407479362a10
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-01
 deadline: null
 notes: null
 priority: 50.34
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

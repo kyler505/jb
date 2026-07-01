@@ -12,14 +12,13 @@ listing_id: cc79044e-a401-4c7c-8fa2-08933d224061
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: to-apply
-applied_date: null
+status: needs-review
 deadline: null
 notes: null
 priority: 53.36
 apply_method: auto
-apply_result: retry
-needs_review: false
+
+needs_review: true
  — review debug output above
 apply_error: Reached end of wizard — review debug output above
 ---

@@ -12,15 +12,14 @@ listing_id: 01d6602a-2166-4774-a0ad-32e0b28fd5d2
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: to-apply
-applied_date: null
+status: needs-review
 deadline: null
 notes: null
 priority: 53.02
 resume_used: resume
 apply_method: auto
-apply_result: retry
-needs_review: false
+
+needs_review: true
  — review debug output above
 apply_error: Reached end of wizard — review debug output above
 ---

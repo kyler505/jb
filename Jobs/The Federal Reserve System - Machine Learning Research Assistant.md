@@ -13,12 +13,11 @@ active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: needs-review
-applied_date: null
 deadline: null
 notes: null
 priority: 53.87
 apply_method: auto
-apply_result: wizard_end
+
 needs_review: true
  — review debug output above
 apply_error: Reached end of wizard — review debug output above
