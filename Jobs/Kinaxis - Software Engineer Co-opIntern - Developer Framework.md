@@ -19,13 +19,13 @@ deadline: null
 notes: '2026-06-26 retry with NopeCHA: mobile URL worked to reach iCIMS consent gate,
   email filled + consent checked, but hCaptcha not solved (2 iframes present, free
   datacenter IP may be blocked).'
-needs_review: false
-apply_method: auto
 priority: 57.36
+resume_used: resume.pdf
+needs_review: false
 apply_result: success
 apply_error: 'verification: Live probe hit iCIMS email/consent gate and protected-by-hCaptcha
   boundary before application entry.'
-resume_used: resume.pdf
+apply_method: auto
 ---
 
 ## Application 2026-06-23

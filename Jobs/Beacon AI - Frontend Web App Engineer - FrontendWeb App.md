@@ -6,15 +6,14 @@ discipline: frontend
 locations:
 - San Carlos, CA
 terms: []
-url: https://jobs.ashbyhq.com/beaconai/54e0937b-bcb8-41dd-9e3f-287b29a64c11/application
+url: https://jobs.ashbyhq.com/beaconai/e43ce94b-95a2-46af-a3e8-154d279eb840/application
 source: simplify-new-grad
-listing_id: 28e12529-8553-4a5b-9f21-70046c96fd07
-active: true
-date_posted: '2026-06-23'
-date_updated: '2026-06-23'
+listing_id: 116bc6ae-af35-4ff4-949d-e4b39d7bcc18
+active: false
+date_posted: '2026-07-01'
+date_updated: '2026-07-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 47.36
 ---

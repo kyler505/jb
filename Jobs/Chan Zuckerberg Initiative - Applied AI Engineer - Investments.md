@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/7958444
 source: simplify-new-grad
 listing_id: 52ab197c-b6fc-46a3-9cf3-b05fd746d7b1
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: applied

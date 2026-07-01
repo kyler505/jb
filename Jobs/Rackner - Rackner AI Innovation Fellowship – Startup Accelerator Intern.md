@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/rackner/jobs/4681781005
 source: simplify-internships
 listing_id: 65e4c2d4-bdab-4a11-a12d-26dbd821ccc9
-active: true
+active: false
 date_posted: '2026-04-06'
 date_updated: '2026-04-06'
 status: to-apply

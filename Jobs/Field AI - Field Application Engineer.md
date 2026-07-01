@@ -4,17 +4,16 @@ role: Field Application Engineer
 category: new-grad
 discipline: other
 locations:
-- Cardiff, UK
+- Toronto, ON, Canada
 terms: []
-url: https://jobs.lever.co/field-ai/356e9ed8-9bb5-45d9-acf9-696d3f9b9566/apply
+url: https://jobs.lever.co/field-ai/6a93ac30-56af-4726-bb05-9d71f8622b58/apply
 source: simplify-new-grad
-listing_id: 1cd37e4b-90b2-469b-9dc0-679ff02cd63b
+listing_id: 5d600989-4dfa-4062-855c-d4b92dc5ffa7
 active: true
-date_posted: '2026-06-03'
-date_updated: '2026-06-03'
+date_posted: '2026-06-26'
+date_updated: '2026-06-26'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 28.6
 ---

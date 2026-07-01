@@ -20,10 +20,10 @@ deadline: null
 notes: null
 priority: 58.41
 resume_used: resume
-apply_method: auto
-apply_result: exception
 needs_review: true
+apply_result: exception
 apply_error: _handle_generic() takes 3 positional arguments but 4 were given
+apply_method: auto
 ---
 
 ## Application 2026-06-28

@@ -12,7 +12,7 @@ terms: []
 url: https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1
 source: simplify-new-grad
 listing_id: 768e4d7c-d1fc-4490-94ba-51a4efdf2cb3
-active: true
+active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
 status: needs-review
@@ -21,9 +21,7 @@ notes: null
 priority: 54.86
 resume_used: resume
 apply_method: auto
-
-needs_review: true
- — review debug output above
+needs_review: true — review debug output above
 apply_error: Reached end of wizard — review debug output above
 ---
 

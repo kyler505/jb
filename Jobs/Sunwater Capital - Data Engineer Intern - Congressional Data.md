@@ -11,7 +11,7 @@ terms:
 url: https://jobs.lever.co/sunwatercapital/7681fd31-8d0b-405c-b0e0-7f8c1c87f3c8/apply
 source: simplify-internships
 listing_id: b22e2d71-0b55-45af-b3cf-939113b4807c
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: to-apply

@@ -4,21 +4,16 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Colorado
+- Cardiff, UK
 terms: []
-url: https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Colorado/Software-Engineer-I_R114780
+url: https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653
 source: simplify-new-grad
-listing_id: d503b86b-a873-4862-97df-07af3c6aa18a
-active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
-status: needs-review
+listing_id: d3531016-1216-4618-820a-79eb7027353c
+active: false
+date_posted: '2026-06-11'
+date_updated: '2026-06-11'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 50.68
-apply_method: auto
-apply_result: dead_link
-needs_review: true
-apply_error: Job posting no longer exists on Workday
 ---

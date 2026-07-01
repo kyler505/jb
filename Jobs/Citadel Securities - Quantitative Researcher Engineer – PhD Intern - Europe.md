@@ -10,7 +10,7 @@ terms:
 url: https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/
 source: simplify-internships
 listing_id: fb5ebafa-8b2c-4e51-ac36-d2d292301782
-active: true
+active: false
 date_posted: '2026-02-05'
 date_updated: '2026-02-05'
 status: to-apply

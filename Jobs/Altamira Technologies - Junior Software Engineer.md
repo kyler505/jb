@@ -4,17 +4,19 @@ role: Junior Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Wright-Patterson AFB, OH
+- Augusta, GA
+- State College, PA
+- Centennial, CO
+- Gainesville, VA
 terms: []
-url: https://jobs.jobvite.com/altamiracorps/job/oaYaAfwC?nl=1&nl=1&fr=false
+url: https://jobs.jobvite.com/altamiracorps/job/oPlpAfwT?nl=1&nl=1&fr=false
 source: simplify-new-grad
-listing_id: 080160a8-b30c-4227-beb6-68ce1a671aad
+listing_id: 3a151a6d-0c4e-46c4-a8ac-ae35e0f25b98
 active: true
-date_posted: '2026-05-20'
-date_updated: '2026-05-20'
+date_posted: '2026-06-29'
+date_updated: '2026-06-29'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 45.0
 ---

@@ -9,7 +9,7 @@ terms: []
 url: https://www.advancedmd.com/company/careers/?gh_jid=4483531008
 source: simplify-new-grad
 listing_id: 3bd0fc08-d469-4027-89c4-4eae14c85be1
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

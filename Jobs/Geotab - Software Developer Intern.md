@@ -12,7 +12,7 @@ terms:
 url: https://job-boards.greenhouse.io/internshiplist2000/jobs/5153686008
 source: simplify-internships
 listing_id: 4774edb2-bba5-4efa-bd6a-367a653d07aa
-active: true
+active: false
 date_posted: '2026-05-04'
 date_updated: '2026-05-04'
 status: to-apply

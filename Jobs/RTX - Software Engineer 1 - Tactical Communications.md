@@ -9,7 +9,7 @@ terms: []
 url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-1---Tactical-Communications--Onsite-_01851404-1
 source: simplify-new-grad
 listing_id: c9536506-69db-490b-b03f-a262ebf6c170
-active: true
+active: false
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
 status: needs-review
@@ -20,8 +20,7 @@ priority: 53.46
 resume_used: resume
 apply_method: auto
 apply_result: dead_link
-needs_review: true
- — review debug output above
+needs_review: true — review debug output above
 apply_error: Job posting no longer exists on Workday
 ---
 

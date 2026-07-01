@@ -10,7 +10,7 @@ terms:
 url: https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/Summer-Research-Assistant--Student-_R4315
 source: simplify-internships
 listing_id: 523ae494-45d3-4223-b476-2c169758a222
-active: true
+active: false
 date_posted: '2026-06-01'
 date_updated: '2026-06-01'
 status: to-apply

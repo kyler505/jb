@@ -6,20 +6,14 @@ discipline: swe
 locations:
 - Glendale, CA
 terms: []
-url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599
+url: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2
 source: simplify-new-grad
-listing_id: 12b0c4cc-55d1-42fd-a6ad-d544d2b42999
-active: true
-date_posted: '2026-06-18'
-date_updated: '2026-06-18'
-status: needs-review
+listing_id: 12634088-9777-452c-9095-9f2de268d1e0
+active: false
+date_posted: '2026-07-01'
+date_updated: '2026-07-01'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.02
-apply_method: auto
-apply_result: dead_link
-needs_review: true
- — review debug output above
-apply_error: Job posting no longer exists on Workday
 ---

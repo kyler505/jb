@@ -4,11 +4,11 @@ role: Engineering Technician 1/2
 category: new-grad
 discipline: other
 locations:
-- Stafford, VA
+- Jacksonville, NC
 terms: []
-url: https://careers-sev1tech.icims.com/jobs/9520/job?mobile=true&needsRedirect=false
+url: https://careers-sev1tech.icims.com/jobs/9521/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 008560fd-17a6-4700-89cd-a750b96ec209
+listing_id: b3b5ddde-567b-46e3-b0de-2e7f69cf462a
 active: true
 date_posted: '2026-05-28'
 date_updated: '2026-06-24'

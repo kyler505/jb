@@ -4,15 +4,16 @@ role: Quantitative Systematic Trading Intern
 category: internship
 discipline: other
 locations:
-- Ardmore, PA
+- Philadelphia, PA
+- NYC
 terms:
 - Summer 2027
-url: https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false
+url: https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 04690200-00da-4592-b697-fc3f8a39af9c
+listing_id: 55723c85-bd8c-4d95-be54-2a6851a48b6c
 active: true
-date_posted: '2026-04-21'
-date_updated: '2026-04-21'
+date_posted: '2026-06-29'
+date_updated: '2026-06-29'
 status: to-apply
 applied_date: null
 deadline: null

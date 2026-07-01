@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/aircapture/jobs/4687916006
 source: simplify-internships
 listing_id: be01ab40-de24-4098-a05f-5e2fd741d92f
-active: true
+active: false
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: to-apply

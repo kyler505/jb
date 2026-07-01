@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Mountain View, CA
 terms: []
-url: https://jobs.smartrecruiters.com/ServiceNow/744000126417779
+url: https://jobs.smartrecruiters.com/ServiceNow/744000128997739
 source: simplify-new-grad
-listing_id: b3ed9e95-62a3-4499-b1b0-38840f1f4711
+listing_id: 809e3bd7-037b-470d-9d66-42bb3152d971
 active: true
-date_posted: '2026-05-14'
-date_updated: '2026-05-14'
+date_posted: '2026-05-28'
+date_updated: '2026-06-24'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 44.1
 ---

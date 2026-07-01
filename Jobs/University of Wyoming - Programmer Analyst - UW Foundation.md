@@ -9,7 +9,7 @@ terms: []
 url: https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261489
 source: simplify-new-grad
 listing_id: b2bb67bf-9913-40bf-82d2-c5cee13d5605
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: applied

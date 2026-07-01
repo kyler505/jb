@@ -10,15 +10,14 @@ locations:
 - Wright-Patterson AFB, OH
 - Huntsville, AL
 terms: []
-url: https://jobs.jobvite.com/altamiracorps/job/oHqaAfwB?nl=1&nl=1&fr=false
+url: https://jobs.jobvite.com/altamiracorps/job/obCpAfww?nl=1&nl=1&fr=false
 source: simplify-new-grad
-listing_id: 1402c2af-c28d-4623-814c-109cd33f2fb9
+listing_id: aee5f911-65e6-4c42-95c1-e8c2702c7382
 active: true
-date_posted: '2026-05-21'
-date_updated: '2026-05-21'
+date_posted: '2026-06-30'
+date_updated: '2026-06-30'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 45.17
 ---

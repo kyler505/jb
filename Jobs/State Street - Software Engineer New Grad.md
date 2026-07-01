@@ -9,7 +9,7 @@ terms: []
 url: https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792654
 source: simplify-new-grad
 listing_id: 61a5b2d5-126a-48db-83d3-12380d0a42d3
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: needs-review
@@ -19,7 +19,6 @@ notes: null
 priority: 53.02
 apply_method: auto
 apply_result: dead_link
-needs_review: true
- — review debug output above
+needs_review: true — review debug output above
 apply_error: Job posting no longer exists on Workday
 ---

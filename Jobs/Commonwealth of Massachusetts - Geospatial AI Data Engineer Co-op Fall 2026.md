@@ -10,7 +10,7 @@ terms:
 url: https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600017W
 source: simplify-internships
 listing_id: 4e3d5b9f-0dc0-41f4-8f85-82ed684a8e79
-active: true
+active: false
 date_posted: '2026-03-03'
 date_updated: '2026-03-03'
 status: to-apply

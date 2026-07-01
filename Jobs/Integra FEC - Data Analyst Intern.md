@@ -7,9 +7,9 @@ locations:
 - Austin, TX
 terms:
 - Fall 2026
-url: https://job-boards.greenhouse.io/integrainterns/jobs/5134523008
+url: https://job-boards.greenhouse.io/integra/jobs/5134522008
 source: simplify-internships
-listing_id: f9530ed3-2587-45c5-8a92-1bf929f199f3
+listing_id: 5e6027c1-06ff-4833-98fc-5748108833bf
 active: true
 date_posted: '2026-04-28'
 date_updated: '2026-04-28'
@@ -17,5 +17,4 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 39.84
 ---

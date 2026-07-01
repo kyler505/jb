@@ -9,7 +9,7 @@ terms: []
 url: https://careers-i3-corps.icims.com/jobs/5163/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 3eee0bef-9819-4dac-8a1b-c43d0282c367
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

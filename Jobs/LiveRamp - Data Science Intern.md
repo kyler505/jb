@@ -11,7 +11,7 @@ terms:
 url: https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Data-Science_JR012195
 source: simplify-internships
 listing_id: 2b58f87c-45e3-47f3-8d33-ff72212accde
-active: true
+active: false
 date_posted: '2026-05-20'
 date_updated: '2026-05-20'
 status: to-apply

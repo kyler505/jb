@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5024108007
 source: simplify-internships
 listing_id: bf59bc03-1aa5-4893-8e78-1b208a007841
-active: true
+active: false
 date_posted: '2026-01-21'
 date_updated: '2026-01-21'
 status: to-apply

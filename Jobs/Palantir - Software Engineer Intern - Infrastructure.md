@@ -4,14 +4,14 @@ role: Software Engineer Intern - Infrastructure
 category: internship
 discipline: devops
 locations:
-- Palo Alto, CA
+- NYC
 terms:
 - Winter 2028
 - Spring 2028
 - Summer 2028
-url: https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply
+url: https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply
 source: simplify-internships
-listing_id: 4b0a0a22-ba97-43e6-b131-336344fb7fe6
+listing_id: 9f078de1-afbf-46ec-a41a-9ed1bd030aa0
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'

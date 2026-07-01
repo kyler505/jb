@@ -6,19 +6,14 @@ discipline: swe
 locations:
 - Odenton, MD
 terms: []
-url: https://careers-markon.icims.com/jobs/8439/job?mobile=true&needsRedirect=false
+url: https://careers-markon.icims.com/jobs/8403/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: ce00053f-eecf-4aee-aa60-157679e25a0f
-active: true
-date_posted: '2026-06-19'
-date_updated: '2026-06-19'
-status: applied
-applied_date: 2026-06-30
+listing_id: 94256481-4cab-4687-83aa-f17d4ffeff44
+active: false
+date_posted: '2026-06-08'
+date_updated: '2026-06-08'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-priority: 53.91
-apply_method: simplify
-apply_result: success
-resume_used: resume.pdf
-needs_review: false
 ---

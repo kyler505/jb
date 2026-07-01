@@ -11,7 +11,7 @@ terms:
 url: https://apply.careers.microsoft.com/careers/job/1970393556631742
 source: simplify-internships
 listing_id: 07d8351c-894f-49ea-b1e9-73ee92156689
-active: true
+active: false
 date_posted: '2025-12-10'
 date_updated: '2025-12-10'
 status: to-apply

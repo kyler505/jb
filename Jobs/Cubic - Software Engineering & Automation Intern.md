@@ -10,7 +10,7 @@ terms:
 url: https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Herndon-Virginia/Software-Engineering---Automation-Intern_REQ_49102
 source: simplify-internships
 listing_id: 8c554a10-a65a-4245-8df8-ce07f094aae9
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

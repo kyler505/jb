@@ -9,7 +9,7 @@ terms: []
 url: https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7085
 source: simplify-new-grad
 listing_id: abb19bda-dee4-451d-9a99-8179a324d0c5
-active: true
+active: false
 date_posted: '2026-06-09'
 date_updated: '2026-06-09'
 status: to-apply

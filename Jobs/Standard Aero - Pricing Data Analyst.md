@@ -6,15 +6,14 @@ discipline: data
 locations:
 - San Antonio, TX
 terms: []
-url: https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9483
+url: https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/9797
 source: simplify-new-grad
-listing_id: 32b4e6a9-d69b-4786-92f1-a064b225334f
-active: true
-date_posted: '2026-05-22'
-date_updated: '2026-05-26'
+listing_id: 9bedbbe2-5b65-49c2-8f45-8a4d4f2b673e
+active: false
+date_posted: '2026-06-30'
+date_updated: '2026-06-30'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 42.48
 ---

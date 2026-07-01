@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/withumsmithbrown/jobs/8459137002
 source: simplify-new-grad
 listing_id: 9b7de8ac-9ec0-4667-b20c-edcde5abe3f0
-active: true
+active: false
 date_posted: '2026-06-14'
 date_updated: '2026-06-14'
 status: to-apply

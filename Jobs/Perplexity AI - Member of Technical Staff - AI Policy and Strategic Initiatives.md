@@ -7,15 +7,14 @@ locations:
 - Washington, DC
 - SF
 terms: []
-url: https://jobs.ashbyhq.com/Perplexity/0a18a699-741e-4288-baa1-e4184b130676/application
+url: https://jobs.ashbyhq.com/Perplexity/91b941ae-0bd0-4322-8c0e-491abacdc33a/application
 source: simplify-new-grad
-listing_id: b5337799-9f22-4bdd-bbc4-6327b41b7421
-active: true
-date_posted: '2026-06-08'
-date_updated: '2026-06-08'
+listing_id: e9bddf7b-c66c-41f2-a149-321d40ff2a9b
+active: false
+date_posted: '2026-06-26'
+date_updated: '2026-06-30'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 30.86
 ---

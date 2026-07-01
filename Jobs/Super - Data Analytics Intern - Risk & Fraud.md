@@ -11,7 +11,7 @@ terms:
 url: https://jobs.ashbyhq.com/super.com/8355a2fc-34bc-45b0-b8d6-39e558940cef/application
 source: simplify-internships
 listing_id: 9ef7efda-4769-4f8d-ab7d-c545cde957bb
-active: true
+active: false
 date_posted: '2026-05-11'
 date_updated: '2026-05-11'
 status: to-apply

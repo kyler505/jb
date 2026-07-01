@@ -15,14 +15,14 @@ active: true
 date_posted: '2026-06-27'
 date_updated: '2026-06-27'
 status: needs-review
+applied_date: null
 deadline: null
 notes: null
 priority: 57.53
 resume_used: resume
-apply_method: auto
-
 needs_review: true
 apply_error: Reached end of wizard — review debug output above
+apply_method: auto
 ---
 
 ## Application 2026-06-29

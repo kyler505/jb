@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.eu.greenhouse.io/imc/jobs/4608591101
 source: simplify-new-grad
 listing_id: 74f58f1b-0c91-41e6-a019-83b25188f802
-active: true
+active: false
 date_posted: '2026-03-30'
 date_updated: '2026-06-05'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/astronomer/24262c87-1c1e-4815-b008-854f921450a8/application
 source: simplify-internships
 listing_id: 9fb8df8a-a9a7-4ceb-82e5-cfeeb37485ec
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

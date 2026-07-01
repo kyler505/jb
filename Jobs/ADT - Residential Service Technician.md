@@ -4,17 +4,16 @@ role: Residential Service Technician
 category: new-grad
 discipline: other
 locations:
-- Springfield, VA
+- Downers Grove, IL
 terms: []
-url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020708
+url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021065
 source: simplify-new-grad
-listing_id: e9b81a8a-c755-4f15-9067-cca59868d339
+listing_id: 2f015634-a260-42c4-8e28-cc857e205eab
 active: false
-date_posted: '2026-06-09'
-date_updated: '2026-06-09'
+date_posted: '2026-06-30'
+date_updated: '2026-06-30'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 31.36
 ---

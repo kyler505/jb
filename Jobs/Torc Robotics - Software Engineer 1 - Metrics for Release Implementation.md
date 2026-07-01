@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/torcrobotics/jobs/8554811002
 source: simplify-new-grad
 listing_id: 49836f97-fd8c-4ec9-82fe-fc622e38cf57
-active: true
+active: false
 date_posted: '2026-05-26'
 date_updated: '2026-05-26'
 status: to-apply

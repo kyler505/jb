@@ -10,7 +10,7 @@ terms:
 url: https://avathon.com/company/careers-job-listing/?gh_jid=4655249005
 source: simplify-internships
 listing_id: ee91612e-1382-4bb4-bcc9-bd4007324dfd
-active: true
+active: false
 date_posted: '2026-02-02'
 date_updated: '2026-02-02'
 status: to-apply

@@ -6,11 +6,11 @@ discipline: other
 locations:
 - San Jose, CA
 terms: []
-url: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R166575
+url: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Research-Scientist_R167353
 source: simplify-new-grad
-listing_id: 6100424c-50b8-45c7-9ec7-b3c551f20813
-active: true
-date_posted: '2026-05-23'
+listing_id: 05086e88-742a-4c28-b7de-951c54ab9644
+active: false
+date_posted: '2026-05-16'
 date_updated: '2026-05-28'
 status: to-apply
 applied_date: null

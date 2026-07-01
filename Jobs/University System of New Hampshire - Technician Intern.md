@@ -10,7 +10,7 @@ terms:
 url: https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Technician-Intern_JR2342-1
 source: simplify-internships
 listing_id: 43b4d63a-c69e-4cff-8313-93782db38cd8
-active: true
+active: false
 date_posted: '2026-03-17'
 date_updated: '2026-03-17'
 status: to-apply

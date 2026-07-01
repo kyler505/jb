@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Clearwater, FL
+- Richmond, VA
 terms: []
-url: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139984
+url: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151776
 source: simplify-new-grad
-listing_id: b543773b-5b5c-45dc-a639-851b84a8a0ec
+listing_id: b529b450-7bf3-46fa-8dc5-19bb85f8310f
 active: true
-date_posted: '2026-02-20'
-date_updated: '2026-02-20'
+date_posted: '2026-06-24'
+date_updated: '2026-07-01'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/addepar1/jobs/8535085002
 source: simplify-new-grad
 listing_id: a98ef4ad-c549-440e-9054-087a9929433a
-active: true
+active: false
 date_posted: '2026-05-07'
 date_updated: '2026-05-19'
 status: to-apply

@@ -4,12 +4,12 @@ role: GPU Top Level Physical Design Engineer
 category: new-grad
 discipline: other
 locations:
-- Lafayette, KS
+- Cambridge, MA
 terms: []
-url: https://jobs.apple.com/en-us/details/200645609
+url: https://jobs.apple.com/en-us/details/200644458
 source: simplify-new-grad
-listing_id: 652b38fc-56e5-4a83-8756-16ff6e0186cf
-active: true
+listing_id: 87589d29-288c-48e9-8684-65f46e19cdef
+active: false
 date_posted: '2026-05-06'
 date_updated: '2026-05-06'
 status: to-apply

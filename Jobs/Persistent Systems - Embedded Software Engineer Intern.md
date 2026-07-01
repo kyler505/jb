@@ -6,13 +6,13 @@ discipline: hardware
 locations:
 - NYC
 terms:
-- Summer 2026
-url: https://careers-persistentsystems.icims.com/jobs/2258/job?mobile=true&needsRedirect=false
+- Fall 2026
+url: https://careers-persistentsystems.icims.com/jobs/2272/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 0d7b8d67-b0c6-42e4-8757-72009f66499e
+listing_id: 99b96750-4604-4ae8-8e56-d3c3287cc493
 active: true
-date_posted: '2026-05-22'
-date_updated: '2026-05-22'
+date_posted: '2026-06-22'
+date_updated: '2026-06-22'
 status: to-apply
 applied_date: null
 deadline: null

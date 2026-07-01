@@ -4,21 +4,20 @@ role: Entry Level Software Engineer
 category: new-grad
 discipline: swe
 locations:
+- Austin, TX
 - Irvine, CA
+- Long Island, New York
+- Burlington, VT
+- Atlanta, GA
 terms: []
-url: https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Entry-Level-Software-Engineer--Irvine--CA-_R202679078-1
+url: https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer_R202675618
 source: simplify-new-grad
-listing_id: 124c16b4-a879-4e83-b93b-b6ae05424710
+listing_id: 01fe015d-acf0-4852-b4cd-a7ec12bb238b
 active: true
-date_posted: '2026-06-22'
-date_updated: '2026-06-22'
-status: needs-review
+date_posted: '2026-06-25'
+date_updated: '2026-06-25'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-priority: 54.86
-apply_method: auto
-
-needs_review: true
- — review debug output above
-apply_error: Reached end of wizard — review debug output above
 ---
