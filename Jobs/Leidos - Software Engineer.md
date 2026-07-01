@@ -12,9 +12,13 @@ listing_id: 604e6a3b-69cc-4064-be2a-c231a96870e0
 active: true
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 53.02
+apply_method: auto
+apply_result: exception
+needs_review: true
+apply_error: "Page.wait_for_timeout: Target page, context or browser has been closed"
 ---

@@ -13,17 +13,17 @@ listing_id: 72e1792e-aad9-40a4-9464-641c1c28ccd1
 active: true
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
-needs_review: true
-apply_method: auto
+needs_review: false
+apply_method: simplify
 priority: 52.34
-apply_result: needs-review
+apply_result: success
 apply_error: Verified + Submit clicked; Greenhouse requires 8-char email human-verification
   code sent to kcao@tamu.edu — enter code from your inbox to finish
-resume_used: resume
+resume_used: resume.pdf
 ---
 
 ## Application 2026-06-16

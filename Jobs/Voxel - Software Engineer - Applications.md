@@ -17,4 +17,8 @@ applied_date: null
 deadline: null
 notes: null
 priority: 52.6
+apply_method: none
+apply_result: skipped
+needs_review: false
+apply_error: rate_limit_ashby
 ---

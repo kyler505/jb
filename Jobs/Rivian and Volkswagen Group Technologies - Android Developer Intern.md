@@ -13,17 +13,17 @@ listing_id: ca54e8e6-3ece-423f-ae13-aa1fa705c812
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
-needs_review: true
-apply_method: auto
+needs_review: false
+apply_method: simplify
 priority: 52.68
-apply_result: needs-review
+apply_result: success
 apply_error: Ashby flagged automated submission as possible spam; form fully prefilled
   — submit manually
-resume_used: resume
+resume_used: resume.pdf
 ---
 
 ## Application 2026-06-16

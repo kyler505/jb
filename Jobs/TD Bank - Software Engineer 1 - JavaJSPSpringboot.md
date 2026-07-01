@@ -12,9 +12,13 @@ listing_id: 20bfb83c-0e76-4623-bc05-76177705dcab
 active: true
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 53.02
+apply_method: auto
+apply_result: exception
+needs_review: true
+apply_error: "Page.goto: Target page, context or browser has been closed"
 ---
