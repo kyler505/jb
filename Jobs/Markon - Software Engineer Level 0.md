@@ -12,9 +12,13 @@ listing_id: ce00053f-eecf-4aee-aa60-157679e25a0f
 active: true
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 53.91
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

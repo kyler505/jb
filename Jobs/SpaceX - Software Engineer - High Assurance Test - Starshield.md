@@ -12,9 +12,13 @@ listing_id: 32f28caf-1112-476e-abf0-98d17b1d1c30
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 53.46
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

@@ -15,12 +15,16 @@ listing_id: 768e4d7c-d1fc-4490-94ba-51a4efdf2cb3
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 55.36
 resume_used: resume
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Reached end of wizard — review debug output above
 ---
 
 ## Application 2026-06-23

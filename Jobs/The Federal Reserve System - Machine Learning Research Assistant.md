@@ -12,9 +12,13 @@ listing_id: 4c96ac7c-dfa6-4ecf-98db-36ba104fa9b5
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 54.41
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Reached end of wizard — review debug output above
 ---

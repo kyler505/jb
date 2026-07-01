@@ -12,9 +12,13 @@ listing_id: ce1541f7-9a61-42c0-a010-de52ed8698a1
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 53.46
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

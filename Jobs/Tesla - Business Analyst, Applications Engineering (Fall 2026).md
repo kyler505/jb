@@ -18,4 +18,8 @@ applied_date: null
 deadline: null
 notes: null
 priority: 56.0
+apply_method: none
+apply_result: skipped
+needs_review: false
+apply_error: no_url
 ---

@@ -12,14 +12,15 @@ listing_id: bde6d294-a936-400d-8dea-d3870ed1da28
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
-needs_review: true
-apply_method: assisted-generic
+needs_review: false
+apply_method: simplify
 priority: 55.87
-resume_used: resume
+resume_used: resume.pdf
+apply_result: success
 ---
 
 ## Application 2026-06-23

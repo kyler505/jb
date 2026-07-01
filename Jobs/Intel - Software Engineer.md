@@ -13,15 +13,15 @@ listing_id: 964aa151-7592-4263-922e-adbb07bff4bf
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 needs_review: true
-apply_method: assisted-workday
+apply_method: auto
 priority: 55.87
-apply_result: manual_required
-apply_error: 'verification: Workday Apply Manually flow reached Create Account boundary
+apply_result: wizard_end
+apply_error: Reached end of wizard — review debug output above
   for Intel posting.'
 resume_used: resume
 ---

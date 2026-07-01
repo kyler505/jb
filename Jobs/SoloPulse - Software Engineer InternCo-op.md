@@ -13,12 +13,15 @@ listing_id: 6eab1924-cfad-4106-b8c6-162292dcc659
 active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 54.6
-resume_used: resume
+resume_used: resume.pdf
+apply_method: simplify
+apply_result: success
+needs_review: false
 ---
 
 ## Application 2026-06-22

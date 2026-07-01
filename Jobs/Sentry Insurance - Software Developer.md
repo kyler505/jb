@@ -12,12 +12,16 @@ listing_id: 38f46709-1cac-493a-9148-8bc145669237
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: '2026-06-26: Account created (kcao@tamu.edu). Awaiting verification.'
 priority: 56.41
 resume_used: resume
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Reached end of wizard — review debug output above
 ---
 
 ## Application 2026-06-26

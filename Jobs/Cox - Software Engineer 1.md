@@ -14,12 +14,16 @@ listing_id: 05815051-0821-4191-949b-c618f3a8d36e
 active: true
 date_posted: '2026-06-27'
 date_updated: '2026-06-27'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 58.11
 resume_used: resume
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Reached end of wizard
 ---
 
 ## Application 2026-06-29

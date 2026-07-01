@@ -12,12 +12,15 @@ listing_id: 2573aeed-7da0-4b44-b555-e95d00f6563b
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 55.36
-resume_used: resume
+resume_used: resume.pdf
+apply_method: simplify
+apply_result: success
+needs_review: false
 ---
 
 ## Application 2026-06-27

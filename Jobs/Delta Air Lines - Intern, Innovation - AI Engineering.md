@@ -13,13 +13,16 @@ listing_id: ce513b74-df7e-4731-9a61-31b178de7ccc
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: '2026-06-26 live apply pass: Delta Avature offers non-login entry, but the
   registration flow still requires account password creation before continuing.'
 priority: 56.41
-resume_used: resume
+resume_used: resume.pdf
+apply_method: simplify
+apply_result: success
+needs_review: false
 ---
 
 ## Application 2026-06-26

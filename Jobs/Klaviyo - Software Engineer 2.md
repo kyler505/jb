@@ -12,12 +12,15 @@ listing_id: 72ad42ac-5813-49d3-9be4-1a0eec0b481a
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: null
 priority: 53.46
-resume_used: resume
+resume_used: resume.pdf
+apply_method: auto
+apply_result: success
+needs_review: false
 ---
 
 ## Application 2026-06-22

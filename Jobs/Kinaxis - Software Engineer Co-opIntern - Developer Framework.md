@@ -13,19 +13,19 @@ listing_id: 9a8f5772-8fd1-4ebb-9ef6-1234fc1b849c
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-06-30
 deadline: null
 notes: '2026-06-26 retry with NopeCHA: mobile URL worked to reach iCIMS consent gate,
   email filled + consent checked, but hCaptcha not solved (2 iframes present, free
   datacenter IP may be blocked).'
-needs_review: true
-apply_method: assisted-icims
+needs_review: false
+apply_method: auto
 priority: 57.36
-apply_result: manual_required
+apply_result: success
 apply_error: 'verification: Live probe hit iCIMS email/consent gate and protected-by-hCaptcha
   boundary before application entry.'
-resume_used: resume
+resume_used: resume.pdf
 ---
 
 ## Application 2026-06-23
