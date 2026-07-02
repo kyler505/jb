@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Cedar Rapids, IA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1
 source: simplify-new-grad
-listing_id: e6f1a068-5885-43cd-830b-d0f062dbd2d8
+listing_id: 703cda76-22ba-4087-a142-4fe4289646b5
 active: false
-date_posted: '2026-07-01'
-date_updated: '2026-07-01'
+date_posted: '2026-06-12'
+date_updated: '2026-06-12'
 status: to-apply
 applied_date: null
 deadline: null

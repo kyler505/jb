@@ -9,7 +9,7 @@ terms: []
 url: https://www.equipmentshare.com/careers/openings/?gh_jid=8039619
 source: simplify-new-grad
 listing_id: 67d00b54-f78c-4c8e-8f29-ac05af95af4d
-active: false
+active: true
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply

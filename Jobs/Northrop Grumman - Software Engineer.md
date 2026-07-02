@@ -4,14 +4,16 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Colorado Springs, CO
+- Palmdale, CA
+- San Diego, CA
+- El Segundo, CA
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-DevOps-Engineer---Level-2-3_R10236589
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer_R10238169
 source: simplify-new-grad
-listing_id: bcbaa5af-ffac-4e7d-bec3-2a331e2d1137
+listing_id: c433508a-ffd3-4dbf-a5c3-0aa574c12c6d
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://careers-peraton.icims.com/jobs/168173/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 28fc2b4c-cb26-407d-aba3-a8078f35185b
-active: false
+active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: to-apply

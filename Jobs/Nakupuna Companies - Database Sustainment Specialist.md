@@ -4,14 +4,14 @@ role: Database Sustainment Specialist
 category: new-grad
 discipline: other
 locations:
-- San Diego, CA
+- El Paso, TX
 terms: []
-url: https://careers-nakupuna.icims.com/jobs/6592/job?mobile=true&needsRedirect=false
+url: https://careers-nakupuna.icims.com/jobs/6708/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 454a4fba-92cd-46b0-b7d9-9fa8013ff63e
+listing_id: fa29769a-0705-4064-af82-8c3350997405
 active: true
-date_posted: '2026-05-22'
-date_updated: '2026-05-26'
+date_posted: '2026-07-01'
+date_updated: '2026-07-01'
 status: to-apply
 applied_date: null
 deadline: null

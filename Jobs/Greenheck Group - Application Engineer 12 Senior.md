@@ -4,14 +4,14 @@ role: Application Engineer 1/2 Senior
 category: new-grad
 discipline: other
 locations:
-- Minneapolis, MN
+- Tulsa, OK
 terms: []
-url: https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Minneapolis-MN/Application-Engineer-II-Sr_JR103698
+url: https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Application-Engineer_JR103400-1
 source: simplify-new-grad
-listing_id: 82c179b5-8eab-4417-abf4-e81dbfe9c09b
-active: true
-date_posted: '2026-05-30'
-date_updated: '2026-06-05'
+listing_id: 0a372337-6906-483a-b03b-02fa09adadfd
+active: false
+date_posted: '2026-04-18'
+date_updated: '2026-04-27'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,14 @@ role: Equipment Systems Application Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Appleton, WI
+- Indianapolis, IN
 terms: []
-url: https://jci.wd5.myworkdayjobs.com/JCI/job/Greenville-Wisconsin-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272609
+url: https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272554
 source: simplify-new-grad
-listing_id: a96e051e-0011-414a-ac15-bede853f8700
-active: false
-date_posted: '2026-06-19'
-date_updated: '2026-06-19'
+listing_id: e4d9e3c8-7459-42cf-b37c-47533e01e9a0
+active: true
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

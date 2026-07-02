@@ -4,14 +4,14 @@ role: Data Center Technician
 category: new-grad
 discipline: other
 locations:
-- Allen, TX
+- Ashburn, VA
 terms: []
-url: https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/336183
+url: https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/338100
 source: simplify-new-grad
-listing_id: 1991cf82-2bb8-49be-89fb-986cb1bf7359
+listing_id: 99e2d322-d9da-4421-b018-afe721a3721b
 active: true
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

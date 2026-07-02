@@ -6,16 +6,15 @@ discipline: swe
 locations:
 - Louisville, KY
 terms:
-- Fall 2026
-url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563
+- Spring 2027
+url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147
 source: simplify-internships
-listing_id: eee6c9da-def1-454b-8f5d-8acac504abee
+listing_id: 8b3a040d-9740-4868-a1c8-672234e74f84
 active: false
-date_posted: '2026-05-28'
-date_updated: '2026-05-28'
+date_posted: '2026-07-01'
+date_updated: '2026-07-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 48.51
 ---

@@ -6,13 +6,16 @@ discipline: other
 locations:
 - Remote in USA
 terms:
+- Winter 2026
+- Spring 2026
 - Summer 2026
-url: https://external-telecom-teldta.icims.com/jobs/29516/job?mobile=true&needsRedirect=false
+- Fall 2026
+url: https://external-telecom-teldta.icims.com/jobs/29604/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 0af455a3-1eae-4e10-b7f9-e53dc338fe68
+listing_id: 28ba42da-8a23-42a0-8f6c-e867d40c6e48
 active: false
-date_posted: '2026-06-18'
-date_updated: '2026-06-18'
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,8 +10,8 @@ url: https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply
 source: simplify-new-grad
 listing_id: d976fc06-b431-419f-8dcf-be9c0a1ff03e
 active: true
-date_posted: '2025-11-03'
-date_updated: '2025-11-12'
+date_posted: '2026-06-17'
+date_updated: '2026-06-17'
 status: to-apply
 applied_date: null
 deadline: null

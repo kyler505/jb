@@ -7,15 +7,14 @@ locations:
 - Austin, TX
 - Santa Clara, CA
 terms: []
-url: https://simplify.jobs/c/Applied-Materials
+url: https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Software-Engineer--BS-MS-_R2619063
 source: simplify-new-grad
-listing_id: dd98f134-4ebc-5bcd-edf8-69ce5a5c79f9
+listing_id: d995211b-2dfe-441c-940c-87288da64e3e
 active: false
-date_posted: 2026-06-13
-date_updated: 2026-06-13
+date_posted: '2026-05-01'
+date_updated: '2026-05-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.91
 ---

@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Mesa, AZ
 terms: []
-url: https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026506013-2
+url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Entry-Level-Electrical---Wire-Harness-Assembly-Technician_JR2026506013
 source: simplify-new-grad
-listing_id: 6fb8c7a1-2e41-47a8-becc-7617967cab4a
+listing_id: 385acd80-084a-456f-b4bc-2de1a954b3fc
 active: true
-date_posted: '2026-06-23'
-date_updated: '2026-06-23'
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

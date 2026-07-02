@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/eulerity/jobs/4666015006
 source: simplify-internships
 listing_id: 120a581b-07a7-488c-8947-a7a7c018bd10
-active: true
+active: false
 date_posted: '2026-03-25'
 date_updated: '2026-03-25'
 status: to-apply

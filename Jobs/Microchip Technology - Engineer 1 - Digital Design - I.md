@@ -9,7 +9,7 @@ terms: []
 url: https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I---Digital-Design_R2479-26
 source: simplify-new-grad
 listing_id: af5bc18c-6ddf-40af-b98a-7daf01cb9cd5
-active: true
+active: false
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: to-apply

@@ -10,17 +10,17 @@ terms:
 url: https://careers-kinaxis.icims.com/jobs/34899/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 1cc4772b-29e5-48ac-a3b6-5ecb7c83060f
-active: false
+active: true
 date_posted: '2026-06-09'
 date_updated: '2026-06-09'
 status: applied
 applied_date: 2026-07-01
 deadline: null
 notes: null
-priority: 52.0
-resume_used: resume.pdf
 apply_method: simplify
 apply_result: success
+resume_used: resume.pdf
+priority: 52.0
 needs_review: false
 ---
 

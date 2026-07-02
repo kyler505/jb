@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/verkada/jobs/5099529007
 source: simplify-internships
 listing_id: 1b2a515c-420c-4739-90eb-0ca8c93613b4
-active: true
+active: false
 date_posted: '2026-04-07'
 date_updated: '2026-04-07'
 status: to-apply
