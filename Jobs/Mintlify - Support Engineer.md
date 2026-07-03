@@ -4,14 +4,14 @@ role: Support Engineer
 category: new-grad
 discipline: other
 locations:
-- SF
+- Vancouver, BC, Canada
 terms: []
-url: https://jobs.ashbyhq.com/Mintlify/4b5b6945-1a80-49fe-8bcb-64b3075e7b5f/application
+url: https://jobs.ashbyhq.com/Mintlify/b9ce48c2-a5f0-4825-982e-f49dcded533c/application
 source: simplify-new-grad
-listing_id: 52bf00f3-b325-414e-b820-7e50eb8c5314
+listing_id: a4ff3019-8218-4bc7-bf68-a9b2cd09edae
 active: true
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms: []
 url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Engineer-Simulation--Simulation-_JR2026510876-2
 source: simplify-new-grad
 listing_id: 96f783a6-38d7-4533-a747-e97f4329f028
-active: false
+active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

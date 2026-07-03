@@ -9,7 +9,7 @@ terms: []
 url: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Senior-Technician_R153428
 source: simplify-new-grad
 listing_id: 88f7093d-cc55-4bbe-889a-fe246a426404
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

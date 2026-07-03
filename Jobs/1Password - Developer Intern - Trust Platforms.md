@@ -19,11 +19,11 @@ applied_date: 2026-06-30
 deadline: null
 notes: null
 apply_method: simplify
+needs_review: false
 apply_result: success
+priority: 52.34
 resume_used: resume.pdf
 apply_error: rate_limit_ashby
-priority: 52.34
-needs_review: false
 ---
 
 ## Application 2026-06-16

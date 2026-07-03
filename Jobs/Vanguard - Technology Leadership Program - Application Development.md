@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Charlotte, NC
 terms: []
-url: https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Technology-Leadership-Program---Application-Development_179522
+url: https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Technology-Leadership-Program---Application-Development_180082
 source: simplify-new-grad
-listing_id: fbf4bda6-5fb3-428e-bd67-8018cd55eadd
-active: true
-date_posted: '2026-06-24'
-date_updated: '2026-06-24'
+listing_id: 6f4c0914-355c-44a6-9b15-b9d7f290dd04
+active: false
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

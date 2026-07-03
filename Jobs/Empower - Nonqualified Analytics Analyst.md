@@ -9,7 +9,7 @@ terms: []
 url: https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Nonqualified-Analytics-Analyst_R0059587
 source: simplify-new-grad
 listing_id: 4ced1e29-9d24-463f-b871-a52b510662cf
-active: true
+active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
 status: to-apply

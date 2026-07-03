@@ -9,7 +9,7 @@ terms: []
 url: https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineer_R_13795
 source: simplify-new-grad
 listing_id: 2399ea1e-2d37-402a-8460-7aa0a89dfecb
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

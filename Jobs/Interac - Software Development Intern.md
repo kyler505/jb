@@ -10,7 +10,7 @@ terms:
 url: https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2272
 source: simplify-internships
 listing_id: d85d289c-51f3-4f64-a4f9-fb72a227ccf2
-active: true
+active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
 status: applied

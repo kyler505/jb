@@ -4,15 +4,16 @@ role: Data Analyst Intern
 category: internship
 discipline: data
 locations:
-- Boston, MA
+- Washington, DC
+- Remote in USA
 terms:
-- Summer 2026
-url: https://apply.workable.com/connectprep/j/E4655645B8/apply
+- Fall 2026
+url: https://apply.workable.com/connectprep/j/C0CA13664F/apply
 source: simplify-internships
-listing_id: da1b5b7e-ac67-409e-90d4-3cdb8496619a
-active: true
-date_posted: '2026-06-21'
-date_updated: '2026-06-21'
+listing_id: a6f6dea0-a60c-411e-b4f6-09d69755164b
+active: false
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

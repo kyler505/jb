@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44/application
 source: simplify-internships
 listing_id: 186ef98b-c33e-43bf-98cc-90790cd750a9
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

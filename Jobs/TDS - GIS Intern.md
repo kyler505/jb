@@ -13,7 +13,7 @@ terms:
 url: https://external-telecom-teldta.icims.com/jobs/29604/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 28ba42da-8a23-42a0-8f6c-e867d40c6e48
-active: false
+active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

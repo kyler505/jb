@@ -10,7 +10,7 @@ terms: []
 url: https://careers.rivian.com/jobs/31948?icims=1
 source: simplify-new-grad
 listing_id: e54bf72b-7802-4779-9b90-f29bbb2a2f44
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: to-apply

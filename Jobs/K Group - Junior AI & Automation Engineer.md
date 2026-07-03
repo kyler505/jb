@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.lever.co/kgroupcompanies/aa308573-ffef-4510-bf4c-6c60ccb99f5f/apply
 source: simplify-new-grad
 listing_id: a368174e-0065-4db2-8958-7414c365e08c
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
 status: to-apply

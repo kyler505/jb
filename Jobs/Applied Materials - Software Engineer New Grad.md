@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Santa Clara, CA
 terms: []
-url: 'https://simplify.jobs/c/Applied-Materials'
+url: https://simplify.jobs/c/Applied-Materials
 source: simplify-new-grad
 listing_id: dd98f134-4ebc-5bcd-edf8-69ce5a5c79f9
-active: true
+active: false
 date_posted: 2026-06-13
 date_updated: 2026-06-13
 status: applied

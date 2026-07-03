@@ -10,7 +10,7 @@ terms:
 url: https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Infrared-Imaging---Algorithms_R00247602
 source: simplify-internships
 listing_id: 5baf8620-6e7e-443a-bab5-755a61362095
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-17'
 status: to-apply

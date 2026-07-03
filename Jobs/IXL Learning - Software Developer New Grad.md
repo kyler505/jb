@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []
-url: https://www.ixl.com/company/jobs?gh_jid=8574199002
+url: https://www.ixl.com/company/jobs?gh_jid=8615728002
 source: simplify-new-grad
-listing_id: ff5ca236-813f-4eb6-b6be-b3ba987f26d4
-active: true
-date_posted: '2026-06-02'
-date_updated: '2026-06-02'
+listing_id: 845e6f24-e79e-40b0-a1c6-1ccb862eb008
+active: false
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 47.19
 ---

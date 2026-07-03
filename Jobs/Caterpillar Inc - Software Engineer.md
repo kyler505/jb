@@ -1,0 +1,21 @@
+---
+company: Caterpillar Inc.
+role: Software Engineer
+category: new-grad
+discipline: swe
+locations:
+- Peoria, IL
+- Chicago, IL
+- Irving, TX
+terms: []
+url: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358
+source: simplify-new-grad
+listing_id: 352477a3-29ad-47a1-9809-69a1da28d66c
+active: true
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
+status: to-apply
+applied_date: null
+deadline: null
+notes: null
+---

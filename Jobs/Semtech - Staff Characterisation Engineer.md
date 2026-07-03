@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Bristol, UK
 terms: []
-url: https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285
+url: https://semtech.wd1.myworkdayjobs.com/SemtechJobs/job/GBR---Bristol/Staff-Characterisation-Engineer_REQ3285-2
 source: simplify-new-grad
-listing_id: 7b6c0417-a7c9-4f6f-b819-56e9b9454b5f
+listing_id: 8fa27d1c-b8d6-4e46-9d06-d133a1df424f
 active: true
-date_posted: '2026-04-29'
-date_updated: '2026-04-29'
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

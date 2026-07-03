@@ -12,13 +12,8 @@ listing_id: db1edea5-494c-4e4c-ba29-fcd89622af44
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-02
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-priority: 60.0
-apply_method: auto
-apply_result: success
-resume_used: resume.pdf
-needs_review: false
 ---

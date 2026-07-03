@@ -10,7 +10,7 @@ terms:
 url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Commercial-Data-Science-Intern--Fall-2026_10154154
 source: simplify-internships
 listing_id: 256296b9-f70f-4a10-99a9-7fda3af904fb
-active: true
+active: false
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

@@ -19,10 +19,10 @@ deadline: null
 notes: '2026-06-26 live apply pass: Delta Avature offers non-login entry, but the
   registration flow still requires account password creation before continuing.'
 apply_method: simplify
-apply_result: success
-resume_used: resume.pdf
-priority: 56.41
 needs_review: false
+apply_result: success
+priority: 56.41
+resume_used: resume.pdf
 ---
 
 ## Application 2026-06-26
