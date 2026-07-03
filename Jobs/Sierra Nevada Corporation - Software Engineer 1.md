@@ -12,12 +12,16 @@ listing_id: 41299018-056e-48f6-9e81-0bbe0f108f20
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 resume_used: resume
 priority: 59.35
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Email verification required — account created but not verified
 ---
 
 ## Application 2026-07-02
