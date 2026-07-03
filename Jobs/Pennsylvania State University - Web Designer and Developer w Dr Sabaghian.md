@@ -12,9 +12,13 @@ listing_id: 68e7e6fe-c2f2-4d0e-aef2-876c59df4aa6
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 60.0
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Email verification required — account created but not verified
 ---
