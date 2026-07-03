@@ -12,13 +12,13 @@ listing_id: 63d2c5d8-245e-4969-aa8b-6c7dfc13b38e
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
 priority: 59.35
 apply_method: auto
-apply_result: dead_link
+apply_result: null
 needs_review: true
-apply_error: Job posting no longer exists on Workday
+apply_error: null
 ---

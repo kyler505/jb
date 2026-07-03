@@ -18,6 +18,10 @@ deadline: null
 notes: null
 resume_used: resume
 priority: 59.35
+apply_method: auto
+apply_result: null
+needs_review: true
+apply_error: null
 ---
 
 ## Application 2026-07-02

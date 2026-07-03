@@ -12,16 +12,16 @@ listing_id: 53386220-cb5a-41ed-b49b-91d0d9e5b7e5
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
 resume_used: resume
 priority: 59.35
 apply_method: auto
-apply_result: wizard_end
+apply_result: null
 needs_review: true
-apply_error: Reached end of wizard — review debug output above
+apply_error: null
 ---
 
 ## Application 2026-07-02

@@ -20,5 +20,5 @@ priority: 60.0
 apply_method: auto
 apply_result: wizard_end
 needs_review: true
-apply_error: Email verification required — account created but not verified
+apply_error: Reached end of wizard — review debug output above
 ---
