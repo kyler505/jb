@@ -13,12 +13,15 @@ listing_id: d249bf80-6b21-4361-bcab-b047533c7142
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-30'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-02
 deadline: null
 notes: null
-resume_used: resume
+resume_used: resume.pdf
 priority: 60.11
+apply_method: simplify
+apply_result: success
+needs_review: false
 ---
 
 ## Application 2026-07-02
