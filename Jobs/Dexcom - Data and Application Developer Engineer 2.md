@@ -12,16 +12,16 @@ listing_id: 70b9b44e-b155-4081-9987-0ef48b2ebb0e
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
 apply_method: auto
 needs_review: true
-apply_result: wizard_end
-priority: 58.11
+apply_result: null
+priority: 57.53
 resume_used: resume
-apply_error: Reached end of wizard — review debug output above
+apply_error: null
 ---
 
 ## Application 2026-07-02

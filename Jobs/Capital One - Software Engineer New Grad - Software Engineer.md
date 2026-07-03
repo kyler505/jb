@@ -12,8 +12,13 @@ listing_id: 46675389-0f58-4172-9093-35f703f53e33
 active: true
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
+priority: 60.0
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Email verification required — account created but not verified
 ---
