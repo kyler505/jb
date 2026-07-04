@@ -17,7 +17,7 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 54.11
+priority: 53.53
 apply_method: none
 apply_result: skipped
 needs_review: false
