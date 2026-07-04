@@ -9,7 +9,7 @@ terms: []
 url: https://massmutual.wd1.myworkdayjobs.com/MMCareers/job/New-York-NY/Quantitative-Developer_R20872
 source: simplify-new-grad
 listing_id: bf1afcd5-7183-4d7b-857c-8dfbf306f6ef
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review

@@ -10,7 +10,7 @@ terms: []
 url: https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Business-Intelligence-Analyst_R3274
 source: simplify-new-grad
 listing_id: b8e64f5b-dea0-4811-b995-8a293006084e
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: to-apply

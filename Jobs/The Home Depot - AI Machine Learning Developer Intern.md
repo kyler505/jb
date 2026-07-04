@@ -10,7 +10,7 @@ terms:
 url: https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req185607
 source: simplify-internships
 listing_id: f88cf8a9-bc5a-4c1c-9279-140b822920e4
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply

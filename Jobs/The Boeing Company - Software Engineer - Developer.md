@@ -6,19 +6,14 @@ discipline: swe
 locations:
 - Kent, WA
 terms: []
-url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Software-Engineer---Developer--Associate-and-Experienced-_JR2026516250-1
+url: https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Software-Engineer---Developer--Associate-and-Experienced-_JR2026516250
 source: simplify-new-grad
-listing_id: db1edea5-494c-4e4c-ba29-fcd89622af44
-active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-03
+listing_id: 237d1a91-ddb0-48de-ab9b-062ba32aa4d3
+active: false
+date_posted: '2026-06-24'
+date_updated: '2026-06-24'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-priority: 59.35
-apply_method: auto
-apply_result: success
-resume_used: resume.pdf
-needs_review: false
 ---

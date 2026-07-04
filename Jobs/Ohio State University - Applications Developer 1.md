@@ -9,7 +9,7 @@ terms: []
 url: https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Applications-Developer-1_R154116-1
 source: simplify-new-grad
 listing_id: a4f9ce66-16ae-4d49-ae02-97b49dae5a8b
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review

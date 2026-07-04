@@ -10,7 +10,7 @@ terms:
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---AI-Assisted-Autonomous-Electron-Microscopy_R14353
 source: simplify-internships
 listing_id: e12941ec-573d-4e20-ad33-bf497972096c
-active: true
+active: false
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

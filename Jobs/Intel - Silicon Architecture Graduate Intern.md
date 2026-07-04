@@ -13,7 +13,7 @@ terms:
 url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Silicon-Architecture-Graduate-Intern_JR0283607
 source: simplify-internships
 listing_id: 54658487-cbd9-481a-af00-ad1d73459d42
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

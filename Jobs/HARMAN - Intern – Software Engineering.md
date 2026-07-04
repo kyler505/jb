@@ -18,12 +18,12 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_method: auto
-needs_review: true
-apply_result: exception
-priority: 58.41
 resume_used: resume
+apply_method: auto
 apply_error: _handle_generic() takes 3 positional arguments but 4 were given
+priority: 58.41
+apply_result: exception
+needs_review: true
 ---
 
 ## Application 2026-06-28

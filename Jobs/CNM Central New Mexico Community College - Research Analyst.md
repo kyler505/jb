@@ -9,7 +9,7 @@ terms: []
 url: https://chess.wd1.myworkdayjobs.com/CNMJOBS/job/Central-New-Mexico-Albuquerque-NM/Research-Analyst_JR111376
 source: simplify-new-grad
 listing_id: cc075014-c596-4b7f-96e0-3a1fd1f608d6
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: to-apply

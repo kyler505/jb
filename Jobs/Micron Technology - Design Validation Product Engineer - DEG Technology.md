@@ -9,7 +9,7 @@ terms: []
 url: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR96079
 source: simplify-new-grad
 listing_id: ceeffc80-3190-4538-b7e8-e58617d6dcd9
-active: true
+active: false
 date_posted: '2026-03-31'
 date_updated: '2026-04-01'
 status: to-apply

@@ -4,12 +4,12 @@ role: Data Engineer
 category: new-grad
 discipline: data
 locations:
-- Downers Grove, IL
+- Needham, MA
 terms: []
-url: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Downers-Grove/Data-Engineer_R0942271
+url: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0942398
 source: simplify-new-grad
-listing_id: c4f98b62-29ba-49c8-8b43-178a32e61b9e
-active: true
+listing_id: 4129d915-16f7-40fc-ac64-da4c49bcf1ef
+active: false
 date_posted: '2026-06-20'
 date_updated: '2026-06-20'
 status: to-apply

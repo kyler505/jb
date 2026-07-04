@@ -10,7 +10,7 @@ terms:
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Los-Angeles-CA/Los-Angeles-Based-Graduate-Intern---Building-Energy-Modeling-and-Analysis_R14264
 source: simplify-internships
 listing_id: ad30badf-2fed-40b8-b256-c78ae4612cd1
-active: true
+active: false
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

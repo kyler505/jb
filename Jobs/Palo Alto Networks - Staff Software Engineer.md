@@ -9,7 +9,7 @@ terms: []
 url: https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Software-Engineer_JR-013408
 source: simplify-new-grad
 listing_id: d02026d4-2f71-4409-b31d-8f9903fd4492
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: needs-review

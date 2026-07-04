@@ -9,7 +9,7 @@ terms: []
 url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Engineer-Level-2--AHT-_R10237979
 source: simplify-new-grad
 listing_id: dc745eca-150d-4756-8dbf-8e31321a9587
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review
