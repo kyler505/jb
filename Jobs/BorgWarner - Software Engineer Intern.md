@@ -23,7 +23,7 @@ notes: null
 resume_used: resume
 apply_method: auto
 apply_error: null
-priority: 57.36
+priority: 56.86
 apply_result: null
 needs_review: true
 ---
