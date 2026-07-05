@@ -10,7 +10,7 @@ terms:
 url: https://www.zipline.com/open-roles?gh_jid=7787509003
 source: simplify-internships
 listing_id: ae07548a-a2c2-42c2-950d-889a02c663bc
-active: true
+active: false
 date_posted: '2026-06-27'
 date_updated: '2026-06-27'
 status: applied

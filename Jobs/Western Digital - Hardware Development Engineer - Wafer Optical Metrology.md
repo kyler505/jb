@@ -6,12 +6,12 @@ discipline: hardware
 locations:
 - Fremont, CA
 terms: []
-url: https://jobs.smartrecruiters.com/WesternDigital/744000129015575
+url: https://jobs.smartrecruiters.com/WesternDigital/744000133690902
 source: simplify-new-grad
-listing_id: 1557a19a-986c-4ab5-a485-a5febb3f17fd
+listing_id: 6a1f8feb-f570-4d70-bb2e-9c27c5dea55c
 active: true
-date_posted: '2026-06-11'
-date_updated: '2026-06-11'
+date_posted: '2026-07-05'
+date_updated: '2026-07-05'
 status: to-apply
 applied_date: null
 deadline: null

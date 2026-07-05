@@ -8,13 +8,12 @@ locations:
 terms: []
 url: https://jobs.smartrecruiters.com/PAConsulting/744000105679055
 source: simplify-new-grad
-listing_id: 4b7feeac-2c7a-4260-8556-c8f33800ba50
-active: true
+listing_id: 314e1221-0871-4252-99d8-21a93bedcdee
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-06-13'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 49.68
 ---
