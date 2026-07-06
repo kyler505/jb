@@ -6,12 +6,12 @@ discipline: hardware
 locations:
 - San Jose, CA
 terms: []
-url: https://jobs.smartrecruiters.com/WesternDigital/744000126151504
+url: https://jobs.smartrecruiters.com/WesternDigital/744000126593979
 source: simplify-new-grad
-listing_id: 5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13
-active: true
-date_posted: '2026-05-12'
-date_updated: '2026-05-13'
+listing_id: d3dfea1b-c649-4bb7-a956-377922e3f9be
+active: false
+date_posted: '2026-05-15'
+date_updated: '2026-05-15'
 status: to-apply
 applied_date: null
 deadline: null

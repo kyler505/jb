@@ -7,12 +7,12 @@ locations:
 - Mountain View, CA
 terms:
 - N/A
-url: https://jobs.lever.co/AIFund/bd93a9db-ac0b-40da-af2b-16af18a6c099/apply
+url: https://jobs.lever.co/AIFund/d71c7a46-b358-4851-af8a-83c6f3d859ca/apply
 source: simplify-internships
-listing_id: 11ea5480-70db-4e67-a6e6-4142d944e289
+listing_id: b3ababcb-ddbc-4bdb-82aa-6763882ace0b
 active: true
-date_posted: '2026-04-27'
-date_updated: '2026-05-14'
+date_posted: '2026-07-06'
+date_updated: '2026-07-06'
 status: to-apply
 applied_date: null
 deadline: null

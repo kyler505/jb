@@ -4,14 +4,14 @@ role: Software Engineer Intern - Defense Tech
 category: internship
 discipline: swe
 locations:
-- Washington, DC
+- NYC
 terms:
 - Winter 2028
 - Spring 2028
 - Summer 2028
-url: https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply
+url: https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply
 source: simplify-internships
-listing_id: 4a30dd71-73a0-48c8-9e4a-9422a6952920
+listing_id: 01a5ff88-29a2-4b09-9814-582b4e1fe212
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'

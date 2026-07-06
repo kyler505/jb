@@ -16,10 +16,10 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 54.38
 resume_used: resume
-apply_method: assisted-oracle
+priority: 54.38
 needs_review: true
+apply_method: assisted-oracle
 ---
 
 ## Application 2026-07-06
