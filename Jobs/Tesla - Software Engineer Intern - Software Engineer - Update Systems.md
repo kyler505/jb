@@ -13,8 +13,8 @@ listing_id: 34413142-301d-4b21-9f98-5906f3b491d1
 active: false
 date_posted: '2026-06-07'
 date_updated: '2026-06-07'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 51.06

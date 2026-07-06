@@ -12,8 +12,8 @@ listing_id: b2bb67bf-9913-40bf-82d2-c5cee13d5605
 active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 53.46

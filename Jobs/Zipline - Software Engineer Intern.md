@@ -13,8 +13,8 @@ listing_id: ae07548a-a2c2-42c2-950d-889a02c663bc
 active: false
 date_posted: '2026-06-27'
 date_updated: '2026-06-27'
-status: applied
-applied_date: 2026-07-02
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 resume_used: resume.pdf

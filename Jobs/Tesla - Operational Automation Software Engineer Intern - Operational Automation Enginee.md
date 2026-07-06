@@ -14,8 +14,8 @@ listing_id: 79443f9d-f854-4915-abaf-2312579d6808
 active: true
 date_posted: '2026-06-07'
 date_updated: '2026-06-07'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

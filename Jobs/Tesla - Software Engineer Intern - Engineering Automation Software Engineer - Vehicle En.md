@@ -18,8 +18,8 @@ listing_id: abc9038a-92bb-4e7c-b016-49feb542cb56
 active: true
 date_posted: '2026-06-07'
 date_updated: '2026-06-07'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

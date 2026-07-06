@@ -13,8 +13,8 @@ listing_id: 72e1792e-aad9-40a4-9464-641c1c28ccd1
 active: false
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 resume_used: resume.pdf

@@ -12,8 +12,8 @@ listing_id: 87943df8-c77a-42ba-8e88-9b5f445c3c9e
 active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 50.19

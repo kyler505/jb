@@ -13,8 +13,8 @@ listing_id: 59064f30-dfa0-4d90-bd4a-576cf3536318
 active: true
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

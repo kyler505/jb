@@ -13,8 +13,8 @@ listing_id: a4a728e5-80fa-4bbc-b061-af4dfb06fe10
 active: true
 date_posted: '2026-06-07'
 date_updated: '2026-06-07'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

@@ -16,8 +16,8 @@ listing_id: 57f10307-1152-4194-b7fe-b3925f20ae3e
 active: true
 date_posted: '2026-06-07'
 date_updated: '2026-06-07'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success
