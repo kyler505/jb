@@ -17,14 +17,15 @@ listing_id: ea6951b3-9b64-427e-81bc-8e94883ebf31
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 55.87
-resume_used: resume
-apply_method: assisted-oracle
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-03

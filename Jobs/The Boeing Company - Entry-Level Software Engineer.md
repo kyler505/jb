@@ -13,14 +13,15 @@ listing_id: 2f4065cc-4605-457b-a477-ec094346c65d
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 57.53
-resume_used: resume
-apply_method: assisted-workday
-needs_review: true
+resume_used: resume.pdf
+apply_method: auto
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-06

@@ -12,14 +12,15 @@ listing_id: 1d83102a-79d5-4b64-af59-494b78508aa7
 active: true
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 56.11
-resume_used: resume
-apply_method: assisted-icims
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-05

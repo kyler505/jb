@@ -12,14 +12,15 @@ listing_id: fef271f0-0395-41e1-bc64-b0f2f454e58f
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 55.87
-resume_used: resume
-apply_method: assisted-lever
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-06

@@ -13,14 +13,15 @@ listing_id: 31b3c490-c657-472c-8aec-d367ec0d3a3a
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-30'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 55.87
-resume_used: resume
-apply_method: assisted-generic
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-03

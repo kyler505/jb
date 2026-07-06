@@ -12,16 +12,16 @@ listing_id: 70b9b44e-b155-4081-9987-0ef48b2ebb0e
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 55.87
-apply_method: assisted-workday
+apply_method: auto
 needs_review: true
-apply_error: null
+apply_error: Reached end of wizard — review debug output above
 resume_used: resume
-apply_result: null
+apply_result: wizard_end
 ---
 
 ## Application 2026-07-02
