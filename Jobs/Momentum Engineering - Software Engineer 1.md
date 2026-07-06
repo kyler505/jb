@@ -18,6 +18,8 @@ deadline: null
 notes: null
 priority: 55.87
 resume_used: resume
+apply_method: assisted-generic
+needs_review: true
 ---
 
 ## Application 2026-07-03
@@ -489,15 +491,13 @@ Frame: I want to work at Momentum Engineering because {{specific product/mission
 
 **Apply URL:** https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** prepared — assisted apply with human checkpoints
 
 ### Autofill data
 - **Full name:** Kyler Cao
 - **Email:** kcao@tamu.edu
 - **Phone:** (832) 966-4150
 - **Current location:** College Station, TX
-- **Mailing address:** 9810 Orchid Cove Court, Cypress, TX 77433
-- **Current job:** Product & Engineering Intern at Global Shop Solutions (The Woodlands, TX, 2026-05–present)
 - **LinkedIn:** https://linkedin.com/in/kylercao
 - **GitHub:** https://github.com/kyler505
 - **Portfolio:** https://people.tamu.edu/~kcao
@@ -511,6 +511,30 @@ Frame: I want to work at Momentum Engineering because {{specific product/mission
 - **Race/ethnicity:** Asian
 - **Veteran status:** I am not a protected veteran
 - **Disability status:** No, I do not have a disability
+
+### Assisted apply steps
+- Open the application URL
+- Attach the prepared resume PDF
+- Fill autofill fields from the packet
+- Fill screening answers from the Q&A bank
+- Resolve any visible {{placeholders}} only from facts in the vault
+- Stop at the review boundary and wait for human approval
+- Use the review checklist and stop if any required field is ambiguous
+
+### Legitimate browser behavior profile
+- **Mode:** assisted
+- **Action pacing:** 350-1200 ms between actions
+- **Settle after actions:** 900 ms
+- **Settle after uploads:** 1500 ms
+- **Re-scan each step:** Yes
+- Prefer native clicks, keyboard entry, and visible controls only
+- Avoid hidden-field writes or bypass-style DOM mutation
+- Re-read the page after uploads, save-and-continue actions, and validation errors
+- Simplify Copilot extension is loaded — it auto-detects ATS forms and auto-fills fields from the stored profile. Wait for it to finish before interacting with the form.
+
+### Human checkpoints
+- **verification:** Any email OTP, SMS code, account-creation password, or identity-verification boundary → Pause and request the user to complete the verification step before resuming
+- **final-review:** Final review screen before submit → Present the completed application summary and wait for explicit human approval before submit
 
 ### Screening answers (from Q&A bank)
 **Q: Are you available for a full-time internship?**
@@ -637,5 +661,5 @@ Frame: I want to work at Momentum Engineering because {{specific product/mission
 - [ ] Resume attached and correct version
 - [ ] Work-authorization / sponsorship answer correct
 - [ ] EEO answers reflect your choices
-- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' → {{specific product/mission}}
-- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' → {{what you'd build/learn}}
+- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{specific product/mission}}
+- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{what you'd build/learn}}

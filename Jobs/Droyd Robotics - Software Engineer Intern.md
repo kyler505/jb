@@ -13,27 +13,28 @@ listing_id: 457f1bf0-10ec-41b5-ab16-bc702e1a0fb4
 active: true
 date_posted: '2026-07-04'
 date_updated: '2026-07-04'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 60.72
-resume_used: resume
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-06
 
 **Apply URL:** https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application
 **Resume:** `resume.pdf`  (compiled from Profile/Resumes/resume.tex)
-**State:** prepared — review & submit (pipeline does not submit on its own)
+**State:** prepared — assisted apply with human checkpoints
 
 ### Autofill data
 - **Full name:** Kyler Cao
 - **Email:** kcao@tamu.edu
 - **Phone:** (832) 966-4150
 - **Current location:** College Station, TX
-- **Mailing address:** 9810 Orchid Cove Court, Cypress, TX 77433
-- **Current job:** Product & Engineering Intern at Global Shop Solutions (The Woodlands, TX, 2026-05–present)
 - **LinkedIn:** https://linkedin.com/in/kylercao
 - **GitHub:** https://github.com/kyler505
 - **Portfolio:** https://people.tamu.edu/~kcao
@@ -47,6 +48,31 @@ resume_used: resume
 - **Race/ethnicity:** Asian
 - **Veteran status:** I am not a protected veteran
 - **Disability status:** No, I do not have a disability
+
+### Assisted apply steps
+- Open the application URL
+- Attach the prepared resume PDF
+- Fill autofill fields from the packet
+- Fill screening answers from the Q&A bank
+- Resolve any visible {{placeholders}} only from facts in the vault
+- Stop at the review boundary and wait for human approval
+- Upload resume first before typing free-text fields
+- Re-check required fields after upload because the form may re-render
+
+### Legitimate browser behavior profile
+- **Mode:** assisted
+- **Action pacing:** 350-1200 ms between actions
+- **Settle after actions:** 900 ms
+- **Settle after uploads:** 1500 ms
+- **Re-scan each step:** Yes
+- Prefer native clicks, keyboard entry, and visible controls only
+- Avoid hidden-field writes or bypass-style DOM mutation
+- Re-read the page after uploads, save-and-continue actions, and validation errors
+- Simplify Copilot extension is loaded — it auto-detects ATS forms and auto-fills fields from the stored profile. Wait for it to finish before interacting with the form.
+
+### Human checkpoints
+- **verification:** Any email OTP, SMS code, account-creation password, or identity-verification boundary → Pause and request the user to complete the verification step before resuming
+- **final-review:** Final review screen before submit → Present the completed application summary and wait for explicit human approval before submit
 
 ### Screening answers (from Q&A bank)
 **Q: Are you available for a full-time internship?**
@@ -173,5 +199,5 @@ Frame: I want to work at Droyd Robotics because {{specific product/mission}}. I 
 - [ ] Resume attached and correct version
 - [ ] Work-authorization / sponsorship answer correct
 - [ ] EEO answers reflect your choices
-- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' → {{specific product/mission}}
-- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' → {{what you'd build/learn}}
+- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{specific product/mission}}
+- [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{what you'd build/learn}}
