@@ -13,8 +13,8 @@ listing_id: 5288f66e-452b-4ae7-a62d-12249dce5312
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success

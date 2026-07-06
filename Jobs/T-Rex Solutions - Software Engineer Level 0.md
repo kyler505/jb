@@ -12,8 +12,8 @@ listing_id: 20565db4-0f8e-456e-b6e3-4c484757c633
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success

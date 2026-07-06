@@ -18,8 +18,8 @@ listing_id: 8931b28b-82ca-4fea-acb0-322f33bea17a
 active: true
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success

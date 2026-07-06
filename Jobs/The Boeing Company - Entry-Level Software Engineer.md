@@ -18,4 +18,8 @@ applied_date: null
 deadline: null
 notes: null
 priority: 57.53
+apply_method: auto
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---
