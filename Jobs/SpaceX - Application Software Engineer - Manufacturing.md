@@ -20,7 +20,7 @@ notes: '2026-06-24 live apply pass: saved GPA/SAT/clearance/source answers to Pr
   on several required dropdowns and final reCAPTCHA.'
 apply_result: success
 resume_used: resume.pdf
-priority: 55.87
+priority: 53.02
 needs_review: false
 apply_error: 'captcha: Live probe found a Greenhouse application page with protected-by-reCAPTCHA
   widget at the bottom of the form.'

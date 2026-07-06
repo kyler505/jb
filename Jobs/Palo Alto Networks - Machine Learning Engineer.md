@@ -21,7 +21,7 @@ resume_used: resume
 priority: 54.96
 needs_review: true
 apply_error: Reached end of wizard — review debug output above
-apply_method: auto
+apply_method: assisted-workday
 ---
 
 ## Application 2026-07-03

@@ -22,10 +22,10 @@ applied_date: null
 deadline: null
 notes: null
 apply_result: success
-resume_used: resume.pdf
+resume_used: resume
 priority: 55.87
-needs_review: false
-apply_method: simplify
+needs_review: true
+apply_method: assisted-oracle
 ---
 
 ## Application 2026-07-03

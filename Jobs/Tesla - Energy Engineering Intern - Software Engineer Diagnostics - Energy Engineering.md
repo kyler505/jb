@@ -13,13 +13,13 @@ listing_id: cbf7c33c-7f5a-40a6-9ec5-b27895094847
 active: true
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success
 resume_used: resume.pdf
-priority: 62.0
+priority: 60.11
 needs_review: false
 apply_method: simplify
 ---

@@ -13,13 +13,13 @@ listing_id: dbf73971-bce3-47b3-929f-77929a59c11c
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success
 resume_used: resume.pdf
-priority: 61.35
+priority: 59.53
 needs_review: false
 apply_method: simplify
 ---

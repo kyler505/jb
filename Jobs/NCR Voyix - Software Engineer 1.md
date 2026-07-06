@@ -56,10 +56,8 @@ apply_method: assisted-workday
 - Stop at the review boundary and wait for human approval
 - If needed, click Apply / Apply Manually
 - Expect multi-step wizard; re-read form state after each step
-- If a sign-in or create-account page appears:
--   1. Check for "Sign in with Google" first (preferred)
--   2. If not available, create account with email (kcao@tamu.edu) + generated password
--   3. Save account to ~/.hermes/ats_accounts.json for reuse
+- If a sign-in page appears -> sign in with stored credentials
+- No account creation needed — reuse existing account
 
 ### Legitimate browser behavior profile
 - **Mode:** assisted

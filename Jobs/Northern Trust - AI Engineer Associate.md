@@ -21,7 +21,7 @@ resume_used: resume
 priority: 54.41
 needs_review: true
 apply_error: Reached end of wizard — review debug output above
-apply_method: auto
+apply_method: assisted-workday
 ---
 
 ## Application 2026-07-06
@@ -58,10 +58,8 @@ apply_method: auto
 - Stop at the review boundary and wait for human approval
 - If needed, click Apply / Apply Manually
 - Expect multi-step wizard; re-read form state after each step
-- If a sign-in or create-account page appears:
--   1. Check for "Sign in with Google" first (preferred)
--   2. If not available, create account with email (kcao@tamu.edu) + generated password
--   3. Save account to ~/.hermes/ats_accounts.json for reuse
+- If a sign-in page appears -> sign in with stored credentials
+- No account creation needed — reuse existing account
 
 ### Legitimate browser behavior profile
 - **Mode:** assisted

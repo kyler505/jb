@@ -14,13 +14,13 @@ listing_id: 366c2106-60ad-48af-b7c0-95537c275a17
 active: true
 date_posted: '2026-07-04'
 date_updated: '2026-07-04'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success
 resume_used: resume.pdf
-priority: 59.35
+priority: 58.72
 needs_review: false
 apply_method: simplify
 ---

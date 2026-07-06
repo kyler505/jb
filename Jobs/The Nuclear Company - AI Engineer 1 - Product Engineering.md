@@ -17,10 +17,10 @@ applied_date: 2026-07-06
 deadline: null
 notes: null
 apply_result: success
-resume_used: resume.pdf
+resume_used: resume
 priority: 54.41
-needs_review: false
-apply_method: simplify
+needs_review: true
+apply_method: assisted-greenhouse
 ---
 
 ## Application 2026-07-06

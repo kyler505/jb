@@ -12,8 +12,13 @@ listing_id: 8657ce44-103c-470b-ab04-9bf999be9a5e
 active: true
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-06
 deadline: null
 notes: null
+priority: 58.0
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---
