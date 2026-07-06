@@ -12,14 +12,15 @@ listing_id: c672badc-9657-46ee-bfdf-c31ec6e4308c
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 54.96
-resume_used: resume
-apply_method: assisted-greenhouse
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-03

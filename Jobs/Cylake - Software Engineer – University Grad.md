@@ -12,14 +12,15 @@ listing_id: 9c338480-379d-4ca7-b5c9-3cb606516e95
 active: true
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 54.38
-resume_used: resume
-apply_method: assisted-ashby
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-06

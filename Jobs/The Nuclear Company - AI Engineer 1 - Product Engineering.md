@@ -12,14 +12,15 @@ listing_id: ddd63964-2ce6-45fd-b602-f286b19e23f9
 active: true
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-06
 deadline: null
 notes: null
 priority: 54.41
-resume_used: resume
-apply_method: assisted-greenhouse
-needs_review: true
+resume_used: resume.pdf
+apply_method: simplify
+needs_review: false
+apply_result: success
 ---
 
 ## Application 2026-07-06
