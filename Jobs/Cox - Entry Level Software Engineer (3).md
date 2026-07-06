@@ -12,8 +12,8 @@ listing_id: 90513668-ab20-a6d7-416a-8f97e7886af2
 active: false
 date_posted: 2026-06-23
 date_updated: 2026-06-23
-status: applied
-applied_date: '2026-06-23'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 60.0

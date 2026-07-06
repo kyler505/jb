@@ -13,8 +13,8 @@ listing_id: ca54e8e6-3ece-423f-ae13-aa1fa705c812
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

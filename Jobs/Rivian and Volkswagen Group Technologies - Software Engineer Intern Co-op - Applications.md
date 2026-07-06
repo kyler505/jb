@@ -14,8 +14,8 @@ listing_id: 01796556-ceb0-436a-b501-b3da05d779a7
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

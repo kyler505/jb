@@ -13,8 +13,8 @@ listing_id: d85d289c-51f3-4f64-a4f9-fb72a227ccf2
 active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: applied
-applied_date: '2026-06-23'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_method: assisted-workday

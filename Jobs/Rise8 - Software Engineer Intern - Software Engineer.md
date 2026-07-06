@@ -13,8 +13,8 @@ listing_id: e48da94e-987a-48e6-a34c-82e0558ae8bb
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-07-01'
-status: applied
-applied_date: 2026-07-02
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

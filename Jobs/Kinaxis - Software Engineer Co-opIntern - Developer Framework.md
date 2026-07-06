@@ -13,8 +13,8 @@ listing_id: 9a8f5772-8fd1-4ebb-9ef6-1234fc1b849c
 active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: '2026-06-26 retry with NopeCHA: mobile URL worked to reach iCIMS consent gate,
   email filled + consent checked, but hCaptcha not solved (2 iframes present, free

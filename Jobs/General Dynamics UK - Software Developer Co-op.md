@@ -13,8 +13,8 @@ listing_id: 6198d30f-d48b-4179-b867-53db2b98abe5
 active: false
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 55.91

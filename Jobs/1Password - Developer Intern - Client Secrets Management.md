@@ -14,8 +14,8 @@ listing_id: b7154b79-2d09-4d3d-8208-f32ccf9b1d14
 active: false
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
-status: applied
-applied_date: 2026-06-16
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 needs_review: false

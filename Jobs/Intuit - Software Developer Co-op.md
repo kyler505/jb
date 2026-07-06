@@ -13,8 +13,8 @@ listing_id: d249bf80-6b21-4361-bcab-b047533c7142
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-30'
-status: applied
-applied_date: 2026-07-02
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

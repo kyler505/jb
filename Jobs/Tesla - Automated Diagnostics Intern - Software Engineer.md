@@ -13,8 +13,8 @@ listing_id: 52919742-2339-4055-82e8-694863cdb915
 active: true
 date_posted: '2026-06-07'
 date_updated: '2026-06-07'
-status: applied
-applied_date: 2026-07-01
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

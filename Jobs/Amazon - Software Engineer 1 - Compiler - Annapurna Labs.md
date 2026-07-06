@@ -12,8 +12,8 @@ listing_id: bde6d294-a936-400d-8dea-d3870ed1da28
 active: false
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 needs_review: false

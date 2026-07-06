@@ -12,8 +12,8 @@ listing_id: 939c8fec-74a5-4b4f-8885-23c551df8eca
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-06
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

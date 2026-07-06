@@ -16,11 +16,11 @@ listing_id: null
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: applied
+status: to-apply
 <<<<<<< Updated upstream
-applied_date: '2026-06-29'
+applied_date: null
 =======
-applied_date: 2026-06-29
+applied_date: null
 subrole: Production Infrastructure (Foundations)
 app_location: Washington, D.C.
 >>>>>>> Stashed changes

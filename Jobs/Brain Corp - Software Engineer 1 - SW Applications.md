@@ -12,8 +12,8 @@ listing_id: 56c57ee6-fac8-40fb-ab8a-a18309da33c6
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-02
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

@@ -12,8 +12,8 @@ listing_id: 902db6d9-7c81-4410-82c0-aec596f39447
 active: false
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 needs_review: false

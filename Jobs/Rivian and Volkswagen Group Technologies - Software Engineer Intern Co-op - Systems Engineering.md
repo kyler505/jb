@@ -13,8 +13,8 @@ listing_id: eb5fcd55-8960-46a6-8ce8-c8cf29450489
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

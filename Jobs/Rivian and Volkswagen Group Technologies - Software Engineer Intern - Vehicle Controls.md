@@ -14,7 +14,7 @@ listing_id: e4b179d2-a8ba-49ee-b372-b9eca60450d2
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: applied
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

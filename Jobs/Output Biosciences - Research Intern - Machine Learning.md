@@ -14,8 +14,8 @@ listing_id: 366c2106-60ad-48af-b7c0-95537c275a17
 active: true
 date_posted: '2026-07-04'
 date_updated: '2026-07-04'
-status: applied
-applied_date: 2026-07-05
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

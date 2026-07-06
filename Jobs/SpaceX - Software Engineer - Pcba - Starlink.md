@@ -12,8 +12,8 @@ listing_id: 778e1777-fab9-418c-a38b-1acb7ac03dd1
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

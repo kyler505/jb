@@ -12,8 +12,8 @@ listing_id: 2573aeed-7da0-4b44-b555-e95d00f6563b
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

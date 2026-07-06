@@ -12,8 +12,8 @@ listing_id: 71cb16be-b3da-443d-b544-385c028eadd7
 active: true
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
-status: applied
-applied_date: 2026-07-06
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

@@ -12,8 +12,8 @@ listing_id: 1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

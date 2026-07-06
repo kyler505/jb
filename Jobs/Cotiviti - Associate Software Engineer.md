@@ -12,8 +12,8 @@ listing_id: 553c1a91-6942-422b-9b0f-8dbfd4116a9f
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-03
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

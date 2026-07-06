@@ -14,8 +14,8 @@ listing_id: 2e647756-f76c-4086-aadb-3957cc7031e7
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: applied
-applied_date: 2026-07-02
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

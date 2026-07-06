@@ -12,8 +12,8 @@ listing_id: f9825cd4-5a5a-4643-a150-970091875b43
 active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

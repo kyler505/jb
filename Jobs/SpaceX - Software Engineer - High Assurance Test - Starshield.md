@@ -12,8 +12,8 @@ listing_id: 32f28caf-1112-476e-abf0-98d17b1d1c30
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success
