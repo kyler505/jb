@@ -13,7 +13,7 @@ listing_id: 33d49b99-ffcc-4d51-ab65-58a97d2afbf0
 active: true
 date_posted: '2026-05-01'
 date_updated: '2026-05-01'
-status: pending
+status: applied
 applied_date: 2026-07-07
 deadline: null
 notes: null

@@ -13,8 +13,8 @@ listing_id: 6978c2cb-a592-4751-ba2c-89bca5facdce
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 44.6

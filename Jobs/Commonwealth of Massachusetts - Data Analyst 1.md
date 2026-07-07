@@ -12,8 +12,8 @@ listing_id: c728b525-c527-4ee5-b92d-ae55bd4bb8ef
 active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 44.0

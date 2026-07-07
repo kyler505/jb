@@ -13,8 +13,8 @@ listing_id: 96f783a6-38d7-4533-a747-e97f4329f028
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 56.96

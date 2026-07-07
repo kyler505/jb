@@ -12,8 +12,8 @@ listing_id: e836023a-cc88-4b8c-9d23-7cfd701c6d9d
 active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 44.0

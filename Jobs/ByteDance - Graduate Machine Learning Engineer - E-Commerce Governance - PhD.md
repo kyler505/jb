@@ -12,8 +12,8 @@ listing_id: 28364c69-14ae-4cf0-ae5a-eaa37e2e3cab
 active: true
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 44.51

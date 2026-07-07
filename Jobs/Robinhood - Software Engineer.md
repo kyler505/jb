@@ -12,8 +12,8 @@ listing_id: 836979c6-5b5b-4052-b554-a29bef35e938
 active: true
 date_posted: '2026-06-02'
 date_updated: '2026-06-03'
-status: applied
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 46.3

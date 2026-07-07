@@ -13,8 +13,8 @@ listing_id: 2f4065cc-4605-457b-a477-ec094346c65d
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: applied
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 56.96
