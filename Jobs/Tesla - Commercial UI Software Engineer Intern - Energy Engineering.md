@@ -19,7 +19,7 @@ deadline: null
 notes: null
 apply_result: success
 resume_used: resume
-priority: 51.06
+priority: 50.76
 needs_review: false
 apply_method: auto
 confirmation: null

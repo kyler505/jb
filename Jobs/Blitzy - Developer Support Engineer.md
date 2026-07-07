@@ -18,7 +18,7 @@ deadline: null
 notes: null
 apply_result: success
 resume_used: resume
-priority: 54.38
+priority: 53.91
 needs_review: true
 apply_method: assisted-ashby
 ---

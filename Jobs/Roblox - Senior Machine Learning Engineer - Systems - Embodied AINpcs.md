@@ -19,7 +19,7 @@ notes: null
 resume_used: resume
 apply_method: assisted-generic
 needs_review: true
-priority: 54.41
+priority: 53.87
 ---
 
 ## Application 2026-07-06

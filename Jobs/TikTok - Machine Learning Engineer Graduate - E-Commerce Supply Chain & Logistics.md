@@ -18,7 +18,7 @@ deadline: null
 notes: null
 apply_result: success
 resume_used: resume
-priority: 55.53
+priority: 54.96
 needs_review: true
 apply_method: assisted-generic
 ---
