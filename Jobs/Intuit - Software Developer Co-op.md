@@ -13,13 +13,13 @@ listing_id: d249bf80-6b21-4361-bcab-b047533c7142
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-30'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 57.36
 needs_review: false
-apply_result: not_confirmed
+apply_result: success
 apply_method: simplify
 resume_used: resume.pdf
 ---

@@ -12,13 +12,13 @@ listing_id: ae2ced0f-f2e0-45de-9937-89deb69a3565
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 56.96
 needs_review: false
-apply_result: not_confirmed
+apply_result: success
 apply_method: simplify
 resume_used: resume.pdf
 ---

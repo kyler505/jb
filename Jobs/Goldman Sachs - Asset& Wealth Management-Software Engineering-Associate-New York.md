@@ -12,13 +12,13 @@ listing_id: 3ac699af-5c50-4a7c-81af-6dfb56f595db
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 55.36
 needs_review: false
-apply_result: success
+apply_result: not_confirmed
 apply_method: simplify
 resume_used: resume.pdf
 ---

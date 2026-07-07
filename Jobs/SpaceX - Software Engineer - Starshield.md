@@ -12,13 +12,13 @@ listing_id: 5ca64b1d-da84-4768-a279-1f3101c07ac8
 active: true
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 60.0
 apply_method: simplify
-apply_result: success
+apply_result: not_confirmed
 resume_used: resume.pdf
 needs_review: false
 ---

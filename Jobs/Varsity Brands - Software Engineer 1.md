@@ -12,13 +12,13 @@ listing_id: 209fc4a4-5626-4653-baa1-7a5393231ce9
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 56.41
 needs_review: false
-apply_result: not_confirmed
+apply_result: success
 apply_method: simplify
 resume_used: resume.pdf
 ---
