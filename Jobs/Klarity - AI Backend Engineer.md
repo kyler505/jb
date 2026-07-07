@@ -12,14 +12,14 @@ listing_id: 1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
 priority: 49.02
 needs_review: false
-apply_result: success
-apply_error: rate_limit_ashby
-apply_method: simplify
+apply_result: skipped
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_method: none
 resume_used: resume.pdf
 ---

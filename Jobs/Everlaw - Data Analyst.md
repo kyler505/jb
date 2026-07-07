@@ -12,9 +12,14 @@ listing_id: 2bdda94b-53e5-4e45-adef-2e02fda8717d
 active: true
 date_posted: '2026-06-25'
 date_updated: '2026-07-01'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 47.46
+apply_method: auto
+apply_result: success
+confirmation: page_text
+resume_used: resume.pdf
+needs_review: false
 ---

@@ -12,9 +12,13 @@ listing_id: cba3f10a-54b4-46e8-b274-6000b2fccc5a
 active: true
 date_posted: '2026-06-15'
 date_updated: '2026-06-15'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 47.68
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---
