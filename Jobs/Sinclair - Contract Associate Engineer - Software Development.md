@@ -16,11 +16,11 @@ status: pending
 applied_date: 2026-07-07
 deadline: null
 notes: null
-resume_used: resume.pdf
 priority: 53.91
 needs_review: false
-apply_method: simplify
 apply_result: success
+apply_method: simplify
+resume_used: resume.pdf
 ---
 
 ## Application 2026-07-06

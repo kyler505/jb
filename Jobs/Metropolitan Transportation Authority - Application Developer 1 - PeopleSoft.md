@@ -10,7 +10,7 @@ terms:
 url: https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false
 source: simplify-internships
 listing_id: 82bbe341-ce93-4a6a-a4f1-b0382f37cfc5
-active: true
+active: false
 date_posted: '2026-06-14'
 date_updated: '2026-06-14'
 status: to-apply

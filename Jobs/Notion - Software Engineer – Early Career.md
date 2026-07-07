@@ -1,0 +1,19 @@
+---
+company: Notion
+role: Software Engineer – Early Career
+category: new-grad
+discipline: swe
+locations:
+- SF
+terms: []
+url: https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application
+source: simplify-new-grad
+listing_id: f9a48e11-7815-4b71-980b-7e26e6105db7
+active: true
+date_posted: '2026-07-06'
+date_updated: '2026-07-06'
+status: to-apply
+applied_date: null
+deadline: null
+notes: null
+---

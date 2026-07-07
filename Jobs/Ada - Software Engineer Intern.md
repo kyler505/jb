@@ -1,0 +1,20 @@
+---
+company: Ada
+role: Software Engineer Intern
+category: internship
+discipline: swe
+locations:
+- Remote in Canada
+terms:
+- Fall 2026
+url: https://job-boards.greenhouse.io/ada18/jobs/5180710007
+source: simplify-internships
+listing_id: f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179
+active: true
+date_posted: '2026-07-06'
+date_updated: '2026-07-06'
+status: to-apply
+applied_date: null
+deadline: null
+notes: null
+---

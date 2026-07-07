@@ -4,15 +4,15 @@ role: Software Analyst Intern
 category: internship
 discipline: other
 locations:
-- Scarborough, ON, Canada
+- Toronto, ON, Canada
 terms:
 - Fall 2026
-url: https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1013034
+url: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1
 source: simplify-internships
-listing_id: e83128c3-e916-4700-9226-443f90351f67
+listing_id: a86f5630-f0c3-4242-8953-47503546c39f
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
 status: to-apply
 applied_date: null
 deadline: null

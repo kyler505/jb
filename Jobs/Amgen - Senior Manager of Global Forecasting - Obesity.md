@@ -9,7 +9,7 @@ terms: []
 url: https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Manager-of-Global-Forecasting--Obesity_R-234579
 source: simplify-new-grad
 listing_id: f120f861-e92a-472b-88a8-e4979956a891
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-06-13'
 status: to-apply

@@ -16,10 +16,10 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: success
-resume_used: resume.pdf
 priority: 49.02
 needs_review: false
+apply_result: success
 apply_error: rate_limit_ashby
 apply_method: simplify
+resume_used: resume.pdf
 ---

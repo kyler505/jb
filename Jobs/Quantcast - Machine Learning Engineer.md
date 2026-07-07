@@ -6,19 +6,14 @@ discipline: ml
 locations:
 - SF
 terms: []
-url: https://jobs.lever.co/quantcast/85c49bea-f862-4972-a334-a8e24d47fec7/apply
+url: https://jobs.ashbyhq.com/quantcast/2a6d8f0e-e0f3-4114-944b-2736b26072c4/application
 source: simplify-new-grad
-listing_id: 4e62702d-5d60-456c-8db4-e845a948cd06
+listing_id: 9bb1e297-4e54-423d-95b6-87905ec6f140
 active: false
-date_posted: '2026-06-22'
-date_updated: '2026-06-22'
-status: applied
-applied_date: 2026-06-30
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-priority: 53.36
-apply_method: simplify
-apply_result: success
-resume_used: resume.pdf
-needs_review: false
 ---

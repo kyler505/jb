@@ -4,14 +4,14 @@ role: Field Service Professional
 category: new-grad
 discipline: other
 locations:
-- Fontana, CA
+- Chicago, IL
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Rialto-Field-Service-Professional-Rialto,-CA-CA-92376/1404199000/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Chicago-Field-Service-Professional-Chicago,-IL-IL-60616/1401327800/?ats=successfactors
 source: simplify-new-grad
-listing_id: c8d156e3-53e3-4705-a6af-acf096994913
-active: true
-date_posted: '2026-06-29'
-date_updated: '2026-06-29'
+listing_id: 159a564b-9bf6-4e38-b25e-8299ea7ff313
+active: false
+date_posted: '2026-06-18'
+date_updated: '2026-06-18'
 status: to-apply
 applied_date: null
 deadline: null

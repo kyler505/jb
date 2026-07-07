@@ -7,15 +7,14 @@ locations:
 - Toronto, ON, Canada
 terms:
 - Fall 2026
-url: https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/ALM-Scripting---Reporting-Intern_R1012816
+url: https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/ALM-Scripting---Reporting-Intern_R1012816-1
 source: simplify-internships
-listing_id: 40027077-92ea-46e7-9d59-8ed4711ffedf
+listing_id: a0948c1a-8ffa-4ed1-bee6-a7d2d6e0ebd1
 active: false
-date_posted: '2026-05-22'
-date_updated: '2026-05-22'
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 26.48
 ---

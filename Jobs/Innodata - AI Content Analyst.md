@@ -4,12 +4,12 @@ role: AI Content Analyst
 category: new-grad
 discipline: other
 locations:
-- Tennessee
+- Utah
 terms: []
-url: https://job-boards.greenhouse.io/innodatainc/jobs/4266737009
+url: https://job-boards.greenhouse.io/innodatainc/jobs/4266638009
 source: simplify-new-grad
-listing_id: cd0abd57-42f1-4881-b493-a2dbc66efb4e
-active: true
+listing_id: e0c9586d-765f-40ba-8f23-b95433868d36
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

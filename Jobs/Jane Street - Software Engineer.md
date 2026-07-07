@@ -7,12 +7,12 @@ locations:
 - NYC
 terms:
 - N/A
-url: https://job-boards.greenhouse.io/janestreet/jobs/8160791002
+url: https://job-boards.greenhouse.io/janestreet/jobs/8599644002
 source: simplify-internships
-listing_id: a69a80fa-3d57-47ec-940d-acbac42179b6
+listing_id: 4770a4e3-28be-40d7-b5a2-700c0307960d
 active: false
-date_posted: '2025-11-03'
-date_updated: '2025-11-10'
+date_posted: '2026-07-06'
+date_updated: '2026-07-06'
 status: to-apply
 applied_date: null
 deadline: null

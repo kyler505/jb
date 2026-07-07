@@ -21,7 +21,7 @@ terms: []
 url: https://eczy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30317
 source: simplify-new-grad
 listing_id: db8d3dbb-93d7-494e-8138-1a0b2df71207
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-07-03'
 status: to-apply

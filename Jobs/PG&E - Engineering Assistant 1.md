@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Oakland, CA
 terms: []
-url: https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1404547000/?ats=successfactors
+url: https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1383125900/?ats=successfactors
 source: simplify-new-grad
-listing_id: fc33c6e7-3dcf-4038-98bd-d226dce278f7
+listing_id: 7b688238-e23e-4f54-ad02-d8ba1449cf8e
 active: true
-date_posted: '2026-06-30'
-date_updated: '2026-06-30'
+date_posted: '2026-07-06'
+date_updated: '2026-07-06'
 status: to-apply
 applied_date: null
 deadline: null

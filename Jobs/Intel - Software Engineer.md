@@ -10,19 +10,19 @@ terms: []
 url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009
 source: simplify-new-grad
 listing_id: 964aa151-7592-4263-922e-adbb07bff4bf
-active: false
+active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
-needs_review: true
-apply_method: auto
 priority: 55.36
+needs_review: true
 apply_result: dead_link — review debug output above for Intel posting.'
-resume_used: resume
 apply_error: Job posting no longer exists on Workday
+apply_method: auto
+resume_used: resume
 ---
 
 ## Application 2026-06-23

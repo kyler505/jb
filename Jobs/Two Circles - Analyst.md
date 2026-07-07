@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/twocircles/j/16584D9799/apply
 source: simplify-new-grad
 listing_id: d29d7818-d54b-48d7-8ade-3de2f17f932f
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

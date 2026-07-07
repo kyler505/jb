@@ -4,17 +4,16 @@ role: Software Engineer - Starshield
 category: new-grad
 discipline: swe
 locations:
-- Redmond, WA
+- West Athens, CA
 terms: []
-url: https://boards.greenhouse.io/spacex/jobs/8501199002
+url: https://boards.greenhouse.io/spacex/jobs/8621649002
 source: simplify-new-grad
-listing_id: 221eab43-824d-4a90-bc17-87dc2c30270a
+listing_id: 5ca64b1d-da84-4768-a279-1f3101c07ac8
 active: true
-date_posted: '2026-04-10'
-date_updated: '2026-04-10'
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 42.12
 ---

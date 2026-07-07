@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/5081859007
 source: simplify-internships
 listing_id: 6104e4ee-d7df-4d66-a955-a31dd4b15f55
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

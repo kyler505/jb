@@ -9,7 +9,7 @@ terms: []
 url: https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294
 source: simplify-new-grad
 listing_id: 2d211cf5-7727-4985-9a34-6afd5a6ea8f9
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review

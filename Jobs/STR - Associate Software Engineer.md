@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Arlington, VA
 terms: []
-url: https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4683362006
+url: https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4694805006
 source: simplify-new-grad
-listing_id: bc371bce-9934-43cb-ba6d-a5e5a3c27169
+listing_id: a85e12db-3ac8-4fb9-bd45-fd43ae568708
 active: false
-date_posted: '2026-05-21'
-date_updated: '2026-05-21'
+date_posted: '2026-07-06'
+date_updated: '2026-07-06'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 45.17
 ---

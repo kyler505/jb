@@ -11,7 +11,7 @@ terms: []
 url: https://apply.careers.microsoft.com/careers/job/1970393556863227
 source: simplify-new-grad
 listing_id: 56b688ac-5461-4812-9be2-46a7c60e49be
-active: true
+active: false
 date_posted: '2026-05-14'
 date_updated: '2026-07-03'
 status: to-apply

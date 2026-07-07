@@ -12,13 +12,8 @@ listing_id: 326959cb-4de4-4551-9cd0-496854f51f13
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: pending
-applied_date: 2026-07-06
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-priority: 56.96
-apply_method: simplify
-apply_result: success
-resume_used: resume.pdf
-needs_review: false
 ---
