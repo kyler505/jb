@@ -14,9 +14,13 @@ listing_id: bf6301d3-a965-4a41-8bf1-b122e83223cc
 active: true
 date_posted: '2026-06-04'
 date_updated: '2026-06-04'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 44.73
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

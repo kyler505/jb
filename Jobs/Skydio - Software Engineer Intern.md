@@ -14,11 +14,15 @@ listing_id: 2b1522e6-dea2-45f4-ad2e-0ffa0f132863
 active: true
 date_posted: '2026-05-06'
 date_updated: '2026-05-06'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
 priority: 44.58
+apply_method: none
+apply_result: skipped
+needs_review: false
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
 ---
 
 ## Research
