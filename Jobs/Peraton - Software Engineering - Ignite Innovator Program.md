@@ -12,15 +12,24 @@ listing_id: 2573aeed-7da0-4b44-b555-e95d00f6563b
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
+<<<<<<< Updated upstream
 priority: 52.19
 needs_review: false
 apply_result: success
 apply_method: simplify
 resume_used: resume.pdf
+=======
+apply_result: skipped
+resume_used: resume.pdf
+priority: 52.19
+needs_review: false
+apply_method: none
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+>>>>>>> Stashed changes
 ---
 
 ## Application 2026-06-27

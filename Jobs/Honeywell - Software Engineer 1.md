@@ -12,8 +12,16 @@ listing_id: b529b450-7bf3-46fa-8dc5-19bb85f8310f
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-07-01'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
+<<<<<<< Updated upstream
+=======
+priority: 53.02
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
+>>>>>>> Stashed changes
 ---

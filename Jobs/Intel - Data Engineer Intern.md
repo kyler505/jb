@@ -13,9 +13,13 @@ listing_id: aec3e3cb-1b29-499e-85f5-1be1da41c842
 active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 52.96
+apply_method: auto
+apply_result: dead_link
+needs_review: true
+apply_error: Job posting no longer exists on Workday
 ---

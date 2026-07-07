@@ -13,16 +13,25 @@ listing_id: ce513b74-df7e-4731-9a61-31b178de7ccc
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: '2026-06-26 live apply pass: Delta Avature offers non-login entry, but the
   registration flow still requires account password creation before continuing.'
+<<<<<<< Updated upstream
 priority: 53.02
 needs_review: false
 apply_result: success
 apply_method: simplify
 resume_used: resume.pdf
+=======
+apply_result: skipped
+resume_used: resume.pdf
+priority: 53.02
+needs_review: false
+apply_method: none
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+>>>>>>> Stashed changes
 ---
 
 ## Application 2026-06-26

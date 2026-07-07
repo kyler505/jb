@@ -12,7 +12,7 @@ listing_id: 93e11583-f913-4e89-9721-147a9c59cf7f
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null

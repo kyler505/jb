@@ -12,9 +12,13 @@ listing_id: d078e4cc-a232-490d-992d-dcd9dd783c78
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
 priority: 53.02
+apply_method: none
+apply_result: skipped
+needs_review: false
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
 ---

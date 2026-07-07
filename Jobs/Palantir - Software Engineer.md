@@ -12,7 +12,7 @@ listing_id: 7e134007-3fa8-4732-84ca-e7119c8f4116
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null

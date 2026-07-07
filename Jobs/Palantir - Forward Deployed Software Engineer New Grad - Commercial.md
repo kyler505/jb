@@ -12,7 +12,7 @@ listing_id: fef271f0-0395-41e1-bc64-b0f2f454e58f
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null

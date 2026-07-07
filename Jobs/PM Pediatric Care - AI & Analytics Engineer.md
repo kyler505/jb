@@ -12,9 +12,13 @@ listing_id: cbd36f9a-2045-4594-9966-504ba808e61a
 active: true
 date_posted: '2026-07-05'
 date_updated: '2026-07-05'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 52.72
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Reached end of wizard — review debug output above
 ---

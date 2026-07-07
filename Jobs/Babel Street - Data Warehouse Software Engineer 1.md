@@ -15,7 +15,7 @@ listing_id: 6ccf3a8c-72d2-4449-9933-cd01ab31911f
 active: true
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null

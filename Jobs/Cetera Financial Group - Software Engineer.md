@@ -12,9 +12,13 @@ listing_id: 77adf232-6e00-43ad-807d-31429904aa0a
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 52.6
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

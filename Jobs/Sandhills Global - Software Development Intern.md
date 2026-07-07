@@ -15,7 +15,7 @@ listing_id: 1560cb5a-5cc1-4788-aa55-44b8c25b2336
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
