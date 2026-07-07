@@ -13,7 +13,7 @@ active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: pending
-applied_date: 2026-07-07
+applied_date: null
 deadline: null
 notes: '2026-06-24 live apply pass: saved GPA/SAT/clearance/source answers to Profile/QA,
   attached resume, filled core fields; remaining blockers are Greenhouse select mis-targeting

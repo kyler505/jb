@@ -12,9 +12,13 @@ listing_id: 707771fb-25df-4144-b1f3-3c16c3211429
 active: true
 date_posted: '2026-05-27'
 date_updated: '2026-05-27'
-status: to-apply
+status: pending
 applied_date: null
 deadline: null
 notes: null
 priority: 45.17
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
+needs_review: false
 ---

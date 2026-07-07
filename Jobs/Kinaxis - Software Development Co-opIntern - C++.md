@@ -13,9 +13,14 @@ listing_id: 937ea815-7e19-4bed-a8eb-a226a5201df1
 active: true
 date_posted: '2026-05-25'
 date_updated: '2026-05-25'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 46.84
+apply_method: auto
+apply_result: success
+confirmation: page_text
+resume_used: resume.pdf
+needs_review: false
 ---

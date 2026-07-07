@@ -12,7 +12,7 @@ listing_id: 9bedbbe2-5b65-49c2-8f45-8a4d4f2b673e
 active: true
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
-status: pending
+status: applied
 applied_date: 2026-07-07
 deadline: null
 notes: null

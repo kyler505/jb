@@ -13,9 +13,13 @@ listing_id: b2108b78-20bb-4950-b769-4d3f0cfd7ebe
 active: true
 date_posted: '2026-05-12'
 date_updated: '2026-05-13'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 priority: 45.15
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Reached end of wizard — review debug output above
 ---

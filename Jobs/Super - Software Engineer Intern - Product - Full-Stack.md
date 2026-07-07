@@ -13,9 +13,14 @@ listing_id: 4b224d26-3462-4bfa-9ac0-bbabe852eea9
 active: true
 date_posted: '2026-05-11'
 date_updated: '2026-05-11'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 45.05
+apply_method: auto
+apply_result: success
+confirmation: page_text
+resume_used: resume.pdf
+needs_review: false
 ---

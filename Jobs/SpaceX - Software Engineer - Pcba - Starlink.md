@@ -13,7 +13,7 @@ active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: pending
-applied_date: 2026-07-07
+applied_date: null
 deadline: null
 notes: null
 priority: 50.68

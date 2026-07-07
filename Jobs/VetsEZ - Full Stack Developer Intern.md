@@ -15,7 +15,7 @@ active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: pending
-applied_date: 2026-07-07
+applied_date: null
 deadline: null
 notes: '2026-06-26 submitted successfully on Breezy. User-confirmed: no business/LLC,
   no SMS, yes to clearance process, yes to full-time W2.'
