@@ -13,7 +13,7 @@ active: true
 <<<<<<< Updated upstream
 date_posted: '2026-06-26'
 date_updated: '2026-07-07'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
@@ -24,7 +24,7 @@ status: skipped
 applied_date: null
 deadline: null
 notes: null
-priority: 52.19
+priority: 53.91
 apply_method: none
 apply_result: skipped
 needs_review: false

@@ -13,7 +13,7 @@ req_id: '275315'
 active: true
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null

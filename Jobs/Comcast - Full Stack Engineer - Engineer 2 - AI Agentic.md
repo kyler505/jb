@@ -12,8 +12,13 @@ listing_id: c3607e8e-ae37-4aab-b205-0b645e5672f9
 active: true
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
+priority: 59.35
+apply_method: auto
+apply_result: wizard_end
+needs_review: true
+apply_error: Email verification required — account created but not verified
 ---
