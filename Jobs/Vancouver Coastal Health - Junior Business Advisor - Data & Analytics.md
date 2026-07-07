@@ -12,9 +12,14 @@ listing_id: 747ce55a-4006-4c8c-9686-7b9f94a6f30e
 active: true
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
-status: to-apply
-applied_date: null
+status: applied
+applied_date: 2026-07-07
 deadline: null
 notes: null
 priority: 47.46
+apply_method: auto
+apply_result: success
+confirmation: page_text
+resume_used: resume.pdf
+needs_review: false
 ---
