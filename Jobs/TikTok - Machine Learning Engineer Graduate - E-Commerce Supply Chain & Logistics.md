@@ -12,15 +12,15 @@ listing_id: 939c8fec-74a5-4b4f-8885-23c551df8eca
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
 apply_result: success
-resume_used: resume
+resume_used: resume.pdf
 priority: 54.96
-needs_review: true
-apply_method: assisted-generic
+needs_review: false
+apply_method: simplify
 ---
 
 ## Application 2026-07-03

@@ -17,9 +17,11 @@ applied_date: null
 deadline: null
 notes: null
 resume_used: resume
-apply_method: assisted-lever
-needs_review: true
+apply_method: none
+needs_review: false
 priority: 55.36
+apply_result: skipped
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
 ---
 
 ## Application 2026-07-06

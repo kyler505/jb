@@ -14,13 +14,16 @@ listing_id: 3b16aba4-17cf-4636-b0fa-03bc53122db2
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: '2026-06-26 submitted successfully on Breezy. User-confirmed: no business/LLC,
   no SMS, yes to clearance process, yes to full-time W2.'
-resume_used: resume
+resume_used: resume.pdf
 priority: 55.02
+apply_method: simplify
+apply_result: success
+needs_review: false
 ---
 
 ## Application 2026-06-26
