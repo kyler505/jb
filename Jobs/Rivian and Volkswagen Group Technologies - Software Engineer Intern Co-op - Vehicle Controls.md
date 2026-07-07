@@ -14,15 +14,15 @@ listing_id: f7d62ce6-b150-43b3-a5f3-0d462c9460f4
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
 priority: 50.48
 needs_review: false
-apply_result: success
+apply_result: skipped
 apply_error: rate_limit_ashby
-apply_method: simplify
+apply_method: none
 resume_used: resume.pdf
 ---
 

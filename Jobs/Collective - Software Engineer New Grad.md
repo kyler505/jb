@@ -12,13 +12,14 @@ listing_id: 77e7808f-4911-4b76-a14a-520cafb5daf8
 active: true
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
 priority: 50.34
 needs_review: false
-apply_result: success
-apply_method: simplify
+apply_result: skipped
+apply_method: none
 resume_used: resume.pdf
+apply_error: rate_limit_ashby
 ---

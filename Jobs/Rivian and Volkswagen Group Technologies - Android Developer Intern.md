@@ -13,16 +13,16 @@ listing_id: ca54e8e6-3ece-423f-ae13-aa1fa705c812
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
 priority: 50.48
 needs_review: false
-apply_result: success
-apply_error: Ashby flagged automated submission as possible spam; form fully prefilled
+apply_result: skipped
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
   — submit manually
-apply_method: simplify
+apply_method: none
 resume_used: resume.pdf
 ---
 
