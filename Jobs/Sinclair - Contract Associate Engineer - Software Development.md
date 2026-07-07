@@ -12,14 +12,15 @@ listing_id: 04a97aa9-6df1-4408-aba8-a02b60712121
 active: true
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
-status: to-apply
-applied_date: null
+status: pending
+applied_date: 2026-07-07
 deadline: null
 notes: null
-resume_used: resume
+resume_used: resume.pdf
 priority: 53.91
-needs_review: true
-apply_method: assisted-oracle
+needs_review: false
+apply_method: simplify
+apply_result: success
 ---
 
 ## Application 2026-07-06

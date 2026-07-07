@@ -21,7 +21,7 @@ resume_used: resume.pdf
 priority: 53.91
 needs_review: false
 apply_method: auto
-confirmation: page_text
+confirmation: email
 ---
 
 ## Application 2026-07-06
@@ -201,3 +201,4 @@ Frame: I want to work at Clera because {{specific product/mission}}. I like buil
 - [ ] EEO answers reflect your choices
 - [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{specific product/mission}}
 - [ ] ⚠ Resolve placeholder in answer 'Why do you want to work here?' -> {{what you'd build/learn}}
+

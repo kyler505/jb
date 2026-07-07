@@ -12,14 +12,16 @@ listing_id: 880e56e4-25c9-471f-b83a-aba5765b085f
 active: true
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: null
 resume_used: resume
 priority: 53.91
 needs_review: true
-apply_method: assisted-workday
+apply_method: auto
+apply_result: wizard_end
+apply_error: Email verification required — account created but not verified
 ---
 
 ## Application 2026-07-06
