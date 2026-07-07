@@ -12,13 +12,14 @@ listing_id: 5b37ce6e-1b4e-4d48-bd5a-a44127328601
 active: true
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
-status: to-apply
+status: skipped
 applied_date: null
 deadline: null
 notes: null
-priority: 58.11
+priority: 57.53
 needs_review: false
-apply_result: success
-apply_method: simplify
+apply_result: skipped
+apply_method: none
 resume_used: resume.pdf
+apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
 ---

@@ -19,7 +19,7 @@ deadline: null
 notes: null
 priority: 56.96
 apply_method: auto
-apply_result: success
+apply_result: not_confirmed
 resume_used: resume.pdf
 needs_review: false
 ---
