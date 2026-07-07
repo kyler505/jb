@@ -12,8 +12,8 @@ listing_id: 545173b0-fc84-4b11-82c5-27fa643e1c0a
 active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
-status: pending
-applied_date: 2026-07-06
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 apply_result: success

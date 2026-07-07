@@ -13,7 +13,7 @@ listing_id: 3f040704-5c6c-4d37-b7d2-019837f8b910
 active: true
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

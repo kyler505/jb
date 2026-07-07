@@ -12,7 +12,7 @@ listing_id: 778e1777-fab9-418c-a38b-1acb7ac03dd1
 active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

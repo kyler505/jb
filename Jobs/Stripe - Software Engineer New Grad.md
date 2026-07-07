@@ -12,7 +12,7 @@ listing_id: a55aca04-011d-41fa-949e-be14c4e3956f
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

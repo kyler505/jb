@@ -12,7 +12,7 @@ listing_id: 27c87258-83f7-4250-aea7-489c57222e3e
 active: true
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

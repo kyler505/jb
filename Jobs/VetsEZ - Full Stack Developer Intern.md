@@ -14,7 +14,7 @@ listing_id: 3b16aba4-17cf-4636-b0fa-03bc53122db2
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: '2026-06-26 submitted successfully on Breezy. User-confirmed: no business/LLC,

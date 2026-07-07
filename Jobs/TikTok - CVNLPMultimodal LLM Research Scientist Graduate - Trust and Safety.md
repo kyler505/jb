@@ -12,7 +12,7 @@ listing_id: f624cacf-5cd8-42ea-bc15-38f980bc6e29
 active: true
 date_posted: '2026-06-15'
 date_updated: '2026-06-15'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

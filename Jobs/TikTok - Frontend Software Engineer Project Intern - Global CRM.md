@@ -13,7 +13,7 @@ listing_id: 35d73839-e8d5-46bd-9d06-9cfafc3a8c62
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
