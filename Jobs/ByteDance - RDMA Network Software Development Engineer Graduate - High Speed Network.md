@@ -12,7 +12,7 @@ listing_id: 70940fcd-5a16-43f2-a8b6-6d04d6592298
 active: true
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

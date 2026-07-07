@@ -13,7 +13,7 @@ listing_id: 135ae271-5566-4481-9f22-90156e57f0d7
 active: true
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

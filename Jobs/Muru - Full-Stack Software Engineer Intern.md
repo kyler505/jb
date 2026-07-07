@@ -13,8 +13,8 @@ listing_id: ac9a60d7-eb51-4cbb-af68-97f00839f454
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: applied
-applied_date: 2026-06-30
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 57.87

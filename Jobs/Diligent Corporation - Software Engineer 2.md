@@ -12,8 +12,8 @@ listing_id: d2726d53-5ea3-4e53-ac66-793145403143
 active: true
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
-status: pending
-applied_date: 2026-07-06
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 60.0

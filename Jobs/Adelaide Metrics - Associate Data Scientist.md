@@ -12,7 +12,7 @@ listing_id: f4ca77c2-d762-41df-ab99-c8d70e490f7e
 active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

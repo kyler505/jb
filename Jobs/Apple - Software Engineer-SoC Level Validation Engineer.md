@@ -12,7 +12,7 @@ listing_id: 707771fb-25df-4144-b1f3-3c16c3211429
 active: true
 date_posted: '2026-05-27'
 date_updated: '2026-05-27'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

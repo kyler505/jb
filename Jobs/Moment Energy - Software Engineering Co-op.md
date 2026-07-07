@@ -13,8 +13,8 @@ listing_id: dbf73971-bce3-47b3-929f-77929a59c11c
 active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: pending
-applied_date: 2026-07-06
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 59.53

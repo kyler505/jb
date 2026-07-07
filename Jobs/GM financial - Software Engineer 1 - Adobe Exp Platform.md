@@ -12,7 +12,7 @@ listing_id: 85525550-ebe6-4c3e-a7d0-f0d95126238d
 active: true
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
-status: pending
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
