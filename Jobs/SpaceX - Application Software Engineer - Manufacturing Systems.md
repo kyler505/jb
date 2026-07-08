@@ -16,7 +16,7 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 51.04
+priority: 50.68
 needs_review: false
 apply_result: success
 apply_method: simplify
