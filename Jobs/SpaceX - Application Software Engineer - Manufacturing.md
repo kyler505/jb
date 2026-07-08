@@ -12,18 +12,18 @@ listing_id: 423da967-d87f-4eb2-878e-67789a6b375b
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: to-apply
+status: needs-review
 applied_date: null
 deadline: null
 notes: '2026-06-24 live apply pass: saved GPA/SAT/clearance/source answers to Profile/QA,
   attached resume, filled core fields; remaining blockers are Greenhouse select mis-targeting
   on several required dropdowns and final reCAPTCHA.'
 priority: 52.6
-needs_review: false
-apply_result: not_confirmed
-apply_error: 'captcha: Live probe found a Greenhouse application page with protected-by-reCAPTCHA
+needs_review: true
+apply_result: exception
+apply_error: "Page.goto: Navigation to \"https://boards.greenhouse.io/spacex/jobs/8603667002\" is interrupted by another navigation to \"https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/64"
   widget at the bottom of the form.'
-apply_method: simplify
+apply_method: auto
 resume_used: resume.pdf
 ---
 

@@ -12,13 +12,13 @@ listing_id: a55aca04-011d-41fa-949e-be14c4e3956f
 active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 48.48
 needs_review: false
-apply_result: success
+apply_result: not_confirmed
 apply_method: simplify
 resume_used: resume.pdf
 ---

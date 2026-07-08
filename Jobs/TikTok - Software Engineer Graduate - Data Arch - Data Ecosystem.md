@@ -12,13 +12,13 @@ listing_id: c89cddfc-ea4d-453c-91cd-3f9293e56a32
 active: true
 date_posted: '2026-06-15'
 date_updated: '2026-06-15'
-status: pending
-applied_date: 2026-07-07
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
 priority: 49.68
 needs_review: false
-apply_result: success
+apply_result: not_confirmed
 apply_method: simplify
 resume_used: resume.pdf
 ---
