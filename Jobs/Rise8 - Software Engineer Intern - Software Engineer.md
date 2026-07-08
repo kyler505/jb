@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/rise8/jobs/4359623007
 source: simplify-internships
 listing_id: e48da94e-987a-48e6-a34c-82e0558ae8bb
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-07-01'
 status: skipped
@@ -22,7 +22,7 @@ needs_review: false
 apply_result: skipped
 apply_method: none
 resume_used: resume.pdf
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---
 
 ## Application 2026-07-02

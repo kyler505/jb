@@ -12,7 +12,7 @@ terms:
 url: https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering--Co-Op_REQ-1000043149
 source: simplify-internships
 listing_id: dd5d4222-905c-432a-b066-70d2456051d6
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

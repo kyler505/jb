@@ -6,15 +6,14 @@ discipline: hardware
 locations:
 - Moscow, ID
 terms: []
-url: https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2025-17988
+url: https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Hardware-Engineer_2026-21863
 source: simplify-new-grad
-listing_id: 226fa178-4dd8-4d2e-ac13-51bab947bd6c
+listing_id: b5c32f96-f531-4853-a558-ad1145f42fe2
 active: true
-date_posted: '2026-06-13'
-date_updated: '2026-06-13'
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 35.53
 ---

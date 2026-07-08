@@ -4,14 +4,14 @@ role: Field Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Illinois
+- El Paso, TX
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Central-IL-_R4041220-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4042436-1
 source: simplify-new-grad
-listing_id: 0f965ade-d8a0-42be-a1dd-cc2ff518efb6
-active: false
-date_posted: '2026-06-02'
-date_updated: '2026-06-08'
+listing_id: d2ff1270-eca5-47c9-b13a-781c17317939
+active: true
+date_posted: '2026-06-18'
+date_updated: '2026-06-18'
 status: to-apply
 applied_date: null
 deadline: null

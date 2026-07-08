@@ -9,15 +9,15 @@ terms: []
 url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10236310
 source: simplify-new-grad
 listing_id: 8bd70b8f-84a0-45a5-a141-6c12e2d84212
-active: false
+active: true
 date_posted: '2026-06-13'
 date_updated: '2026-06-13'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.11
 resume_used: resume
+priority: 58.11
 ---
 
 ## Application 2026-06-16

@@ -9,7 +9,7 @@ terms: []
 url: https://careers-kimley-horn.icims.com/jobs/24872/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 7e5858ee-eba9-4783-9ac7-bb48f040f034
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

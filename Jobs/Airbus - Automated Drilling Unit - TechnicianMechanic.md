@@ -9,7 +9,7 @@ terms: []
 url: https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Automated-Drilling--Unit--ADU--Technician-Mechanic--Contract-_JR10426330
 source: simplify-new-grad
 listing_id: 151ec050-c8e3-4b78-a444-502b96a1c753
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-07'
 status: to-apply

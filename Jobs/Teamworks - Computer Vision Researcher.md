@@ -10,7 +10,7 @@ terms: []
 url: https://jobs.ashbyhq.com/teamworks/7e11cc46-5f8b-4274-a754-8b74ea3a3769/application
 source: simplify-new-grad
 listing_id: be6d0d6f-9bd4-4e53-b198-217e9097c785
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-18'
 status: skipped
@@ -21,5 +21,5 @@ priority: 44.51
 apply_method: none
 apply_result: skipped
 needs_review: false
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

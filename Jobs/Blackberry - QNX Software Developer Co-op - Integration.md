@@ -7,12 +7,12 @@ locations:
 - Ottawa, ON, Canada
 terms:
 - N/A
-url: https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Software-Developer-Student--Integration-_20260233
+url: https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Software-Developer-Student--Integration-_20260244
 source: simplify-internships
-listing_id: 1021f365-61b2-4ead-a636-553d171168f7
+listing_id: af9f0a8b-b6df-4358-9834-160d1d0d7a32
 active: false
-date_posted: '2026-06-22'
-date_updated: '2026-06-22'
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
 status: to-apply
 applied_date: null
 deadline: null

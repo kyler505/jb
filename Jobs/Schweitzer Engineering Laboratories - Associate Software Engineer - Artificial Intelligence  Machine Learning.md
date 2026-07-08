@@ -9,7 +9,7 @@ terms: []
 url: https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer---AI-ML_2026-21421
 source: simplify-new-grad
 listing_id: 4322cc67-bb6e-478f-a46a-0ebf9a0a9883
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: needs-review

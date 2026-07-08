@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.jobvite.com/tylertech/job/o8NHzfwV?nl=1&nl=1&fr=false
 source: simplify-new-grad
 listing_id: ba7de260-3aca-4c4c-9334-bd3d9fa6285d
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: applied

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineer-TX-76705/1404885000/?ats=successfactors
 source: simplify-new-grad
 listing_id: e2da8b69-0e6b-4858-ac8d-15de9997f663
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: skipped
@@ -21,5 +21,5 @@ needs_review: false
 apply_result: skipped
 apply_method: none
 resume_used: resume.pdf
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

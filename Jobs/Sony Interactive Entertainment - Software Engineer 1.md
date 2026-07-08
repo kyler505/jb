@@ -12,16 +12,8 @@ listing_id: 854b7fbf-6a94-4938-b966-149a71aca887
 active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
-status: skipped
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-<<<<<<< Updated upstream
-=======
-priority: 52.19
-apply_method: none
-apply_result: skipped
-needs_review: false
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
->>>>>>> Stashed changes
 ---

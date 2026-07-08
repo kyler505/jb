@@ -10,7 +10,7 @@ terms:
 url: https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/London/Secondaries---Primaries-Data-Science-Intern---July-2026---London_JR1001907
 source: simplify-internships
 listing_id: 2634b8bd-c93a-462f-aec7-0a759778d862
-active: true
+active: false
 date_posted: '2026-03-27'
 date_updated: '2026-03-27'
 status: to-apply

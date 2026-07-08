@@ -9,7 +9,7 @@ terms: []
 url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer_R-00179976
 source: simplify-new-grad
 listing_id: cebcf839-fa11-4531-9dfa-552df2bae3a8
-active: true
+active: false
 date_posted: '2026-04-03'
 date_updated: '2026-04-03'
 status: to-apply

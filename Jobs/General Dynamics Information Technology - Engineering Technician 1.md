@@ -4,14 +4,14 @@ role: Engineering Technician 1
 category: new-grad
 discipline: other
 locations:
-- Seattle, WA
+- Chesapeake, VA
 terms: []
-url: https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-WA-Seattle/Engineering-Technician-I_RQ214785
+url: https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Engineering-Technician-I_RQ215211
 source: simplify-new-grad
-listing_id: 3f7f5d27-cf87-4cab-9919-eef38ebdd5b7
+listing_id: f56ae791-707f-4f70-adf2-cf83aab72cda
 active: true
-date_posted: '2026-02-11'
-date_updated: '2026-02-11'
+date_posted: '2026-04-04'
+date_updated: '2026-04-04'
 status: to-apply
 applied_date: null
 deadline: null

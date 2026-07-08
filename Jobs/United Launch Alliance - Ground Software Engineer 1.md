@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ulalaunch.com/job/Centennial-Ground-Software-Engineer-1-CO-80112/1404920100/?ats=successfactors
 source: simplify-new-grad
 listing_id: efd7e08d-5a9d-4eb8-9400-49eec3d86a5b
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: skipped
@@ -21,5 +21,5 @@ needs_review: false
 apply_result: skipped
 apply_method: none
 resume_used: resume.pdf
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

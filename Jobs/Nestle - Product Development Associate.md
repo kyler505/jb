@@ -6,15 +6,14 @@ discipline: other
 locations:
 - St. Louis, MO
 terms: []
-url: https://jobdetails.nestle.com/job/St_-Louis-Product-Development-Associate-MO-63102/1399535533/?ats=successfactors
+url: https://jobdetails.nestle.com/job/St_-Louis-Product-Development-Associate-MO-63102/1412868633/?ats=successfactors
 source: simplify-new-grad
-listing_id: 6dae3e09-a5b6-4119-812f-04c1664c1095
-active: true
-date_posted: '2026-06-01'
-date_updated: '2026-06-01'
+listing_id: 174e5340-ac24-4d67-92f3-d53fe1f4338f
+active: false
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 27.79
 ---

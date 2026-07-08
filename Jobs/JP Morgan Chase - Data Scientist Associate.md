@@ -9,7 +9,7 @@ terms: []
 url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767161
 source: simplify-new-grad
 listing_id: 96cb0c4d-ef1c-4547-825c-95365757d2ca
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: skipped
@@ -21,5 +21,5 @@ apply_method: none
 apply_result: skipped
 resume_used: resume.pdf
 needs_review: false
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

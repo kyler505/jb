@@ -4,14 +4,14 @@ role: Service Technician
 category: new-grad
 discipline: other
 locations:
-- Downers Grove, IL
+- Nashville, TN
 terms: []
-url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3019692
+url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021215
 source: simplify-new-grad
-listing_id: 790f2e77-d057-463e-818b-6f5a21d0a875
+listing_id: cadd7592-ed03-4288-a300-baac8af185df
 active: true
-date_posted: '2026-06-11'
-date_updated: '2026-06-11'
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null

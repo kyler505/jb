@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Charlotte, NC
 terms: []
-url: https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer---2027-Start-Date_180113
+url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145
 source: simplify-new-grad
-listing_id: ea198b1c-7561-43fe-804b-1a5f1e601ffa
+listing_id: 80e0d020-8c43-4fa5-9126-8fa016e2b871
 active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null

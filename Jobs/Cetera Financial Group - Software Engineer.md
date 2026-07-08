@@ -12,29 +12,8 @@ listing_id: 77adf232-6e00-43ad-807d-31429904aa0a
 active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 52.6
-apply_method: auto
-apply_result: exception
-resume_used: resume.pdf
-needs_review: true
-apply_error: "Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to \"https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6444\", waiting until \"domcontentloaded\"
-"
-Call log:
-  - navigating to \"https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6444\", waiting until \"domcontentloaded\"
-"
-Call log:
-  - navigating to \"https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6444\", waiting until \"domcontentloaded\"
-"
-Call log:
-  - navigating to \"https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6444\", waiting until \"domcontentloaded\"
-"
-Call log:
-  - navigating to \"https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6444\", waiting until \"domcontentloaded\"
-"
 ---

@@ -12,7 +12,7 @@ listing_id: 345a57b5-fae1-45c1-8deb-5bbec4479e03
 active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
-status: skipped
+status: to-apply
 applied_date: null
 deadline: null
 notes: null

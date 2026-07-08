@@ -4,12 +4,12 @@ role: Applied AI Associate
 category: new-grad
 discipline: other
 locations:
-- Rhode Island
+- West Virginia
 terms: []
-url: https://job-boards.greenhouse.io/innodatainc/jobs/4266744009
+url: https://job-boards.greenhouse.io/innodatainc/jobs/4266634009
 source: simplify-new-grad
-listing_id: 529de58d-3c60-4b8e-97a1-d3e59a2351c7
-active: true
+listing_id: e97ab4c1-64b9-4afa-a02e-dfa8f2f73ad3
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

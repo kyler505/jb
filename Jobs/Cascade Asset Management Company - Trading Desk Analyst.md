@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.lever.co/cascademgt/60218238-bec0-4eb9-b9d5-5fe0e2ced40f/apply
 source: simplify-new-grad
 listing_id: 16e6c0e2-16ca-4938-b9a0-3888540a78ec
-active: true
+active: false
 date_posted: '2026-03-19'
 date_updated: '2026-03-19'
 status: to-apply

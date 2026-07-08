@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/bevicareers/jobs/4255221009
 source: simplify-new-grad
 listing_id: b03e18cb-0a6a-4764-bdc2-bea4c6fd935c
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: skipped
@@ -20,5 +20,5 @@ priority: 53.35
 apply_method: none
 apply_result: skipped
 needs_review: false
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---
