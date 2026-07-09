@@ -5,17 +5,15 @@ category: new-grad
 discipline: swe
 locations:
 - Bentonville, AR
-- Sunnyvale, CA
 terms: []
-url: https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2413529
+url: https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2556776-1
 source: simplify-new-grad
-listing_id: 20137627-c16b-4e82-b0ab-eb3539c56e5e
+listing_id: 5f640ccc-e574-436b-a1e0-c02c264acd22
 active: true
-date_posted: '2026-03-30'
-date_updated: '2026-03-30'
+date_posted: '2026-07-09'
+date_updated: '2026-07-09'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 40.76
 ---

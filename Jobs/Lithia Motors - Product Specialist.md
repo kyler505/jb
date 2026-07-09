@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Hopkins, MN
 terms: []
-url: https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644
+url: https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R112529
 source: simplify-new-grad
-listing_id: 2664a38f-b76f-42f0-82a4-12aecc67d729
-active: true
-date_posted: '2026-06-10'
-date_updated: '2026-06-11'
+listing_id: 246fcd3c-f60d-462d-b5f8-88f240c700ee
+active: false
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null

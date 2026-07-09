@@ -10,7 +10,7 @@ terms:
 url: https://boards.greenhouse.io/cloudflare/jobs/8047201
 source: simplify-internships
 listing_id: 135ae271-5566-4481-9f22-90156e57f0d7
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

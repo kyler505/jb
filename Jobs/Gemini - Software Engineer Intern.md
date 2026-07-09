@@ -17,11 +17,11 @@ status: applied
 applied_date: 2026-07-07
 deadline: null
 notes: null
-needs_review: false
-resume_used: resume.pdf
-apply_method: simplify
 apply_result: success
+apply_method: simplify
+needs_review: false
 priority: 44.19
+resume_used: resume.pdf
 ---
 
 ## Research

@@ -10,7 +10,7 @@ terms:
 url: https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Analytics-Co-op--Strategic-Forecasting---AI_R-278068
 source: simplify-internships
 listing_id: 50289bb2-c07c-4ad3-b05f-27e264769e70
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: needs-review

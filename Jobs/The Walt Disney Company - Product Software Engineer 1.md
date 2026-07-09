@@ -4,21 +4,16 @@ role: Product Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Glendale, CA
+- Santa Monica, CA
 terms: []
-url: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2
+url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711
 source: simplify-new-grad
-listing_id: 12634088-9777-452c-9095-9f2de268d1e0
+listing_id: 7542bd72-3c3b-43b9-ac54-f025b0b56b66
 active: false
-date_posted: '2026-07-01'
-date_updated: '2026-07-01'
-status: needs-review
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_method: auto
-apply_error: Email verification required — account created but not verified
-priority: 58.72
-apply_result: wizard_end
-needs_review: true
 ---

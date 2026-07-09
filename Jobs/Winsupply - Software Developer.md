@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Winsupply1/3743990013521346
 source: simplify-new-grad
 listing_id: ade8ea2a-928d-447b-a596-401bfb3447f2
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: skipped

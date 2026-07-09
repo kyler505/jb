@@ -10,7 +10,7 @@ terms: []
 url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Erie-The-Behrend-College/Part-Time-Research-Assistant--Artificial-Intelligence--Cybersecurity--and-Digital-Trust-Research_REQ_0000079573-1
 source: simplify-new-grad
 listing_id: 7051adbd-5d92-4bfe-88e5-e63bce5172a7
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

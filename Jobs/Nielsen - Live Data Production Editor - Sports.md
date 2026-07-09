@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013728626
 source: simplify-new-grad
 listing_id: 37c3f738-0a31-4cc4-b5c0-16df49902b49
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-23'
 status: to-apply

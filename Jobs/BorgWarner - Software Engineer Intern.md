@@ -13,7 +13,7 @@ terms:
 url: https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1
 source: simplify-internships
 listing_id: 746e1c61-ef5b-46fd-8384-970dce81b9e3
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
 status: needs-review

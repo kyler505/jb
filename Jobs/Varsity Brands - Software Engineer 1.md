@@ -9,7 +9,7 @@ terms: []
 url: https://careers.varsitybrands.com/global/en/job/JR113976
 source: simplify-new-grad
 listing_id: 209fc4a4-5626-4653-baa1-7a5393231ce9
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: to-apply

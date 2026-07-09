@@ -7,12 +7,12 @@ locations:
 - Aberdeen, MD
 - Aiea, HI
 terms: []
-url: https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Computer-Hardware-Engineer-I_328438
+url: https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Computer-Hardware-Engineer-I_328772
 source: simplify-new-grad
-listing_id: 246eeace-d38a-4899-b548-7d994f5c8653
-active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+listing_id: 1f246cdf-ca3c-486f-b1ab-d32208ea2bb3
+active: false
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null

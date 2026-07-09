@@ -10,7 +10,7 @@ terms: []
 url: https://jobs.ashbyhq.com/moss/88fdfa31-feec-4f32-85f1-0d2f34433069/application
 source: simplify-new-grad
 listing_id: 062bf53b-43c0-4cb8-91f1-b9bdcc1e1142
-active: true
+active: false
 date_posted: '2026-04-20'
 date_updated: '2026-04-20'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79650
 source: simplify-new-grad
 listing_id: b843f731-09aa-4ad2-9661-81ddcc25a52f
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

@@ -17,9 +17,9 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-needs_review: true
-apply_method: auto
-apply_error: Job posting no longer exists on Workday
 apply_result: dead_link
+apply_method: auto
+needs_review: true
 priority: 52.96
+apply_error: Job posting no longer exists on Workday
 ---

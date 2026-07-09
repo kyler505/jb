@@ -10,7 +10,7 @@ terms:
 url: https://careers.formlabs.com/job/7773874/apply/?gh_jid=7773874
 source: simplify-internships
 listing_id: 37c6d738-3d93-410b-a82e-6fd883d15498
-active: true
+active: false
 date_posted: '2026-04-13'
 date_updated: '2026-04-13'
 status: to-apply
