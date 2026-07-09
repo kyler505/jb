@@ -20,7 +20,7 @@ needs_review: false
 resume_used: resume
 apply_method: simplify
 apply_result: not_confirmed
-priority: 55.87
+priority: 55.36
 ---
 
 ## Application 2026-07-08

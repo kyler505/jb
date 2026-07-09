@@ -20,7 +20,7 @@ needs_review: false
 resume_used: resume.pdf
 apply_method: simplify
 apply_result: success
-priority: 50.68
+priority: 50.34
 ---
 
 ## Application 2026-06-22

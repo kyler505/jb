@@ -21,5 +21,5 @@ needs_review: false
 resume_used: resume.pdf
 apply_method: simplify
 apply_result: success
-priority: 50.0
+priority: 49.68
 ---
