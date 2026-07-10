@@ -14,7 +14,7 @@ terms:
 url: https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Co-Op--Data--Well-Servicing---Engineering-_JR100413
 source: simplify-internships
 listing_id: 482740e0-68a4-4908-a047-e4788e000945
-active: true
+active: false
 date_posted: '2026-03-12'
 date_updated: '2026-03-12'
 status: to-apply

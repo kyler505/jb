@@ -9,7 +9,7 @@ terms: []
 url: https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Engineering-Documentation-Control-Analyst-I---Compatibility_DT-18549-1
 source: simplify-new-grad
 listing_id: 69152885-811c-447d-9728-50b5701820ec
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
 status: to-apply

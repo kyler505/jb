@@ -10,7 +10,7 @@ terms:
 url: https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 8e39a25b-7f83-469c-a84e-63c374d0f3cf
-active: true
+active: false
 date_posted: '2026-01-21'
 date_updated: '2026-03-31'
 status: to-apply

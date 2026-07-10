@@ -10,7 +10,7 @@ terms:
 url: https://euna.bamboohr.com/careers/652/
 source: simplify-internships
 listing_id: d2e42b14-80d7-45a6-ab23-6aafffab74b5
-active: true
+active: false
 date_posted: '2026-06-02'
 date_updated: '2026-06-02'
 status: skipped

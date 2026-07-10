@@ -9,7 +9,7 @@ terms: []
 url: https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Chicago-IL/Asset-Management-Analyst_R0037424-1
 source: simplify-new-grad
 listing_id: 2b75afe4-5f86-4f50-959b-b1c11fdb56b1
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

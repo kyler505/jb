@@ -11,7 +11,7 @@ terms:
 url: https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/
 source: simplify-internships
 listing_id: b977109a-8e8c-4173-a584-460e709a733f
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

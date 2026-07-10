@@ -4,18 +4,15 @@ role: Field Service Apprentice
 category: internship
 discipline: other
 locations:
-- Minneapolis, MN
+- Mississauga, ON, Canada
 terms:
-- Winter 2025
-- Spring 2025
-- Summer 2025
-- Fall 2025
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1
+- Summer 2026
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice---ON_R4042737-1
 source: simplify-internships
-listing_id: 037d7693-e6be-486d-b4bd-d7dff6960ce4
-active: true
-date_posted: '2026-07-08'
-date_updated: '2026-07-09'
+listing_id: 895c2167-9291-46d5-b8ce-dd2c98fbd492
+active: false
+date_posted: '2026-06-23'
+date_updated: '2026-06-23'
 status: to-apply
 applied_date: null
 deadline: null

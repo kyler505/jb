@@ -10,7 +10,7 @@ terms: []
 url: https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Associate-Software-Implementation-Analyst_JR102707
 source: simplify-new-grad
 listing_id: eb43e589-96b1-42be-a5a5-db720d60cb85
-active: true
+active: false
 date_posted: '2026-05-28'
 date_updated: '2026-05-28'
 status: to-apply

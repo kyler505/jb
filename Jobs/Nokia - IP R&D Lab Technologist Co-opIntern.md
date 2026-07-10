@@ -10,7 +10,7 @@ terms:
 url: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806
 source: simplify-internships
 listing_id: 05b661df-ed46-482b-8ebd-7248a6a234eb
-active: true
+active: false
 date_posted: '2026-04-30'
 date_updated: '2026-04-30'
 status: to-apply

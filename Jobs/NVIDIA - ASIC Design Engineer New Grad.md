@@ -6,15 +6,14 @@ discipline: hardware
 locations:
 - Santa Clara, CA
 terms: []
-url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2017581
+url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2026_JR2020309
 source: simplify-new-grad
-listing_id: 4ca513a9-c75f-4b24-b016-16df26b72782
+listing_id: 896852cc-417e-4bba-ba7f-1e1cb726008d
 active: false
-date_posted: '2026-05-06'
-date_updated: '2026-05-06'
+date_posted: '2026-07-09'
+date_updated: '2026-07-09'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 23.0
 ---

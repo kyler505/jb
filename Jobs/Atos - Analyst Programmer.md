@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.atos.net/job/Troy-ANALYST-IA/1411989933/?ats=successfactors
 source: simplify-new-grad
 listing_id: d3e00d4e-daa5-4c01-aa27-5b0a91260ab5
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: skipped

@@ -16,9 +16,9 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_result: wizard_end
+apply_error: Email verification required — account created but not verified
+priority: 49.41
 apply_method: auto
 needs_review: true
-priority: 49.41
-apply_error: Email verification required — account created but not verified
+apply_result: wizard_end
 ---
