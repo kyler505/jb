@@ -7,12 +7,12 @@ locations:
 - San Jose, CA
 terms:
 - Fall 2026
-url: https://job-boards.greenhouse.io/didi/jobs/8042470
+url: https://job-boards.greenhouse.io/didi/jobs/8056492
 source: simplify-internships
-listing_id: 82da1599-1528-4192-8849-d9fa626e285d
-active: true
-date_posted: '2026-07-01'
-date_updated: '2026-07-01'
+listing_id: 4622ed51-4f9d-46b5-91bd-1c2ccfb80a49
+active: false
+date_posted: '2026-07-11'
+date_updated: '2026-07-11'
 status: to-apply
 applied_date: null
 deadline: null

@@ -18,7 +18,7 @@ deadline: null
 notes: null
 priority: 44.34
 apply_method: simplify
+apply_result: success
 resume_used: resume.pdf
 needs_review: false
-apply_result: success
 ---

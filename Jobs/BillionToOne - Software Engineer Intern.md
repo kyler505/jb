@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/billiontoone/jobs/4702398005
 source: simplify-internships
 listing_id: d084a76f-d982-4334-b23c-16232dd2c71a
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: to-apply

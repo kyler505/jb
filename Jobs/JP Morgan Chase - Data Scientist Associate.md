@@ -4,22 +4,16 @@ role: Data Scientist Associate
 category: new-grad
 discipline: data
 locations:
-- NYC
+- Plano, TX
 terms: []
-url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767161
+url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768686
 source: simplify-new-grad
-listing_id: 96cb0c4d-ef1c-4547-825c-95365757d2ca
+listing_id: 37ac6945-c9e7-4464-96b8-8cae2b505214
 active: false
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
-status: skipped
+date_posted: '2026-07-10'
+date_updated: '2026-07-10'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.35
-apply_method: none
-apply_result: skipped
-resume_used: resume.pdf
-needs_review: false
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

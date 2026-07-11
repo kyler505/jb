@@ -10,7 +10,7 @@ terms:
 url: https://roche.wd3.myworkdayjobs.com/roche-ext/job/Laval/XMLNAME-2026-Fall-Intern---Business---Data-Analyst-Intern---Stagiaire-d-Automne-2026---Analyste-d-Affaires---de-Donnes_202606-116950
 source: simplify-internships
 listing_id: fb3b592b-59ee-4129-a02a-eb7b7f2f0922
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

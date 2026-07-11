@@ -10,7 +10,7 @@ terms: []
 url: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Development-Program---US-2027_R5046158-3
 source: simplify-new-grad
 listing_id: a0f6a0fe-5541-410c-89d4-a690c250ad4a
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

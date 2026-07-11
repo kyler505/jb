@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/transcendinc/jobs/4202502009
 source: simplify-new-grad
 listing_id: f0b5d4dc-e932-4eb9-a406-003fba8d30b1
-active: true
+active: false
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
 status: skipped

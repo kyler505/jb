@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Burlington, MA
 terms: []
-url: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1
+url: https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3
 source: simplify-new-grad
-listing_id: af755532-e162-46d6-a161-7874c1865c6e
-active: true
+listing_id: 13834a5f-488b-4fc4-bdd9-d3bff5044f25
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://univision.wd1.myworkdayjobs.com/en-US/External/job/Miami-FL/Co-Op--Product-Manager---Personalization---New-Experiences-Temp_R020713
 source: simplify-internships
 listing_id: af313090-f2b7-4478-8239-1f0e03c22f17
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/heartaerospace/jobs/4013531009
 source: simplify-new-grad
 listing_id: 3bac44f6-4953-459e-8fe2-6fd5a71424a1
-active: true
+active: false
 date_posted: '2025-11-13'
 date_updated: '2026-02-07'
 status: to-apply

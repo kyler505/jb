@@ -4,17 +4,16 @@ role: Assembly/Test 1
 category: new-grad
 discipline: other
 locations:
-- Lenexa, KS
+- Doral, FL
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I_01846876
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MEDLEY-9100--9120-9124-NW-105th-Cir--NW-105TH/Assembly-Test-1---Onsite-_01853422
 source: simplify-new-grad
-listing_id: 5bf8d0c8-0c92-4a6d-ad96-230620511299
+listing_id: 846c5a44-a89e-42ad-a35d-da43ca8327b7
 active: false
-date_posted: '2026-06-02'
-date_updated: '2026-06-07'
+date_posted: '2026-07-02'
+date_updated: '2026-07-11'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 28.19
 ---

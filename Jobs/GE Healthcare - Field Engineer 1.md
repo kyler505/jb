@@ -4,14 +4,14 @@ role: Field Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Remote in USA
+- Madison, WI
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4041927-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1
 source: simplify-new-grad
-listing_id: 16896f36-2a8d-4b1d-99c1-da18c5e7d68e
+listing_id: 211d5160-dd5b-403d-aa71-3b6dd6378ee9
 active: false
-date_posted: '2026-06-02'
-date_updated: '2026-06-04'
+date_posted: '2026-07-09'
+date_updated: '2026-07-11'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,14 @@ role: Diagnostic Technician 1
 category: new-grad
 discipline: other
 locations:
-- St. Petersburg, FL
+- Florence, KY
 terms: []
-url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Diagnostic-Technician-I_J2456323
+url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2443292
 source: simplify-new-grad
-listing_id: eba30ef1-0ed0-446e-8727-22010e8ae45e
-active: true
-date_posted: '2026-07-09'
-date_updated: '2026-07-09'
+listing_id: 499c7b30-eeec-4636-95c6-5f823c40d240
+active: false
+date_posted: '2026-03-27'
+date_updated: '2026-03-27'
 status: to-apply
 applied_date: null
 deadline: null

@@ -12,7 +12,7 @@ terms:
 url: https://careers.cisco.com/global/en/job/2000128
 source: simplify-internships
 listing_id: 754ac4dc-d1a1-41f6-89cd-3a8ae221cb82
-active: true
+active: false
 date_posted: '2025-11-20'
 date_updated: '2025-11-20'
 status: to-apply

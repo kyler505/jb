@@ -13,7 +13,7 @@ terms:
 url: https://x.company/careers/8534828002?gh_jid=8534828002
 source: simplify-internships
 listing_id: 38d16faf-14c3-4aed-8d2e-240d84440dc6
-active: true
+active: false
 date_posted: '2026-05-04'
 date_updated: '2026-05-04'
 status: to-apply

@@ -12,7 +12,7 @@ terms: []
 url: https://tmobile.wd1.myworkdayjobs.com/alumni/job/Bellevue-Washington/Associate-Product-Manager---T-Platform_REQ362276
 source: simplify-new-grad
 listing_id: 592579db-eaea-485c-8f45-b39376a10c93
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

@@ -1,17 +1,18 @@
 ---
 company: Citi
 role: Services Analyst
-category: new-grad
+category: internship
 discipline: other
 locations:
-- Toronto, ON, Canada
-terms: []
-url: https://citi.wd5.myworkdayjobs.com/2/job/Toronto---Canada/Services--Full-Time-Analyst--Toronto---CA--2027_26975984
-source: simplify-new-grad
-listing_id: bf1e526e-cb95-4bbe-b3fc-d5ead020cb49
-active: true
-date_posted: '2026-07-09'
-date_updated: '2026-07-09'
+- NYC
+terms:
+- N/A
+url: https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Services--Full-Time-Analyst--New-York-City---US--2027_26975983
+source: simplify-internships
+listing_id: 91db4853-adf9-4087-93dc-8182d251fe06
+active: false
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null
