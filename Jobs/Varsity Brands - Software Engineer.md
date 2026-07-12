@@ -16,7 +16,7 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 47.94
+priority: 47.68
 apply_method: simplify
 apply_result: not_confirmed
 resume_used: resume.pdf
