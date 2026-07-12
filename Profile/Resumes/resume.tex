@@ -129,7 +129,7 @@
         {Texas A\&M University}{College Station, TX}
         {Bachelor of Science in Computer Science, Minor in Business}{Aug. 2023 - May 2027}
         \resumeItemListStart
-        \resumeItem{\textbf{Coursework:} Data Structures \& Algorithms, Computer Systems, Machine Learning, Discrete Structures}
+        \resumeItem{\textbf{Coursework:} Data Structures \& Algorithms, Computer Systems, Database Systems, Software Engineering, Operating Systems, Machine Learning}
         \resumeItemListEnd
   \resumeSubHeadingListEnd
 
@@ -137,9 +137,9 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \item\small{
-     {\bfseries Languages}: Python, TypeScript/JavaScript, Java, C++, C\#, SQL (PostgreSQL), COBOL, HTML/CSS \\
-     {\bfseries Frameworks}: React, Next.js, .NET, Flask, FastAPI, Node.js, Tailwind CSS, Django \\
-     {\bfseries Tools \& Platforms}: Git, Docker, AWS, Linux, CI/CD, VS Code, IntelliJ, Postman, MySQL, Jupyter, TestArchitect \\
+     {\bfseries Languages}: Python, TypeScript/JavaScript, Java, C++, C\#, Go, Rust, SQL (PostgreSQL), COBOL, HTML/CSS \\
+     {\bfseries Frameworks}: React, Next.js, .NET, Flask, FastAPI, Node.js, Tailwind CSS, Django, LangGraph \\
+     {\bfseries Tools \& Platforms}: Git, Docker, AWS, Linux, CI/CD, IntelliJ, Postman, MySQL, Redis, Jupyter, TestArchitect \\
      {\bfseries Libraries}: pandas, NumPy, scikit-learn, PyTorch, XGBoost, SciPy, Matplotlib, Seaborn, statsmodels, Recharts
     }
  \end{itemize}
@@ -175,6 +175,7 @@
         \resumeItemListStart
         \resumeItem{Trained \textbf{120+} students in foundational \textbf{Python}, improving class performance by \textbf{15\%} through targeted instruction and office hours}
         \resumeItem{Graded \textbf{400+} assignments and exams with \textbf{24-hour} turnaround, providing detailed feedback}
+        \resumeItem{Created \textbf{exam review materials} and led weekly review sessions, helping students prepare for midterms through structured problem-solving practice}
       \resumeItemListEnd
 
 % -----------Multiple Positions Heading-----------
@@ -193,6 +194,13 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
+          {\textbf{CodeHawk} $|$ \emph{Go, Python, LangGraph, Redis Streams, pgvector} $|$ Personal Project}{June 2026 - Present}
+          \resumeItemListStart
+            \resumeItem{Architecting a \textbf{tiered LLM code review system} with a \textbf{Go API service} (webhook ingestion, libgit2 diff parsing, PR posting) and a \textbf{Python worker} (\textbf{LangGraph} orchestration, multi-model routing per diff chunk)}
+            \resumeItem{Designing \textbf{autonomous maintenance loops} (cron-driven dep bumps, dead code cleanup, test gap detection) with Firecracker sandboxing, a \textbf{self-critique pipeline} to filter weak suggestions, and a feedback loop to reduce false positives}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
             {\textbf{Project SHADE} $|$ \emph{Python, PyTorch, NumPy, pandas} $|$ Research Project}{Sep. 2025 - Dec. 2025}
           \resumeItemListStart
             \resumeItem{Developed \textbf{LSTM component} of a heat-wave prediction system integrating \textbf{SEIR modeling} with 10+ years of temperature data, achieving \textbf{87\%} validation accuracy}
@@ -205,13 +213,6 @@
             \resumeItem{Designed/developed \textbf{AI-powered flight search engine} with personalized recommendations based on user preferences and historical flight data}
             \resumeItem{Built \textbf{responsive Flask web interface} with \textbf{<2s} average response time for real-time preference input and tailored results}
             \resumeItem{Integrated \textbf{REST APIs} handling \textbf{50K+} flight data requests for American Airlines mock data including prices, schedules, and routes}
-          \resumeItemListEnd
-
-      \resumeProjectHeading
-          {\textbf{CodeHawk} $|$ \emph{Go, Python, LangGraph, Redis Streams, pgvector} $|$ Personal Project}{Jan. 2026 - Present}
-          \resumeItemListStart
-            \resumeItem{Architecting a \textbf{tiered LLM code review system} with a \textbf{Go API service} (webhook ingestion, libgit2 diff parsing, PR posting) and a \textbf{Python worker} (\textbf{LangGraph} orchestration, multi-model routing per diff chunk)}
-            \resumeItem{Designing \textbf{autonomous maintenance loops} (cron-driven dep bumps, dead code cleanup, test gap detection) with Firecracker sandboxing, a \textbf{self-critique pipeline} to filter weak suggestions, and a feedback loop to reduce false positives}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
 
