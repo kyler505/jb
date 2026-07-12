@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/brightai/jobs/6002012004
 source: simplify-internships
 listing_id: 88f5a6f1-62c1-4a91-bf47-30e41b086fde
-active: true
+active: false
 date_posted: '2026-05-21'
 date_updated: '2026-05-21'
 status: to-apply

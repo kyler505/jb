@@ -4,14 +4,14 @@ role: UiPath Robotic Process Automation Developer Associate
 category: new-grad
 discipline: swe
 locations:
-- Shreveport, LA
+- Louisiana
 terms: []
-url: https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ218022
+url: https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1
 source: simplify-new-grad
-listing_id: 01787816-8966-4027-a6ce-b97e50dfa2b8
+listing_id: f582972e-e7c0-4d00-941e-67ece4906d06
 active: false
-date_posted: '2026-04-12'
-date_updated: '2026-04-12'
+date_posted: '2026-07-12'
+date_updated: '2026-07-12'
 status: to-apply
 applied_date: null
 deadline: null

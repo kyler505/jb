@@ -12,7 +12,7 @@ terms:
 url: https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1
 source: simplify-internships
 listing_id: fe972247-600c-481b-961d-3abad929c277
-active: false
+active: true
 date_posted: '2026-03-11'
 date_updated: '2026-03-11'
 status: to-apply

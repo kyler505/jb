@@ -10,19 +10,19 @@ terms: []
 url: https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-240843
 source: simplify-new-grad
 listing_id: a694adca-179c-44e9-86be-f1f3f3d8f198
-active: false
+active: true
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_error: Reached end of wizard — review debug output above
+apply_result: wizard_end
 priority: 48.2
-apply_method: auto
+apply_error: Reached end of wizard — review debug output above
 resume_used: resume
 needs_review: true
-apply_result: wizard_end
+apply_method: auto
 ---
 
 ## Application 2026-07-01
