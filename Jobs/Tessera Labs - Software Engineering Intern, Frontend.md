@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd
 source: simplify-internships
 listing_id: 55804513-4600-4ed2-98da-a5e607d5acdb
-active: true
+active: false
 date_posted: '2025-11-14'
 date_updated: '2025-11-14'
 status: to-apply

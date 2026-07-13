@@ -9,7 +9,7 @@ terms: []
 url: https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/294268
 source: simplify-new-grad
 listing_id: f9091332-a446-4634-8a8e-2382bf927e01
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

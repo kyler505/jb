@@ -10,7 +10,7 @@ terms:
 url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1
 source: simplify-internships
 listing_id: 0858a27e-d921-4e91-8a7a-e791a1a6f4fd
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-12'
 status: to-apply

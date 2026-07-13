@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Boise, ID
 terms: []
-url: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805
+url: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Yield-Enhancement-Engineer--HBM_JR104804
 source: simplify-new-grad
-listing_id: c2582b57-89c6-4642-a9f2-b5a0b7e3678a
+listing_id: 9e081b4b-dc90-4c5c-8b6f-41f7f8e08c31
 active: false
 date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_updated: '2026-07-13'
 status: to-apply
 applied_date: null
 deadline: null

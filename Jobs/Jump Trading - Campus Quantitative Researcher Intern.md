@@ -4,16 +4,15 @@ role: Campus Quantitative Researcher Intern
 category: internship
 discipline: other
 locations:
-- Chicago, IL
-- NYC
+- London, UK
 terms:
-- Fall 2026
-url: https://boards.greenhouse.io/embed/job_app?token=7982648
+- Summer 2026
+url: https://boards.greenhouse.io/embed/job_app?token=8010307
 source: simplify-internships
-listing_id: 807f7a33-061f-4c85-9cf4-1d8edfa19135
+listing_id: 6ebea6a5-6a3e-4838-a4c3-c99817331a2e
 active: true
-date_posted: '2026-07-08'
-date_updated: '2026-07-08'
+date_posted: '2026-07-13'
+date_updated: '2026-07-13'
 status: to-apply
 applied_date: null
 deadline: null

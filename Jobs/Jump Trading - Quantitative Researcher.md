@@ -4,15 +4,14 @@ role: Quantitative Researcher
 category: new-grad
 discipline: other
 locations:
-- Chicago, IL
-- NYC
+- London, UK
 terms: []
-url: https://boards.greenhouse.io/embed/job_app?token=7728630
+url: https://boards.greenhouse.io/embed/job_app?token=8050796
 source: simplify-new-grad
-listing_id: 372f6713-b484-4724-ac51-015c5d0810f2
+listing_id: b2e656b6-1af2-450c-92b5-d767bbca6f1b
 active: true
-date_posted: '2026-07-08'
-date_updated: '2026-07-08'
+date_posted: '2026-07-13'
+date_updated: '2026-07-13'
 status: to-apply
 applied_date: null
 deadline: null

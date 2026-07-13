@@ -9,17 +9,17 @@ terms: []
 url: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978
 source: simplify-new-grad
 listing_id: 3ac699af-5c50-4a7c-81af-6dfb56f595db
-active: false
+active: true
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.46
-apply_method: simplify
 resume_used: resume
 needs_review: false
+apply_method: simplify
+priority: 53.46
 apply_result: not_confirmed
 ---
 

@@ -6,12 +6,12 @@ discipline: other
 locations:
 - NYC
 terms: []
-url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758137
+url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723910
 source: simplify-new-grad
-listing_id: cb02a623-a7a7-4aad-a000-aa3f17d18237
-active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
+listing_id: 5d288056-16f3-47e5-9e66-e6578a0b3bd9
+active: false
+date_posted: '2026-03-16'
+date_updated: '2026-03-16'
 status: to-apply
 applied_date: null
 deadline: null

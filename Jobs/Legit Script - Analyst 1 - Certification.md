@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Remote in USA
 terms: []
-url: https://ats.rippling.com/legitscript-careers/jobs/2557a567-a711-4ecc-b5a3-5ba3c446c237
+url: https://ats.rippling.com/legitscript-careers/jobs/bff3cd31-c2c3-4045-b569-edb52266856f
 source: simplify-new-grad
-listing_id: 43f50528-e0c9-4966-b605-bb702b1fe5f0
+listing_id: 850aa9c8-1bec-49eb-923b-6f490c0cf0c3
 active: false
-date_posted: '2026-06-12'
-date_updated: '2026-06-22'
+date_posted: '2026-07-10'
+date_updated: '2026-07-13'
 status: to-apply
 applied_date: null
 deadline: null

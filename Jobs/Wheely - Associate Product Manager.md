@@ -10,7 +10,7 @@ terms:
 url: https://boards.greenhouse.io/wheely/jobs/7608395003
 source: simplify-internships
 listing_id: 6c648ad7-f6a2-48f0-b056-2315c6a1f377
-active: true
+active: false
 date_posted: '2026-01-29'
 date_updated: '2026-01-29'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0
 source: simplify-internships
 listing_id: 51bded9f-eacd-40b1-aac6-c782f03da04b
-active: true
+active: false
 date_posted: '2025-11-14'
 date_updated: '2025-11-14'
 status: to-apply

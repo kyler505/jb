@@ -9,7 +9,7 @@ terms: []
 url: https://careers.huntingtoningalls.com/job/Newport-News-DATA-ANALYST-2-Virg/1404970400/?ats=successfactors
 source: simplify-new-grad
 listing_id: daa60ece-c79f-46c1-8785-7f417759c5f3
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-02'
 status: skipped
