@@ -10,7 +10,7 @@ terms:
 url: https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Brooklands-Customer-Delivery-Hub-John-Lewis--Partners/Driver-Technician-Trainee-75t_R-206413-1
 source: simplify-internships
 listing_id: 19a249af-6862-43b3-bfbc-303536d99321
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-13'
 status: to-apply

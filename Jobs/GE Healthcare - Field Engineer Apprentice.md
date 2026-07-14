@@ -4,15 +4,15 @@ role: Field Engineer Apprentice
 category: internship
 discipline: other
 locations:
-- Little Rock, AR
+- Columbus, OH
 terms:
 - Fall 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2
 source: simplify-internships
-listing_id: 22e9a58d-54fd-44b6-ade3-09a5da6a7586
+listing_id: 345fceab-4a0f-47a4-a5ec-6282cb93c51d
 active: false
-date_posted: '2026-07-08'
-date_updated: '2026-07-09'
+date_posted: '2026-07-10'
+date_updated: '2026-07-10'
 status: to-apply
 applied_date: null
 deadline: null

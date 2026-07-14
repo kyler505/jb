@@ -6,13 +6,14 @@ discipline: other
 locations:
 - Santa Cruz, CA
 terms:
+- Fall 2026
 - Spring 2027
-url: http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application
+url: http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application
 source: simplify-internships
-listing_id: 64a6f277-b6d0-4d32-9ffd-f2ee6028e599
-active: true
+listing_id: 864fb857-973c-4041-8f03-889fcffa79c2
+active: false
 date_posted: '2026-06-23'
-date_updated: '2026-06-23'
+date_updated: '2026-07-14'
 status: to-apply
 applied_date: null
 deadline: null

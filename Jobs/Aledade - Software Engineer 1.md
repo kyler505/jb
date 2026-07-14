@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f/apply
 source: simplify-new-grad
 listing_id: d078e4cc-a232-490d-992d-dcd9dd783c78
-active: true
+active: false
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: skipped

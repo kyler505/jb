@@ -16,7 +16,7 @@ terms:
 url: https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada
 source: simplify-internships
 listing_id: c895bb20-219c-416d-972e-21199a4af2c4
-active: true
+active: false
 date_posted: '2026-04-09'
 date_updated: '2026-04-09'
 status: to-apply

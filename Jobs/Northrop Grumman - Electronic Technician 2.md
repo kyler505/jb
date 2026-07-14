@@ -4,14 +4,14 @@ role: Electronic Technician 2
 category: new-grad
 discipline: other
 locations:
-- Long Island, New York
+- Ogden, UT
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Ronkonkoma/Electronic-Technician-2_R10228696
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Ogden/Electronic-Technician-2-Secret-Clearance_R10239865
 source: simplify-new-grad
-listing_id: 8eac31b4-9a12-45b4-8064-c4adcbf4cf28
+listing_id: 5ac8142f-bf9e-4029-b461-40a8fbc65a55
 active: true
-date_posted: '2026-07-07'
-date_updated: '2026-07-07'
+date_posted: '2026-07-13'
+date_updated: '2026-07-13'
 status: to-apply
 applied_date: null
 deadline: null

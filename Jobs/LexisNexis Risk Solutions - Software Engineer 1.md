@@ -4,17 +4,16 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Delaware
+- Cardiff, UK
 terms: []
-url: https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Delaware/Software-Engineer-I_R115637
+url: https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653
 source: simplify-new-grad
-listing_id: 706f4a43-5e88-4dff-b125-a0a0e30dcada
-active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+listing_id: d3531016-1216-4618-820a-79eb7027353c
+active: false
+date_posted: '2026-06-11'
+date_updated: '2026-06-11'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.46
 ---

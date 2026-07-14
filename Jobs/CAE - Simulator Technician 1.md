@@ -4,14 +4,14 @@ role: Simulator Technician 1
 category: new-grad
 discipline: other
 locations:
-- Orlando, FL
+- Richmond, BC, Canada
 terms: []
-url: https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Simulator-Technician-I_122131
+url: https://cae.wd3.myworkdayjobs.com/career/job/Richmond-BC/Simulator-Technician-I-For-Abbotsford-AND-Richmond-Locations_121280
 source: simplify-new-grad
-listing_id: 441d6d3c-3c5b-433b-bf3a-a888f704d484
-active: true
-date_posted: '2026-07-01'
-date_updated: '2026-07-02'
+listing_id: 1319e2f4-51d0-4fb0-99a6-8aa1c615616a
+active: false
+date_posted: '2026-04-22'
+date_updated: '2026-04-22'
 status: to-apply
 applied_date: null
 deadline: null

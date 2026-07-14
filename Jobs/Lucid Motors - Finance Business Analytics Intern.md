@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007
 source: simplify-internships
 listing_id: d85decfc-b921-457f-ab28-666ca0739529
-active: true
+active: false
 date_posted: '2026-06-05'
 date_updated: '2026-06-16'
 status: to-apply

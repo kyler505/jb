@@ -10,7 +10,7 @@ terms:
 url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Internship---Summer-2027_R-51214
 source: simplify-internships
 listing_id: 66abf653-73b2-4490-8902-fd003a1987ce
-active: true
+active: false
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://careers-sdsurf.icims.com/jobs/20457/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 98302ccd-b1ba-426f-8b57-0f953beaa1f9
-active: true
+active: false
 date_posted: '2026-06-01'
 date_updated: '2026-06-01'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/Kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5/application
 source: simplify-internships
 listing_id: 58077951-984f-4310-b0ce-55853074ed6e
-active: true
+active: false
 date_posted: '2026-04-16'
 date_updated: '2026-04-16'
 status: to-apply

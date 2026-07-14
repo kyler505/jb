@@ -10,7 +10,7 @@ terms:
 url: https://cra.com/job-listings/job?gh_jid=8047653
 source: simplify-internships
 listing_id: 26d82c3c-2d34-4225-b3e9-810a1b478679
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

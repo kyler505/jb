@@ -7,15 +7,14 @@ locations:
 - Belmont, MA
 terms:
 - Fall 2026
-url: https://jobs.smartrecruiters.com/BoschGroup/744000135497810
+url: https://jobs.smartrecruiters.com/BoschGroup/744000137672769
 source: simplify-internships
-listing_id: 065e5761-d574-4c20-a590-6fd396d58e47
+listing_id: d468be51-8b10-474e-8f23-181ab53a5712
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-07-14'
+date_updated: '2026-07-14'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 53.53
 ---

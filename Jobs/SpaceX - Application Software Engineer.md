@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - West Athens, CA
 terms: []
-url: https://boards.greenhouse.io/spacex/jobs/8494238002
+url: https://boards.greenhouse.io/spacex/jobs/8632103002
 source: simplify-new-grad
-listing_id: a3264a4e-68e7-4be7-af37-e7ec19850f6a
+listing_id: 9d30c3d7-1758-421d-a077-2d19157f76a0
 active: false
-date_posted: '2026-04-06'
-date_updated: '2026-04-06'
+date_posted: '2026-07-13'
+date_updated: '2026-07-13'
 status: to-apply
 applied_date: null
 deadline: null

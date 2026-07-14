@@ -9,7 +9,7 @@ terms: []
 url: https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1383125900/?ats=successfactors
 source: simplify-new-grad
 listing_id: 7b688238-e23e-4f54-ad02-d8ba1449cf8e
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

@@ -59,7 +59,7 @@ terms: []
 url: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst_J284073
 source: simplify-new-grad
 listing_id: 414a4a1b-b899-436d-898b-9d0b114bd26a
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.lever.co/whoop/b7f75849-b5c0-49fe-8d24-50cbb39d284d/apply
 source: simplify-new-grad
 listing_id: 753c53d1-b532-4ebb-9615-4348e16dd5d9
-active: true
+active: false
 date_posted: '2026-04-14'
 date_updated: '2026-04-14'
 status: to-apply

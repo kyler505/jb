@@ -14,7 +14,7 @@ terms:
 url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Software-Engineering_R-51183-1
 source: simplify-internships
 listing_id: 940c277c-55c2-4e03-8046-d765e0c14dd7
-active: true
+active: false
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
 status: to-apply
