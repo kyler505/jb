@@ -19,6 +19,6 @@ notes: null
 resume_used: resume.pdf
 needs_review: false
 apply_method: simplify
-priority: 46.48
+priority: 46.2
 apply_result: not_confirmed
 ---
