@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.eu.greenhouse.io/prolific/jobs/4747728101
 source: simplify-new-grad
 listing_id: 6ec751ab-6e68-40ad-a25f-3361f60d841c
-active: true
+active: false
 date_posted: '2026-01-06'
 date_updated: '2026-01-06'
 status: to-apply

@@ -11,7 +11,7 @@ terms: []
 url: https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1
 source: simplify-new-grad
 listing_id: d5334592-4814-4ea5-a7f1-14bb1ae228ca
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-05'
 status: needs-review

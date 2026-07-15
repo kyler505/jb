@@ -6,19 +6,14 @@ discipline: swe
 locations:
 - Mountain View, CA
 terms: []
-url: https://nuro.ai/careersitem?gh_jid=7978432
+url: https://nuro.ai/careersitem?gh_jid=8064655
 source: simplify-new-grad
-listing_id: 27c87258-83f7-4250-aea7-489c57222e3e
-active: true
-date_posted: '2026-06-03'
-date_updated: '2026-06-03'
+listing_id: 1704991d-f184-40b1-91ef-a74b76753d06
+active: false
+date_posted: '2026-07-14'
+date_updated: '2026-07-14'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: success
-resume_used: resume.pdf
-apply_method: simplify
-priority: 45.52
-needs_review: false
 ---

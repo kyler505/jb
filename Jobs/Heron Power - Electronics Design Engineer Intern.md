@@ -11,7 +11,7 @@ terms:
 url: http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application
 source: simplify-internships
 listing_id: 864fb857-973c-4041-8f03-889fcffa79c2
-active: false
+active: true
 date_posted: '2026-06-23'
 date_updated: '2026-07-14'
 status: to-apply

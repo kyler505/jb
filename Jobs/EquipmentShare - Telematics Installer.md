@@ -4,14 +4,14 @@ role: Telematics Installer
 category: new-grad
 discipline: other
 locations:
-- Waco, TX
+- Salt Lake City, UT
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=8052030
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=8051940
 source: simplify-new-grad
-listing_id: 0834f388-7b02-413d-9774-004d6c8f329c
+listing_id: f1b2854e-8e03-43fa-8c3d-97b53bb22da6
 active: true
-date_posted: '2026-07-13'
-date_updated: '2026-07-13'
+date_posted: '2026-07-14'
+date_updated: '2026-07-14'
 status: to-apply
 applied_date: null
 deadline: null

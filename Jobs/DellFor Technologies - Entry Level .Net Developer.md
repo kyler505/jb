@@ -1,14 +1,14 @@
 ---
 company: DellFor Technologies
-role: Entry Level .NET Developer
+role: Entry Level .Net Developer
 category: new-grad
 discipline: swe
 locations:
-- Minnesota
+- NYC
 terms: []
-url: https://jobs.smartrecruiters.com/DellforTechnologies/102103863
+url: https://jobs.smartrecruiters.com/DellforTechnologies/102104140
 source: simplify-new-grad
-listing_id: 9456de54-4372-4974-ba32-7633e24ac927
+listing_id: 0b2e628c-07e0-464c-b9a8-4f3053adb604
 active: true
 date_posted: '2026-02-20'
 date_updated: '2026-02-20'

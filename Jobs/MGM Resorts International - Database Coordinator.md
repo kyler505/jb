@@ -9,7 +9,7 @@ terms: []
 url: https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Property---MGM-Yonkers/Database-Coordinator---MGM-Yonkers_276476
 source: simplify-new-grad
 listing_id: 4616f013-4448-488d-a04f-149673ed145d
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: to-apply

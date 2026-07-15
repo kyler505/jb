@@ -6,15 +6,14 @@ discipline: other
 locations:
 - Oklahoma City, OK
 terms: []
-url: https://careers.akima.com/jobs/22927?lang=en-us&icims=1
+url: https://careers.akima.com/jobs/24280?icims=1
 source: simplify-new-grad
-listing_id: d43d1af8-3c41-4609-af65-e023ca41f8a0
+listing_id: 678041a1-d2cc-45bd-b097-52ba98dadad6
 active: true
-date_posted: '2026-05-14'
-date_updated: '2026-05-26'
+date_posted: '2026-07-14'
+date_updated: '2026-07-14'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 22.51
 ---

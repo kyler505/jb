@@ -4,17 +4,16 @@ role: Junior Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- United States
+- Newark, DE
 terms: []
-url: https://mthree.com/careers/job/?gh_jid=4374344006
+url: https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006
 source: simplify-new-grad
-listing_id: e828c150-30c9-41f2-80b8-ef5fe79e24d0
+listing_id: f5e5e13c-5b95-448b-9f96-4e17ad694841
 active: false
-date_posted: '2025-11-14'
-date_updated: '2025-11-14'
+date_posted: '2026-04-15'
+date_updated: '2026-04-15'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 40.02
 ---

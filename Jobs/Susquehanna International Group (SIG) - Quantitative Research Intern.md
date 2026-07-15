@@ -4,16 +4,15 @@ role: Quantitative Research Intern
 category: internship
 discipline: other
 locations:
-- Philadelphia, PA
-- NYC
+- London, UK
 terms:
 - Summer 2027
-url: https://careers-sig.icims.com/jobs/10820/job?mobile=true&needsRedirect=false
+url: https://careers-sig.icims.com/jobs/11007/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 6f017171-74b9-4619-a761-d93250479626
+listing_id: 8afc4bdd-99a6-4f56-8bfa-ee0235a88b2c
 active: true
-date_posted: '2026-06-29'
-date_updated: '2026-06-29'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

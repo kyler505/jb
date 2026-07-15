@@ -9,7 +9,7 @@ terms: []
 url: https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors
 source: simplify-new-grad
 listing_id: 84a39b8e-8d89-4f91-ab45-1d53e8d86776
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

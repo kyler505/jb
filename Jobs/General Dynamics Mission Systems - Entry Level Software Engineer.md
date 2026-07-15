@@ -4,17 +4,16 @@ role: Entry Level Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Scottsdale, AZ
+- Manassas, VA
 terms: []
-url: https://careers-gdms.icims.com/jobs/73193/job?mobile=true&needsRedirect=false
+url: https://careers-gdms.icims.com/jobs/73140/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 6507515a-808f-4502-b19f-ead22fbf63d3
-active: true
-date_posted: '2026-06-22'
-date_updated: '2026-06-22'
+listing_id: bed37cac-7110-483e-b908-3e624efd76d4
+active: false
+date_posted: '2026-06-16'
+date_updated: '2026-06-16'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 49.36
 ---

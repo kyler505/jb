@@ -1,18 +1,18 @@
 ---
 company: Tencent
-role: Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal
+role: Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal
 category: internship
 discipline: other
 locations:
 - Palo Alto, CA
 terms:
 - Spring 2026
-url: https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2
+url: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650
 source: simplify-internships
-listing_id: 275b40b6-35f1-4ef6-9c1b-741a35b72c1f
+listing_id: eb14174f-2e4d-4c27-90c6-67df2ddef557
 active: true
-date_posted: '2025-12-30'
-date_updated: '2026-01-15'
+date_posted: '2025-12-22'
+date_updated: '2025-12-22'
 status: to-apply
 applied_date: null
 deadline: null

@@ -17,10 +17,10 @@ applied_date: null
 deadline: null
 notes: null
 apply_result: not_confirmed
-resume_used: resume
 apply_method: simplify
-priority: 51.79
 needs_review: false
+priority: 51.79
+resume_used: resume
 ---
 
 ## Application 2026-07-03

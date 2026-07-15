@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.apple.com/en-us/details/200657339
 source: simplify-new-grad
 listing_id: de20aa23-c071-412c-9292-45c9c8870739
-active: true
+active: false
 date_posted: '2026-05-06'
 date_updated: '2026-05-06'
 status: to-apply

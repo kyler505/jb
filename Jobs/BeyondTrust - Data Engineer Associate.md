@@ -10,7 +10,7 @@ terms: []
 url: https://job-boards.greenhouse.io/beyondtrust/jobs/6602214
 source: simplify-new-grad
 listing_id: 3d6cfbee-bf7c-4fa4-bdc5-7beea6d5ae6a
-active: true
+active: false
 date_posted: '2025-12-19'
 date_updated: '2026-07-13'
 status: to-apply

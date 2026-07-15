@@ -9,7 +9,7 @@ terms: []
 url: https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Computer-Technician-I_JR-023592
 source: simplify-new-grad
 listing_id: 21702cd0-32c5-458e-8bda-9d78e38ce09b
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

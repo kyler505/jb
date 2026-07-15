@@ -11,7 +11,7 @@ terms:
 url: https://mhicareers.com/job/Boisbriand-Software-Development-&-Data-Science-Analyst-(12-Month-contract)-Queb-J7H-0E2/1384663333/?ats=successfactors
 source: simplify-internships
 listing_id: a72ca479-44bf-46ff-8d2b-0ec7e74731b0
-active: true
+active: false
 date_posted: '2026-04-16'
 date_updated: '2026-04-16'
 status: to-apply

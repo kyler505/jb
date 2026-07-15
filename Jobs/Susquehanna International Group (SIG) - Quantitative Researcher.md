@@ -4,15 +4,14 @@ role: Quantitative Researcher
 category: new-grad
 discipline: other
 locations:
-- Philadelphia, PA
-- NYC
+- London, UK
 terms: []
-url: https://careers-sig.icims.com/jobs/11017/job?mobile=true&needsRedirect=false
+url: https://careers-sig.icims.com/jobs/11033/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 57c0a0af-24f9-4227-b1af-ab0d9214f1a2
+listing_id: 01cb4338-9da0-4db1-b6d9-7e11abd4d90b
 active: true
-date_posted: '2026-06-29'
-date_updated: '2026-06-29'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

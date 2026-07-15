@@ -6,19 +6,14 @@ discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []
-url: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795
+url: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921
 source: simplify-new-grad
-listing_id: 46675389-0f58-4172-9093-35f703f53e33
+listing_id: 244d1b77-4840-442a-9e8f-dfb9618dd19e
 active: false
-date_posted: '2026-07-03'
-date_updated: '2026-07-03'
-status: needs-review
+date_posted: '2026-07-14'
+date_updated: '2026-07-14'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_method: auto
-apply_error: Email verification required — account created but not verified
-priority: 60.0
-apply_result: wizard_end
-needs_review: true
 ---

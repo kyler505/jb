@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004
 source: simplify-new-grad
 listing_id: d2726d53-5ea3-4e53-ac66-793145403143
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: skipped

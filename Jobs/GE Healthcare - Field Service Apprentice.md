@@ -4,18 +4,15 @@ role: Field Service Apprentice
 category: internship
 discipline: other
 locations:
-- Minneapolis, MN
+- Houston, TX
 terms:
-- Winter 2025
-- Spring 2025
-- Summer 2025
-- Fall 2025
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1
+- Fall 2026
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043180
 source: simplify-internships
-listing_id: 037d7693-e6be-486d-b4bd-d7dff6960ce4
-active: true
+listing_id: ecd199f5-e642-483c-96ff-7f486862e7ec
+active: false
 date_posted: '2026-07-08'
-date_updated: '2026-07-09'
+date_updated: '2026-07-12'
 status: to-apply
 applied_date: null
 deadline: null

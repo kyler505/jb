@@ -11,7 +11,7 @@ terms:
 url: https://jobs.smartrecruiters.com/Sandisk/744000131541969
 source: simplify-internships
 listing_id: 4c140414-fbfc-421c-8f94-69ddf8959cac
-active: true
+active: false
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
 status: to-apply

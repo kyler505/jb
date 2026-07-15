@@ -4,15 +4,15 @@ role: Field Engineer Apprentice
 category: internship
 discipline: other
 locations:
-- Columbus, OH
+- California
 terms:
 - Fall 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1
 source: simplify-internships
-listing_id: 345fceab-4a0f-47a4-a5ec-6282cb93c51d
+listing_id: cf736802-724f-4f8f-874b-185fd97a9f55
 active: false
-date_posted: '2026-07-10'
-date_updated: '2026-07-10'
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null
