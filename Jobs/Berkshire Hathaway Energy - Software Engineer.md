@@ -25,7 +25,7 @@ notes: null
 apply_result: not_confirmed
 apply_method: simplify
 needs_review: false
-priority: 52.19
+priority: 51.79
 resume_used: resume
 ---
 
