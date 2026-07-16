@@ -4,14 +4,14 @@ role: Associate Consultant - Generative AI
 category: new-grad
 discipline: other
 locations:
-- NYC
+- Charlotte, NC
 terms: []
-url: https://jobs.smartrecruiters.com/Sia/744000132514279
+url: https://jobs.smartrecruiters.com/Sia/744000137956110
 source: simplify-new-grad
-listing_id: a15151ca-d5f3-4eda-8491-de7f95fbe2ce
+listing_id: 1a20739d-1db9-4070-8a50-94f4de563b2e
 active: false
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

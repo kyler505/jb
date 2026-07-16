@@ -9,15 +9,16 @@ terms: []
 url: https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2
 source: simplify-new-grad
 listing_id: 38f5e07d-e077-4145-ace5-85e4eb815a92
-active: false
+active: true
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
 status: needs-review
+applied_date: null
 deadline: null
 notes: null
 priority: 53.46
-resume_used: resume
 apply_method: auto
+resume_used: resume
 needs_review: true — review debug output above
 apply_error: Reached end of wizard — review debug output above
 ---

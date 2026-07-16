@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Eden Prairie, MN
 terms: []
-url: https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Ai--Senior-Application-Engineer_R25_0000033573
+url: https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000023122
 source: simplify-new-grad
-listing_id: 315a995c-68f2-421b-a0f3-fb06cfb4fd63
+listing_id: c6795610-6066-4b50-a853-17506687c2a5
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

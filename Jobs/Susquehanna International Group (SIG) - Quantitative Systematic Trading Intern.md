@@ -4,16 +4,15 @@ role: Quantitative Systematic Trading Intern
 category: internship
 discipline: other
 locations:
-- Philadelphia, PA
-- NYC
+- London, UK
 terms:
 - Summer 2027
-url: https://careers-sig.icims.com/jobs/10824/job?mobile=true&needsRedirect=false
+url: https://careers-sig.icims.com/jobs/11006/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 55723c85-bd8c-4d95-be54-2a6851a48b6c
+listing_id: 45121612-e5f7-499d-a2b8-403f1234f051
 active: true
-date_posted: '2026-06-29'
-date_updated: '2026-06-29'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

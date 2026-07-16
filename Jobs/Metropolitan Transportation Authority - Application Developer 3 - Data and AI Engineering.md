@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.jobvite.com/metropolitantransportationauthority/job/oygdzfwk?nl=1&nl=1&fr=false
 source: simplify-new-grad
 listing_id: ff4d4740-3fd4-4dce-9f5d-2ffad59028cc
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: skipped

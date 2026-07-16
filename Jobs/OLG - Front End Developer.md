@@ -11,7 +11,7 @@ terms:
 url: https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Front-End-Developer-Student_R26_00492
 source: simplify-internships
 listing_id: 0e77d643-8649-4aaa-8742-15190102da70
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

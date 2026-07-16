@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []
-url: 'https://simplify.jobs/c/Okta'
+url: https://simplify.jobs/c/Okta
 source: simplify-new-grad
 listing_id: 8d516e44-9c2e-63f8-a6ab-425c9d652ac1
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

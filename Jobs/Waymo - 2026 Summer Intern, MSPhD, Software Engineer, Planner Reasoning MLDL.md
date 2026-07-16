@@ -10,7 +10,7 @@ terms:
 url: https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132
 source: simplify-internships
 listing_id: 272ebb56-c365-4e6e-ba31-7f272187adca
-active: true
+active: false
 date_posted: '2025-11-17'
 date_updated: '2025-11-17'
 status: to-apply

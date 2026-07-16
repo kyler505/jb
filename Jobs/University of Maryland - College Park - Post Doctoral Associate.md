@@ -9,7 +9,7 @@ terms: []
 url: https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Post-Doctoral-Associate_JR101922
 source: simplify-new-grad
 listing_id: aded84fb-4d21-4dae-b6fc-4ee782d8a5ec
-active: false
+active: true
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
 status: to-apply

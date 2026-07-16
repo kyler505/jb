@@ -9,7 +9,7 @@ terms: []
 url: https://walmart.wd504.myworkdayjobs.com/Non-WorkdayInternal/job/USA-Trust-Building-AR-Bentonville-Home-Office/XMLNAME--USA--Principal--Data-Analyst_R-2565747-1
 source: simplify-new-grad
 listing_id: c59e05ee-100d-4b52-bb54-5f3d9355409f
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

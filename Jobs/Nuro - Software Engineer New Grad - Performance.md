@@ -9,7 +9,7 @@ terms: []
 url: https://nuro.ai/careersitem?gh_jid=8064655
 source: simplify-new-grad
 listing_id: 1704991d-f184-40b1-91ef-a74b76753d06
-active: false
+active: true
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

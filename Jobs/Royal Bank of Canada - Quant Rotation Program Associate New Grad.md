@@ -9,7 +9,7 @@ terms: []
 url: https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286
 source: simplify-new-grad
 listing_id: 61889653-930e-4e1c-9b9f-f805543a4d55
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-10'
 status: to-apply

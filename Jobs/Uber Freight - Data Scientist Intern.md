@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/uberfreight/jobs/5194491008
 source: simplify-internships
 listing_id: 51146492-0c25-4e83-b0f2-9bd98505db21
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

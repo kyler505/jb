@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/figureai/jobs/4590702006
 source: simplify-new-grad
 listing_id: 3c75f0ca-29e4-400d-8e74-9adafaebcc9c
-active: true
+active: false
 date_posted: '2025-11-18'
 date_updated: '2025-11-18'
 status: to-apply

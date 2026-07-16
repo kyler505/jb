@@ -9,7 +9,7 @@ terms: []
 url: https://seatgeek.com/jobs/7858968?gh_jid=7858968
 source: simplify-new-grad
 listing_id: 497ebde0-832e-47ef-be0f-4960afd0a13a
-active: true
+active: false
 date_posted: '2026-04-27'
 date_updated: '2026-04-27'
 status: to-apply

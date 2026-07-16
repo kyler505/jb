@@ -6,15 +6,14 @@ discipline: other
 locations:
 - Mason, OH
 terms: []
-url: https://job-boards.greenhouse.io/vegaamericas/jobs/4688519006
+url: https://job-boards.greenhouse.io/vegaamericas/jobs/4697379006
 source: simplify-new-grad
-listing_id: a3061397-527d-4219-9992-8ecb3226682a
-active: true
-date_posted: '2026-06-10'
-date_updated: '2026-06-10'
+listing_id: c811b00c-e550-48bc-a279-ce153ab7fef7
+active: false
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 31.87
 ---

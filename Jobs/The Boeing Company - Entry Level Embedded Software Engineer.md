@@ -6,10 +6,10 @@ discipline: hardware
 locations:
 - Fort Walton Beach, FL
 terms: []
-url: 'https://simplify.jobs/c/Boeing'
+url: https://simplify.jobs/c/Boeing
 source: simplify-new-grad
 listing_id: 5e0badc2-f4f8-3dcb-81c7-fddbc7f7eb90
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

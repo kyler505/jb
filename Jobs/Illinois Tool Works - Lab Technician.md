@@ -9,7 +9,7 @@ terms: []
 url: https://careers.itw.com/global/en/job/JR8534
 source: simplify-new-grad
 listing_id: b97ae3ad-679d-49e8-916c-2fef685fd2aa
-active: false
+active: true
 date_posted: '2026-06-13'
 date_updated: '2026-06-18'
 status: to-apply

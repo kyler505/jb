@@ -9,7 +9,7 @@ terms: []
 url: https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Applications-Programmer-I_R113630
 source: simplify-new-grad
 listing_id: 21576dcc-16d0-4ac6-b351-2c10592d3a7a
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review

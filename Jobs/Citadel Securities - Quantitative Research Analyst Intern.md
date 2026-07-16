@@ -4,16 +4,15 @@ role: Quantitative Research Analyst Intern
 category: internship
 discipline: other
 locations:
-- Miami, FL
-- NYC
+- London, UK
 terms:
 - Summer 2026
-url: https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/
+url: https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/
 source: simplify-internships
-listing_id: 5f7e1e45-9de0-4e8b-a12a-1a068acf36cc
+listing_id: a869b3f7-71bd-4b08-9c7e-8c6706e98035
 active: false
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

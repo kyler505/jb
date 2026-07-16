@@ -10,7 +10,7 @@ terms:
 url: https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Student_R26_00479
 source: simplify-internships
 listing_id: 464d3bee-1f3b-477c-ac68-50ee629f3a9d
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply
