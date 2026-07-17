@@ -10,7 +10,7 @@ terms:
 url: https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223359
 source: simplify-internships
 listing_id: fcd24d2e-1552-4b2e-a939-87596e9177ce
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

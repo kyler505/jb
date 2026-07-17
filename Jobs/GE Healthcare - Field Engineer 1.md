@@ -4,14 +4,15 @@ role: Field Engineer 1
 category: new-grad
 discipline: other
 locations:
-- El Paso, TX
+- Detroit, MI
+- Ann Arbor, MI
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Ann-Arbor-Detroit-Southeast-Michigan_R4043442-2
 source: simplify-new-grad
-listing_id: 0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4
+listing_id: 3077b33e-6c82-4350-bea3-1507b95463ea
 active: false
-date_posted: '2026-07-08'
-date_updated: '2026-07-08'
+date_posted: '2026-07-09'
+date_updated: '2026-07-17'
 status: to-apply
 applied_date: null
 deadline: null

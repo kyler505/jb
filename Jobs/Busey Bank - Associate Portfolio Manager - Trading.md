@@ -12,7 +12,7 @@ terms: []
 url: https://busey.wd503.myworkdayjobs.com/busey/job/Creve-Coeur-MO---12300-Olive-Blvd/Associate-Portfolio-Manager--Trading_JR102392
 source: simplify-new-grad
 listing_id: d938afb4-26dd-42ec-80c8-714cc2fc6351
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors
 source: simplify-new-grad
 listing_id: 4b522d5e-1655-476c-ba76-1ada826022c7
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
 status: skipped

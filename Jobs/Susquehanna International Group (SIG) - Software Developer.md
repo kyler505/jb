@@ -9,7 +9,7 @@ terms: []
 url: https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: fdc3cd2a-7252-4a0a-9875-230e758dcf8e
-active: true
+active: false
 date_posted: '2026-03-26'
 date_updated: '2026-03-26'
 status: to-apply

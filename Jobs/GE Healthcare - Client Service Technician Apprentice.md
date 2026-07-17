@@ -4,15 +4,15 @@ role: Client Service Technician Apprentice
 category: internship
 discipline: other
 locations:
-- Charleston, WV
+- Remote in USA
 terms:
 - Fall 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043521-1
 source: simplify-internships
-listing_id: 4483e436-40a3-47b2-b54d-3bb6048b787d
+listing_id: f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1
 active: false
-date_posted: '2026-07-08'
-date_updated: '2026-07-16'
+date_posted: '2026-07-10'
+date_updated: '2026-07-17'
 status: to-apply
 applied_date: null
 deadline: null

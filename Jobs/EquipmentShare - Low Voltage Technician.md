@@ -4,12 +4,12 @@ role: Low Voltage Technician
 category: new-grad
 discipline: other
 locations:
-- Augusta, GA
+- Dayton, OH
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=8049241
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=8049242
 source: simplify-new-grad
-listing_id: 7e1b986d-55c5-4e67-97f8-e6f0087cf54f
-active: true
+listing_id: 8034ac46-304b-4815-aae4-a3e970430277
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

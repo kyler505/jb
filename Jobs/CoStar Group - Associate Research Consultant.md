@@ -4,14 +4,14 @@ role: Associate Research Consultant
 category: new-grad
 discipline: other
 locations:
-- Richmond, VA
+- London, UK
 terms: []
-url: https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934
+url: https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/UK-London/Associate-Research-Consultant--CoStar---London_R38556
 source: simplify-new-grad
-listing_id: 654a8203-8795-40c6-92f5-76afc4273093
+listing_id: 2bc5a205-56bd-4f78-b7b0-f67a68066540
 active: false
-date_posted: '2026-05-30'
-date_updated: '2026-06-02'
+date_posted: '2026-06-13'
+date_updated: '2026-06-18'
 status: to-apply
 applied_date: null
 deadline: null

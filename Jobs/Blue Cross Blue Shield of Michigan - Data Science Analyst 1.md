@@ -9,7 +9,7 @@ terms: []
 url: https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/13982
 source: simplify-new-grad
 listing_id: 5a35df3b-cdf4-46ba-936b-6b45a80d8c02
-active: true
+active: false
 date_posted: '2026-03-20'
 date_updated: '2026-03-20'
 status: to-apply

@@ -6,15 +6,14 @@ discipline: other
 locations:
 - Warner Robins, GA
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10222651
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Engineering-Technician-1_R10240746-1
 source: simplify-new-grad
-listing_id: 3ab8432a-8cc9-436c-902d-510fc36806b5
+listing_id: e14b2c88-5ec2-4018-bc0e-95bb24d017b0
 active: false
-date_posted: '2026-02-15'
-date_updated: '2026-02-15'
+date_posted: '2026-07-16'
+date_updated: '2026-07-16'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 16.37
 ---

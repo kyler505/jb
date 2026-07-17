@@ -9,7 +9,7 @@ terms: []
 url: https://careers.varsitybrands.com/global/en/job/JR114172
 source: simplify-new-grad
 listing_id: 82efb81a-9d97-4172-9331-701b618857c6
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

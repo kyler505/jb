@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/epickids/jobs/7751646003
 source: simplify-new-grad
 listing_id: ba78528d-fa1f-4c33-92fd-ac6e184830a6
-active: true
+active: false
 date_posted: '2026-05-28'
 date_updated: '2026-06-02'
 status: skipped

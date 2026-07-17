@@ -7,12 +7,12 @@ locations:
 - Kanata, Ottawa, ON, Canada
 terms:
 - Fall 2026
-url: https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700248
+url: https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250
 source: simplify-internships
-listing_id: b93ad719-d868-461f-85a0-10eb85509e6a
+listing_id: 8229df40-7faa-475d-8805-f0c10dad0a39
 active: false
-date_posted: '2026-07-09'
-date_updated: '2026-07-10'
+date_posted: '2026-07-16'
+date_updated: '2026-07-16'
 status: to-apply
 applied_date: null
 deadline: null

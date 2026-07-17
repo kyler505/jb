@@ -16,9 +16,9 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-priority: 46.51
 apply_method: auto
 apply_result: wizard_end
-needs_review: true
 apply_error: Reached end of wizard — review debug output above
+priority: 46.51
+needs_review: true
 ---
