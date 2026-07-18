@@ -17,7 +17,7 @@ terms:
 url: https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Northeastern-University-R-D-Engineer-Co-op--Northeastern-Students-Graduating-in-2028-2029-ONLY_R000155302
 source: simplify-internships
 listing_id: 5e2e1f7e-1358-41d7-9161-56fec8e98640
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

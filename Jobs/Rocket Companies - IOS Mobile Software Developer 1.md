@@ -11,7 +11,7 @@ terms: []
 url: https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1
 source: simplify-new-grad
 listing_id: 16563ac6-f4a5-4af9-a956-d936a9ef337e
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

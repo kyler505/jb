@@ -11,7 +11,7 @@ terms: []
 url: https://job-boards.greenhouse.io/nisc/jobs/8035914
 source: simplify-new-grad
 listing_id: a34e76eb-28b8-4763-b31b-6099faa5db55
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: skipped

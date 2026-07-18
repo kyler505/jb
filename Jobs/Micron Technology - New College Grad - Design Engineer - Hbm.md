@@ -9,7 +9,7 @@ terms: []
 url: https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Design-Engineer--HBM_JR106212
 source: simplify-new-grad
 listing_id: f8191bb6-b5ba-4864-9c7c-ca435b225435
-active: true
+active: false
 date_posted: '2026-07-13'
 date_updated: '2026-07-13'
 status: to-apply

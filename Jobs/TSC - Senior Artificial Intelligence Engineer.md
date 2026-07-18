@@ -9,7 +9,7 @@ terms: []
 url: https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Dahlgren-VA/Senior-AI-Engineer_JR2591
 source: simplify-new-grad
 listing_id: 132809cd-e4dc-4693-be73-d743fb5539a9
-active: true
+active: false
 date_posted: '2026-05-26'
 date_updated: '2026-05-26'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant_2024536
 source: simplify-new-grad
 listing_id: 26fe63da-ab35-4c3c-a2fb-9c2d3c58a726
-active: true
+active: false
 date_posted: '2026-05-15'
 date_updated: '2026-05-15'
 status: to-apply

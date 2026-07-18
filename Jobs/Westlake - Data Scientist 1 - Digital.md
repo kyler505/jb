@@ -9,7 +9,7 @@ terms: []
 url: https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Data-Scientist-I---Digital_R32974
 source: simplify-new-grad
 listing_id: d9d8fdd5-9c5e-4214-89aa-e710468fc54a
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

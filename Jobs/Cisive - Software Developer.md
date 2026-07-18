@@ -44,7 +44,7 @@ terms: []
 url: https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Developer_JR100172
 source: simplify-new-grad
 listing_id: bd6c1d8d-06f6-44e2-a2a5-6feff8bd6f80
-active: true
+active: false
 date_posted: '2026-04-17'
 date_updated: '2026-04-17'
 status: to-apply

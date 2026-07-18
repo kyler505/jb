@@ -12,7 +12,7 @@ terms: []
 url: https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wilson-County-NC/Electronics-Technician-I-Division-4_JR-118398
 source: simplify-new-grad
 listing_id: d92b7905-31c9-462b-9f08-01f277c12fc2
-active: true
+active: false
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
 status: to-apply

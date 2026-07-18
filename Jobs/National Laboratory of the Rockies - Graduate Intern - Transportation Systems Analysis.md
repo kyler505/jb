@@ -13,7 +13,7 @@ terms:
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153
 source: simplify-internships
 listing_id: cbd572b1-88d5-4325-a534-e4b8b03290c6
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

@@ -13,7 +13,7 @@ terms: []
 url: https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400
 source: simplify-new-grad
 listing_id: 5ffb792a-06f6-4670-b8ba-24c5402f1824
-active: true
+active: false
 date_posted: '2026-03-30'
 date_updated: '2026-03-30'
 status: to-apply

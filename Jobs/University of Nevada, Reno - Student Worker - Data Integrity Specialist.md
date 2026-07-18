@@ -10,7 +10,7 @@ terms:
 url: https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Data-Integrity-Specialist_R0152592
 source: simplify-internships
 listing_id: 57a3c271-a794-45fe-bc73-920a2e417498
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

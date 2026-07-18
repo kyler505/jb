@@ -9,7 +9,7 @@ terms: []
 url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Embedded-Software-Engineer---Modern-C-----Linux_R64714
 source: simplify-new-grad
 listing_id: 0bc0163f-90ea-4590-a028-87ba03c31820
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-06-13'
 status: to-apply

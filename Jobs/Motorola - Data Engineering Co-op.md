@@ -13,7 +13,7 @@ terms:
 url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Engineering-Co-Op_R65916
 source: simplify-internships
 listing_id: e8b59897-2766-4ebd-907b-14e589a75372
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://hp.wd5.myworkdayjobs.com/externalcareersite/job/All-Cities-Maryland-United-States-of-America/Onsite-Administrator-Level-I--Printer-Technician---Linthicum-Heights-MD_3164513
 source: simplify-new-grad
 listing_id: 12280112-ccfd-4d29-a80d-d41cb055a35f
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

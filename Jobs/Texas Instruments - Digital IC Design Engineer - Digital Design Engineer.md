@@ -1,17 +1,18 @@
 ---
 company: Texas Instruments
 role: Digital IC Design Engineer - Digital Design Engineer
-category: new-grad
+category: internship
 discipline: other
 locations:
-- United States
-terms: []
-url: https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009593
-source: simplify-new-grad
-listing_id: a9b70357-b1d7-4d19-a35b-c9ef24d16b80
-active: true
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
+- Tucson, AZ
+terms:
+- N/A
+url: https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011638
+source: simplify-internships
+listing_id: 37d02104-2735-4e8e-bfa4-49c184a4f7ac
+active: false
+date_posted: '2026-07-07'
+date_updated: '2026-07-07'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897
 source: simplify-internships
 listing_id: 95db5bec-3f24-4913-816e-bfabc131f401
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

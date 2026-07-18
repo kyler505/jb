@@ -9,7 +9,7 @@ terms: []
 url: https://boards.greenhouse.io/accenturefederalservices/jobs/4599650006
 source: simplify-new-grad
 listing_id: e961c677-7d4e-4131-8f01-296f7045b7aa
-active: true
+active: false
 date_posted: '2026-05-08'
 date_updated: '2026-05-08'
 status: to-apply

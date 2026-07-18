@@ -10,7 +10,7 @@ terms: []
 url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AI-Driven-_R-51215
 source: simplify-new-grad
 listing_id: 470190ee-ee16-489d-95fd-db202e5d869d
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

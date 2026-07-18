@@ -9,7 +9,7 @@ terms: []
 url: https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Machine-Vision-Development-Engineer-I_REQ026227
 source: simplify-new-grad
 listing_id: 13816ebb-26ab-4844-bc5f-6090d01efe10
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: to-apply

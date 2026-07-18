@@ -9,7 +9,7 @@ terms: []
 url: https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer_R-057365
 source: simplify-new-grad
 listing_id: 36ff8e0b-f625-4828-b84a-5d968bf1d5e1
-active: true
+active: false
 date_posted: '2026-05-21'
 date_updated: '2026-05-26'
 status: needs-review

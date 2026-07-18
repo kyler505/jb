@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.lever.co/appen/c955501f-01d4-4363-8b36-1c381e421db4/apply
 source: simplify-new-grad
 listing_id: 05656bba-f2b6-452d-8457-c15f0455d1c1
-active: true
+active: false
 date_posted: '2026-05-28'
 date_updated: '2026-07-10'
 status: to-apply

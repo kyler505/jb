@@ -10,7 +10,7 @@ terms: []
 url: https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-AI-Enablement-Analyst_R-2026-7552
 source: simplify-new-grad
 listing_id: ec77de01-167d-46aa-8664-665e8f9bb621
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: to-apply

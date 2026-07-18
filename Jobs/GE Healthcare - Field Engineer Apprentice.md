@@ -4,16 +4,15 @@ role: Field Engineer Apprentice
 category: internship
 discipline: other
 locations:
-- Dayton, OH
-- Columbus, OH
+- Salt Lake City, UT
 terms:
 - Fall 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Job-Posting-Title-Field-Engineer-Apprentice_R4043559
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1
 source: simplify-internships
-listing_id: c1a4bf61-90df-42b7-8c6c-5b197e81cb7d
+listing_id: 6fd5f184-953f-41e2-a220-0bc16b7bae48
 active: false
-date_posted: '2026-07-14'
-date_updated: '2026-07-17'
+date_posted: '2026-07-08'
+date_updated: '2026-07-08'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://amazon.jobs/en/jobs/10451969/data-scientist-i-scot-inbound-planning-optimization
 source: simplify-new-grad
 listing_id: 4390c758-6e51-424d-a81b-424561f1847e
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: skipped
