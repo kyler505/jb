@@ -4,15 +4,14 @@ role: Data Discovery and Enrichment Expert 1
 category: new-grad
 discipline: other
 locations:
-- Toronto, ON, Canada
-- Canada
+- Raleigh, NC
 terms: []
-url: https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429
+url: https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188
 source: simplify-new-grad
-listing_id: 33ff65fe-7dfc-4b78-94f2-5160bccd9138
-active: false
-date_posted: '2026-05-21'
-date_updated: '2026-05-21'
+listing_id: e7e6bef5-79b4-4ef0-88f8-0daabd257a4b
+active: true
+date_posted: '2026-07-16'
+date_updated: '2026-07-16'
 status: to-apply
 applied_date: null
 deadline: null

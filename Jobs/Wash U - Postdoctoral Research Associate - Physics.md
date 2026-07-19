@@ -9,7 +9,7 @@ terms: []
 url: https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR94253
 source: simplify-new-grad
 listing_id: 9e25a8aa-0f5c-4e37-9e6b-b2704ec085f0
-active: true
+active: false
 date_posted: '2026-05-23'
 date_updated: '2026-05-26'
 status: to-apply

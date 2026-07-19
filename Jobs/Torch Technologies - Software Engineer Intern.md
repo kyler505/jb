@@ -10,7 +10,7 @@ terms:
 url: https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381
 source: simplify-internships
 listing_id: 8c876217-e8c7-4d37-9703-ecd3485077ae
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply
