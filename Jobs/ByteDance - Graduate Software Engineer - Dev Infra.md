@@ -20,7 +20,7 @@ needs_review: false
 apply_method: native
 resume_used: resume
 apply_result: not_confirmed
-priority: 53.91
+priority: 53.46
 ---
 
 ## Application 2026-07-08
