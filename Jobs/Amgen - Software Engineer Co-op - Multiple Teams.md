@@ -18,7 +18,7 @@ applied_date: null
 deadline: null
 notes: null
 resume_used: resume
-priority: 55.46
+priority: 55.02
 ---
 
 ## Application 2026-07-09
