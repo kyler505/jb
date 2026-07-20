@@ -4,15 +4,15 @@ role: Field Engineer Apprentice
 category: internship
 discipline: other
 locations:
-- Columbus, OH
+- Detroit, MI
 terms:
 - Fall 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Detroit/Field-Engineer-Apprentice_R4043571
 source: simplify-internships
-listing_id: 345fceab-4a0f-47a4-a5ec-6282cb93c51d
-active: false
-date_posted: '2026-07-10'
-date_updated: '2026-07-10'
+listing_id: 913714da-b33d-46f8-89fa-c78911521433
+active: true
+date_posted: '2026-07-14'
+date_updated: '2026-07-14'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/agoda/jobs/7698911
 source: simplify-new-grad
 listing_id: b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51
-active: false
+active: true
 date_posted: '2026-03-20'
 date_updated: '2026-04-02'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/ftandinternships/jobs/1304476
 source: simplify-internships
 listing_id: d873eaf5-b5a9-4677-89fb-c98543c04428
-active: true
+active: false
 date_posted: '2025-11-21'
 date_updated: '2025-11-21'
 status: to-apply

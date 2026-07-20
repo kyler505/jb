@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Cincinnati, OH
 terms: []
-url: https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Cincinnati-OHTL140/Repair-Depot-Technician_R72681
+url: https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Cincinnati-OHTL140/Assembly-Technician_R72679
 source: simplify-new-grad
-listing_id: d42f21dd-a261-4249-b7c8-c878b2224797
+listing_id: 9a51b542-a2a5-46f5-9b69-1cf70cdc5d65
 active: false
-date_posted: '2026-04-14'
-date_updated: '2026-04-14'
+date_posted: '2026-06-30'
+date_updated: '2026-07-20'
 status: to-apply
 applied_date: null
 deadline: null

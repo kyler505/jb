@@ -9,7 +9,7 @@ terms: []
 url: https://careers-tierpoint.icims.com/jobs/3006/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: ec6743ad-109d-425f-a2ac-59eab12de40c
-active: true
+active: false
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

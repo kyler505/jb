@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/scminternships/jobs/1146391
 source: simplify-internships
 listing_id: 283f7d1d-4364-49dc-a0f1-674fe71b7fb8
-active: true
+active: false
 date_posted: '2025-11-21'
 date_updated: '2025-11-21'
 status: to-apply
