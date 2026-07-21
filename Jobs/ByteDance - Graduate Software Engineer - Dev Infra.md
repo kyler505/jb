@@ -19,7 +19,7 @@ notes: null
 apply_method: native
 needs_review: false
 resume_used: resume
-priority: 53.02
+priority: 52.6
 apply_result: not_confirmed
 ---
 
