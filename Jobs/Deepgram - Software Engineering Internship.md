@@ -15,7 +15,7 @@ date_updated: '2026-07-20'
 status: to-apply
 applied_date: null
 deadline: null
-notes: Salary is $55-$65/hr
+notes: Salary is $55.00 - $65.00 per hour
 resume_used: resume
 priority: 50.0
 ---
@@ -55,6 +55,7 @@ I'm impressed by Deepgram's ability to provide end-to-end deep learning models f
 ### Review checklist
 - [ ] Company name correct (Deepgram)
 - [ ] Role title matches exactly
-- [ ] Salary ($55-$65/hr) noted
+- [ ] Salary ($55.00 - $65.00 per hour) noted
 - [ ] URL is correct and includes utm source
 - [ ] Resume attached and correct version
+- [ ] Remote status confirmed
