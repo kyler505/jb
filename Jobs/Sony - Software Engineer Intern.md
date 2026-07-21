@@ -10,7 +10,7 @@ terms:
 url: https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282
 source: simplify-internships
 listing_id: 95f67d1a-0c71-458d-a724-50a943e61f90
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

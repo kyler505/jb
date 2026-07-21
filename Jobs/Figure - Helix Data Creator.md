@@ -4,14 +4,14 @@ role: Helix Data Creator
 category: new-grad
 discipline: other
 locations:
-- San Jose, CA
+- LA
 terms: []
-url: https://job-boards.greenhouse.io/figureai/jobs/4693411006
+url: https://job-boards.greenhouse.io/figureai/jobs/4627111006
 source: simplify-new-grad
-listing_id: bd0b2123-9f3b-49ff-9a03-199d556d06fb
+listing_id: d5f0fe23-0a37-470b-a1d9-728b293a7e93
 active: false
-date_posted: '2026-06-30'
-date_updated: '2026-06-30'
+date_posted: '2025-12-18'
+date_updated: '2025-12-18'
 status: to-apply
 applied_date: null
 deadline: null

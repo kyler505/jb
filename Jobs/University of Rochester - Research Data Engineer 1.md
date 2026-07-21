@@ -9,7 +9,7 @@ terms: []
 url: https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Research-Data-Engineer-I_R269057
 source: simplify-new-grad
 listing_id: 1dc48271-a8ed-4c36-9206-c1ce7171c031
-active: false
+active: true
 date_posted: '2026-03-13'
 date_updated: '2026-03-13'
 status: to-apply

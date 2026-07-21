@@ -9,7 +9,7 @@ terms: []
 url: https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219
 source: simplify-new-grad
 listing_id: 01d6602a-2166-4774-a0ad-32e0b28fd5d2
-active: false
+active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: needs-review
@@ -17,10 +17,10 @@ applied_date: null
 deadline: null
 notes: null
 apply_method: auto
-apply_error: Reached end of wizard — review debug output above
-resume_used: resume
 priority: 53.02
+apply_error: Reached end of wizard — review debug output above
 needs_review: true — review debug output above
+resume_used: resume
 ---
 
 ## Application 2026-06-22

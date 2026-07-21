@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Richardson, TX
 terms: []
-url: https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Design-Engineer-Verification--2026-New-College-Graduate-_JR-2601815
+url: https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/Design-Engineer-Verification--2026-New-College-Graduate-_JR-2601844
 source: simplify-new-grad
-listing_id: 205d0cdf-d4d2-4a31-a183-0d56cddcaba8
+listing_id: 3c05a5e7-3576-44c5-9123-47434f3eee75
 active: false
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_posted: '2026-05-21'
+date_updated: '2026-05-21'
 status: to-apply
 applied_date: null
 deadline: null

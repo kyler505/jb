@@ -10,7 +10,7 @@ terms:
 url: https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148
 source: simplify-internships
 listing_id: bbda7e7c-7de0-4db9-91d9-c5964f94704a
-active: true
+active: false
 date_posted: '2025-12-23'
 date_updated: '2025-12-23'
 status: to-apply

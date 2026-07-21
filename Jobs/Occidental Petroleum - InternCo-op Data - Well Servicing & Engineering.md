@@ -14,7 +14,7 @@ terms:
 url: https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413
 source: simplify-internships
 listing_id: 387d5861-f87f-4086-b76b-88018de85a3f
-active: false
+active: true
 date_posted: '2026-03-05'
 date_updated: '2026-03-05'
 status: to-apply

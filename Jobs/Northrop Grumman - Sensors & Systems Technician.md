@@ -4,11 +4,11 @@ role: Sensors & Systems Technician
 category: new-grad
 discipline: other
 locations:
-- Baltimore, MD
+- Halethorpe, MD
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105-Sensors---Systems-Technician_R10239459
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105-Sensors---Systems-Technician---5th-Shift_R10239485
 source: simplify-new-grad
-listing_id: 27eec25c-2631-46c4-a51a-e6f1b7df6c47
+listing_id: cac63402-b8d0-473c-8d36-a9b3ddafa70b
 active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'

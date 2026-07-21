@@ -9,7 +9,7 @@ terms: []
 url: https://careers-apexservicepartners.icims.com/jobs/22843/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: a6d04f6a-9ffb-4ed1-bc42-9bf619e2695b
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

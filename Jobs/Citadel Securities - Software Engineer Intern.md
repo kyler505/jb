@@ -4,19 +4,17 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Miami, FL
-- NYC
+- London, UK
 terms:
 - Fall 2026
-url: https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/
+url: https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/
 source: simplify-internships
-listing_id: c76dbe61-c0f6-47a8-b05e-b219b4e28fb7
+listing_id: 1a44500b-c841-4121-ad65-9ed0746573db
 active: true
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 54.19
 ---

@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/roadrunner/jobs/4307451009
 source: simplify-new-grad
 listing_id: 5158ca83-fadc-46bd-8a9d-7d714853a2c3
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-08'
 status: to-apply

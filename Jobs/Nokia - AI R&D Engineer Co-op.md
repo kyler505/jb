@@ -7,12 +7,13 @@ locations:
 - Sunnyvale, CA
 terms:
 - Fall 2026
-url: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36919
+- Winter 2026
+url: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38783
 source: simplify-internships
-listing_id: 9fe813e2-c70d-4985-91d4-c70aa74b0ed3
+listing_id: 13b34a58-a309-4dad-be18-399b9f6a582b
 active: false
-date_posted: '2026-05-28'
-date_updated: '2026-06-11'
+date_posted: '2026-07-20'
+date_updated: '2026-07-20'
 status: to-apply
 applied_date: null
 deadline: null

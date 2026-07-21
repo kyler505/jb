@@ -4,14 +4,15 @@ role: Field Service Representative Hardware
 category: new-grad
 discipline: hardware
 locations:
-- Fairfax, VA
+- San Antonio, TX
+- Melbourne, FL
 terms: []
-url: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/WAS-PA/Field-Service-Rep-HW---Fairfax--VA_R-28802
+url: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Rep-HW---Melbourne--FL_R-28645
 source: simplify-new-grad
-listing_id: c75c5bb2-d625-4541-b34d-0e016eba436a
+listing_id: d23e1c2a-47d8-4102-bfc6-92343450288b
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-07-04'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

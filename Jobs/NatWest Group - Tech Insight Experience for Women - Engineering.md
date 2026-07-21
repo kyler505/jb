@@ -1,19 +1,17 @@
 ---
 company: NatWest Group
 role: Tech Insight Experience for Women - Engineering
-category: internship
+category: new-grad
 discipline: other
 locations:
-- London, UK
 - Edinburgh, UK
-terms:
-- N/A
-url: https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Tech-Insight-Experience-for-Women---Engineering_R-00276059
-source: simplify-internships
-listing_id: 0420f875-2ff2-407a-a6a8-247042c8ad00
+terms: []
+url: https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058
+source: simplify-new-grad
+listing_id: d9d98718-3266-4066-a180-d6d84556794c
 active: true
-date_posted: '2026-06-13'
-date_updated: '2026-06-13'
+date_posted: '2026-05-30'
+date_updated: '2026-06-01'
 status: to-apply
 applied_date: null
 deadline: null

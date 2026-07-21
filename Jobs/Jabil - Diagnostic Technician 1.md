@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Florence, KY
 terms: []
-url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-1_J2443292
+url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2413704
 source: simplify-new-grad
-listing_id: 499c7b30-eeec-4636-95c6-5f823c40d240
-active: false
-date_posted: '2026-03-27'
-date_updated: '2026-03-27'
+listing_id: 71de840d-8d8a-41e1-9ec5-6ea7dc50cbc7
+active: true
+date_posted: '2026-05-29'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

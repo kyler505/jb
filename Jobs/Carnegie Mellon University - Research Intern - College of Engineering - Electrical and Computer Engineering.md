@@ -10,7 +10,7 @@ terms:
 url: https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690
 source: simplify-internships
 listing_id: ec117b5a-ca3d-4593-8b86-4b29db9694b0
-active: false
+active: true
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
 status: to-apply

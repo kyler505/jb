@@ -4,17 +4,17 @@ role: Associate Field Service Engineer
 category: new-grad
 discipline: other
 locations:
-- Louisiana
+- Shreveport, LA
+- Baton Rouge, LA
 terms: []
-url: https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169
+url: https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer---Baton-Rouge--LA_R2024-0706
 source: simplify-new-grad
-listing_id: 2bef8297-48c9-430d-a0a8-4aa0694f67bf
+listing_id: a61d1008-152e-4915-aec5-bc00790e4bc8
 active: false
-date_posted: '2026-04-22'
-date_updated: '2026-05-26'
+date_posted: '2026-04-04'
+date_updated: '2026-04-04'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 19.15
 ---

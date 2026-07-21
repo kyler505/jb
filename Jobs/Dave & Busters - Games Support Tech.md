@@ -4,14 +4,14 @@ role: Games Support Tech
 category: new-grad
 discipline: other
 locations:
-- The Woodlands, TX
+- Folsom, CA
 terms: []
-url: https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Shenandoah-TX/Games-Support-Tech_R-1012132
+url: https://daveandbusters.wd1.myworkdayjobs.com/dave_and_busters_careers/job/Folsom-CA/Games-Support-Tech_R-1011882
 source: simplify-new-grad
-listing_id: 47e69401-4b91-48c2-8b30-02cb06cc9029
+listing_id: 242ccfb5-68d7-41db-abea-e0f826cd18d0
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-06-13'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

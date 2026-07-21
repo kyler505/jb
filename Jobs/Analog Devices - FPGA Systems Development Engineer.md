@@ -5,10 +5,12 @@ category: new-grad
 discipline: hardware
 locations:
 - Durham, NC
+- North Carolina
+- United States
 terms: []
-url: https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/FPGA-Systems-Development-Engineer_R262943
+url: https://analogdevices.wd1.myworkdayjobs.com/External/job/Denmark-Copenhagen/FPGA-Systems-Development-Engineer_R263331
 source: simplify-new-grad
-listing_id: 14e0c9c2-b9ec-416d-8e8a-452d848306ca
+listing_id: e9a77d3a-1f5c-4f3c-8883-575121ae1905
 active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'

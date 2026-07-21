@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []
-url: https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792058
+url: https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792055
 source: simplify-new-grad
-listing_id: 4fa24711-9cd9-46f9-a20e-0aac3586c235
+listing_id: 55b468e4-4061-40b0-9d23-5344543b9875
 active: false
-date_posted: '2026-07-16'
-date_updated: '2026-07-16'
+date_posted: '2026-06-09'
+date_updated: '2026-06-09'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.72
 ---

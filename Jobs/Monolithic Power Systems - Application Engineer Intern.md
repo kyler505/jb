@@ -10,7 +10,7 @@ terms:
 url: https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890
 source: simplify-internships
 listing_id: a2f342be-ccae-44b7-8563-6589e27bd20c
-active: false
+active: true
 date_posted: '2026-03-11'
 date_updated: '2026-03-11'
 status: to-apply

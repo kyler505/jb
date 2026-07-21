@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Indiana
 terms: []
-url: https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26005648
+url: https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26013571
 source: simplify-new-grad
-listing_id: e1901e5a-e1da-4108-aa1d-7e341c93d311
+listing_id: a43641ff-3abd-46fe-ab19-0315be4a14ac
 active: false
-date_posted: '2026-07-15'
-date_updated: '2026-07-15'
+date_posted: '2026-06-13'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

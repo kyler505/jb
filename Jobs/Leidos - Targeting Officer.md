@@ -1,18 +1,17 @@
 ---
 company: Leidos
 role: Targeting Officer
-category: internship
+category: new-grad
 discipline: other
 locations:
 - Reston, VA
-terms:
-- N/A
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Targeting-Officer_R-00184971
-source: simplify-internships
-listing_id: 4d8b8076-1e94-416c-a4ff-e9ead56b5694
-active: true
-date_posted: '2026-06-08'
-date_updated: '2026-07-18'
+terms: []
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Targeting-Analyst_R-00161103
+source: simplify-new-grad
+listing_id: 2e36cb36-4f1f-4bf8-9b09-aa5c58646b9f
+active: false
+date_posted: '2026-06-25'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

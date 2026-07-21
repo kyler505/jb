@@ -1,18 +1,17 @@
 ---
 company: Pennsylvania State University
 role: Research Assistant
-category: internship
+category: new-grad
 discipline: other
 locations:
 - State College, PA
-terms:
-- N/A
-url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000079934-1
-source: simplify-internships
-listing_id: 1f1ba77e-4231-4e0a-83af-93d4dc3d219e
+terms: []
+url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000078034-2
+source: simplify-new-grad
+listing_id: 3bc5242c-9222-474e-aec4-3ae65557b90a
 active: false
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_posted: '2026-06-13'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

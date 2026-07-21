@@ -4,17 +4,16 @@ role: Data Scientist
 category: new-grad
 discipline: data
 locations:
-- Huntsville, AL
+- Niceville, FL
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Scientist_R-00184909
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Valparaiso-FL/Data-Scientist_R-00187688
 source: simplify-new-grad
-listing_id: 40b2e0ec-6d97-4e16-9939-9d80ac4bb36b
+listing_id: 285100dc-916e-410f-9e3b-10437b1666af
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-07-20'
+date_updated: '2026-07-20'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 46.19
 ---

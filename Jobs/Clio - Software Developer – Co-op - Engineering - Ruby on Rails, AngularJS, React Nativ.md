@@ -14,7 +14,7 @@ terms:
 url: https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577
 source: simplify-internships
 listing_id: 23548c7d-01ff-437f-ae9c-07e51f4c86b4
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-06-23'
 status: needs-review

@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438402002
 source: simplify-internships
 listing_id: f20fbf83-d899-41f4-a660-9c88cdebc5f9
-active: true
+active: false
 date_posted: '2026-02-27'
 date_updated: '2026-06-23'
 status: to-apply
