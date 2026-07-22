@@ -10,7 +10,7 @@ terms:
 url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Co-op-September-2026--8-12-months-_R031221
 source: simplify-internships
 listing_id: d61485a9-6c16-4f35-ab29-9444caf5b0aa
-active: false
+active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: to-apply

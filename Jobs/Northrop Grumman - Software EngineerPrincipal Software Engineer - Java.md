@@ -4,21 +4,16 @@ role: Software Engineer/Principal Software Engineer - Java
 category: new-grad
 discipline: swe
 locations:
-- San Diego, CA
+- Wright-Patterson AFB, OH
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10237701
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer-Principal-Software-Engineer-Java--TS-SCI-CI-Poly---AHT-_R10241339
 source: simplify-new-grad
-listing_id: 843af211-7d42-46a5-8b95-90f6a0cd7fcb
+listing_id: edf45637-cce9-4e17-a58e-c3c827a43b98
 active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
-status: needs-review
+date_posted: '2026-07-21'
+date_updated: '2026-07-22'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: wizard_end
-apply_method: auto
-priority: 59.35
-apply_error: Reached end of wizard — review debug output above
-needs_review: true
 ---

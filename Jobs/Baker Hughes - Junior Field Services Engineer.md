@@ -4,14 +4,14 @@ role: Junior Field Services Engineer
 category: new-grad
 discipline: other
 locations:
-- Sharonville, OH
+- Texas
 terms: []
-url: https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-OH-SHARONVILLE-11988-TRAMWAY-DR/Junior-Field-Services-Engineer_R164520
+url: https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-OTHER-TEXAS/Junior-Field-Services-Engineer_R164519
 source: simplify-new-grad
-listing_id: 2bf41995-7c79-4fde-a7a0-ccdb83bd0f12
-active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+listing_id: 1b8a680a-6075-4cca-be83-9761bcf7d710
+active: true
+date_posted: '2026-07-16'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

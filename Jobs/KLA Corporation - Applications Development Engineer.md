@@ -4,11 +4,11 @@ role: Applications Development Engineer
 category: new-grad
 discipline: other
 locations:
-- Milpitas, CA
+- Paterson, NJ
 terms: []
-url: https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer_2532526
+url: https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Applications-Development-Engineer_2637623
 source: simplify-new-grad
-listing_id: 293396e0-618c-4ed7-b422-86fef88e7f36
+listing_id: 528bffa3-11cc-41b2-93e1-b130dbfa6c8f
 active: true
 date_posted: '2026-06-27'
 date_updated: '2026-07-21'

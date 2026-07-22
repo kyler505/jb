@@ -10,7 +10,7 @@ terms: []
 url: https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Trading-Support-Associate-III---Rebalance-Support_R-0011884
 source: simplify-new-grad
 listing_id: be190eb7-84af-40b0-a799-10bba4d9eab4
-active: false
+active: true
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

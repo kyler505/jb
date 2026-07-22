@@ -9,7 +9,7 @@ terms: []
 url: https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825
 source: simplify-new-grad
 listing_id: 61ca6a29-7ddd-4552-957f-a131adf1ab5e
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: to-apply

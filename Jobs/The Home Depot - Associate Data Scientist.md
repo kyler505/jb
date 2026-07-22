@@ -12,13 +12,8 @@ listing_id: 854edc4e-b75d-45db-b9f6-9af76f207298
 active: true
 date_posted: '2026-06-19'
 date_updated: '2026-06-19'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: wizard_end
-apply_method: auto
-priority: 45.04
-apply_error: Reached end of wizard — review debug output above
-needs_review: true
 ---

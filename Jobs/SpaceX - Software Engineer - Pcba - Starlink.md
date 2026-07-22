@@ -9,7 +9,7 @@ terms: []
 url: https://boards.greenhouse.io/spacex/jobs/8584271002
 source: simplify-new-grad
 listing_id: 778e1777-fab9-418c-a38b-1acb7ac03dd1
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: to-apply

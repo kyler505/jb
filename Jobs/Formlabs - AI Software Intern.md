@@ -10,7 +10,7 @@ terms:
 url: https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641
 source: simplify-internships
 listing_id: a0a6c7de-12fb-4e52-93f3-86d62a5a9b19
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

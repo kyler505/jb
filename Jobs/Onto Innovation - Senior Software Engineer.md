@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Burlington, MA
 terms: []
-url: https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-4963
+url: https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-5554
 source: simplify-new-grad
-listing_id: dde683df-ec22-4d14-9855-ddfa585da7ea
+listing_id: 269848d0-7a8d-45ef-8519-06340de9f7fc
 active: true
-date_posted: '2026-07-04'
-date_updated: '2026-07-21'
+date_posted: '2026-06-13'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 51.04
 ---

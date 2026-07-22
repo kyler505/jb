@@ -13,7 +13,7 @@ terms:
 url: https://www.pinterestcareers.com/jobs/?gh_jid=7255640
 source: simplify-internships
 listing_id: 4fec6e95-8408-41e9-9021-fe0cb97ba0a1
-active: true
+active: false
 date_posted: '2026-04-20'
 date_updated: '2026-04-20'
 status: to-apply

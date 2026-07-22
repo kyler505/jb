@@ -4,15 +4,14 @@ role: Graduate FPGA Engineer
 category: new-grad
 discipline: hardware
 locations:
-- Austin, TX
 - Chicago, IL
 terms: []
-url: https://job-boards.greenhouse.io/optiverprivate/jobs/8592669002
+url: https://www.optiver.com/join-us/jobs/8402079002/?gh_jid=8402079002
 source: simplify-new-grad
-listing_id: 41ffe834-8dc7-4d29-bf73-26e01d44ab19
+listing_id: 8a33c1bd-d842-48c3-affe-4dd477c9b407
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-07-21'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

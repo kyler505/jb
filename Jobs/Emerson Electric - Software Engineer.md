@@ -9,7 +9,7 @@ terms: []
 url: https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007639
 source: simplify-new-grad
 listing_id: 7a47a886-ca29-40ec-abf3-b9c408436dca
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-17'
 status: to-apply

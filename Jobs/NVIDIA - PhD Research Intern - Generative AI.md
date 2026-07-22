@@ -12,7 +12,7 @@ terms:
 url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035
 source: simplify-internships
 listing_id: b32acaf4-dae5-4de6-976f-d8efb876afe7
-active: false
+active: true
 date_posted: '2026-05-28'
 date_updated: '2026-05-28'
 status: to-apply

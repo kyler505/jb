@@ -9,7 +9,7 @@ terms: []
 url: https://mii.wd5.myworkdayjobs.com/MiTek/job/StCharles-MO-USA/Supply-Chain-Data-Analyst-I_R06378
 source: simplify-new-grad
 listing_id: 5c0366e3-a45c-4800-a602-ce3f215f68e3
-active: false
+active: true
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/676305
 source: simplify-new-grad
 listing_id: fa3cb7f0-6412-49af-b445-fe376d338128
-active: true
+active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-30'
 status: to-apply

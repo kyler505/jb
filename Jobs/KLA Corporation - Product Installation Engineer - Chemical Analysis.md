@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Paterson, NJ
 terms: []
-url: https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Install-Engineer---Chemical-Analysis_2637154
+url: https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Product-Install-Engineer---Chemical-Analysis----80--travel_2638030
 source: simplify-new-grad
-listing_id: c8a674c7-c8ff-4427-ac71-c812aef5b3d2
+listing_id: 509ea267-e2c1-4cd3-96bb-ba4158e0f8b5
 active: true
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+date_posted: '2026-07-06'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

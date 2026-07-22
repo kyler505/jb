@@ -10,7 +10,7 @@ terms: []
 url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767
 source: simplify-new-grad
 listing_id: e705fffd-6c2f-4555-b991-f5808e23542c
-active: false
+active: true
 date_posted: '2026-07-13'
 date_updated: '2026-07-14'
 status: to-apply

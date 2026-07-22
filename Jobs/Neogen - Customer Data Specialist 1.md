@@ -9,7 +9,7 @@ terms: []
 url: https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Lincoln-NE/Customer-Data-Specialist-I_REQ-10830
 source: simplify-new-grad
 listing_id: 2acf1a8b-f556-42a5-950b-a2bc13c5d6ad
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-18'
 status: to-apply

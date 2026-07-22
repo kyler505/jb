@@ -4,12 +4,12 @@ role: Portal Config Analyst
 category: new-grad
 discipline: other
 locations:
-- Chicago, IL
+- Augusta, ME
 terms: []
-url: https://jobs.smartrecruiters.com/USM2/90127318
+url: https://jobs.smartrecruiters.com/USM2/90127346
 source: simplify-new-grad
-listing_id: 33b882be-083c-4aff-8ee5-4d2e8af677dc
-active: true
+listing_id: 90fee869-7610-4b0e-945a-7327502bae37
+active: false
 date_posted: '2026-02-27'
 date_updated: '2026-02-27'
 status: to-apply

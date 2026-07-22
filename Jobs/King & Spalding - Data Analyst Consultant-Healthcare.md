@@ -11,16 +11,16 @@ terms: []
 url: https://kslaw.wd1.myworkdayjobs.com/en-US/careers/job/Washington-DC-District-of-Columbia/Data-Analyst-Consultant--Healthcare_R452
 source: simplify-new-grad
 listing_id: ea1c7f11-67a1-450c-9c54-856d708eac55
-active: false
+active: true
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_error: Reached end of wizard — review debug output above
 priority: 54.0
-apply_method: auto
+apply_error: Reached end of wizard — review debug output above
 needs_review: true
+apply_method: auto
 apply_result: wizard_end
 ---

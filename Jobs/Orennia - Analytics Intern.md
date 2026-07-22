@@ -17,10 +17,10 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: not_confirmed
-apply_method: simplify
 priority: 48.6
 needs_review: false
+apply_method: simplify
+apply_result: not_confirmed
 resume_used: resume
 ---
 

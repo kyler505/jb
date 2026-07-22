@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Boston, MA
 terms: []
-url: 'https://simplify.jobs/c/Cadence-Design-Systems'
+url: https://simplify.jobs/c/Cadence-Design-Systems
 source: simplify-new-grad
 listing_id: c22edc1c-7397-b90b-c8f4-565a0786ec19
-active: true
+active: false
 date_posted: 2026-06-19
 date_updated: 2026-06-19
 status: skipped
@@ -21,5 +21,5 @@ apply_method: none
 apply_result: skipped
 resume_used: resume.pdf
 needs_review: false
-apply_error: "DEAD_LINK: Apply button leads to external site/no form loaded"
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

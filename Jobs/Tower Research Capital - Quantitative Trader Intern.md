@@ -4,14 +4,13 @@ role: Quantitative Trader Intern
 category: internship
 discipline: other
 locations:
-- Chicago, IL
 - NYC
 terms:
-- Summer 2027
-url: https://www.tower-research.com/open-positions/?gh_jid=8024128
+- Summer 2026
+url: https://www.tower-research.com/open-positions/?gh_jid=8024138
 source: simplify-internships
-listing_id: a619c6de-ef67-4039-af21-31cf505b8ee2
-active: true
+listing_id: f48a8b1a-b2ba-48ce-becd-612e1c0a2198
+active: false
 date_posted: '2026-07-05'
 date_updated: '2026-07-05'
 status: to-apply

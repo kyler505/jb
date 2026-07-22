@@ -13,7 +13,7 @@ terms:
 url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918
 source: simplify-internships
 listing_id: 255595f1-f6b4-4007-9563-647c8db7fae5
-active: false
+active: true
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

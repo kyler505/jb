@@ -11,7 +11,7 @@ terms:
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416
 source: simplify-internships
 listing_id: 12e90625-1a21-45ca-b442-bd210e183914
-active: false
+active: true
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

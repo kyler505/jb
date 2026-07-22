@@ -9,16 +9,16 @@ terms: []
 url: https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010
 source: simplify-new-grad
 listing_id: 6e0e23c9-300a-4131-a50c-35417c91599a
-active: false
+active: true
 date_posted: '2026-06-23'
 date_updated: '2026-06-24'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
+priority: 52.6
+apply_error: Reached end of wizard — review debug output above
+needs_review: true
 apply_method: auto
 apply_result: wizard_end
-apply_error: Reached end of wizard — review debug output above
-priority: 52.6
-needs_review: true
 ---

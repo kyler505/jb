@@ -13,7 +13,7 @@ terms:
 url: https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1
 source: simplify-internships
 listing_id: 09174c1c-7ac5-489a-8c87-dcb67b971aa0
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: to-apply

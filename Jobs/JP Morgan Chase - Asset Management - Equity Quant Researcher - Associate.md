@@ -9,7 +9,7 @@ terms: []
 url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706680
 source: simplify-new-grad
 listing_id: 06d84c13-9fb2-462d-b96a-1b6dbbfbcbf9
-active: true
+active: false
 date_posted: '2026-02-03'
 date_updated: '2026-02-03'
 status: to-apply

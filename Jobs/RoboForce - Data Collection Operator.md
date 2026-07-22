@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/roboforce/jobs/5198791008
 source: simplify-new-grad
 listing_id: 32fb0fec-1af6-42ec-a08e-3b5f1086976f
-active: true
+active: false
 date_posted: '2026-04-23'
 date_updated: '2026-04-23'
 status: to-apply

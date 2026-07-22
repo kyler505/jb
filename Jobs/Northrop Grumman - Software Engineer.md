@@ -4,16 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Palmdale, CA
-- San Diego, CA
-- El Segundo, CA
+- Oklahoma City, OK
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer_R10238169
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799
 source: simplify-new-grad
-listing_id: c433508a-ffd3-4dbf-a5c3-0aa574c12c6d
+listing_id: 0c04873f-7b39-41a5-9b89-ab2769aadc55
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-06-13'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

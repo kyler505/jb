@@ -9,7 +9,7 @@ terms: []
 url: https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7
 source: simplify-new-grad
 listing_id: 6d2c2cb5-ad11-4392-8611-fa4dacaddd3a
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

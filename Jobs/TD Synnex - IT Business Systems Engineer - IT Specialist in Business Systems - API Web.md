@@ -19,7 +19,7 @@ terms: []
 url: https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1
 source: simplify-new-grad
 listing_id: 39c947cb-0cab-41b0-8056-745f80dc13af
-active: true
+active: false
 date_posted: '2026-06-27'
 date_updated: '2026-07-21'
 status: to-apply

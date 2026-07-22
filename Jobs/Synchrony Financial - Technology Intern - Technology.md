@@ -10,7 +10,7 @@ terms:
 url: https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1
 source: simplify-internships
 listing_id: 1d75fdd5-eaef-4466-a5fc-a3e915aa252d
-active: false
+active: true
 date_posted: '2026-06-16'
 date_updated: '2026-06-16'
 status: to-apply

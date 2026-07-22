@@ -7,9 +7,9 @@ locations:
 - London, UK
 terms:
 - Summer 2026
-url: https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Evaluation-Intern_R107491
+url: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Evaluation-Intern_R107491-1
 source: simplify-internships
-listing_id: d47318d3-828b-49ac-932d-4d540ebae3c5
+listing_id: 59e03fa0-3049-4051-83b3-1b019f5a3193
 active: true
 date_posted: '2026-05-20'
 date_updated: '2026-05-20'

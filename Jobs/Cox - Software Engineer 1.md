@@ -11,18 +11,18 @@ terms: []
 url: https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352
 source: simplify-new-grad
 listing_id: 05815051-0821-4191-949b-c618f3a8d36e
-active: false
+active: true
 date_posted: '2026-06-27'
 date_updated: '2026-06-27'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_method: auto
-apply_error: Reached end of wizard — review debug output above
-resume_used: resume
 priority: 57.53
+apply_error: Reached end of wizard — review debug output above
 needs_review: true
+apply_method: auto
+resume_used: resume
 ---
 
 ## Application 2026-06-29

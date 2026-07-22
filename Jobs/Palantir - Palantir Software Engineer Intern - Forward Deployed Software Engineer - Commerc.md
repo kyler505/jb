@@ -10,7 +10,7 @@ terms:
 url: https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply
 source: simplify-internships
 listing_id: 6f48a60c-c53f-4258-9d61-02f627a6072a
-active: true
+active: false
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: to-apply

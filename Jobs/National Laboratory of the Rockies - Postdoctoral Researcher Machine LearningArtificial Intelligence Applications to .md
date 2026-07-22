@@ -10,16 +10,16 @@ terms: []
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher--Machine-Learning-Artificial-Intelligence-Applications-to-Power-Systems_R14240
 source: simplify-new-grad
 listing_id: 4f11f81b-693b-44a7-88c3-3c4d0f322f6a
-active: false
+active: true
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
+priority: 51.46
+apply_error: Reached end of wizard — review debug output above
+needs_review: true
 apply_method: auto
 apply_result: wizard_end
-apply_error: Reached end of wizard — review debug output above
-priority: 51.46
-needs_review: true
 ---

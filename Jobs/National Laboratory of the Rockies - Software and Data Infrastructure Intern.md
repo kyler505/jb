@@ -13,7 +13,7 @@ terms:
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394
 source: simplify-internships
 listing_id: c1d1053c-438a-481e-8375-57149313ea2f
-active: false
+active: true
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

@@ -6,9 +6,9 @@ discipline: swe
 locations:
 - Boston, MA
 terms: []
-url: https://cadence.wd1.myworkdayjobs.com/University_Talent/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895-1
+url: https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/BOSTON-02/Software-Engineer-II--New-College-Grad-2026-_R54895
 source: simplify-new-grad
-listing_id: 7f77c998-d071-4fa3-979a-a5cb1fcd9fbc
+listing_id: e849f4c2-737b-476e-8296-765db1bdc056
 active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'

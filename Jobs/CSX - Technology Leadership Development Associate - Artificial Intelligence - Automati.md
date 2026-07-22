@@ -10,7 +10,7 @@ terms: []
 url: https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/53991
 source: simplify-new-grad
 listing_id: 6cf76770-8c6b-43a0-b4e9-32f7e726f4b7
-active: true
+active: false
 date_posted: '2026-02-02'
 date_updated: '2026-06-19'
 status: to-apply

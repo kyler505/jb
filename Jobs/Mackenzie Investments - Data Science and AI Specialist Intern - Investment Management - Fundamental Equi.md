@@ -11,7 +11,7 @@ terms:
 url: https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 8995009f-c277-4ecd-b03c-355b2ec8cc54
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

@@ -5,15 +5,16 @@ category: new-grad
 discipline: other
 locations:
 - LA
+- Miami, FL
 - NYC
 - Atlanta, GA
 terms: []
-url: https://www.bursonglobal.com/careers/jobs?gh_jid=5228357008
+url: https://www.bursonglobal.com/careers/jobs?gh_jid=5228351008
 source: simplify-new-grad
-listing_id: 5d1297f8-fa47-47f1-8e47-d3b0c8a58d77
-active: false
+listing_id: 52f92a9f-4164-4f28-b57e-27756a2237df
+active: true
 date_posted: '2026-06-27'
-date_updated: '2026-07-21'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

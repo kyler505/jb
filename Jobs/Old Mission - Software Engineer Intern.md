@@ -10,7 +10,7 @@ terms:
 url: https://www.oldmissioncapital.com/careers/?gh_jid=7796180003
 source: simplify-internships
 listing_id: b31743bd-7fcf-42a4-aca1-0e6146dfb105
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

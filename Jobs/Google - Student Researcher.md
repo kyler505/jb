@@ -16,8 +16,8 @@ locations:
 - San Bruno, CA
 - Ann Arbor, MI
 - Chicago, IL
+- Goleta, CA
 - Pittsburgh, PA
-- Princeton, NJ
 - Kirkland, WA
 - NYC
 - Sunnyvale, CA
@@ -25,11 +25,11 @@ locations:
 - Atlanta, GA
 terms:
 - N/A
-url: https://www.google.com/about/careers/applications/jobs/results/132362676918461126
+url: https://www.google.com/about/careers/applications/jobs/results/83535564552184518
 source: simplify-internships
-listing_id: f2d2fce5-0d01-4d4a-9a98-85a62798d293
-active: true
-date_posted: '2026-07-21'
+listing_id: 1af2873b-32c5-4dac-9ccb-9af00aa0c9a3
+active: false
+date_posted: '2026-07-20'
 date_updated: '2026-07-21'
 status: to-apply
 applied_date: null

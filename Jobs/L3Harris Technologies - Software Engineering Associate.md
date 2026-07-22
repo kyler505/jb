@@ -4,17 +4,16 @@ role: Software Engineering Associate
 category: new-grad
 discipline: swe
 locations:
-- Palm Bay, FL
+- Huntsville, AL
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors
+url: https://jobs.l3harris.com/job/Huntsville-Associate,-Software-Engineering-AL-35806/1411440700/?ats=successfactors
 source: simplify-new-grad
-listing_id: 72c67b39-d84c-46b6-b7b6-e9e97c47087d
+listing_id: 284f7ff5-471e-4f45-915d-a8909e865dc5
 active: false
-date_posted: '2026-07-16'
-date_updated: '2026-07-16'
+date_posted: '2026-07-22'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 56.96
 ---

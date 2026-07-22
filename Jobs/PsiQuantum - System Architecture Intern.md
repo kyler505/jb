@@ -13,7 +13,7 @@ terms:
 url: https://www.psiquantum.com/apply?gh_jid=7695577003
 source: simplify-internships
 listing_id: 6b3ff2a0-0ae4-4f6b-8e17-0a87442dd4e8
-active: true
+active: false
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: to-apply

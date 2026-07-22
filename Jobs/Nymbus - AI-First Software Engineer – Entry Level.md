@@ -9,7 +9,7 @@ terms: []
 url: https://nymbus.com/careers?gh_jid=5785973004
 source: simplify-new-grad
 listing_id: 5ba2901d-26a6-4e47-af40-c95999d3a6d3
-active: true
+active: false
 date_posted: '2026-01-29'
 date_updated: '2026-01-29'
 status: to-apply

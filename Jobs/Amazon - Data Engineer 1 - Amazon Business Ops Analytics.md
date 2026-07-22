@@ -9,7 +9,7 @@ terms: []
 url: https://amazon.jobs/en/jobs/10474520/data-engineer-i-amazon-business-ops-analytics
 source: simplify-new-grad
 listing_id: 26335294-2d9f-410f-8f1d-c445dfaa06af
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

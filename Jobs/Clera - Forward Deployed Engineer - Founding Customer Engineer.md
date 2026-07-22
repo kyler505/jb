@@ -6,12 +6,12 @@ discipline: other
 locations:
 - SF
 terms: []
-url: https://jobs.ashbyhq.com/clera/351ba91b-8da5-48de-9f0f-6fd6dbd392bd/application
+url: https://jobs.ashbyhq.com/clera/54693b10-708e-4bc3-bc89-1f2d53987823/application?embed=true
 source: simplify-new-grad
-listing_id: ba019f58-f25e-456d-9e69-f4468c30a58c
+listing_id: 1bc082aa-3a0d-4251-8597-69984ea72685
 active: true
-date_posted: '2026-06-26'
-date_updated: '2026-06-26'
+date_posted: '2026-07-21'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

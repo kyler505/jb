@@ -4,14 +4,14 @@ role: Associate Field Service Engineer
 category: new-grad
 discipline: other
 locations:
-- Harrisburg, PA
+- Coralville, IA
 terms: []
-url: https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Harrisburg-Pennsylvania-United-States/Assoicate-Field-Service-Engineer---Harrisburg_R1313762
+url: https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Iowa-City-Iowa-United-States/T1---Associate-Field-Service-Engineer--Iowa-City--Iowa_R1312216
 source: simplify-new-grad
-listing_id: 3a1da0ff-e4a4-4a51-9870-833b9d5c6a40
+listing_id: 2d9c255b-a938-4454-b1bc-d6532fb4063b
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-06-02'
+date_updated: '2026-06-02'
 status: to-apply
 applied_date: null
 deadline: null

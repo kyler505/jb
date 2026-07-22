@@ -10,7 +10,7 @@ terms:
 url: https://jobs.lever.co/AIFund/46a9eb55-ebd7-441f-bb12-81c130cb6722/apply
 source: simplify-internships
 listing_id: 59dfe4d1-9bb9-48d1-887c-05abedf8e167
-active: true
+active: false
 date_posted: '2026-04-27'
 date_updated: '2026-04-27'
 status: to-apply

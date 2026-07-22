@@ -9,7 +9,7 @@ terms: []
 url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764
 source: simplify-new-grad
 listing_id: efdc29ac-3896-4cea-8dfa-2a4eb0e9929d
-active: false
+active: true
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

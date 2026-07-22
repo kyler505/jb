@@ -7,9 +7,9 @@ locations:
 - California
 terms:
 - Summer 2026
-url: https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590
+url: https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589
 source: simplify-internships
-listing_id: fe99f8f0-316b-46b5-8453-78ece4219304
+listing_id: 01788188-df5d-4bc7-8a1c-b32f1569da13
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'

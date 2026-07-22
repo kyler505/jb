@@ -10,7 +10,7 @@ terms: []
 url: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I--SDB-SEM--RTP_R-01360776
 source: simplify-new-grad
 listing_id: 2f78f4c3-9e6e-4a85-838a-f9f976e35279
-active: false
+active: true
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

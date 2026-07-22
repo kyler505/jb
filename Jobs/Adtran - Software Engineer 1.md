@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Atlanta, GA
+- Norcross, GA
 terms: []
-url: https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1
+url: https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697
 source: simplify-new-grad
-listing_id: 165267eb-fe07-4e0c-a458-6e1a39df468d
+listing_id: f620a3b2-f89c-456c-9361-de46424a3c75
 active: true
-date_posted: '2026-07-01'
-date_updated: '2026-07-01'
+date_posted: '2026-07-16'
+date_updated: '2026-07-16'
 status: to-apply
 applied_date: null
 deadline: null

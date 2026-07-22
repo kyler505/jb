@@ -4,14 +4,14 @@ role: Software Engineer Associate
 category: new-grad
 discipline: swe
 locations:
-- Mason, OH
+- Reston, VA
 terms: []
-url: https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1410637300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1410863700/?ats=successfactors
 source: simplify-new-grad
-listing_id: 36730fc4-123c-4e11-91f8-327c5aacdaaa
-active: false
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+listing_id: 21d62d0d-885a-455d-b351-7f9ef87a1904
+active: true
+date_posted: '2026-07-21'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

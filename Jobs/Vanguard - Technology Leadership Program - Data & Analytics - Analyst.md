@@ -4,21 +4,16 @@ role: Technology Leadership Program - Data & Analytics - Analyst
 category: new-grad
 discipline: data
 locations:
-- Charlotte, NC
+- Malvern, PA
 terms: []
-url: https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Technology-Leadership-Program---Data---Analytics--Analyst----NC_180091
+url: https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Technology-Leadership-Program---Data---Analytics--Analyst----PA_180088
 source: simplify-new-grad
-listing_id: 54675c94-763f-474a-8db8-600a73951bec
+listing_id: f5176a46-e3ca-41b3-a105-0893c3becc02
 active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
-status: needs-review
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: wizard_end
-apply_method: auto
-needs_review: true
-priority: 50.96
-apply_error: Email verification required — account created but not verified
 ---

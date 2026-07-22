@@ -10,7 +10,7 @@ terms:
 url: https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply
 source: simplify-internships
 listing_id: c12ce9b6-76be-4fc6-b0fc-50a6576eb45b
-active: true
+active: false
 date_posted: '2026-06-01'
 date_updated: '2026-06-01'
 status: to-apply

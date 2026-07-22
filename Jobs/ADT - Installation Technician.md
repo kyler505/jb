@@ -4,14 +4,14 @@ role: Installation Technician
 category: new-grad
 discipline: other
 locations:
-- Brookfield, WI
+- Atlanta, GA
 terms: []
-url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021053
+url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021442
 source: simplify-new-grad
-listing_id: 48068bd6-0eaf-4923-b148-b082c2eb3d3e
+listing_id: 90345982-d6f6-40ce-8d4b-76f6f91fe382
 active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-07-21'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

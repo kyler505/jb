@@ -10,20 +10,20 @@ terms:
 url: https://www.zipline.com/careers?gh_jid=7767667003#open-roles
 source: simplify-internships
 listing_id: 72e1792e-aad9-40a4-9464-641c1c28ccd1
-active: false
+active: true
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-resume_used: resume.pdf
-apply_method: simplify
+priority: 52.34
 apply_error: Verified + Submit clicked; Greenhouse requires 8-char email human-verification
   code sent to kcao@tamu.edu — enter code from your inbox to finish
-priority: 52.34
-apply_result: success
 needs_review: false
+apply_method: simplify
+apply_result: success
+resume_used: resume.pdf
 ---
 
 ## Application 2026-06-16
