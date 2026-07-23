@@ -13,7 +13,7 @@ terms:
 url: https://amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans
 source: simplify-internships
 listing_id: 4762de7d-d90a-4004-bf12-486138c11efc
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

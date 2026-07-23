@@ -7,10 +7,10 @@ locations:
 - Tempe, AZ
 - Phoenix, AZ
 terms: []
-url: https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614
+url: https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614
 source: simplify-new-grad
-listing_id: 013d5015-8b47-41a8-b665-239f9ca74772
-active: true
+listing_id: 98570ec2-f696-4929-b59d-0b2f68c8389c
+active: false
 date_posted: '2026-06-01'
 date_updated: '2026-06-01'
 status: to-apply

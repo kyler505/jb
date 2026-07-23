@@ -7,12 +7,12 @@ locations:
 - Austin, TX
 - Remote in USA
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044007-1
 source: simplify-new-grad
-listing_id: e0ab658c-09fa-417e-8fba-181533ca4231
-active: true
-date_posted: '2026-07-04'
-date_updated: '2026-07-04'
+listing_id: e6c0519d-b7d4-4685-8d00-5d0af8b92263
+active: false
+date_posted: '2026-07-22'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

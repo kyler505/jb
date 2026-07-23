@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/AskITConsulting/743999654653329
 source: simplify-internships
 listing_id: 9860f868-b5e0-487c-be22-480db99136e1
-active: true
+active: false
 date_posted: '2026-02-19'
 date_updated: '2026-03-31'
 status: to-apply

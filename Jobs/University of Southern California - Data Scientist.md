@@ -9,7 +9,7 @@ terms: []
 url: https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Data-Scientist--ITS-_REQ20177952
 source: simplify-new-grad
 listing_id: 4a24f76c-93eb-4463-8d7b-0c9ed7a5ffdd
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

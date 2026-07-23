@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/AskITConsulting/103462571
 source: simplify-new-grad
 listing_id: 1795cf4e-c11d-445a-b456-46e78f4e1bb6
-active: true
+active: false
 date_posted: '2026-02-19'
 date_updated: '2026-02-19'
 status: to-apply

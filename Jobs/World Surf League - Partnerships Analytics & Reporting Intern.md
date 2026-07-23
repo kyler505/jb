@@ -10,7 +10,7 @@ terms:
 url: https://boards.greenhouse.io/worldsurfleague/jobs/8629100002
 source: simplify-internships
 listing_id: 3e18521c-a71b-49fb-a9d0-ef94b9361ce6
-active: true
+active: false
 date_posted: '2026-07-11'
 date_updated: '2026-07-11'
 status: to-apply

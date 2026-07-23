@@ -14,7 +14,7 @@ source: simplify-new-grad
 listing_id: 9c9d72e2-4773-4a77-b5c5-5776ba645c14
 active: true
 date_posted: '2026-02-21'
-date_updated: '2026-02-21'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

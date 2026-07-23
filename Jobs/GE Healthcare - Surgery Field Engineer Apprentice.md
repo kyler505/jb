@@ -4,15 +4,15 @@ role: Surgery Field Engineer Apprentice
 category: internship
 discipline: other
 locations:
-- Chicago, IL
+- Pittsburgh, PA
 terms:
-- Fall 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509
+- Summer 2026
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1
 source: simplify-internships
-listing_id: ab42be6d-de7a-4175-9360-3aa1b0b3446c
-active: true
-date_posted: '2026-07-14'
-date_updated: '2026-07-20'
+listing_id: c5d1a5b8-6c8d-49fc-8821-c2658bed6c90
+active: false
+date_posted: '2026-05-16'
+date_updated: '2026-05-27'
 status: to-apply
 applied_date: null
 deadline: null

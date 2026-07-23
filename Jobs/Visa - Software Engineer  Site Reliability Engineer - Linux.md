@@ -9,7 +9,7 @@ terms: []
 url: https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W
 source: simplify-new-grad
 listing_id: 3bd0ee22-015a-46b2-bd09-a7d1297b6963
-active: true
+active: false
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
 status: to-apply

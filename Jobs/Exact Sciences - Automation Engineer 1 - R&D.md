@@ -9,7 +9,7 @@ terms: []
 url: https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---CA---San-Diego/Automation-Engineer-I--R-D_R26-13732
 source: simplify-new-grad
 listing_id: c3f3ab90-4bb8-472e-8014-d03c8539633f
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-21'
 status: to-apply

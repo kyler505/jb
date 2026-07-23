@@ -9,7 +9,7 @@ terms: []
 url: https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751
 source: simplify-new-grad
 listing_id: 5d4273a4-4eda-4ac4-8656-a398851d11d7
-active: false
+active: true
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

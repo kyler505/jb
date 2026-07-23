@@ -4,14 +4,14 @@ role: Data Center Repair Technician
 category: new-grad
 discipline: other
 locations:
-- New Albany, OH
+- Lehi, UT
 terms: []
-url: https://eosits.com/company/careers/?gh_jid=8527286002
+url: https://eosits.com/company/careers/?gh_jid=8548252002
 source: simplify-new-grad
-listing_id: 2fc92f90-9072-4d65-92fe-6fdb60448368
+listing_id: 45a17811-98a5-4edc-b2f0-4da07f504cb2
 active: true
-date_posted: '2026-05-01'
-date_updated: '2026-05-16'
+date_posted: '2026-05-13'
+date_updated: '2026-05-19'
 status: to-apply
 applied_date: null
 deadline: null

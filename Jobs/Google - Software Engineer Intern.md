@@ -38,7 +38,7 @@ terms:
 url: https://www.google.com/about/careers/applications/jobs/results/85564713261245126
 source: simplify-internships
 listing_id: 820400f1-d2e5-43b3-94b0-c8913692b46a
-active: true
+active: false
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/acluinternships/jobs/8612266002
 source: simplify-internships
 listing_id: 9c647182-768d-410f-acf7-e162259bd5f2
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-07-01'
 status: skipped

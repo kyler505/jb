@@ -20,12 +20,12 @@ deadline: null
 notes: '2026-06-26 retry with NopeCHA: form filled (4 fields) + resume attached, submit
   clicked but no confirmation shown; Dover form has no visible reCAPTCHA — submission
   may be AJAX-based and silently failing.'
-priority: 58.41
-apply_error: _handle_generic() takes 3 positional arguments but 4 were given
-needs_review: true
 apply_method: auto
-apply_result: exception
+apply_error: _handle_generic() takes 3 positional arguments but 4 were given
 resume_used: resume
+apply_result: exception
+priority: 58.41
+needs_review: true
 ---
 
 ## Application 2026-06-26

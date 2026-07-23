@@ -10,7 +10,7 @@ terms:
 url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2026_REQ-23567
 source: simplify-internships
 listing_id: b1a50830-e5ae-4f43-a69b-471c3c58ea97
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-22'
 status: to-apply

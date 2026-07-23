@@ -10,7 +10,7 @@ terms:
 url: https://www.globalrelay.com/careers/jobs?gh_jid=6112691004
 source: simplify-internships
 listing_id: c73ff07e-53d8-4cfc-8ab2-58f9de2c9c87
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

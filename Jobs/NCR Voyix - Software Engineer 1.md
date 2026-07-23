@@ -16,12 +16,12 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-priority: 53.91
-apply_error: Email verification required — account created but not verified
-needs_review: true
 apply_method: auto
-apply_result: wizard_end
+apply_error: Email verification required — account created but not verified
 resume_used: resume
+apply_result: wizard_end
+priority: 53.91
+needs_review: true
 ---
 
 ## Application 2026-07-06

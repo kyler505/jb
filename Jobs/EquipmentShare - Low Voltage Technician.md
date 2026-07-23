@@ -4,14 +4,14 @@ role: Low Voltage Technician
 category: new-grad
 discipline: other
 locations:
-- Augusta, GA
+- Oklahoma City, OK
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=8049241
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=8079325
 source: simplify-new-grad
-listing_id: 7e1b986d-55c5-4e67-97f8-e6f0087cf54f
+listing_id: a04bef1d-b361-4567-bc08-63485f47e6c2
 active: false
-date_posted: '2026-07-07'
-date_updated: '2026-07-07'
+date_posted: '2026-07-22'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

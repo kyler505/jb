@@ -1,17 +1,18 @@
 ---
 company: Jane Street
 role: Linux Engineer
-category: new-grad
+category: internship
 discipline: other
 locations:
 - NYC
-terms: []
-url: https://job-boards.greenhouse.io/janestreet/jobs/8061059002
-source: simplify-new-grad
-listing_id: d45ab101-255d-4a8e-b0ad-917ad0a1cc88
-active: true
-date_posted: '2026-04-21'
-date_updated: '2026-04-21'
+terms:
+- N/A
+url: https://job-boards.greenhouse.io/janestreet/jobs/8626260002
+source: simplify-internships
+listing_id: 043d70c3-4576-4f40-bc1f-08885ba8ebc8
+active: false
+date_posted: '2026-07-15'
+date_updated: '2026-07-15'
 status: to-apply
 applied_date: null
 deadline: null

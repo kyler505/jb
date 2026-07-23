@@ -4,14 +4,14 @@ role: Software Engineer 2
 category: new-grad
 discipline: swe
 locations:
-- Tucson, AZ
+- St. Petersburg, FL
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-II---St-Petersburg--FL--Onsite-_01860305
 source: simplify-new-grad
-listing_id: e4839ecb-2777-4886-93d2-c56612b08784
+listing_id: c59f71b0-614c-493e-909b-978a9b21eb58
 active: true
-date_posted: '2026-03-12'
-date_updated: '2026-03-12'
+date_posted: '2026-07-21'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

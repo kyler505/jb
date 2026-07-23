@@ -4,13 +4,13 @@ role: Quantitative Trading Analyst Intern
 category: internship
 discipline: other
 locations:
-- Chicago, IL
+- London, UK
 terms:
-- Summer 2026
-url: https://job-boards.greenhouse.io/drweng/jobs/7668776
+- Summer 2027
+url: https://job-boards.greenhouse.io/drweng/jobs/7957243
 source: simplify-internships
-listing_id: 82a9dd04-7074-414b-8928-07e34a66ca17
-active: true
+listing_id: c8d12bba-d657-4fe9-8c69-af2f801895a1
+active: false
 date_posted: '2026-07-13'
 date_updated: '2026-07-13'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002
 source: simplify-internships
 listing_id: 56965bf6-c164-4f90-8d38-c6ccc6fdcd9a
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009
 source: simplify-internships
 listing_id: c3433d6a-bf30-4d16-8e0f-5126b09236cf
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

@@ -4,11 +4,11 @@ role: Print and Image Service Technician
 category: new-grad
 discipline: other
 locations:
-- Las Vegas, NV
+- Ogden, UT
 terms: []
-url: https://ats.rippling.com/les-olson-it/jobs/d7c52af6-f44a-48dc-862c-8f90f4c27909
+url: https://ats.rippling.com/les-olson-it/jobs/f4bdafda-8d23-4ab8-9012-8244e1d077dc
 source: simplify-new-grad
-listing_id: d6d6cb1e-e2cf-4e95-a057-eb52e6b82b7b
+listing_id: 3e37df61-3664-4a02-bfa1-4524333cec51
 active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'

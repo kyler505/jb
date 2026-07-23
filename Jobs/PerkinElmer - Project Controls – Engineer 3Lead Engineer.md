@@ -13,7 +13,7 @@ terms: []
 url: https://newperkinelmer.wd1.myworkdayjobs.com/External/job/Customer-Site---TX/Project-Controls---Engineer-III-Lead-Engineer_REQ-057697-1
 source: simplify-new-grad
 listing_id: 0b21b50f-291a-430e-87be-1116ba7808e4
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-07-22'
 status: to-apply

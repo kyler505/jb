@@ -4,17 +4,16 @@ role: Entry Level Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Hazelwood, MO
+- Richardson, TX
 terms: []
-url: https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286
+url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2
 source: simplify-new-grad
-listing_id: b4c1f817-bcdc-4513-a9a6-744a3bfcf515
-active: true
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+listing_id: c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8
+active: false
+date_posted: '2026-06-04'
+date_updated: '2026-06-04'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.11
 ---
