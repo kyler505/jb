@@ -20,7 +20,7 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 55.91
+priority: 53.79
 resume_used: resume
 ---
 
