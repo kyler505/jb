@@ -1,6 +1,6 @@
 # Microsoft - Software Engineer
 
-**Status:** to-apply
+**Status:** applied
 **Link:** https://apply.careers.microsoft.com/careers/job/1970393556940367?domain=microsoft.com&hl=en
 **Location:** Redmond, Bay Area, Atlanta
 **Salary:** $112,000 - $218,400 (Bay Area $145,000 - $238,600) + Stock/Bonus
