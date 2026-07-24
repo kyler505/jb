@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5168369007
 source: simplify-new-grad
 listing_id: 55babc25-ff0e-45b9-9ea9-564dae9b521b
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: to-apply

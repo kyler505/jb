@@ -10,7 +10,7 @@ terms:
 url: https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662
 source: simplify-internships
 listing_id: 35106f14-8508-4414-8567-d73bfb3ed891
-active: true
+active: false
 date_posted: '2026-03-05'
 date_updated: '2026-03-05'
 status: to-apply

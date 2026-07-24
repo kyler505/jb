@@ -4,16 +4,15 @@ role: Research and Development Engineer Intern
 category: internship
 discipline: other
 locations:
-- State College, PA
+- Tarentum, PA
 terms:
-- Spring 2026
 - Summer 2026
 - Fall 2026
-url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000072876-1
+url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Freeport-PA/Research-and-Development-Engineering-Intern_REQ_0000064925-1
 source: simplify-internships
-listing_id: 3bf33138-afbc-44cb-bca9-b2c0ad54283a
-active: true
-date_posted: '2026-07-02'
+listing_id: 0dc67529-9bf0-493e-aabe-0d63a25b5f05
+active: false
+date_posted: '2026-06-13'
 date_updated: '2026-07-21'
 status: to-apply
 applied_date: null

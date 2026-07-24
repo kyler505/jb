@@ -10,7 +10,7 @@ terms: []
 url: https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Scottsdale-AZ/PWM-Investment-Analyst_2026-0014134-1
 source: simplify-new-grad
 listing_id: 62ef6ac9-bebc-4b02-9be1-baa27b409ff5
-active: true
+active: false
 date_posted: '2026-05-27'
 date_updated: '2026-05-27'
 status: to-apply

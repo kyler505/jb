@@ -9,7 +9,7 @@ terms: []
 url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Process-Integration-and-Yield-Technician---Metrology_JR0285569
 source: simplify-new-grad
 listing_id: 7e32c304-350c-4c2e-bc24-0cf4928dbefc
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-23'
 status: to-apply

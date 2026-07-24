@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2/apply
 source: simplify-new-grad
 listing_id: 6f064ba4-8cb5-4c86-8237-7530909d2469
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: to-apply

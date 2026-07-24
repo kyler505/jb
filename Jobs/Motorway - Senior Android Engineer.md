@@ -6,12 +6,12 @@ discipline: mobile
 locations:
 - London, UK
 terms: []
-url: https://jobs.ashbyhq.com/motorway/470b20b3-a354-47b9-8550-d6b917c3e3ad/application?embed=true
+url: https://jobs.ashbyhq.com/motorway/bff71341-eb6f-45cc-b32d-5c562b510d9f/application?embed=true
 source: simplify-new-grad
-listing_id: 614f571f-bfc5-4df6-be09-786e4f1dd4b7
+listing_id: aefc5b08-1680-4b84-be22-32f58209301b
 active: false
-date_posted: '2026-07-21'
-date_updated: '2026-07-21'
+date_posted: '2026-07-23'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms: []
 url: https://job-boards.greenhouse.io/latitude/jobs/8055141
 source: simplify-new-grad
 listing_id: 408cba18-1847-4c00-bfeb-2710e274505e
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

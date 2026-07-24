@@ -6,15 +6,14 @@ discipline: other
 locations:
 - McLean, VA
 terms: []
-url: https://job-boards.greenhouse.io/appian/jobs/7951022
+url: https://job-boards.greenhouse.io/appian/jobs/8035372
 source: simplify-new-grad
-listing_id: d19704d8-7b6b-440d-a51f-42454b440db4
+listing_id: 58649bd4-c621-49ec-9ed6-236a6d8882ad
 active: true
-date_posted: '2026-05-21'
-date_updated: '2026-05-21'
+date_posted: '2026-07-23'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 24.2
 ---

@@ -9,7 +9,7 @@ terms: []
 url: https://careers-group1auto.icims.com/jobs/36615/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 85d31e6a-319f-48fb-9257-4d401c4f3ad5
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

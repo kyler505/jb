@@ -4,14 +4,14 @@ role: Associate – Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Yorba Linda, CA
+- Reston, VA
 terms: []
-url: https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410637800/?ats=successfactors
+url: https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors
 source: simplify-new-grad
-listing_id: 6414a444-c706-4f89-b4fc-53af44b23dc6
+listing_id: 4644bdd6-0956-4473-86a3-ef0a98bdcd5c
 active: true
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+date_posted: '2026-07-23'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

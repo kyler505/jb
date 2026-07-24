@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/amarok/jobs/6018661004
 source: simplify-internships
 listing_id: cae7ba56-b661-44a0-ad83-07cbc36b4ca4
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

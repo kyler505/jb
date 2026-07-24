@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Fayetteville, AR
 terms: []
-url: https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville-AR/MUSiC-Equipment-Engineer_R0087067
+url: https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville-AR/MUSiC-Equipment-Engineer_R0087067-1
 source: simplify-new-grad
-listing_id: c99b6790-c9be-4bae-9254-eeaa5c4c3621
+listing_id: 0d06d570-6831-45e5-be7e-c00af9c90e48
 active: true
-date_posted: '2026-07-04'
-date_updated: '2026-07-23'
+date_posted: '2026-06-16'
+date_updated: '2026-07-24'
 status: to-apply
 applied_date: null
 deadline: null

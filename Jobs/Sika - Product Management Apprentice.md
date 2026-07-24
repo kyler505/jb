@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/SikaAG/744000137117699
 source: simplify-internships
 listing_id: 5f57fcae-f9b7-4f88-abeb-bddc6e9457fa
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Tucson, AZ
+- Cedar Rapids, IA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300
 source: simplify-new-grad
-listing_id: cc5ee59a-59c1-4e20-90ce-d5bc7cbc587e
+listing_id: d0681f2b-f504-42de-870b-d512b86b6c9b
 active: true
-date_posted: '2026-07-22'
-date_updated: '2026-07-22'
+date_posted: '2026-07-23'
+date_updated: '2026-07-24'
 status: to-apply
 applied_date: null
 deadline: null

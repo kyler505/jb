@@ -10,7 +10,7 @@ terms:
 url: https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/DaBL-Lab-Technician--Student-_R4402
 source: simplify-internships
 listing_id: d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-05'
 status: to-apply

@@ -11,7 +11,7 @@ terms: []
 url: https://job-boards.greenhouse.io/nisc/jobs/7871742
 source: simplify-new-grad
 listing_id: 82921286-bf64-4f65-a9c5-68378733b3f4
-active: true
+active: false
 date_posted: '2026-04-30'
 date_updated: '2026-04-30'
 status: to-apply

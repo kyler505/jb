@@ -9,7 +9,7 @@ terms: []
 url: https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/20390
 source: simplify-new-grad
 listing_id: 7b70bbc5-5501-4022-9fe4-2bdafdf602f7
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

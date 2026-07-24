@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - O'Fallon, MO
 terms: []
-url: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-278868
+url: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435
 source: simplify-new-grad
-listing_id: cd9a968c-42dd-4f3f-a97c-7da9f0711eba
+listing_id: c218131b-b198-483e-94bc-03192688c34b
 active: true
-date_posted: '2026-07-21'
-date_updated: '2026-07-22'
+date_posted: '2026-07-17'
+date_updated: '2026-07-23'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://www.bseglobal.net/job/?gh_jid=7637035003&gh_jid=7637035003
 source: simplify-internships
 listing_id: 3b42c248-89b6-4e59-94bc-3d92930dbd27
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply
