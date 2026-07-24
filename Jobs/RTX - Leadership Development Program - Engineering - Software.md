@@ -12,7 +12,7 @@ listing_id: 4cc19448-c709-4f52-92b4-9d868f9ad3e9
 active: true
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
-status: to-apply
+status: applied
 applied_date: null
 deadline: null
 notes: null
