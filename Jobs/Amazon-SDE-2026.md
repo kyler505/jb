@@ -1,6 +1,6 @@
 # Amazon - Software Development Engineer - 2026 (US)
 
-**Status:** to-apply
+**Status:** applied
 **Link:** https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us
 **Location:** Multiple (Austin, Seattle, NYC, SF, etc.)
 **Salary:** $110,500 - $160,000 + RSUs
