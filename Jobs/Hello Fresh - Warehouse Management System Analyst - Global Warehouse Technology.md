@@ -9,7 +9,7 @@ terms: []
 url: https://careers.hellofresh.com/global/en/job/8049084
 source: simplify-new-grad
 listing_id: f37df277-dfe2-4693-a158-a49783bc4b51
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-17'
 status: to-apply

@@ -4,14 +4,15 @@ role: Field Service Engineer
 category: new-grad
 discipline: other
 locations:
-- Harrisburg, PA
+- Midland, TX
+- Lubbock, TX
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer---Harrisburg--PA_R4042234
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer_R4043729-1
 source: simplify-new-grad
-listing_id: 650fe64f-56da-4821-b1ce-ab081f6d9828
+listing_id: 9bcfa28e-365a-46d9-84da-0dea36c7276e
 active: false
-date_posted: '2026-06-20'
-date_updated: '2026-07-03'
+date_posted: '2026-07-21'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

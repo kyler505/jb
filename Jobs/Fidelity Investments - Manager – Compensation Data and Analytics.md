@@ -11,7 +11,7 @@ terms: []
 url: https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Smithfield-RI/Manager--Compensation-Data-and-Analytics_2130142-1
 source: simplify-new-grad
 listing_id: 1a5e1d05-8e6f-4070-8911-e5b77e5ec6ce
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-07-23'
 status: to-apply

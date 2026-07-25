@@ -17,10 +17,10 @@ status: applied
 applied_date: 2026-07-07
 deadline: null
 notes: null
-apply_method: auto
-priority: 49.46
-needs_review: false
-confirmation: page_text
-resume_used: resume.pdf
 apply_result: success
+confirmation: page_text
+needs_review: false
+priority: 49.46
+resume_used: resume.pdf
+apply_method: auto
 ---

@@ -1,6 +1,6 @@
 ---
-company: University of Texas - Austin
-role: Postdoctoral Fellow - Agentic AI
+company: University of Texas at Austin
+role: Postdoctoral Fellow - Multiple Teams
 category: new-grad
 discipline: other
 locations:
@@ -10,8 +10,8 @@ url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdocto
 source: simplify-new-grad
 listing_id: e6db0bd6-76f1-4615-b791-fb0f7674f780
 active: true
-date_posted: '2025-11-27'
-date_updated: '2025-11-27'
+date_posted: '2026-07-04'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

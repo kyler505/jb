@@ -16,11 +16,11 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_method: native
-priority: 52.19
-needs_review: false
-resume_used: resume
 apply_result: not_confirmed
+needs_review: false
+priority: 52.19
+resume_used: resume
+apply_method: native
 ---
 
 ## Application 2026-07-08

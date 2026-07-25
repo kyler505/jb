@@ -10,7 +10,7 @@ terms: []
 url: https://job-boards.greenhouse.io/botauto/jobs/5279037008
 source: simplify-new-grad
 listing_id: 8c23452c-c16b-4b78-b154-65fac1cb24cd
-active: true
+active: false
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: skipped

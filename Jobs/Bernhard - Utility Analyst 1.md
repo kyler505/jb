@@ -4,12 +4,12 @@ role: Utility Analyst 1
 category: new-grad
 discipline: other
 locations:
-- Little Rock, AR
+- Fayetteville, AR
 terms: []
-url: https://careers-enfra.icims.com/jobs/10445/job?mobile=true&needsRedirect=false
+url: https://careers-enfra.icims.com/jobs/10446/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 9a0cff39-959e-49f8-b9e7-26404a0027d5
-active: true
+listing_id: f25c4a5a-4880-41c9-9cc6-6ba89572d36c
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-30'
 status: to-apply

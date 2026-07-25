@@ -1,6 +1,6 @@
 ---
 company: Leggett & Platt
-role: Product Manager Intern
+role: Product Manager Trainee
 category: new-grad
 discipline: other
 locations:
@@ -10,8 +10,8 @@ url: https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/13458265
 source: simplify-new-grad
 listing_id: 6df90fe0-0a56-42ee-a66e-f1859ede5389
 active: true
-date_posted: '2025-11-27'
-date_updated: '2025-11-27'
+date_posted: '2026-05-16'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

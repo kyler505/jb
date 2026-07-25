@@ -11,7 +11,7 @@ terms:
 url: https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752
 source: simplify-internships
 listing_id: a1fe3ca1-9cc9-4c37-96ce-93e032594d55
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

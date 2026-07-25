@@ -9,7 +9,7 @@ terms: []
 url: https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst_R26_0000019236
 source: simplify-new-grad
 listing_id: 78c04fb3-9d19-4070-8c8e-e554a7b59d62
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

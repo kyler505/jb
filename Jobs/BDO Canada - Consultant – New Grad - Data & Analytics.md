@@ -15,7 +15,7 @@ terms: []
 url: https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst--Data---Analytics---New-Grad--May-2026-_JR5658-1
 source: simplify-new-grad
 listing_id: b9669691-e59f-4cf2-b311-b5751beb5045
-active: true
+active: false
 date_posted: '2026-04-07'
 date_updated: '2026-04-07'
 status: to-apply

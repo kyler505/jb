@@ -9,7 +9,7 @@ terms: []
 url: https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Colorado---Denver/Field-Service-Engineer--Denver--CO-_31155413-1
 source: simplify-new-grad
 listing_id: 4955303d-d217-43de-9269-ee255fa3bdbe
-active: true
+active: false
 date_posted: '2026-07-11'
 date_updated: '2026-07-24'
 status: to-apply

@@ -16,11 +16,11 @@ status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_method: auto
-priority: 57.53
 needs_review: true
+priority: 57.53
 resume_used: resume
 apply_error: Reached end of wizard — review debug output above
+apply_method: auto
 ---
 
 ## Application 2026-06-29
