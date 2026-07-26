@@ -19,9 +19,9 @@ notes: null
 apply_result: skipped
 needs_review: false
 priority: 55.53
-resume_used: resume
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 apply_method: none
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
+resume_used: resume
 ---
 
 ## Application 2026-07-05

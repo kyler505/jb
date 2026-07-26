@@ -9,7 +9,7 @@ terms: []
 url: https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Quant-Analytics-Assoc---Model-Risk_R-36436
 source: simplify-new-grad
 listing_id: 3f2b8aee-edab-44c4-8c26-c42897e48237
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

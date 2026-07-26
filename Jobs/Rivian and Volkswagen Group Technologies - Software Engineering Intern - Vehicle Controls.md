@@ -22,9 +22,9 @@ notes: '2026-06-26 live apply pass: form fully filled, resume attached, submit a
 apply_result: exception
 needs_review: true
 priority: 58.41
-resume_used: resume
-apply_error: _handle_ashby() takes 3 positional arguments but 4 were given
 apply_method: auto
+apply_error: _handle_ashby() takes 3 positional arguments but 4 were given
+resume_used: resume
 ---
 
 ## Application 2026-06-26

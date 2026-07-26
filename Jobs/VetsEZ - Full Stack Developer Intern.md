@@ -22,8 +22,8 @@ notes: '2026-06-26 submitted successfully on Breezy. User-confirmed: no business
 apply_result: not_confirmed
 needs_review: false
 priority: 50.2
-resume_used: resume.pdf
 apply_method: simplify
+resume_used: resume.pdf
 ---
 
 ## Application 2026-06-26

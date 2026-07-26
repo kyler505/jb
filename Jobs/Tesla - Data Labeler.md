@@ -4,14 +4,14 @@ role: Data Labeler
 category: new-grad
 discipline: other
 locations:
-- Palo Alto, CA
+- Dallas, TX
 terms: []
-url: https://www.tesla.com/careers/search/job/276585
+url: https://www.tesla.com/careers/search/job/278079
 source: simplify-new-grad
-listing_id: 1fa3e9a7-321d-47ac-ac1b-3223f34a6cbf
+listing_id: 5bba1eb0-8e8f-4a1d-891d-12fc7a1f1f65
 active: true
-date_posted: '2026-07-15'
-date_updated: '2026-07-15'
+date_posted: '2026-07-26'
+date_updated: '2026-07-26'
 status: to-apply
 applied_date: null
 deadline: null

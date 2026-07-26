@@ -19,7 +19,7 @@ notes: null
 apply_result: success
 needs_review: false
 priority: 52.6
-resume_used: resume.pdf
-apply_error: rate_limit_ashby
 apply_method: simplify
+apply_error: rate_limit_ashby
+resume_used: resume.pdf
 ---

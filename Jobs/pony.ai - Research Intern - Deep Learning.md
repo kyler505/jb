@@ -23,6 +23,6 @@ notes: null
 apply_result: skipped
 needs_review: false
 priority: 45.52
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 apply_method: none
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

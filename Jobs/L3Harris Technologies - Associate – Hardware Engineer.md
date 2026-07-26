@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Greenville-Associate,-Hardware-Engineer-TX-75402/1410860300/?ats=successfactors
 source: simplify-new-grad
 listing_id: 8c744354-a4ae-42f5-8f27-c5ab2023398c
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

@@ -4,15 +4,14 @@ role: Field Service Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Austin, TX
-- Remote in USA
+- San Antonio, TX
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044007-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---San-Antonio--TX_R4042993-1
 source: simplify-new-grad
-listing_id: e6c0519d-b7d4-4685-8d00-5d0af8b92263
+listing_id: bdca6b0d-54ef-4f43-9135-d4d108215238
 active: false
-date_posted: '2026-07-22'
-date_updated: '2026-07-23'
+date_posted: '2026-06-30'
+date_updated: '2026-06-30'
 status: to-apply
 applied_date: null
 deadline: null

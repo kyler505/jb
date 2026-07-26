@@ -8,13 +8,12 @@ locations:
 terms: []
 url: https://job-boards.greenhouse.io/planetlabs/jobs/7912657
 source: simplify-new-grad
-listing_id: 7f86d0fb-7f26-4252-8abe-bfdd4ecae24e
-active: true
+listing_id: b84b0a90-1008-45d3-b83c-947f7ba6a963
+active: false
 date_posted: '2026-05-12'
 date_updated: '2026-05-13'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 22.1
 ---
