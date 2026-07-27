@@ -10,7 +10,7 @@ terms:
 url: https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CMPD-HQ/Management-Analyst-Intern--Research-and-Planning-Division_JR104084-1
 source: simplify-internships
 listing_id: a9c0f61f-1d7a-470d-9bcc-d4e4c85a0b36
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

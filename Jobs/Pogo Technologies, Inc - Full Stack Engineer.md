@@ -7,12 +7,12 @@ locations:
 - Canada
 - United States
 terms: []
-url: https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application?embed=true
+url: https://jobs.ashbyhq.com/joinpogo/1547e923-aab9-4912-b402-49b60c782893/application?embed=true
 source: simplify-new-grad
-listing_id: d8f80069-7e92-4a82-9b1f-b8aaa60b695c
-active: true
-date_posted: '2026-07-24'
-date_updated: '2026-07-24'
+listing_id: 223c9803-c3ad-4d94-bee5-814efdb939ef
+active: false
+date_posted: '2026-07-27'
+date_updated: '2026-07-27'
 status: to-apply
 applied_date: null
 deadline: null

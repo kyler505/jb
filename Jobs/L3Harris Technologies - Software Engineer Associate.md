@@ -4,14 +4,14 @@ role: Software Engineer Associate
 category: new-grad
 discipline: swe
 locations:
-- Mason, OH
+- Greenville, TX
 terms: []
-url: https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1410637300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1412683700/?ats=successfactors
 source: simplify-new-grad
-listing_id: 36730fc4-123c-4e11-91f8-327c5aacdaaa
-active: false
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+listing_id: f538d252-f546-429f-b5b3-ef9b418f0962
+active: true
+date_posted: '2026-07-27'
+date_updated: '2026-07-27'
 status: to-apply
 applied_date: null
 deadline: null

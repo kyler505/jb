@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/flighthub/jobs/8060355
 source: simplify-new-grad
 listing_id: c3cd89be-9fb1-4392-a1fe-a64e3b07beed
-active: true
+active: false
 date_posted: '2026-07-13'
 date_updated: '2026-07-13'
 status: to-apply

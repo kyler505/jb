@@ -10,7 +10,7 @@ terms:
 url: https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795
 source: simplify-internships
 listing_id: c26b2364-8f05-423f-8def-b6d4e6b8ffd0
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-22'
 status: to-apply

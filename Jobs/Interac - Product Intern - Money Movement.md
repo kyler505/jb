@@ -10,7 +10,7 @@ terms:
 url: https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2240
 source: simplify-internships
 listing_id: c043acbe-1a9f-4818-a8e7-a82d105c32d1
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

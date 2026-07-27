@@ -9,7 +9,7 @@ terms: []
 url: https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824
 source: simplify-new-grad
 listing_id: c18a6a31-6cf7-481a-99f5-cb0c4d069d8a
-active: false
+active: true
 date_posted: '2026-01-12'
 date_updated: '2026-01-12'
 status: to-apply

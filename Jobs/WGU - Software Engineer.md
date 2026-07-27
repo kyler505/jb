@@ -9,7 +9,7 @@ terms: []
 url: https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer--WIS-to-Domestic-_JR-025312
 source: simplify-new-grad
 listing_id: db55c587-2810-474f-bd78-03115f713ea4
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: needs-review

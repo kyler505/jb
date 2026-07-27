@@ -9,7 +9,7 @@ terms: []
 url: https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Remote--USA/Technical-Product-Analyst-I_260794WD
 source: simplify-new-grad
 listing_id: 4fd8c949-8e4c-4555-87e8-f15b89627f06
-active: true
+active: false
 date_posted: '2026-06-23'
 date_updated: '2026-07-22'
 status: to-apply

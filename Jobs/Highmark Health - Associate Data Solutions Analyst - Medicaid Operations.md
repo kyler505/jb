@@ -52,7 +52,7 @@ terms: []
 url: https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst---Medicaid-Operations_J284898-1
 source: simplify-new-grad
 listing_id: 3e56e7e4-827e-4958-831f-32eea1731ac4
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-24'
 status: to-apply

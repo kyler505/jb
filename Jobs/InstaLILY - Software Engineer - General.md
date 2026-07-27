@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/instalilyai/jobs/4264790009
 source: simplify-new-grad
 listing_id: 3f792c7c-c847-4af9-8c23-0d263a76c9c8
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

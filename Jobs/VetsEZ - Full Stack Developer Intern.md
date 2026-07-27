@@ -19,11 +19,11 @@ applied_date: null
 deadline: null
 notes: '2026-06-26 submitted successfully on Breezy. User-confirmed: no business/LLC,
   no SMS, yes to clearance process, yes to full-time W2.'
-apply_result: not_confirmed
-needs_review: false
-priority: 50.2
 apply_method: simplify
 resume_used: resume.pdf
+apply_result: not_confirmed
+priority: 50.2
+needs_review: false
 ---
 
 ## Application 2026-06-26

@@ -9,7 +9,7 @@ terms: []
 url: https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Data-and-Application-Developer-Engineer-II_JR119568
 source: simplify-new-grad
 listing_id: 70b9b44e-b155-4081-9987-0ef48b2ebb0e
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: needs-review
