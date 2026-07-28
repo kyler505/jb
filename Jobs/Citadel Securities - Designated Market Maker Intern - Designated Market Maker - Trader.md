@@ -10,7 +10,7 @@ terms:
 url: https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trader-intern-us/
 source: simplify-internships
 listing_id: 5d95fbd7-3bfc-46bc-8fd9-9f014b6308ed
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

@@ -14,7 +14,7 @@ terms:
 url: https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Co-Op-Student-Developer_R0044310-2
 source: simplify-internships
 listing_id: eb5df7f1-c18d-497e-8a13-2febadd687e1
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

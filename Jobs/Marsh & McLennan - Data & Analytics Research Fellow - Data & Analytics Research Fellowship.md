@@ -1,6 +1,6 @@
 ---
 company: Marsh
-role: Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne
+role: Data & Analytics Research Fellow - Data & Analytics Research Fellowship
 category: internship
 discipline: data
 locations:
@@ -11,8 +11,8 @@ url: https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---D
 source: simplify-internships
 listing_id: 61c905e5-2281-4abd-afcc-83089ab79869
 active: true
-date_posted: '2025-11-30'
-date_updated: '2025-11-30'
+date_posted: '2026-06-13'
+date_updated: '2026-07-28'
 status: to-apply
 applied_date: null
 deadline: null

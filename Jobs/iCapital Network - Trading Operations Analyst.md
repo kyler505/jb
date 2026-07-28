@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/icapitalnetwork/jobs/8596153002
 source: simplify-new-grad
 listing_id: fca9f7d1-58c5-4539-bb95-b96780683edb
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

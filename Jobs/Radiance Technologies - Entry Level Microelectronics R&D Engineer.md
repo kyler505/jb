@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Monroe, LA
 terms: []
-url: https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102264-1
+url: https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Ruston-LA/Entry-level-Microelectronics-R-D-Engineer_HR102319
 source: simplify-new-grad
-listing_id: fabd8915-928a-4b5a-bbdd-c40bfea3c5f0
+listing_id: 5439a176-6809-44da-85b8-5f532f0ff76a
 active: false
-date_posted: '2026-06-22'
-date_updated: '2026-06-22'
+date_posted: '2026-07-27'
+date_updated: '2026-07-27'
 status: to-apply
 applied_date: null
 deadline: null

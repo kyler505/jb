@@ -10,7 +10,7 @@ terms:
 url: https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trader-intern-us/
 source: simplify-internships
 listing_id: 119372b9-773c-43f5-a19e-c61469564529
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

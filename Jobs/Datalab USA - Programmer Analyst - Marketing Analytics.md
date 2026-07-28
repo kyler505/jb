@@ -6,12 +6,12 @@ discipline: data
 locations:
 - Germantown, MD
 terms: []
-url: https://jobs.lever.co/datalabusa/aba07f9b-8cbd-40eb-badf-602e40c86dd1/apply
+url: https://jobs.lever.co/datalabusa/1550eada-3bd9-4699-b3da-a165295d27a1/apply
 source: simplify-new-grad
-listing_id: 5371578f-2351-4165-bb6f-8e6cfbbc8086
-active: true
-date_posted: '2026-07-25'
-date_updated: '2026-07-25'
+listing_id: 730dcc4b-0458-4546-9437-b553f7a5f83c
+active: false
+date_posted: '2026-04-10'
+date_updated: '2026-04-10'
 status: to-apply
 applied_date: null
 deadline: null

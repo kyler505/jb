@@ -9,7 +9,7 @@ terms: []
 url: https://www.akunacapital.com/careers/job/7496425/?gh_jid=7496425
 source: simplify-new-grad
 listing_id: 4d99f4ed-f6a0-44c1-8174-63fd3618fce7
-active: true
+active: false
 date_posted: '2026-01-02'
 date_updated: '2026-04-15'
 status: to-apply

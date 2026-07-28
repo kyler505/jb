@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/ada18/jobs/5180710007
 source: simplify-internships
 listing_id: f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: applied

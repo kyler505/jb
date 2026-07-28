@@ -9,7 +9,7 @@ terms: []
 url: https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Chandler-Arizona/Entry-Level-RF-Engineer_JR101561-1
 source: simplify-new-grad
 listing_id: 71d52be7-1c4f-4771-8875-107efb6118f5
-active: true
+active: false
 date_posted: '2026-05-16'
 date_updated: '2026-05-26'
 status: to-apply

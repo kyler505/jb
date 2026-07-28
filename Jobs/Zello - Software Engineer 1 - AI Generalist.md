@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e/application?embed=true
 source: simplify-new-grad
 listing_id: 22fac0ef-83eb-431d-923e-def7b3640c11
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

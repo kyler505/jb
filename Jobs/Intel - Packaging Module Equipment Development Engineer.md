@@ -9,7 +9,7 @@ terms: []
 url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Equipment-Development-Engineer_JR0285781
 source: simplify-new-grad
 listing_id: 144e1a48-c61f-4ab8-8c01-3dd597e4a6d2
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-26'
 status: to-apply

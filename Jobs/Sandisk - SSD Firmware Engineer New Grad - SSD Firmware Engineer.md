@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Sandisk/744000137191590
 source: simplify-new-grad
 listing_id: 67328505-6889-494a-b5d1-c22b5cbef2ff
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

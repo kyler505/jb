@@ -9,7 +9,7 @@ terms: []
 url: https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Education-Outcomes-and-Data-Analytics-Assistant_JR2026-105688
 source: simplify-new-grad
 listing_id: 78d41a5c-0231-4088-b407-e501ec046cfa
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1411451800/?ats=successfactors
 source: simplify-new-grad
 listing_id: 6ff7c003-9375-4e40-8ab7-60bc04e9557a
-active: true
+active: false
 date_posted: '2026-07-22'
 date_updated: '2026-07-22'
 status: to-apply

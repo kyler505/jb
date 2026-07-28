@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/cc/jobs/5288224008
 source: simplify-internships
 listing_id: ac0187b3-d62d-4462-8812-3f558065a8a5
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
 status: to-apply

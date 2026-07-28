@@ -12,7 +12,7 @@ terms:
 url: https://job-boards.greenhouse.io/virtu/jobs/8624408002
 source: simplify-internships
 listing_id: ce1d842e-89a6-4905-a608-3eca02ddd233
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-22'
 status: to-apply

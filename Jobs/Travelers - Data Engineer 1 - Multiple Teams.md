@@ -4,16 +4,16 @@ role: Data Engineer 1 - Multiple Teams
 category: new-grad
 discipline: data
 locations:
+- Sparks, MD
 - Hartford, CT
-- Richardson, TX
 - St Paul, MN
 terms: []
-url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910
+url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-51638
 source: simplify-new-grad
-listing_id: b8b13950-f977-4efa-a16f-25c7dfd1d262
+listing_id: dd99f792-8e31-427b-817e-a9ff566a03ac
 active: true
-date_posted: '2026-07-04'
-date_updated: '2026-07-22'
+date_posted: '2026-07-27'
+date_updated: '2026-07-28'
 status: to-apply
 applied_date: null
 deadline: null

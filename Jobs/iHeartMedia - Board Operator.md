@@ -4,13 +4,13 @@ role: Board Operator
 category: new-grad
 discipline: other
 locations:
-- Harrisonburg, VA
+- Burbank, CA
 terms: []
-url: https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Harrisonburg-VA/Part-Time-Board-Operator_Req38744-4
+url: https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/Los-Angeles-CA-Burbank---Olive/Board-Operator---Part-Time_Req34855-1
 source: simplify-new-grad
-listing_id: f9fb1fef-a6af-4e5f-83e7-5344246c8ea9
-active: true
-date_posted: '2026-07-04'
+listing_id: a55117ed-3d25-44ac-bfff-5528e4378f2b
+active: false
+date_posted: '2026-06-20'
 date_updated: '2026-07-21'
 status: to-apply
 applied_date: null

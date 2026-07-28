@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168
 source: simplify-internships
 listing_id: c63b8bb6-93cf-413a-843e-f9afd9aa57b2
-active: true
+active: false
 date_posted: '2026-02-02'
 date_updated: '2026-02-02'
 status: to-apply

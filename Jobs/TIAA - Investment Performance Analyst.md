@@ -11,7 +11,7 @@ terms: []
 url: https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Investment-Performance-Analyst_R260500515-1
 source: simplify-new-grad
 listing_id: 80c2e7ad-0c14-4c64-90ca-97d2e8a07aef
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

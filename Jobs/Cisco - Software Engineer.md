@@ -4,14 +4,15 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- London, UK
+- Boston, MA
+- Seattle, WA
 terms: []
-url: https://careers.cisco.com/global/en/job/2006629
+url: https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Software-Engineer_2019587
 source: simplify-new-grad
-listing_id: d13824fa-a600-41bb-bfde-87089cad7974
+listing_id: 09747fec-195a-49d6-8a70-a6377773a9bb
 active: true
-date_posted: '2026-03-05'
-date_updated: '2026-04-16'
+date_posted: '2026-07-27'
+date_updated: '2026-07-27'
 status: to-apply
 applied_date: null
 deadline: null

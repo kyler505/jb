@@ -10,7 +10,7 @@ terms:
 url: https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Data---Insights-Graduate-Research-Assistant_R_00047610
 source: simplify-internships
 listing_id: 2108c98a-b4d3-46d0-b47a-185ef28d4867
-active: true
+active: false
 date_posted: '2026-07-24'
 date_updated: '2026-07-24'
 status: to-apply

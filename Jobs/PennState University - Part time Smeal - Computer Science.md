@@ -1,6 +1,6 @@
 ---
-company: PennState University
-role: Part time Smeal - Computer Science
+company: Pennsylvania State University
+role: Marketing Research Assistant - Marketing Dept - Computer Science
 category: internship
 discipline: other
 locations:
@@ -11,8 +11,8 @@ url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/
 source: simplify-internships
 listing_id: 2e17e435-e594-47c6-89d4-9fd698967ff5
 active: true
-date_posted: '2025-11-30'
-date_updated: '2025-11-30'
+date_posted: '2026-06-13'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,16 @@ role: Field Service Engineer 2
 category: new-grad
 discipline: other
 locations:
-- Springfield, IL
+- Miami, FL
+- Florida
+- Fort Lauderdale, FL
 terms: []
-url: https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Springfield/Field-Service-Engineer-II--Springfield--IL_31150798-1
+url: https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Florida---Miami/Field-Service-Engineer-II--South-Ft-Laurderdale-Miami-area_31157347-2
 source: simplify-new-grad
-listing_id: 7155ac3f-5d4c-4c9d-98cf-38f9e2dea5ad
+listing_id: afd382d0-925a-4928-9ef0-6ac886b0a11e
 active: false
-date_posted: '2026-06-20'
-date_updated: '2026-07-21'
+date_posted: '2026-07-27'
+date_updated: '2026-07-27'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,15 @@ role: Data Discovery and Enrichment Expert 1
 category: new-grad
 discipline: other
 locations:
-- Raleigh, NC
+- Toronto, ON, Canada
+- Canada
 terms: []
-url: https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188-1
+url: https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429-1
 source: simplify-new-grad
-listing_id: 1f87470c-a25f-4f78-b44b-eabd57ceab67
-active: true
-date_posted: '2026-07-16'
-date_updated: '2026-07-16'
+listing_id: 591656dc-6caf-4f26-a98b-c216c2624560
+active: false
+date_posted: '2026-05-21'
+date_updated: '2026-05-21'
 status: to-apply
 applied_date: null
 deadline: null
