@@ -12,7 +12,7 @@ terms: []
 url: https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Systems-Engineer_328922
 source: simplify-new-grad
 listing_id: 274aa428-8769-4ec7-ab3b-c7010c375afe
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-21'
 status: to-apply

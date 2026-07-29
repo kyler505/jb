@@ -5,15 +5,15 @@ role: Efficiency Analyst/Methodologist Project Intern - Content Operations - Tik
 category: internship
 discipline: other
 locations:
-- NYC
+- San Jose, CA
 terms:
 - Fall 2026
-url: https://lifeattiktok.com/search/7667248888103782661
+url: https://lifeattiktok.com/search/7667613782697232693
 source: simplify-internships
-listing_id: d91645a0-c83d-4a09-bb25-c45044295c83
+listing_id: 2522e64f-6b7b-4896-8fec-6536ad4ea335
 active: true
-date_posted: '2026-07-28'
-date_updated: '2026-07-28'
+date_posted: '2026-07-29'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null

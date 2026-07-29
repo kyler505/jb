@@ -1,6 +1,6 @@
 ---
 company: NVIDIA
-role: Developer Technology Engineer – New College Grad - Public Sector
+role: Developer Technology Engineer New Grad - Public Sector
 category: new-grad
 discipline: swe
 locations:
@@ -10,8 +10,8 @@ url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-San
 source: simplify-new-grad
 listing_id: 30612f5b-226b-4ab8-9610-ae2ae82ca2a0
 active: true
-date_posted: '2025-12-01'
-date_updated: '2025-12-01'
+date_posted: '2026-07-22'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

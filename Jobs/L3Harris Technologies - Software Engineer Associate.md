@@ -4,14 +4,14 @@ role: Software Engineer Associate
 category: new-grad
 discipline: swe
 locations:
-- Greenville, TX
+- Reston, VA
 terms: []
-url: https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineer-TX-75402/1412683700/?ats=successfactors
+url: https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500/?ats=successfactors
 source: simplify-new-grad
-listing_id: f538d252-f546-429f-b5b3-ef9b418f0962
+listing_id: 81476e53-2803-426e-8021-2bcd1ad52184
 active: true
-date_posted: '2026-07-27'
-date_updated: '2026-07-27'
+date_posted: '2026-07-28'
+date_updated: '2026-07-28'
 status: to-apply
 applied_date: null
 deadline: null

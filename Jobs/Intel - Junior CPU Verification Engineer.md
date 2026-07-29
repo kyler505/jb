@@ -7,12 +7,12 @@ locations:
 - Austin, TX
 - Hillsboro, OR
 terms: []
-url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0284866
+url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0285875
 source: simplify-new-grad
-listing_id: adc9ca22-68d6-4e35-a8c2-2039e097e6fb
+listing_id: a8ddf658-bbb6-4714-a626-f51188c1df2d
 active: false
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
+date_posted: '2026-07-24'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null

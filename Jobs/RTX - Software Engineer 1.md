@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Cedar Rapids, IA
+- Burlington, MA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626
 source: simplify-new-grad
-listing_id: d0681f2b-f504-42de-870b-d512b86b6c9b
-active: false
-date_posted: '2026-07-23'
-date_updated: '2026-07-24'
+listing_id: d8f84d42-30b7-4a74-b193-a2adde5bac7e
+active: true
+date_posted: '2026-07-28'
+date_updated: '2026-07-28'
 status: to-apply
 applied_date: null
 deadline: null

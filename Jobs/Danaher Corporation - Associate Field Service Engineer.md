@@ -4,12 +4,12 @@ role: Associate Field Service Engineer
 category: new-grad
 discipline: other
 locations:
-- Coralville, IA
+- Waterloo, IA
 terms: []
-url: https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Iowa-City-Iowa-United-States/T1---Associate-Field-Service-Engineer--Iowa-City--Iowa_R1312216
+url: https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Waterloo-Iowa-United-States/Associate-Field-Service-Engineer---Waterloo--Iowa_R1312220
 source: simplify-new-grad
-listing_id: 2d9c255b-a938-4454-b1bc-d6532fb4063b
-active: true
+listing_id: 0b91b8c4-dd32-492a-b510-d76e2655c293
+active: false
 date_posted: '2026-06-02'
 date_updated: '2026-06-02'
 status: to-apply

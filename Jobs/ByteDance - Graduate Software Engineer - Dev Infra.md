@@ -16,10 +16,10 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-resume_used: resume
-apply_method: native
-apply_result: not_confirmed
 needs_review: false
+apply_method: native
+resume_used: resume
+apply_result: not_confirmed
 priority: 52.19
 ---
 

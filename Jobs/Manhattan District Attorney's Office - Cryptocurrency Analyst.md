@@ -9,7 +9,7 @@ terms: []
 url: https://fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3290
 source: simplify-new-grad
 listing_id: fbc507b4-f388-457e-bd06-2b2092a7dad1
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

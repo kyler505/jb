@@ -9,7 +9,7 @@ terms: []
 url: https://careers.footlocker.com/jobs/70887?icims=1
 source: simplify-new-grad
 listing_id: d706d742-c4a0-4296-8c42-a3336449db90
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

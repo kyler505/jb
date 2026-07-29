@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Austell, GA
 terms: []
-url: https://www.google.com/about/careers/applications/jobs/results/124877792314565318
+url: https://www.google.com/about/careers/applications/jobs/results/113041210339140294
 source: simplify-new-grad
-listing_id: 67a5e690-e755-4579-9259-6fb704c073f6
+listing_id: c7378f52-eadd-4b18-9a28-079c2da6bbda
 active: false
-date_posted: '2026-07-22'
-date_updated: '2026-07-22'
+date_posted: '2026-07-29'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null

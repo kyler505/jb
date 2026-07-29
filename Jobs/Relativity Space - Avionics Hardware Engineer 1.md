@@ -9,7 +9,7 @@ terms: []
 url: https://boards.greenhouse.io/relativity/jobs/8621629002
 source: simplify-new-grad
 listing_id: 75a8d3f3-1ab6-485a-8040-bb363f87ecb8
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

@@ -4,14 +4,14 @@ role: Software Engineer 2
 category: new-grad
 discipline: swe
 locations:
-- Fort Wayne, IN
+- Tucson, AZ
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II--Onsite-_01855746
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413
 source: simplify-new-grad
-listing_id: 7f814df9-4d07-4be5-b742-9ed37b9549a8
-active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-28'
+listing_id: e4839ecb-2777-4886-93d2-c56612b08784
+active: false
+date_posted: '2026-03-12'
+date_updated: '2026-03-12'
 status: to-apply
 applied_date: null
 deadline: null

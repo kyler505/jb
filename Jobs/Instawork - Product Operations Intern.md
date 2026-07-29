@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/instawork/jobs/4588237006
 source: simplify-internships
 listing_id: 96dfff8a-1935-48d2-8b5f-a193be59dd4d
-active: true
+active: false
 date_posted: '2026-03-21'
 date_updated: '2026-03-21'
 status: to-apply

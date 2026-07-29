@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Hoffman Estates, IL
+- Glasgow, UK
 terms: []
-url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351
+url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979
 source: simplify-new-grad
-listing_id: ffb577d7-9361-420e-b157-f03bdbd597d3
+listing_id: 0e645a26-5aa4-441c-b793-1ef8516245ca
 active: true
-date_posted: '2026-07-22'
-date_updated: '2026-07-22'
+date_posted: '2026-07-28'
+date_updated: '2026-07-28'
 status: to-apply
 applied_date: null
 deadline: null

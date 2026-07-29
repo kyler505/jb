@@ -5,13 +5,14 @@ category: new-grad
 discipline: frontend
 locations:
 - London, UK
+- Uxbridge, UK
 terms: []
-url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/London-UK/Software-Engineer--Frontend--TypeScript-_R65770
+url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Software-Engineer--Frontend--TypeScript_R66988
 source: simplify-new-grad
-listing_id: 6998ac94-4506-4a5b-9b4f-1999714714cb
-active: true
-date_posted: '2026-07-08'
-date_updated: '2026-07-24'
+listing_id: 7161bed2-d996-43a6-bcc3-a87b132cb424
+active: false
+date_posted: '2026-07-22'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

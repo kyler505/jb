@@ -10,7 +10,7 @@ terms: []
 url: https://careers.paramount.com/job/Burbank-Associate-Data-Scientist-CA-91505/1406507500/?ats=successfactors
 source: simplify-new-grad
 listing_id: 2ae005dd-6071-4779-9e74-a52b1aa61b16
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

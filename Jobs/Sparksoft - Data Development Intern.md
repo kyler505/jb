@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5187532007
 source: simplify-internships
 listing_id: 5f921f62-bbfa-454c-978f-31310fc72515
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

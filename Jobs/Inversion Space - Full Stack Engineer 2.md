@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/inversionspace/jobs/4714122005
 source: simplify-new-grad
 listing_id: 98b8f971-621c-46bf-8915-22ec116e536a
-active: true
+active: false
 date_posted: '2026-07-11'
 date_updated: '2026-07-11'
 status: to-apply

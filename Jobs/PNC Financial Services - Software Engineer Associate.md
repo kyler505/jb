@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Pittsburgh, PA
 terms: []
-url: https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R230042-1
+url: https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Software-Engineer-Associate_R230944-1
 source: simplify-new-grad
-listing_id: 9cc6cb29-d832-48d0-8238-db930b87c8c5
+listing_id: 24fda12b-d6f7-436e-b6f6-5bc3671536ee
 active: false
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+date_posted: '2026-07-28'
+date_updated: '2026-07-28'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.11
 ---

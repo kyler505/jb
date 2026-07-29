@@ -9,7 +9,7 @@ terms: []
 url: https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Machine-Learning-Research-Assistant_R-0000032486
 source: simplify-new-grad
 listing_id: 4c96ac7c-dfa6-4ecf-98db-36ba104fa9b5
-active: true
+active: false
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: needs-review

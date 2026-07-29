@@ -10,7 +10,7 @@ terms:
 url: https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260267
 source: simplify-internships
 listing_id: 7831a3f0-fe97-450c-8eb6-9ad12ce8c694
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply
