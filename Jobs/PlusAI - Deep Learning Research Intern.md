@@ -10,7 +10,7 @@ terms:
 url: https://jobs.lever.co/plus-2/2f2c1cd9-f099-483a-9717-0da83a391333/apply
 source: simplify-internships
 listing_id: 25955d79-5052-4813-bcb6-5d25f1ce2b38
-active: true
+active: false
 date_posted: '2026-05-26'
 date_updated: '2026-05-26'
 status: to-apply

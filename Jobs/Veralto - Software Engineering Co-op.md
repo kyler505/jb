@@ -10,7 +10,7 @@ terms:
 url: https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Vancouver-British-Columbia-Canada/Aquatic-Informatics---Software-Engineering-Co-op_R10267344
 source: simplify-internships
 listing_id: 669285b9-7671-42a2-aa8c-413c7a3d0334
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

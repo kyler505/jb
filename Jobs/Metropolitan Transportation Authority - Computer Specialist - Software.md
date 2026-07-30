@@ -10,7 +10,7 @@ terms:
 url: https://jobs.jobvite.com/metropolitantransportationauthority/job/oCroAfwL?nl=1&nl=1&fr=false
 source: simplify-internships
 listing_id: 66aed69d-0acd-43a5-9aa1-fcbdc96ceebd
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

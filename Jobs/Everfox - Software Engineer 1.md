@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Richardson, TX
 terms: []
-url: https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751
+url: https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1
 source: simplify-new-grad
-listing_id: 5d4273a4-4eda-4ac4-8656-a398851d11d7
+listing_id: e477c19e-0543-43fc-af92-9a394bca77e5
 active: false
-date_posted: '2026-07-21'
-date_updated: '2026-07-21'
+date_posted: '2026-07-29'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null

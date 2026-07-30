@@ -11,7 +11,7 @@ terms:
 url: https://www.pathai.com/careers/8651564002?gh_jid=8651564002
 source: simplify-internships
 listing_id: 0d592991-3f3c-4b1b-b380-4395ca871e34
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-29'
 status: to-apply

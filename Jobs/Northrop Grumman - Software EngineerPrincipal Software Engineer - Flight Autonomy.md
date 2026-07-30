@@ -9,7 +9,7 @@ terms: []
 url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer-Principal-Software-Engineer---Flight-Autonomy--San-Diego-CA-_R10237576
 source: simplify-new-grad
 listing_id: 1d9d8f01-f629-408b-9315-beb40996eff1
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review

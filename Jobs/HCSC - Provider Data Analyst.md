@@ -14,7 +14,7 @@ terms: []
 url: https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TN---Nashville/Provider-Data-Analyst---work-From-Home_R0054990-2
 source: simplify-new-grad
 listing_id: d11ca26a-d342-4fbc-8cd1-bb55ddf50d14
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-07-29'
 status: to-apply

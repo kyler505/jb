@@ -9,7 +9,7 @@ terms: []
 url: https://www.citadelsecurities.com/careers/details/client-execution-trading/
 source: simplify-new-grad
 listing_id: ef843ea8-58f1-47d4-9e25-1c2c6ba27125
-active: true
+active: false
 date_posted: '2026-01-06'
 date_updated: '2026-07-28'
 status: to-apply

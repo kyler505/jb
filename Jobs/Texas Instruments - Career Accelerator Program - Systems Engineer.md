@@ -9,7 +9,7 @@ terms: []
 url: https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011042
 source: simplify-new-grad
 listing_id: 3b9dcf6e-e5a2-41dd-a615-ea3bae75731b
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

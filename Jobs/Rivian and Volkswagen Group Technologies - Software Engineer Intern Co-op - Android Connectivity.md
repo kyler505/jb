@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/rivianvw.tech/75874976-540a-4e5c-aa72-1b23669c5211/application
 source: simplify-internships
 listing_id: a475fa37-e595-443b-807e-dce909238f55
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: skipped

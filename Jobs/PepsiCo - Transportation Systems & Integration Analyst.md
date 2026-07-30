@@ -9,7 +9,7 @@ terms: []
 url: https://uscareers-pepsico.icims.com/jobs/427125/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: aabe8d61-d2c5-4513-b60e-2426dbca6c22
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-15'
 status: to-apply

@@ -6,15 +6,14 @@ discipline: data
 locations:
 - Atlanta, GA
 terms: []
-url: https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0115272
+url: https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Data-Scientist-I---Card-Fraud_R0116758
 source: simplify-new-grad
-listing_id: 8fb612b8-d00e-4c1a-a287-e9ede5150c49
+listing_id: 78557b08-6ff0-4151-a600-1a28c03abedd
 active: false
-date_posted: '2026-06-08'
-date_updated: '2026-06-08'
+date_posted: '2026-07-29'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 48.38
 ---

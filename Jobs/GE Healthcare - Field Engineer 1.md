@@ -4,14 +4,14 @@ role: Field Engineer 1
 category: new-grad
 discipline: other
 locations:
-- El Paso, TX
+- Madison, WI
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1
 source: simplify-new-grad
-listing_id: 0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4
+listing_id: 211d5160-dd5b-403d-aa71-3b6dd6378ee9
 active: false
-date_posted: '2026-07-08'
-date_updated: '2026-07-08'
+date_posted: '2026-07-09'
+date_updated: '2026-07-11'
 status: to-apply
 applied_date: null
 deadline: null

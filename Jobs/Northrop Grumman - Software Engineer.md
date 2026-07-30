@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Hill AFB, UT
+- Oklahoma City, OK
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate---Software-Engineer----19232_R10242757
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799
 source: simplify-new-grad
-listing_id: 4d79ce2b-1cf0-4109-8848-b30f3d0760b2
+listing_id: 0c04873f-7b39-41a5-9b89-ab2769aadc55
 active: false
-date_posted: '2026-07-28'
-date_updated: '2026-07-28'
+date_posted: '2026-06-13'
+date_updated: '2026-07-22'
 status: to-apply
 applied_date: null
 deadline: null

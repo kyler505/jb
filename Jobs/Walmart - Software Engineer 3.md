@@ -6,11 +6,11 @@ discipline: swe
 locations:
 - Sunnyvale, CA
 terms: []
-url: https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2559900-1
+url: https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2556827-1
 source: simplify-new-grad
-listing_id: 35fd0ab8-45a8-44c2-93b6-be8ecf688597
-active: false
-date_posted: '2026-07-16'
+listing_id: d7a391ff-005c-4a42-b1c9-be0dcf80c747
+active: true
+date_posted: '2026-07-29'
 date_updated: '2026-07-29'
 status: to-apply
 applied_date: null

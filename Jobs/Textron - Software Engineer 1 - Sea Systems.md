@@ -9,7 +9,7 @@ terms: []
 url: https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975
 source: simplify-new-grad
 listing_id: 57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

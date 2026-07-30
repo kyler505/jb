@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Austin, TX
 terms: []
-url: https://jobs.lever.co/CesiumAstro/efc711ca-9f46-434f-9275-b557a3e5b108/apply
+url: https://jobs.lever.co/CesiumAstro/557a2987-9b6e-4c9c-b393-36bf83cb3f8b/apply
 source: simplify-new-grad
-listing_id: d07efe5d-ff36-44aa-9fd7-520cf845cb58
+listing_id: 36cc7a91-b200-44fb-b66f-ecf2b2ecd419
 active: false
-date_posted: '2026-05-01'
-date_updated: '2026-06-26'
+date_posted: '2026-07-29'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null

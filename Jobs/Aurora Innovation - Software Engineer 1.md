@@ -9,7 +9,7 @@ terms: []
 url: https://aurora.tech/jobs/8159549002?gh_jid=8159549002
 source: simplify-new-grad
 listing_id: c9cea194-4359-4677-af86-57f85ced4893
-active: true
+active: false
 date_posted: '2026-03-17'
 date_updated: '2026-03-17'
 status: to-apply

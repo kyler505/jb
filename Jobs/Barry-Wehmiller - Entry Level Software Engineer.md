@@ -9,7 +9,7 @@ terms: []
 url: https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282
 source: simplify-new-grad
 listing_id: b8f78492-15f1-4f82-89cd-020a8716caec
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

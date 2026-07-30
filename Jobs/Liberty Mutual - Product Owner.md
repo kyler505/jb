@@ -12,7 +12,7 @@ terms: []
 url: https://careers-libertymutual.icims.com/jobs/76912/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 379a7170-b11b-4d6f-8a29-66362a700538
-active: true
+active: false
 date_posted: '2026-07-24'
 date_updated: '2026-07-24'
 status: to-apply

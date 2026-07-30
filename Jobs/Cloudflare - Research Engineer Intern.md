@@ -4,15 +4,15 @@ role: Research Engineer Intern
 category: internship
 discipline: other
 locations:
-- Austin, TX
+- London, UK
 terms:
 - Fall 2026
-url: https://boards.greenhouse.io/cloudflare/jobs/8089379
+url: https://boards.greenhouse.io/cloudflare/jobs/8089407
 source: simplify-internships
-listing_id: 02855d39-751b-42b4-909c-814d9d98b768
+listing_id: c97b1332-a2e5-4276-8d54-70df4b7c21e7
 active: true
-date_posted: '2026-07-28'
-date_updated: '2026-07-28'
+date_posted: '2026-07-29'
+date_updated: '2026-07-29'
 status: to-apply
 applied_date: null
 deadline: null

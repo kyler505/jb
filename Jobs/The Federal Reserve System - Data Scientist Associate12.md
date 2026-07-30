@@ -11,7 +11,7 @@ terms: []
 url: https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Data-Scientist-Associate-I-II_R-0000032588
 source: simplify-new-grad
 listing_id: addfb629-5045-4889-a617-34ec3b27c95e
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-29'
 status: to-apply
