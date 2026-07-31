@@ -13,7 +13,7 @@ terms: []
 url: https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Lead-Data-Science-Engineer_R0048547-1
 source: simplify-new-grad
 listing_id: 2de2e992-e614-42da-9012-fcc4d83828a1
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-07-29'
 status: to-apply

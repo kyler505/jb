@@ -10,7 +10,7 @@ terms:
 url: https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply
 source: simplify-internships
 listing_id: 97964cb8-fdda-4a97-a78d-19c194e59388
-active: true
+active: false
 date_posted: '2025-12-02'
 date_updated: '2025-12-03'
 status: to-apply

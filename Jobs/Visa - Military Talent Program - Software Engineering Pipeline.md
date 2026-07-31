@@ -10,7 +10,7 @@ terms: []
 url: https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W
 source: simplify-new-grad
 listing_id: f1ff7da9-0228-4439-858e-699aad2ebc40
-active: true
+active: false
 date_posted: '2026-07-03'
 date_updated: '2026-07-03'
 status: needs-review

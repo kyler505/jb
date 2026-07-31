@@ -11,7 +11,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/GenomicsEngland/744000139265349
 source: simplify-new-grad
 listing_id: f7e20b19-467d-47e8-96ec-93acbd0fc3f4
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-26'
 status: to-apply

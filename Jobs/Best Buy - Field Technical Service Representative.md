@@ -4,14 +4,14 @@ role: Field Technical Service Representative
 category: new-grad
 discipline: other
 locations:
-- Dartmouth, NS, Canada
+- Detroit, MI
 terms: []
-url: https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11979-Dartmouth/Field-Technical-Service-Representative--Full-Time-_R-51777
+url: https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11944-Windsor/Field-Technical-Service-Representative--Part-Time-_R-52007
 source: simplify-new-grad
-listing_id: be5dd60e-8026-4c85-8fd7-02d6b84ab8a3
+listing_id: 59ec7f19-b9a6-49dd-aa5b-dc2d9c422d84
 active: true
-date_posted: '2026-07-21'
-date_updated: '2026-07-22'
+date_posted: '2026-07-30'
+date_updated: '2026-07-30'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://careers-dewberry.icims.com/jobs/16026/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 86dcc766-28a0-4fe3-b4de-eab94209ae17
-active: true
+active: false
 date_posted: '2026-07-22'
 date_updated: '2026-07-22'
 status: to-apply

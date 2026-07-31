@@ -11,7 +11,7 @@ terms: []
 url: https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Oliver-Wyman---Regional-AI-Product-Enablement-Analyst_R_359871-1
 source: simplify-new-grad
 listing_id: ec3b458b-fb1a-4091-8bee-90ac0e02e901
-active: true
+active: false
 date_posted: '2026-07-24'
 date_updated: '2026-07-29'
 status: to-apply

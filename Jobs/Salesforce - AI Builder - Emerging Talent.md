@@ -15,7 +15,7 @@ terms: []
 url: https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276
 source: simplify-new-grad
 listing_id: 1a2e58cc-f4e5-478e-a272-afd67fbeedd1
-active: true
+active: false
 date_posted: '2026-05-06'
 date_updated: '2026-05-06'
 status: to-apply

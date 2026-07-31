@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - San Diego, CA
 terms: []
-url: https://jobs.apple.com/en-us/details/200657658
+url: https://jobs.apple.com/en-us/details/200657382
 source: simplify-new-grad
-listing_id: 1a3243a9-9ea1-4acd-9ee3-518dfb70d1ac
+listing_id: 75e9fee1-d55a-4025-b42d-c45a49be336f
 active: true
-date_posted: '2026-05-06'
-date_updated: '2026-05-06'
+date_posted: '2026-07-31'
+date_updated: '2026-07-31'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 42.5
 ---

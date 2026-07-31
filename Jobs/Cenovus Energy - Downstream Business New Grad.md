@@ -9,7 +9,7 @@ terms: []
 url: https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Downstream-Business--June-2027--Calgary-_R-410695
 source: simplify-new-grad
 listing_id: 7f683bef-bb29-4da3-b79a-26172c72ea13
-active: true
+active: false
 date_posted: '2026-07-24'
 date_updated: '2026-07-30'
 status: to-apply

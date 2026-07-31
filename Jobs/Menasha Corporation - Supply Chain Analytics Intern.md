@@ -10,7 +10,7 @@ terms:
 url: https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985
 source: simplify-internships
 listing_id: 720b84ca-84d8-43bc-9284-172ad2ed475f
-active: true
+active: false
 date_posted: '2026-07-29'
 date_updated: '2026-07-29'
 status: to-apply

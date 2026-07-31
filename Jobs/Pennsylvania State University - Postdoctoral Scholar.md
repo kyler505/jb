@@ -4,14 +4,14 @@ role: Postdoctoral Scholar
 category: new-grad
 discipline: other
 locations:
-- Erie, PA
+- State College, PA
 terms: []
-url: https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-Erie-The-Behrend-College/Postdoctoral-Scholar-Position---Autonomous-Polymer-Processing-and-Interface-Engineering_REQ_0000078902-1
+url: https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000079870-1
 source: simplify-new-grad
-listing_id: 62275a71-15f7-4a8f-93fe-2a0a10761aa4
-active: true
-date_posted: '2026-06-20'
-date_updated: '2026-07-29'
+listing_id: 10752806-09f5-4207-aff2-8cebfdd8845e
+active: false
+date_posted: '2026-07-16'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

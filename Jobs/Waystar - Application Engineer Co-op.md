@@ -4,15 +4,15 @@ role: Application Engineer Co-op
 category: internship
 discipline: other
 locations:
-- Atlanta, GA
+- Lehi, UT
 terms:
 - Fall 2026
-url: https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1
+url: https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Application-Engineer-Co-op_R3312-1
 source: simplify-internships
-listing_id: 0988d1cc-3a7b-4621-84fc-6367ac9218d9
+listing_id: bab2fd6e-2b42-4dc7-96b4-3d3de7a25c32
 active: true
-date_posted: '2026-07-27'
-date_updated: '2026-07-27'
+date_posted: '2026-07-30'
+date_updated: '2026-07-30'
 status: to-apply
 applied_date: null
 deadline: null

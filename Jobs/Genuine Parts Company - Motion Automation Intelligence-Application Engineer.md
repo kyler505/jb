@@ -4,14 +4,14 @@ role: Motion Automation Intelligence-Application Engineer
 category: new-grad
 discipline: other
 locations:
-- Eden Prairie, MN
+- Kirkland, WA
 terms: []
-url: https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000023122
+url: https://genpt.wd1.myworkdayjobs.com/Careers/job/Kirkland-WA-USA/Motion-Automation-Intelligence--Application-Engineer_R26_0000024336
 source: simplify-new-grad
-listing_id: c6795610-6066-4b50-a853-17506687c2a5
+listing_id: 20077851-2609-416e-843a-cad59e6e7059
 active: false
-date_posted: '2026-07-15'
-date_updated: '2026-07-15'
+date_posted: '2026-07-30'
+date_updated: '2026-07-30'
 status: to-apply
 applied_date: null
 deadline: null

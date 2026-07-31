@@ -4,17 +4,15 @@ role: Software Engineer Intern - Infrastructure
 category: internship
 discipline: devops
 locations:
-- NYC
+- London, UK
 terms:
-- Winter 2028
-- Spring 2028
-- Summer 2028
-url: https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply
+- Fall 2026
+url: https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply
 source: simplify-internships
-listing_id: 9f078de1-afbf-46ec-a41a-9ed1bd030aa0
+listing_id: 1db08df4-23e3-427d-b70e-dab6dd910782
 active: true
-date_posted: '2026-06-29'
-date_updated: '2026-06-29'
+date_posted: '2026-07-31'
+date_updated: '2026-07-31'
 status: to-apply
 applied_date: null
 deadline: null
