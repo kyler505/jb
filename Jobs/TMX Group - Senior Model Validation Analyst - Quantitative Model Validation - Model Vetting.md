@@ -10,7 +10,7 @@ terms: []
 url: https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Analyst--Quantitative-Model-Validation--Model-Vetting-_R-6075
 source: simplify-new-grad
 listing_id: 404b7677-fd67-450e-bde8-3ac27d5eb7bb
-active: true
+active: false
 date_posted: '2026-05-27'
 date_updated: '2026-05-27'
 status: to-apply

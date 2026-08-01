@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Fulton, MD
+- Cedar Rapids, IA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436
 source: simplify-new-grad
-listing_id: 472125a8-9314-47f2-9392-39ed62ab2b3c
-active: true
-date_posted: '2026-07-30'
-date_updated: '2026-07-30'
+listing_id: e3fe90a7-fe30-4b70-bbde-b5efda508664
+active: false
+date_posted: '2026-07-31'
+date_updated: '2026-07-31'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706
 source: simplify-internships
 listing_id: a4cdfbff-a13d-4e76-9f16-0ee63fbbdbbf
-active: true
+active: false
 date_posted: '2026-06-09'
 date_updated: '2026-06-09'
 status: to-apply

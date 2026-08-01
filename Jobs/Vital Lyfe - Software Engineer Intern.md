@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application
 source: simplify-internships
 listing_id: 1de12102-5f3b-4c75-83ce-02e4d9bb828d
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

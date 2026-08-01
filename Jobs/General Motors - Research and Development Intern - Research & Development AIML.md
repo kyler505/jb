@@ -11,7 +11,7 @@ terms:
 url: https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795
 source: simplify-internships
 listing_id: 9c4619b9-f695-4144-b0f7-42620ccfbc1e
-active: true
+active: false
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
 status: needs-review

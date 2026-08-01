@@ -11,7 +11,7 @@ terms: []
 url: https://jobs.ashbyhq.com/iambic-therapeutics/bccc58b8-6022-49d4-865b-931176a88b8e/application
 source: simplify-new-grad
 listing_id: 44204253-7c75-428c-a016-dd46d0bf229d
-active: true
+active: false
 date_posted: '2026-05-06'
 date_updated: '2026-05-26'
 status: to-apply

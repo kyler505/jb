@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Palm Bay, FL
+- Rochester, NY
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413851400/?ats=successfactors
+url: https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14606/1414649600/?ats=successfactors
 source: simplify-new-grad
-listing_id: 32dd134f-54fc-4603-b94b-3c7a181b034c
+listing_id: 20d1e34f-5637-4348-bd50-6e1e24d6a808
 active: true
-date_posted: '2026-07-29'
-date_updated: '2026-07-29'
+date_posted: '2026-07-31'
+date_updated: '2026-07-31'
 status: to-apply
 applied_date: null
 deadline: null

@@ -12,7 +12,7 @@ terms:
 url: https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-22278
 source: simplify-internships
 listing_id: 0a5cc3ca-c20a-4e09-b6ca-421c7d1a8a28
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-21'
 status: to-apply

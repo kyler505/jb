@@ -10,7 +10,7 @@ terms:
 url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-and-Tools-Developer-Intern--Fall-2026-_R028752
 source: simplify-internships
 listing_id: 7bf1dde2-5de6-4a6d-99bf-d149e1a36e58
-active: true
+active: false
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
 status: to-apply

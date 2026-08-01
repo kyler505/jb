@@ -10,7 +10,7 @@ terms:
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Industrial-and-Fuel-Supply-Optimization-Modeling-Analysis_R14426
 source: simplify-internships
 listing_id: 61874299-a120-43cc-930f-cca8990e152b
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-07-28'
 status: to-apply

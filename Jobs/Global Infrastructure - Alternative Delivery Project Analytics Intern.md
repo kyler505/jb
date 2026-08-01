@@ -10,7 +10,7 @@ terms:
 url: https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1
 source: simplify-internships
 listing_id: 7368949e-db4f-4508-883c-32dc7d83356c
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: needs-review

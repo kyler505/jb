@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Huntsville-Senior-Associate,-Data-Architect-AL-35806/1404558300/?ats=successfactors
 source: simplify-new-grad
 listing_id: 62612bc8-93cf-493c-8968-397f80cda1a1
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply

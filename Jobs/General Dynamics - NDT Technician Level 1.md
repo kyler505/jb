@@ -9,7 +9,7 @@ terms: []
 url: https://careers-gd-ots.icims.com/jobs/35751/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 2eb8ab4a-239c-4280-aaa3-59dca672ffde
-active: true
+active: false
 date_posted: '2026-05-28'
 date_updated: '2026-06-24'
 status: to-apply

@@ -12,14 +12,8 @@ listing_id: 28fc2b4c-cb26-407d-aba3-a8078f35185b
 active: true
 date_posted: '2026-07-01'
 date_updated: '2026-07-01'
-status: skipped
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 56.41
-apply_method: none
-apply_result: skipped
-resume_used: resume.pdf
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
-needs_review: false
 ---

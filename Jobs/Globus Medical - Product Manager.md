@@ -6,12 +6,12 @@ discipline: other
 locations:
 - King of Prussia, PA
 terms: []
-url: https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR104165
+url: https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR106319
 source: simplify-new-grad
-listing_id: 3ce5edd4-614e-43f5-902a-4dca9d73e4b3
-active: true
-date_posted: '2026-05-16'
-date_updated: '2026-07-21'
+listing_id: 9b137bce-428d-4766-833f-15595cdd2fdd
+active: false
+date_posted: '2026-03-31'
+date_updated: '2026-04-01'
 status: to-apply
 applied_date: null
 deadline: null

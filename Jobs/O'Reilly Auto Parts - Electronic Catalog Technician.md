@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Phoenix, AZ
 terms: []
-url: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Content-Technician---PHX_R114562
+url: https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician_R183177
 source: simplify-new-grad
-listing_id: 3b49a4cb-4d08-41fd-a399-b5f5ad98fd86
-active: true
-date_posted: '2026-06-13'
-date_updated: '2026-07-21'
+listing_id: 63a20165-295a-4be7-96f3-3d7652a32a3b
+active: false
+date_posted: '2026-05-30'
+date_updated: '2026-06-01'
 status: to-apply
 applied_date: null
 deadline: null

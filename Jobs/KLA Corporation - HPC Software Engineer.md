@@ -9,7 +9,7 @@ terms: []
 url: https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794
 source: simplify-new-grad
 listing_id: f3a9de98-82b9-40ff-be18-62ed750578c6
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-22'
 status: to-apply

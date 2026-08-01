@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/felicity/99ab4a4f-c219-42f9-9c1b-cf832634cd46/application?embed=true
 source: simplify-new-grad
 listing_id: 538e7991-2b20-4492-b418-e7ac75c0c8b9
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-23'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG200-Conversions-Diagnostic-Tech-II_J2449316
 source: simplify-new-grad
 listing_id: a35a6d14-aab8-49e7-a3de-60fa53a5df8d
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-21'
 status: to-apply

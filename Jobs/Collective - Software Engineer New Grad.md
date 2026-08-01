@@ -16,10 +16,10 @@ status: skipped
 applied_date: null
 deadline: null
 notes: null
-priority: 50.34
-apply_method: none
 apply_result: skipped
+apply_method: none
+needs_review: false
+priority: 50.34
 resume_used: resume.pdf
 apply_error: rate_limit_ashby
-needs_review: false
 ---

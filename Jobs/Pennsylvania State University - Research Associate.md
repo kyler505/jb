@@ -4,15 +4,15 @@ role: Research Associate
 category: internship
 discipline: other
 locations:
-- State College, PA
+- University Park, State College, PA
 terms:
 - N/A
-url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000058270-2
+url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000066751-1
 source: simplify-internships
-listing_id: 3603208b-f848-4599-8f67-abbe31a85cb8
-active: true
+listing_id: 81bbe61a-df86-4fa1-a950-419d7386fe0b
+active: false
 date_posted: '2026-07-02'
-date_updated: '2026-07-21'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

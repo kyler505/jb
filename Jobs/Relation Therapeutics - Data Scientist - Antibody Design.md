@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/relationrx/b5494e2f-b47d-4bd9-aeb8-964b9fdcadce/application
 source: simplify-new-grad
 listing_id: 3bb0ee0d-1d24-4042-83b7-92cda69686f5
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-04'
 status: to-apply

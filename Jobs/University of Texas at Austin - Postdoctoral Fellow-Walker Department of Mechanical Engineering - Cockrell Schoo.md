@@ -10,7 +10,7 @@ terms: []
 url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-Walker-Department-of-Mechancial-Engineering--Cockrell-School-of-Engineering_R_00045345
 source: simplify-new-grad
 listing_id: e19303e5-1dd5-489f-a2e1-b85888f74f79
-active: true
+active: false
 date_posted: '2026-04-06'
 date_updated: '2026-04-06'
 status: to-apply

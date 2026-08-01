@@ -16,7 +16,7 @@ terms:
 url: https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true
 source: simplify-internships
 listing_id: a6f02442-de0a-454f-a56f-8462c72d7c74
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

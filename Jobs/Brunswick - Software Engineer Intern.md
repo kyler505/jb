@@ -11,7 +11,7 @@ terms:
 url: https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991
 source: simplify-internships
 listing_id: 355b5e1d-f111-47b2-8e17-99593839fef6
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-07-29'
 status: to-apply

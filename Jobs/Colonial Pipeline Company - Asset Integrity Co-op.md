@@ -10,7 +10,7 @@ terms:
 url: https://colpipe.wd1.myworkdayjobs.com/Search/job/Alpharetta-GA/Asset-Integrity-Co-Op_R0001963
 source: simplify-internships
 listing_id: 70897beb-0715-463b-bd4d-9bbb36967a9b
-active: true
+active: false
 date_posted: '2026-06-20'
 date_updated: '2026-07-21'
 status: to-apply

@@ -11,19 +11,19 @@ terms:
 url: https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application
 source: simplify-internships
 listing_id: 39b0338f-985f-4dd5-8adf-290b1e4ca1de
-active: false
+active: true
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: skipped
 applied_date: null
 deadline: null
 notes: null
-needs_review: false
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
-apply_method: none
-resume_used: resume.pdf
 apply_result: skipped
+apply_method: none
+needs_review: false
 priority: 50.48
+resume_used: resume.pdf
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---
 
 ## Application 2026-06-16

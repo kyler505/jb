@@ -12,7 +12,7 @@ terms:
 url: https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484
 source: simplify-internships
 listing_id: 7df6766d-b43b-464c-a03e-68387c5ffb37
-active: true
+active: false
 date_posted: '2026-06-05'
 date_updated: '2026-06-05'
 status: to-apply

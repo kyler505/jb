@@ -12,7 +12,7 @@ terms:
 url: https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application
 source: simplify-internships
 listing_id: 458415d1-7c6f-417e-9299-30a80dcdf88b
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
 status: to-apply

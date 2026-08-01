@@ -9,7 +9,7 @@ terms: []
 url: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional--BFI_JR32644
 source: simplify-new-grad
 listing_id: dfacc0ec-9177-43dd-ac67-df11218705ac
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-21'
 status: to-apply

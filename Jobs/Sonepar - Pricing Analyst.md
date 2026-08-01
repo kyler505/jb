@@ -9,7 +9,7 @@ terms: []
 url: https://career.sonepar.com/job/Cranbury-Pricing-Analyst-Cranbury,-NJ-NJ-08512/1415974433/?ats=successfactors
 source: simplify-new-grad
 listing_id: 039fd35f-af9c-4847-ade8-ac3ea86c7bdb
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

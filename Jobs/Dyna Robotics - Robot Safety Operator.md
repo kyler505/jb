@@ -4,13 +4,13 @@ role: Robot Safety Operator
 category: new-grad
 discipline: other
 locations:
-- Bellevue, WA
+- San Diego, CA
 terms: []
-url: https://jobs.ashbyhq.com/dyna-robotics/07330a37-aa35-4825-9080-66b29256a2fb/application
+url: https://jobs.ashbyhq.com/dyna-robotics/179713ee-3f63-4904-8260-13a94dbe178a/application
 source: simplify-new-grad
-listing_id: 2b70eb5b-5b8d-4ff2-bd17-7885e217e855
-active: true
-date_posted: '2026-06-19'
+listing_id: a5a621ed-b394-49ec-adfa-ff0478038d0b
+active: false
+date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply
 applied_date: null

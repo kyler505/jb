@@ -9,7 +9,7 @@ terms: []
 url: https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1
 source: simplify-new-grad
 listing_id: 3f3751fd-e6ea-4409-8cb6-fb0ad3dcc409
-active: true
+active: false
 date_posted: '2026-05-16'
 date_updated: '2026-05-16'
 status: to-apply

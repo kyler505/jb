@@ -10,7 +10,7 @@ terms: []
 url: https://qualcomm.eightfold.ai/careers/job/446715939731
 source: simplify-new-grad
 listing_id: 91387a3c-cb9a-4442-904b-ae76cac858ab
-active: true
+active: false
 date_posted: '2025-12-19'
 date_updated: '2025-12-19'
 status: to-apply

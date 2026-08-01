@@ -4,14 +4,16 @@ role: Associate Installation Technician
 category: new-grad
 discipline: other
 locations:
-- Denver, CO
+- Rochester, MN
+- Minneapolis, MN
+- St Paul, MN
 terms: []
-url: https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Denver-Colorado/Associate-Installation-Technician---Denver--CO_R566620
+url: https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Minnesota-Minneapolis-Virtual-Address/Associate-Installation-Technician---Minneapolis--MN_R564901
 source: simplify-new-grad
-listing_id: 46c17d90-19bd-4d4e-9eff-12b0ce7ca75b
+listing_id: f11c624d-a906-4dc2-8519-3741cbf77278
 active: true
-date_posted: '2026-06-16'
-date_updated: '2026-07-21'
+date_posted: '2026-07-09'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

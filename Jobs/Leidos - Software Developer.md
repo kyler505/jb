@@ -4,15 +4,14 @@ role: Software Developer
 category: new-grad
 discipline: swe
 locations:
-- Eagan, MN
-- Gaithersburg, MD
+- St. Louis, MO
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Software-Developer_R-00185862-1
+url: https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494
 source: simplify-new-grad
-listing_id: 1d4ccaec-ea2e-4ca6-8715-9278732e08b4
+listing_id: 8c2d8b3a-a4af-4b81-bb1a-427981e07d6d
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-26'
+date_posted: '2026-07-31'
+date_updated: '2026-07-31'
 status: to-apply
 applied_date: null
 deadline: null
