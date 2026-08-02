@@ -10,7 +10,7 @@ terms:
 url: https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Data-Management_JR223363
 source: simplify-internships
 listing_id: 94928190-a01b-4ff0-8068-4fad65af019c
-active: false
+active: true
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

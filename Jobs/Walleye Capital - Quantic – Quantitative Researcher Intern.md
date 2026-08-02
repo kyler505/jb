@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006
 source: simplify-internships
 listing_id: cef3f7ab-adae-4d4b-88d9-eafc26e3e8f9
-active: true
+active: false
 date_posted: '2026-06-10'
 date_updated: '2026-06-10'
 status: to-apply

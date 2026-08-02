@@ -10,7 +10,7 @@ terms:
 url: https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075
 source: simplify-internships
 listing_id: b87fb0cc-a6b4-405f-8642-7485bd8fffee
-active: false
+active: true
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

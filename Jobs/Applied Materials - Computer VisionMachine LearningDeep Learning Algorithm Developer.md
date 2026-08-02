@@ -6,11 +6,11 @@ discipline: ml
 locations:
 - Santa Clara, CA
 terms: []
-url: https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906
+url: https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2622877-1
 source: simplify-new-grad
-listing_id: 1dcc863f-1171-49ac-a22d-a2261e9a29fa
+listing_id: fef6766c-bb0d-443d-a167-9d1ebfd1a98f
 active: true
-date_posted: '2026-07-02'
+date_posted: '2026-07-06'
 date_updated: '2026-08-01'
 status: to-apply
 applied_date: null

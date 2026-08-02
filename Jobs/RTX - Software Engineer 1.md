@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Cedar Rapids, IA
+- Binghamton, NY
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373
 source: simplify-new-grad
-listing_id: e3fe90a7-fe30-4b70-bbde-b5efda508664
-active: false
-date_posted: '2026-07-31'
-date_updated: '2026-07-31'
+listing_id: 513036c6-8bdd-44bf-8c57-e5d73bf66998
+active: true
+date_posted: '2026-07-28'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

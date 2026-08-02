@@ -16,7 +16,7 @@ terms: []
 url: https://mtb.wd5.myworkdayjobs.com/wtexternal/job/Buffalo-NY/Credit-Model-Development-Quantitative-Analyst-I--HELOC----Residential-Mortgage--Hybrid---see-description-for-potential-locations-_R87946
 source: simplify-new-grad
 listing_id: 5d4cc259-cb36-4d0d-8e53-f98aed63db86
-active: true
+active: false
 date_posted: '2026-07-15'
 date_updated: '2026-07-16'
 status: to-apply

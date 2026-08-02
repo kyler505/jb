@@ -10,7 +10,7 @@ terms:
 url: https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Tampa/Automotive-ADAS-Calibration-Technician-Apprentice_R0217941
 source: simplify-internships
 listing_id: dd115846-414f-4a92-b7d1-b2079912aecb
-active: false
+active: true
 date_posted: '2026-07-04'
 date_updated: '2026-08-01'
 status: to-apply

@@ -4,14 +4,14 @@ role: Field Service Technician - Field Service
 category: new-grad
 discipline: other
 locations:
-- Pensacola, FL
+- Austin, TX
 terms: []
-url: https://careers-sysmex.icims.com/jobs/4724/job?mobile=true&needsRedirect=false
+url: https://careers-sysmex.icims.com/jobs/4756/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: d8b4a6a3-fb4b-48bb-b359-4fb40392d289
+listing_id: ae0af4da-2dcd-4ee5-8cca-8559b5a9c965
 active: false
-date_posted: '2026-07-08'
-date_updated: '2026-07-15'
+date_posted: '2026-07-23'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

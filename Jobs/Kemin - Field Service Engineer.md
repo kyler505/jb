@@ -9,7 +9,7 @@ terms: []
 url: https://careers-kemin.icims.com/jobs/12130/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 1d131926-4996-4c18-8d7a-d58a366d10ed
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

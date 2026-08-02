@@ -9,7 +9,7 @@ terms: []
 url: https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Raleigh-NC/NC-Referrals---Data-Coordinator-Associate--Part-Time-_JR14463
 source: simplify-new-grad
 listing_id: d7bfc632-f8e1-47db-a664-90b1bdad433e
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

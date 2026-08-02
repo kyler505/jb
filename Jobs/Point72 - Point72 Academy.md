@@ -13,7 +13,7 @@ terms:
 url: https://boards.greenhouse.io/point72/jobs/8499113002
 source: simplify-internships
 listing_id: 98eccffc-52b7-4e0c-8582-c067be4b121d
-active: true
+active: false
 date_posted: '2026-04-09'
 date_updated: '2026-04-09'
 status: to-apply

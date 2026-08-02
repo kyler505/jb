@@ -6,13 +6,13 @@ discipline: other
 locations:
 - San Jose, CA
 terms:
-- Summer 2026
-url: https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/SSG-Design-Engineering-Intern--Summer-2026_R52641
+- Fall 2026
+url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641
 source: simplify-internships
-listing_id: f3715da4-8208-47e0-9831-b46b285d0241
-active: false
-date_posted: '2026-02-27'
-date_updated: '2026-02-27'
+listing_id: 76d86da2-fb0a-4db1-8359-537c158d74a4
+active: true
+date_posted: '2026-07-16'
+date_updated: '2026-07-17'
 status: to-apply
 applied_date: null
 deadline: null

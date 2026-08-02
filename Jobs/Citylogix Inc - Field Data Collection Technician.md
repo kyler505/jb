@@ -17,7 +17,7 @@ terms:
 url: https://ats.rippling.com/citylogix/jobs/6e9e5f30-7699-402f-9979-1fe75671f0ec
 source: simplify-internships
 listing_id: 15163d00-cb37-433c-86b3-3f93d179b8d1
-active: false
+active: true
 date_posted: '2026-07-29'
 date_updated: '2026-07-31'
 status: to-apply

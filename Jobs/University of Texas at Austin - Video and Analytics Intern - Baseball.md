@@ -13,7 +13,7 @@ terms:
 url: https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706
 source: simplify-internships
 listing_id: b8b0e684-6f34-44c2-ab88-4abfe4a5ff53
-active: false
+active: true
 date_posted: '2026-07-30'
 date_updated: '2026-07-30'
 status: to-apply

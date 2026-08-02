@@ -9,7 +9,7 @@ terms: []
 url: https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Tech-C--Electronics-Assembly---Semiconductors-_JR001666
 source: simplify-new-grad
 listing_id: 40a60cdf-4ff5-4bab-8464-30f255741b16
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

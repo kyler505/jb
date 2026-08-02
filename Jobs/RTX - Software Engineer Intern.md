@@ -10,7 +10,7 @@ terms:
 url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012
 source: simplify-internships
 listing_id: c3d4ae08-ce75-4327-94cf-38da2d5cbae0
-active: false
+active: true
 date_posted: '2026-07-30'
 date_updated: '2026-07-30'
 status: to-apply

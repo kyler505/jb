@@ -9,7 +9,7 @@ terms: []
 url: https://external-canoncareers.icims.com/jobs/34631/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 960018c2-ac2e-4a9a-a6e9-567979e0f625
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

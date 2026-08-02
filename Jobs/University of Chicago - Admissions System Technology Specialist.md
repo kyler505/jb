@@ -9,7 +9,7 @@ terms: []
 url: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Admissions-System-Technology-Specialist_JR34520
 source: simplify-new-grad
 listing_id: 63690151-1a30-4480-89d0-d1af29e3ec5e
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

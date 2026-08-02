@@ -1,18 +1,17 @@
 ---
 company: Kanshe Infotech
-role: Dot Net Developer
-category: internship
+role: Dot Net Developer Training
+category: new-grad
 discipline: swe
 locations:
 - Houston, TX
-terms:
-- N/A
+terms: []
 url: https://jobs.smartrecruiters.com/Learnkwikcom/743999660833307
-source: simplify-internships
+source: simplify-new-grad
 listing_id: deed4f00-40b1-4e15-a318-5e848adf52e6
 active: true
 date_posted: '2026-02-24'
-date_updated: '2026-04-01'
+date_updated: '2026-02-24'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/AtriaGroupLLC/87567936
 source: simplify-internships
 listing_id: c51e0bc2-6541-41bf-8619-6f14d7059d0e
-active: true
+active: false
 date_posted: '2026-02-19'
 date_updated: '2026-03-31'
 status: to-apply

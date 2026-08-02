@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/numerixs-quant/ae69634e-327b-4708-ae73-07fc812ab72b/application?embed=true
 source: simplify-new-grad
 listing_id: ef055bfb-25be-4266-9961-0b9b7e24bb02
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

@@ -1,18 +1,17 @@
 ---
 company: Terranova
 role: Drop Out Engineer
-category: internship
+category: new-grad
 discipline: other
 locations:
 - Berkeley, CA
-terms:
-- N/A
+terms: []
 url: https://jobs.ashbyhq.com/terranova/578d418d-42f8-404a-9b82-a5cbd67086d8/application?embed=true
-source: simplify-internships
+source: simplify-new-grad
 listing_id: 4ce5b5f7-d03d-487f-aa5c-b9786a42a4b2
-active: false
+active: true
 date_posted: '2026-07-21'
-date_updated: '2026-07-21'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

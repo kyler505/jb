@@ -10,7 +10,7 @@ terms: []
 url: https://jobs.ashbyhq.com/castle/932f2d90-0233-4f8c-9ca6-5bf63b88d6cd/application?embed=true
 source: simplify-new-grad
 listing_id: 49359bde-573c-4530-af6e-e13563e1ff13
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

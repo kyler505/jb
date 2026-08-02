@@ -10,7 +10,7 @@ terms:
 url: https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Fullstack-Web-Development-Peer-Tutor_JR2051
 source: simplify-internships
 listing_id: 4d6d9d8d-ef9c-4af6-98d5-d441afd6ea36
-active: false
+active: true
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

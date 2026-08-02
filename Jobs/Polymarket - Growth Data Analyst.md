@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/polymarket/fc6fa07f-b39c-4916-b54e-1adca738c1be/application
 source: simplify-new-grad
 listing_id: 3187d7f5-bee5-440f-9e37-6a4fa018e014
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

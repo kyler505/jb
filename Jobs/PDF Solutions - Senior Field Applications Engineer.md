@@ -4,14 +4,14 @@ role: Senior Field Applications Engineer
 category: new-grad
 discipline: other
 locations:
-- Salt Lake City, UT
+- Santa Clara, CA
 terms: []
-url: https://careers.pdf.com/jobs/1603?icims=1
+url: https://careers.pdf.com/jobs/1601?icims=1
 source: simplify-new-grad
-listing_id: d0762e79-974b-4b1c-b274-910cdf79570e
+listing_id: bd8f34d5-610e-45ec-82e7-ba644e0ee6d3
 active: false
-date_posted: '2026-07-09'
-date_updated: '2026-07-09'
+date_posted: '2026-06-29'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

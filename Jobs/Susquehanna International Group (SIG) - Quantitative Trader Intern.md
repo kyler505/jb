@@ -4,13 +4,13 @@ role: Quantitative Trader Intern
 category: internship
 discipline: other
 locations:
-- NYC
+- Chicago, IL
 terms:
 - Summer 2027
-url: https://careers-sig.icims.com/jobs/10718/job?mobile=true&needsRedirect=false
+url: https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 3cb15cd2-4921-403c-adee-e05fb84c6dda
-active: false
+listing_id: e367e6e4-6527-42b7-b13f-3c7f8acb1a20
+active: true
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply

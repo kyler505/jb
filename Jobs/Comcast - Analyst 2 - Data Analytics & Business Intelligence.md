@@ -20,7 +20,7 @@ terms: []
 url: https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Analyst-2--Data-Analytics---Business-Intelligence_R441901
 source: simplify-new-grad
 listing_id: a6eb27af-53a9-4bd4-8d7d-0e5686067044
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

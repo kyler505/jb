@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/StemXpert1/77580792
 source: simplify-internships
 listing_id: 08d690e6-7adf-4b03-8777-af061b925183
-active: true
+active: false
 date_posted: '2026-06-22'
 date_updated: '2026-06-22'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://kemper.wd5.myworkdayjobs.com/kemper_careers/job/Chicago-Illinois/Associate--Audit-Data-Analyst_R-26-0036275
 source: simplify-new-grad
 listing_id: a81d28a3-0f2b-4a18-b4aa-6ad1b1709423
-active: true
+active: false
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Huntsville, AL
+- Annapolis Junction, MD
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00188155
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603
 source: simplify-new-grad
-listing_id: 7bcafcc7-31cf-41d4-87f2-24cd9a2c4cd1
-active: true
-date_posted: '2026-07-29'
-date_updated: '2026-07-31'
+listing_id: c6b88cdf-a082-4483-829d-77d3e106239b
+active: false
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

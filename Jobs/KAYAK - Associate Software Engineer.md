@@ -4,13 +4,12 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Cambridge, MA
 - Concord, MA
 terms: []
-url: https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320/application?embed=true
+url: https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application?embed=true
 source: simplify-new-grad
-listing_id: 393dc727-3264-4ec8-a08c-8633b621b07f
-active: true
+listing_id: 329c34b0-2085-4389-8916-e5acd0bdb164
+active: false
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

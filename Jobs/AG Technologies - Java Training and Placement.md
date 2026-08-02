@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/AGTechnologies1/102308948
 source: simplify-internships
 listing_id: b18b3506-e44a-480b-9aeb-b7a747708038
-active: true
+active: false
 date_posted: '2026-06-23'
 date_updated: '2026-06-23'
 status: to-apply

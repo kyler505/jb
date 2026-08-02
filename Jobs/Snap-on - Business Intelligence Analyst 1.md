@@ -9,7 +9,7 @@ terms: []
 url: https://careers-snapon.icims.com/jobs/20352/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 745ef745-c946-4316-91a9-4a7b24c96322
-active: true
+active: false
 date_posted: '2026-06-24'
 date_updated: '2026-06-24'
 status: skipped

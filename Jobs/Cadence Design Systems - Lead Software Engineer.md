@@ -4,17 +4,16 @@ role: Lead Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- San Jose, CA
+- Nottingham, UK
 terms: []
-url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Lead-Software-Engineer_R54030
+url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOTTINGHAM-01/Lead-Software-Engineer_R55693
 source: simplify-new-grad
-listing_id: f4c09f3f-0aa5-49d0-8832-6a26a6a5e3a0
+listing_id: bca00f4e-520f-441e-9b5f-7db6b083fd3a
 active: true
-date_posted: '2026-07-04'
-date_updated: '2026-07-21'
+date_posted: '2026-07-28'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 51.04
 ---

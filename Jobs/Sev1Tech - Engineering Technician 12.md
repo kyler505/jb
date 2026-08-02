@@ -9,7 +9,7 @@ terms: []
 url: https://careers-sev1tech.icims.com/jobs/9520/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 008560fd-17a6-4700-89cd-a750b96ec209
-active: false
+active: true
 date_posted: '2026-05-28'
 date_updated: '2026-06-24'
 status: to-apply

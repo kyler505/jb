@@ -9,7 +9,7 @@ terms: []
 url: https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-City---440-NE-39th-Street/Criminal-Intelligence-Analyst-I_JR63103
 source: simplify-new-grad
 listing_id: 05f7beda-a7c4-414a-ba8f-f153cb86d576
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-07-28'
 status: to-apply

@@ -7,12 +7,12 @@ locations:
 - SF
 terms:
 - Fall 2026
-url: https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application
+url: https://jobs.ashbyhq.com/Gumloop/dcdc0658-b3fd-44cd-b0cf-4016c9513d40/application?embed=true
 source: simplify-internships
-listing_id: 0e4a6769-a2f0-44f5-9fdb-0857121fd22c
+listing_id: ccd36192-6d5e-4378-901a-27d267a0c497
 active: false
-date_posted: '2026-07-01'
-date_updated: '2026-07-01'
+date_posted: '2026-07-16'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/archy/5eb1c3cd-1031-4699-b89c-9bd94f15783b/application?embed=true
 source: simplify-new-grad
 listing_id: ccec55af-3020-4ce4-9a46-d24c1dff05aa
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

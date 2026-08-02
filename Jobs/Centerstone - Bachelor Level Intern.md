@@ -4,15 +4,19 @@ role: Bachelor Level Intern
 category: internship
 discipline: other
 locations:
-- Ellenton, FL
+- Richmond, IN
+- Greenwood, IN
+- Jeffersonville, IN
+- Bloomington, IN
+- Seymour, IN
 terms:
 - Fall 2026
-url: https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1
+url: https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bloomington-Indiana/Bachelor-Level-Intern-Late-Fall-Semester_JR-032217
 source: simplify-internships
-listing_id: fec42271-5a2c-43cd-8fc9-d3ab4140f87c
+listing_id: a5424485-a1a0-4ab2-adaa-286ac3620977
 active: false
-date_posted: '2026-07-15'
-date_updated: '2026-07-18'
+date_posted: '2026-07-08'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000066751-1
 source: simplify-internships
 listing_id: 81bbe61a-df86-4fa1-a950-419d7386fe0b
-active: false
+active: true
 date_posted: '2026-07-02'
 date_updated: '2026-08-01'
 status: to-apply
