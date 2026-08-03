@@ -9,7 +9,7 @@ terms: []
 url: https://foxconnqedge.applytojob.com/apply/iqFWFEXNBM/Repair-EngineerA-Group-MLBRSHoustonTX
 source: simplify-new-grad
 listing_id: d5114ad9-743e-4d62-aef8-c75f86a0dea4
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://careers.rivian.com/jobs/29851?icims=1
 source: simplify-internships
 listing_id: 3d06c27f-be5d-4769-a58b-6bf05b60a50a
-active: false
+active: true
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

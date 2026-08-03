@@ -4,15 +4,15 @@ role: Machine Learning Engineer
 category: internship
 discipline: ml
 locations:
-- NYC
+- London, UK
 terms:
 - N/A
-url: https://job-boards.greenhouse.io/janestreet/jobs/8611307002
+url: https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002
 source: simplify-internships
-listing_id: 7a155542-8f46-4f7b-8366-966fcea9c221
+listing_id: b947f29d-d045-476f-8e18-ffab71e754ee
 active: true
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_posted: '2026-08-03'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null

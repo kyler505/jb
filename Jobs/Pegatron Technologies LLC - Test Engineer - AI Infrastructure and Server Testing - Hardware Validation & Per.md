@@ -10,7 +10,7 @@ terms: []
 url: https://pegatrontechnologiesllc.applytojob.com/apply/PGNGTgapVq/Test-Engineer
 source: simplify-new-grad
 listing_id: 42adbeae-5304-418d-aa90-6022836e2020
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

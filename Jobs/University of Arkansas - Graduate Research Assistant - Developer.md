@@ -1,17 +1,18 @@
 ---
 company: University of Arkansas
-role: Graduate Research Assistant - Developer
-category: new-grad
-discipline: swe
+role: Graduate Research Assistant Intern
+category: internship
+discipline: other
 locations:
 - Little Rock, AR
-terms: []
+terms:
+- N/A
 url: https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891
-source: simplify-new-grad
+source: simplify-internships
 listing_id: e4f4a19a-0777-4687-9441-b8f377f86167
 active: true
-date_posted: '2026-03-18'
-date_updated: '2026-03-18'
+date_posted: '2026-04-18'
+date_updated: '2026-04-18'
 status: to-apply
 applied_date: null
 deadline: null

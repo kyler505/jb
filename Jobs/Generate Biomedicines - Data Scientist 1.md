@@ -9,7 +9,7 @@ terms: []
 url: https://generatebiomedicines.com/open-positions?gh_jid=4695495006
 source: simplify-new-grad
 listing_id: 48db66c5-5cf5-4f7c-9816-77d541c8d745
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

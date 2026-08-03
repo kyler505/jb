@@ -4,17 +4,16 @@ role: Machine Learning Engineer Graduate
 category: new-grad
 discipline: ml
 locations:
-- Seattle, WA
+- San Jose, CA
 terms: []
-url: https://lifeattiktok.com/search/7534641634584185095
+url: https://lifeattiktok.com/search/7667346543553710389
 source: simplify-new-grad
-listing_id: f6f93c70-242c-4186-a7d2-07dd6a45694b
-active: true
-date_posted: '2026-04-15'
-date_updated: '2026-04-15'
+listing_id: 7e9606aa-9929-4fef-ac09-5b2a857dca9c
+active: false
+date_posted: '2026-08-03'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 40.5
 ---

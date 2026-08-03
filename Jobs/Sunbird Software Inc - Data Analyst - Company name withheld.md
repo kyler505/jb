@@ -9,7 +9,7 @@ terms: []
 url: https://sunbirdsoftwareinc.applytojob.com/apply/bdVFysDrJp/Data-Analyst
 source: simplify-new-grad
 listing_id: afadaeca-5d47-4d28-9457-a2ede4c333d9
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

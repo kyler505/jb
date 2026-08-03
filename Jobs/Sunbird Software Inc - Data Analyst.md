@@ -9,7 +9,7 @@ terms: []
 url: https://sunbirdsoftwareinc.applytojob.com/apply/2lbEU8vwlb/DCIM-Data-Analyst
 source: simplify-new-grad
 listing_id: 19801474-82c2-4250-9502-3c2a38069ae9
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

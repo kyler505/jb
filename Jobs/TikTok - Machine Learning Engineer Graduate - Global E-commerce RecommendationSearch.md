@@ -6,10 +6,10 @@ discipline: ml
 locations:
 - Seattle, WA
 terms: []
-url: https://lifeattiktok.com/search/7550436166929025298
+url: https://lifeattiktok.com/search/7550790814831511815
 source: simplify-new-grad
-listing_id: 4b887fe0-6185-4f7c-b9a8-be7db867b577
-active: true
+listing_id: b474b399-bc4e-4fed-a690-7c62e696ab51
+active: false
 date_posted: '2026-04-01'
 date_updated: '2026-04-01'
 status: to-apply

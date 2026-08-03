@@ -6,13 +6,13 @@ discipline: frontend
 locations:
 - San Jose, CA
 terms:
-- Summer 2026
-url: https://lifeattiktok.com/search/7595306554946193717
+- Summer 2027
+url: https://lifeattiktok.com/search/7668584161852229893
 source: simplify-internships
-listing_id: 83c3132a-5b70-4dc2-84ee-d9cbdf95535b
+listing_id: 21843187-b30d-4873-8247-27a9a3d7b05d
 active: false
-date_posted: '2026-01-15'
-date_updated: '2026-01-15'
+date_posted: '2026-08-03'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/lilasciences/jobs/4280809009
 source: simplify-internships
 listing_id: fb0ceea6-ceca-4077-a4d8-a6446bce7359
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

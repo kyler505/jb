@@ -4,17 +4,16 @@ role: Application Engineer
 category: new-grad
 discipline: other
 locations:
-- Apex, NC
+- Piedmont, SC
 terms: []
-url: https://career.sonepar.com/job/Apex-Application-Engineer-NC-27523/1393071133/?ats=successfactors
+url: https://career.sonepar.com/job/Piedmont-Application-Engineer-South-Carolina-SC-29673/1422243233/?ats=successfactors
 source: simplify-new-grad
-listing_id: 94197a0d-dc80-4617-af1c-325aea08f93c
+listing_id: 2f1a728f-9520-4c4d-aaac-f75f9751159e
 active: true
-date_posted: '2026-05-12'
-date_updated: '2026-05-13'
+date_posted: '2026-08-03'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 22.1
 ---

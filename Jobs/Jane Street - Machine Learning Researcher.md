@@ -4,15 +4,15 @@ role: Machine Learning Researcher
 category: internship
 discipline: ml
 locations:
-- NYC
+- London, UK
 terms:
 - N/A
-url: https://job-boards.greenhouse.io/janestreet/jobs/8384490002
+url: https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002
 source: simplify-internships
-listing_id: 24534a41-4bd7-4c4d-9ae9-8eb9bbc7c79c
+listing_id: 6491aa79-4030-43bf-9522-9f00fafdfe61
 active: true
-date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_posted: '2026-08-03'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null

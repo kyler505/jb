@@ -4,14 +4,14 @@ role: Field Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Madison, WI
+- Central Illinois, IL
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Central-IL_R4043624-2
 source: simplify-new-grad
-listing_id: 211d5160-dd5b-403d-aa71-3b6dd6378ee9
-active: false
-date_posted: '2026-07-09'
-date_updated: '2026-07-11'
+listing_id: 55995442-1a15-417c-831c-3d825179076e
+active: true
+date_posted: '2026-07-29'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null

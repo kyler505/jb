@@ -9,8 +9,8 @@ terms:
 - Summer 2026
 url: https://k1im.applytojob.com/apply/ISSTIdON0L/AI-Automation-Intern
 source: simplify-internships
-listing_id: 871ea091-c41d-4cff-88d4-49f6877d63e5
-active: true
+listing_id: bead841e-a62e-4398-b92e-600ec3c544c4
+active: false
 date_posted: '2026-03-17'
 date_updated: '2026-03-17'
 status: to-apply

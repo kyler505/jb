@@ -9,7 +9,7 @@ terms: []
 url: https://wgnstar.applytojob.com/apply/FLPgC6bOxN/Field-Service-Engineer-Semiconductor-Equipment
 source: simplify-new-grad
 listing_id: f18cead9-70a4-42c4-91bf-39c16dd5b1e2
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://jobs.bytedance.com/en/position/7537117266451171592/detail
 source: simplify-internships
 listing_id: 45f439c5-48ee-4f58-a636-14a5e0912e61
-active: true
+active: false
 date_posted: '2026-06-03'
 date_updated: '2026-06-03'
 status: to-apply

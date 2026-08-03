@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Palm Bay, FL
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors
+url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1415121000/?ats=successfactors
 source: simplify-new-grad
-listing_id: dc6217c1-230d-4b6d-9ec6-781741754f2e
+listing_id: 32454ba7-65f7-4f9e-bf73-84e8b10d5a50
 active: true
-date_posted: '2026-07-31'
-date_updated: '2026-07-31'
+date_posted: '2026-08-03'
+date_updated: '2026-08-03'
 status: to-apply
 applied_date: null
 deadline: null
