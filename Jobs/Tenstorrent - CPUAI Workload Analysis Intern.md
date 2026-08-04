@@ -12,7 +12,7 @@ terms:
 url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5158533007
 source: simplify-internships
 listing_id: bae76804-1a22-4d43-ac03-fccd623fdcfc
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: to-apply

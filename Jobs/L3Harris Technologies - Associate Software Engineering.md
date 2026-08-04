@@ -4,14 +4,14 @@ role: Associate Software Engineering
 category: new-grad
 discipline: swe
 locations:
-- Chantilly, VA
+- Greenville, TX
 terms: []
-url: https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415119000/?ats=successfactors
+url: https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1415619600/?ats=successfactors
 source: simplify-new-grad
-listing_id: 3ca79f3e-a9c5-4b1f-82b5-1d1b001d5a97
-active: false
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+listing_id: 6a410535-064c-49e0-9a44-bdda2a7c3a4b
+active: true
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

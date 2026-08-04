@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/HireVue/744000138728139
 source: simplify-internships
 listing_id: 7e3b0f18-833c-47d0-b356-5fbe36e7154d
-active: true
+active: false
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Seattle, WA
+- San Jose, CA
 terms:
 - Summer 2027
-url: https://lifeattiktok.com/search/7668582086899763461
+url: https://lifeattiktok.com/search/7669712589169117445
 source: simplify-internships
-listing_id: 53a8204a-f36a-48a4-acc6-87134c891a73
+listing_id: 722bb14f-670f-48c9-8320-e07db2eff930
 active: true
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

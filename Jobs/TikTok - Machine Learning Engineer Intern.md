@@ -7,12 +7,12 @@ locations:
 - San Jose, CA
 terms:
 - Summer 2027
-url: https://lifeattiktok.com/search/7667346576033777925
+url: https://lifeattiktok.com/search/7668379675467761925
 source: simplify-internships
-listing_id: 9b049391-06b9-426f-8b33-6c1b1de9fca8
+listing_id: 6f9b09ce-ac3f-47ef-9225-03bace1084c7
 active: true
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

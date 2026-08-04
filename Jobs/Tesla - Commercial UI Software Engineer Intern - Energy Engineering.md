@@ -17,13 +17,13 @@ status: skipped
 applied_date: null
 deadline: null
 notes: null
-priority: 50.76
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 confirmation: null
-apply_method: none
-needs_review: false
-resume_used: resume
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 apply_result: skipped
+apply_method: none
+resume_used: resume
+needs_review: false
+priority: 50.76
 ---
 
 ## Application 2026-06-16

@@ -1,17 +1,18 @@
 ---
 company: University of Arkansas
 role: Extra Help Assistant
-category: new-grad
+category: internship
 discipline: other
 locations:
-- Little Rock, AR
-terms: []
-url: https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Extra-Help-Assistant_R0070987
-source: simplify-new-grad
-listing_id: eda47db0-ef47-4b5a-ad10-0e9da2769dca
+- Pine Bluff, AR
+terms:
+- N/A
+url: https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-Assistant_R0065563
+source: simplify-internships
+listing_id: 46135c75-025d-4cac-8bc6-7d2aadb170eb
 active: false
-date_posted: '2026-07-04'
-date_updated: '2026-07-31'
+date_posted: '2026-05-16'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

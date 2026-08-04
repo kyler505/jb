@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Cedar Rapids, IA
+- Fullerton, CA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436-1
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064
 source: simplify-new-grad
-listing_id: f1356194-1bac-47d2-b01d-ab7af5d81ef0
+listing_id: 24d89841-c8be-4eea-95fb-98701ee651a1
 active: true
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

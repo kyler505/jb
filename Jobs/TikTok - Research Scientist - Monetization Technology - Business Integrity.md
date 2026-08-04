@@ -6,12 +6,12 @@ discipline: other
 locations:
 - San Jose, CA
 terms: []
-url: https://lifeattiktok.com/search/7667770207780194613
+url: https://lifeattiktok.com/search/7667766028122048773
 source: simplify-new-grad
-listing_id: ca05adf8-dbe1-4919-a408-6992779b1c0a
+listing_id: fad00272-a1d3-4885-bcfb-53f41c9c8f7b
 active: true
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

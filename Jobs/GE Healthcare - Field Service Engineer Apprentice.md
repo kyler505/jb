@@ -10,7 +10,7 @@ terms:
 url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1
 source: simplify-internships
 listing_id: ca122686-92d2-4b2b-8273-a546c5c21a01
-active: false
+active: true
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

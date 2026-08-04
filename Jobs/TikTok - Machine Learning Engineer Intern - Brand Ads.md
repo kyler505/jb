@@ -6,13 +6,13 @@ discipline: ml
 locations:
 - San Jose, CA
 terms:
-- Fall 2026
-url: https://lifeattiktok.com/search/7600578929549035829
+- Summer 2027
+url: https://lifeattiktok.com/search/7668654528822954245
 source: simplify-internships
-listing_id: c25a5882-1fd2-473e-b5cd-f38c9238730f
+listing_id: 6dabe551-58cb-4dd5-9ba4-5656067dd84a
 active: false
-date_posted: '2026-05-22'
-date_updated: '2026-05-22'
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

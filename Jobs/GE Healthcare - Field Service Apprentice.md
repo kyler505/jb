@@ -4,15 +4,18 @@ role: Field Service Apprentice
 category: internship
 discipline: other
 locations:
-- Montreal, QC, Canada
+- Minneapolis, MN
 terms:
-- Summer 2026
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1
+- Winter 2025
+- Spring 2025
+- Summer 2025
+- Fall 2025
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Apprentice_R4043000-1
 source: simplify-internships
-listing_id: 009aa0e5-f1fe-461e-a657-02ba62af5a90
-active: false
-date_posted: '2026-06-23'
-date_updated: '2026-06-23'
+listing_id: 037d7693-e6be-486d-b4bd-d7dff6960ce4
+active: true
+date_posted: '2026-07-08'
+date_updated: '2026-07-09'
 status: to-apply
 applied_date: null
 deadline: null

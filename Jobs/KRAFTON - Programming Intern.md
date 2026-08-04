@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002
 source: simplify-internships
 listing_id: 7445221a-4683-4040-9ebb-25e29d31c57f
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply

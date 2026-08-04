@@ -14,7 +14,7 @@ terms: []
 url: https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006526
 source: simplify-new-grad
 listing_id: ea6951b3-9b64-427e-81bc-8e94883ebf31
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: to-apply
