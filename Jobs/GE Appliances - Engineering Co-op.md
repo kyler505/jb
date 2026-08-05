@@ -4,15 +4,15 @@ role: Engineering Co-op
 category: internship
 discipline: other
 locations:
-- Calhoun, GA
+- LaFayette, GA
 terms:
-- Fall 2026
-url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2026_REQ-23567
+- Summer 2027
+url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2027_REQ-26431
 source: simplify-internships
-listing_id: b1a50830-e5ae-4f43-a69b-471c3c58ea97
+listing_id: ea40b09a-1b9a-48b0-8330-24a499d63fe8
 active: false
-date_posted: '2026-07-10'
-date_updated: '2026-07-22'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

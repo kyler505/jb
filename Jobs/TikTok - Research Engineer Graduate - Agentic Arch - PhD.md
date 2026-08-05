@@ -4,14 +4,14 @@ role: Research Engineer Graduate - Agentic Arch - PhD
 category: new-grad
 discipline: other
 locations:
-- San Jose, CA
+- Seattle, WA
 terms: []
-url: https://lifeattiktok.com/search/7669824354636613941
+url: https://lifeattiktok.com/search/7669824148794575109
 source: simplify-new-grad
-listing_id: ba85301e-4fd1-4208-89c0-186f4436a904
+listing_id: 8424cf57-59e0-4e01-ba2f-a6ee0275c999
 active: true
-date_posted: '2026-08-04'
-date_updated: '2026-08-04'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

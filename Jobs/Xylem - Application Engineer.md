@@ -13,7 +13,7 @@ terms: []
 url: https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Application-Engineer_R48350
 source: simplify-new-grad
 listing_id: 9c3fc447-fdbf-41b3-ae09-b5bf11332501
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

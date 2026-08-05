@@ -17,7 +17,7 @@ terms:
 url: https://boards.greenhouse.io/spacex/jobs/8621757002
 source: simplify-internships
 listing_id: 6339287b-3f1f-45ea-964d-65549925660a
-active: false
+active: true
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

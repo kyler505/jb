@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Netcompany1/744000136861979
 source: simplify-new-grad
 listing_id: 4f3d8056-395d-4be5-be8f-641d28344c1d
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

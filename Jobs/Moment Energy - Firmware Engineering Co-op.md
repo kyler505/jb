@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/momentenergy/jobs/4257334009
 source: simplify-internships
 listing_id: c43a8efe-18e4-4741-95da-c6e0f6e5f3f7
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

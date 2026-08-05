@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Fort Wayne, IN
+- Melbourne, FL
 terms: []
-url: https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1415120300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1416023100/?ats=successfactors
 source: simplify-new-grad
-listing_id: cb86a848-6927-4e34-a478-e73d43efee8c
+listing_id: e6b322bf-6ccd-43f3-a987-0d4f72440458
 active: true
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

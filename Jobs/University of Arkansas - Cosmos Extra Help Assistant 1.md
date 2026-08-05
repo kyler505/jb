@@ -1,18 +1,17 @@
 ---
 company: University of Arkansas
-role: Cosmos – Extra Help Assistant 1
-category: internship
+role: Cosmos Extra Help Assistant 1
+category: new-grad
 discipline: other
 locations:
 - Little Rock, AR
-terms:
-- N/A
+terms: []
 url: https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1
-source: simplify-internships
+source: simplify-new-grad
 listing_id: fdb28bed-d2e6-44f2-b305-6599d8d12c2f
-active: false
-date_posted: '2026-07-04'
-date_updated: '2026-07-31'
+active: true
+date_posted: '2026-03-17'
+date_updated: '2026-03-17'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R165453-1
 source: simplify-new-grad
 listing_id: dfa18e49-c9cd-498f-b8ea-c499d20247b2
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-31'
 status: to-apply

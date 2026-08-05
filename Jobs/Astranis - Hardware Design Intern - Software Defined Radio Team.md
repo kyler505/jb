@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/astranis/jobs/4691163006
 source: simplify-internships
 listing_id: 10aad010-0ee5-4afd-9740-ad36455a9e69
-active: true
+active: false
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

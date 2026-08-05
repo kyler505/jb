@@ -14,7 +14,7 @@ terms:
 url: https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more
 source: simplify-internships
 listing_id: 83202c55-8636-4cc2-9b99-1ae2c111a000
-active: true
+active: false
 date_posted: '2025-12-08'
 date_updated: '2025-12-08'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452
 source: simplify-internships
 listing_id: 59b38467-71db-455a-94f0-aef60039a70c
-active: true
+active: false
 date_posted: '2026-07-01'
 date_updated: '2026-07-31'
 status: to-apply

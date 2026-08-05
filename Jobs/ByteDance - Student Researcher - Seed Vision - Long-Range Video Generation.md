@@ -7,12 +7,12 @@ locations:
 - San Jose, CA
 terms:
 - N/A
-url: https://jobs.bytedance.com/en/position/7533027329703282951/detail
+url: https://jobs.bytedance.com/en/position/7670326702018906421/detail
 source: simplify-internships
-listing_id: 14f19965-aa67-424b-92a5-f048cefb3a34
-active: true
-date_posted: '2026-06-04'
-date_updated: '2026-06-04'
+listing_id: 0391c602-59f2-4230-93cc-3619a0a86272
+active: false
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

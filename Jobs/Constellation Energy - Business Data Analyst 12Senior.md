@@ -13,7 +13,7 @@ terms: []
 url: https://jobs.constellationenergy.com/jobs/137758?icims=1
 source: simplify-new-grad
 listing_id: 14835951-3570-43d1-803c-25fe2d7fa63f
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

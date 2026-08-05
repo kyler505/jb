@@ -14,7 +14,7 @@ terms: []
 url: https://job-boards.greenhouse.io/mcmastercarr/jobs/4314767009
 source: simplify-new-grad
 listing_id: 1b38b4c1-1d6c-48bc-b1b3-d41b733858c7
-active: true
+active: false
 date_posted: '2026-07-13'
 date_updated: '2026-07-28'
 status: to-apply
