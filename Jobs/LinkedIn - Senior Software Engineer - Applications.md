@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/LinkedIn3/744000140073832
 source: simplify-new-grad
 listing_id: 3c0a86be-29d0-4b44-9bd5-3bf8fcf2a4f2
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

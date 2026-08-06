@@ -10,7 +10,7 @@ terms:
 url: https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: d77e9157-6bd3-45f9-82d5-488b2242147f
-active: true
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

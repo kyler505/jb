@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009
 source: simplify-new-grad
 listing_id: 4eba7e60-7ddc-4173-b5eb-3bc982688cf5
-active: true
+active: false
 date_posted: '2026-07-05'
 date_updated: '2026-07-05'
 status: skipped

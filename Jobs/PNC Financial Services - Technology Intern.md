@@ -15,7 +15,7 @@ terms:
 url: https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Undergraduate-Intern_R231441-1
 source: simplify-internships
 listing_id: ac0e3f80-3460-4cf1-b1bb-83a05b56b495
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

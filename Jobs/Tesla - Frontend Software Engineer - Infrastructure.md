@@ -9,7 +9,7 @@ terms: []
 url: https://www.tesla.com/careers/search/job/274330
 source: simplify-new-grad
 listing_id: 1941cf58-d377-4f13-8d66-ee6d978d4f5a
-active: true
+active: false
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: to-apply

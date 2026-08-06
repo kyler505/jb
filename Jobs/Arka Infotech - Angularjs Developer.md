@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/ArkaInfotechInc/85677157
 source: simplify-new-grad
 listing_id: 4dd42a3c-3fcd-491f-b922-16e435212142
-active: true
+active: false
 date_posted: '2026-02-19'
 date_updated: '2026-02-19'
 status: to-apply

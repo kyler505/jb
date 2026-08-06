@@ -7,12 +7,12 @@ locations:
 - London, UK
 terms:
 - Summer 2026
-url: https://lifeattiktok.com/search/7616659899507591477
+url: https://lifeattiktok.com/search/7564337316874848517
 source: simplify-internships
-listing_id: df86468a-0723-4315-bf56-0803134d3889
+listing_id: 262de8fa-292e-4d47-9bd2-bbf3befe8b30
 active: true
-date_posted: '2026-03-13'
-date_updated: '2026-03-13'
+date_posted: '2026-04-07'
+date_updated: '2026-04-07'
 status: to-apply
 applied_date: null
 deadline: null

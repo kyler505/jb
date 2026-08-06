@@ -5,13 +5,14 @@ category: new-grad
 discipline: other
 locations:
 - Austin, TX
+- Phoenix, AZ
 terms: []
-url: https://career-schwab.icims.com/jobs/124553/job?mobile=true&needsRedirect=false
+url: https://career-schwab.icims.com/jobs/123091/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 7f3bad1a-4bcb-4ea0-a626-5c2e1358b0d8
+listing_id: 093d0417-7266-448f-bd4e-c814e8dfdb9a
 active: false
-date_posted: '2026-07-29'
-date_updated: '2026-07-29'
+date_posted: '2026-06-17'
+date_updated: '2026-06-17'
 status: to-apply
 applied_date: null
 deadline: null

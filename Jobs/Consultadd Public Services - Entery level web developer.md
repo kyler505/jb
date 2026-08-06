@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Consultadd4/83941565
 source: simplify-new-grad
 listing_id: 28026292-cafa-4127-a7e7-ea980ab5ddef
-active: true
+active: false
 date_posted: '2026-02-20'
 date_updated: '2026-02-20'
 status: to-apply

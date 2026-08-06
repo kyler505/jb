@@ -4,18 +4,17 @@ role: Machine Learning Researcher Intern/Co-op
 category: internship
 discipline: ml
 locations:
-- Hartford, CT
+- East Hartford, CT
 terms:
 - Fall 2026
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01860050
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471
 source: simplify-internships
-listing_id: 767f82db-4e0c-412d-8bc3-4ec75d0a247a
+listing_id: 2fcbb0e5-821d-4c7e-9f0f-8e20e007602f
 active: true
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.11
 ---

@@ -5,21 +5,16 @@ role: AI/LLM Network Software Development Engineer Graduate - High Speed Network
 category: new-grad
 discipline: swe
 locations:
-- Seattle, WA
+- San Jose, CA
 terms: []
-url: https://jobs.bytedance.com/en/position/7509248845324273938/detail
+url: https://jobs.bytedance.com/en/position/7668862426676775173/detail
 source: simplify-new-grad
-listing_id: cea1563c-802d-45b0-9937-3a8f1a7ec8bb
+listing_id: f8f5f407-91e8-40cc-8d8c-d2985c26df70
 active: true
-date_posted: '2026-06-03'
-date_updated: '2026-06-03'
+date_posted: '2026-08-06'
+date_updated: '2026-08-06'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 45.52
-apply_method: simplify
-apply_result: success
-needs_review: false
-resume_used: resume.pdf
 ---

@@ -9,7 +9,7 @@ terms: []
 url: https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004
 source: simplify-new-grad
 listing_id: 94b5c207-eda9-41bc-b43a-082ff957f285
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

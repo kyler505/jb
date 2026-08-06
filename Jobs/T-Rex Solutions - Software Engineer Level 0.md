@@ -17,9 +17,9 @@ applied_date: null
 deadline: null
 notes: null
 priority: 56.96
-apply_method: none
+resume_used: resume.pdf
 apply_result: skipped
+apply_method: none
 apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 needs_review: false
-resume_used: resume.pdf
 ---

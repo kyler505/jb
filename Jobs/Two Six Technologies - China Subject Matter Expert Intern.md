@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004
 source: simplify-internships
 listing_id: 35880e25-246d-4a52-9e52-2241407852fd
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

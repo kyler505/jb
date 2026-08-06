@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/KrgTechnologyInc/112366989
 source: simplify-new-grad
 listing_id: 2b2443ae-54c7-465a-945e-d062d9a8bda5
-active: true
+active: false
 date_posted: '2026-02-24'
 date_updated: '2026-02-24'
 status: to-apply

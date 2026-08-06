@@ -10,7 +10,7 @@ terms:
 url: https://jobs.eu.lever.co/cirrus/285c6096-5bc0-438e-abc6-b9768891167d/apply
 source: simplify-internships
 listing_id: b802a26c-5e65-435f-976f-f65a21e784c0
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

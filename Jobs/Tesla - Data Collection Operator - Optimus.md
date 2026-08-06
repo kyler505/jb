@@ -4,14 +4,14 @@ role: Data Collection Operator - Optimus
 category: new-grad
 discipline: other
 locations:
-- Henderson, NV
+- Doral, FL
 terms: []
-url: https://www.tesla.com/careers/search/job/267142
+url: https://www.tesla.com/careers/search/job/279361
 source: simplify-new-grad
-listing_id: a7f7b2b9-28f5-4516-aece-535cd1c0c1b1
+listing_id: 5a8a7ba1-2464-4dc8-995e-4cd08627650e
 active: true
-date_posted: '2026-07-21'
-date_updated: '2026-07-21'
+date_posted: '2026-08-06'
+date_updated: '2026-08-06'
 status: to-apply
 applied_date: null
 deadline: null

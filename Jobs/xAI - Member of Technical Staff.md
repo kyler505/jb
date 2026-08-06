@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/xai/jobs/5173147007
 source: simplify-new-grad
 listing_id: 036f95f0-b954-4120-bd02-980666b57a4d
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-13'
 status: to-apply

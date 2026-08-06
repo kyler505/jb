@@ -4,15 +4,14 @@ role: Installation Technician
 category: new-grad
 discipline: other
 locations:
-- Summerville, SC
-- North Charleston, SC
+- Sunnyvale, CA
 terms: []
-url: https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Summerville-South-Carolina/Installation-Technician_R-117157
+url: https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Sunnyvale-California/Installation-Technician_R-116999
 source: simplify-new-grad
-listing_id: 362c1282-efe9-4e1f-bb8e-8133b78fd4a4
+listing_id: 11978a37-eb90-4000-b1d0-d96cbee69afa
 active: false
-date_posted: '2026-07-24'
-date_updated: '2026-07-26'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

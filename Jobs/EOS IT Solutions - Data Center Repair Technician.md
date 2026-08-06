@@ -4,14 +4,14 @@ role: Data Center Repair Technician
 category: new-grad
 discipline: other
 locations:
-- Lehi, UT
+- Groveport, OH
 terms: []
-url: https://eosits.com/company/careers/?gh_jid=8548252002
+url: https://eosits.com/company/careers/?gh_jid=8480393002
 source: simplify-new-grad
-listing_id: 45a17811-98a5-4edc-b2f0-4da07f504cb2
-active: true
-date_posted: '2026-05-13'
-date_updated: '2026-05-19'
+listing_id: 09f3da69-1974-4a72-81d0-fa51e88114c2
+active: false
+date_posted: '2026-03-25'
+date_updated: '2026-03-25'
 status: to-apply
 applied_date: null
 deadline: null

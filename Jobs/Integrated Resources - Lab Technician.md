@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/IntegratedResourcesINC/94801112
 source: simplify-new-grad
 listing_id: e48de656-c605-4748-ac2e-eaa48873b0aa
-active: true
+active: false
 date_posted: '2026-02-24'
 date_updated: '2026-03-31'
 status: to-apply

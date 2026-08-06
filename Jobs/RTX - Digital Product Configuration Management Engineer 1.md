@@ -4,14 +4,14 @@ role: Digital Product Configuration Management Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Burlington, MA
+- Woburn, MA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Digital-Product-Configuration-Management-Engineer-I--Onsite-_01855446
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Digital-Product-Configuration-Management-Engineer-I--Onsite-_01864368
 source: simplify-new-grad
-listing_id: 08acace2-9fd1-4285-8c6b-4ae9d8803e29
+listing_id: ac18c1f0-07af-4081-accf-59aebb2b6fd0
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-08-05'
+date_updated: '2026-08-06'
 status: to-apply
 applied_date: null
 deadline: null

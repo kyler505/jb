@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/GlobalChannelManagementInc/108947150
 source: simplify-new-grad
 listing_id: d2921f23-5304-401c-9a61-3f50038cc19e
-active: true
+active: false
 date_posted: '2026-02-23'
 date_updated: '2026-03-31'
 status: to-apply

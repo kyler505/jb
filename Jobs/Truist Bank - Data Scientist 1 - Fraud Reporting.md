@@ -9,16 +9,16 @@ terms: []
 url: https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-I----Fraud-Reporting_R0115931
 source: simplify-new-grad
 listing_id: cca7ace0-9015-435c-a3c1-7234e130d72e
-active: false
+active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: needs-review
 applied_date: null
 deadline: null
 notes: null
-apply_method: auto
-apply_result: wizard_end
-apply_error: Reached end of wizard — review debug output above
 priority: 50.96
+apply_result: wizard_end
+apply_method: auto
+apply_error: Reached end of wizard — review debug output above
 needs_review: true
 ---

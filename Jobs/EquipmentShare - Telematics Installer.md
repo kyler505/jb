@@ -4,14 +4,14 @@ role: Telematics Installer
 category: new-grad
 discipline: other
 locations:
-- Dayton, OH
+- Framingham, MA
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=8097571
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=8109256
 source: simplify-new-grad
-listing_id: f26a26af-b2cf-47a0-bfbb-9f9a550a4e8b
+listing_id: 676ca139-8f28-4033-8204-022b807b6f75
 active: true
-date_posted: '2026-07-30'
-date_updated: '2026-07-30'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

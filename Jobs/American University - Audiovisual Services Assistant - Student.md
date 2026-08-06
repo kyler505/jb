@@ -10,7 +10,7 @@ terms:
 url: https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Audiovisual-Services-Assistant--Student-_R4496
 source: simplify-internships
 listing_id: a038ee64-00b2-435e-8318-90254ba95b10
-active: false
+active: true
 date_posted: '2026-07-24'
 date_updated: '2026-07-26'
 status: to-apply

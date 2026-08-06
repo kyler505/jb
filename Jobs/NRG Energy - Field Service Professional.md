@@ -4,14 +4,14 @@ role: Field Service Professional
 category: new-grad
 discipline: other
 locations:
-- Sparks, NV
+- Oklahoma City, OK
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Sparks-Field-Service-Professional-Sparks,-NV-NV-89431/1399530800/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Oklahoma-City-Field-Service-Professional-Oklahoma-City,-OK-OK-73106/1416160100/?ats=successfactors
 source: simplify-new-grad
-listing_id: 017e1520-05ee-415e-a51f-dc82f31bdb19
+listing_id: 10b86339-8ef4-40cf-bb64-b4adad89513d
 active: true
-date_posted: '2026-06-12'
-date_updated: '2026-06-12'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null

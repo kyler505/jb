@@ -8,12 +8,12 @@ locations:
 - Providence, RI
 - Glastonbury, CT
 terms: []
-url: https://careers-gilbaneco.icims.com/jobs/12964/job?mobile=true&needsRedirect=false
+url: https://careers-gilbaneco.icims.com/jobs/13115/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 8318bc2d-4298-410f-920c-e6f67f9cd8d3
+listing_id: fce282fe-b266-4190-a61f-c6c52f61facb
 active: false
-date_posted: '2026-07-07'
-date_updated: '2026-07-07'
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null
