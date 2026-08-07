@@ -10,7 +10,7 @@ terms:
 url: https://careers-sargentlundy.icims.com/jobs/25857/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 6c1e882c-ab83-4d33-81c7-770ca19e76e1
-active: true
+active: false
 date_posted: '2026-08-06'
 date_updated: '2026-08-06'
 status: to-apply

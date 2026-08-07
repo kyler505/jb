@@ -9,7 +9,7 @@ terms: []
 url: https://lifeattiktok.com/search/7516697804673190151
 source: simplify-new-grad
 listing_id: aecaab63-3c94-4ada-9860-efdc777ef42f
-active: true
+active: false
 date_posted: '2026-06-15'
 date_updated: '2026-06-15'
 status: to-apply

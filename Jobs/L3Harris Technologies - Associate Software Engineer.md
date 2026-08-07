@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Salt Lake City, UT
+- Lynchburg, VA
 terms: []
-url: https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1416245700/?ats=successfactors
+url: https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineering-VA-24501-6952/1416807700/?ats=successfactors
 source: simplify-new-grad
-listing_id: 097d589b-a9ab-4e6c-99aa-e2ec067cf2d3
+listing_id: 223fbdf3-1b1a-4d1e-b9c7-de2234eec1d6
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-06'
+date_updated: '2026-08-06'
 status: to-apply
 applied_date: null
 deadline: null

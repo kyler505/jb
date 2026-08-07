@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/thenewyorktimes/jobs/4713043005
 source: simplify-new-grad
 listing_id: 190a4d75-6cd1-47e7-a759-52411e0c99fd
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-24'
 status: to-apply

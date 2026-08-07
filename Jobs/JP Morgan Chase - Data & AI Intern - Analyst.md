@@ -17,7 +17,7 @@ terms:
 url: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869
 source: simplify-internships
 listing_id: 98635871-6276-41e4-ad95-172485704a2c
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

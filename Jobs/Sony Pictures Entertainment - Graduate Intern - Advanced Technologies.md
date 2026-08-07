@@ -10,7 +10,7 @@ terms:
 url: https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Graduate-Intern--Advanced-Technologies_JR113816
 source: simplify-internships
 listing_id: 4c14bf3f-b3a3-4c41-b798-e1f31d053de6
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-08-01'
 status: to-apply

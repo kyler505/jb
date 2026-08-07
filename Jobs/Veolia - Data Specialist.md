@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000130248314
 source: simplify-new-grad
 listing_id: 758a3608-344b-4124-845e-d55872951358
-active: true
+active: false
 date_posted: '2026-06-04'
 date_updated: '2026-06-04'
 status: to-apply

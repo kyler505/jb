@@ -4,14 +4,14 @@ role: Food Service Worker
 category: new-grad
 discipline: other
 locations:
-- Tallahassee, FL
+- Overland Park, KS
 terms: []
-url: https://aramarkcareers.com/UnitedStates/job/Tallahassee-Trading-Post-Food-Service-Worker-Florida-State-University-FL-32304/1404565200/?ats=successfactors
+url: https://aramarkcareers.com/UnitedStates/job/Overland-Park-Food-Service-Worker-Shamrock-Trading-Corporation-KS-66212/1416888300/?ats=successfactors
 source: simplify-new-grad
-listing_id: 2b6c1de0-21f1-4365-8b3b-c9c62c27f2bc
+listing_id: eeaab550-423d-49e4-a1d6-541a943cd0c5
 active: false
-date_posted: '2026-06-30'
-date_updated: '2026-06-30'
+date_posted: '2026-08-07'
+date_updated: '2026-08-07'
 status: to-apply
 applied_date: null
 deadline: null

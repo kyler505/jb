@@ -9,7 +9,7 @@ terms: []
 url: https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Clinical-Research-Coordinator-Data-Analyst_RQ4070230
 source: simplify-new-grad
 listing_id: 8af2a66d-e6c4-426c-958e-e788e846a006
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-09'
 status: to-apply
