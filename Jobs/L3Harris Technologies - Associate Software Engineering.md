@@ -4,14 +4,14 @@ role: Associate Software Engineering
 category: new-grad
 discipline: swe
 locations:
-- Greenville, TX
+- Fort Wayne, IN
 terms: []
-url: https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1415619600/?ats=successfactors
+url: https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/?ats=successfactors
 source: simplify-new-grad
-listing_id: 6a410535-064c-49e0-9a44-bdda2a7c3a4b
+listing_id: 5758b587-5d39-4b73-8bb5-2d965c5e2d83
 active: true
-date_posted: '2026-08-04'
-date_updated: '2026-08-04'
+date_posted: '2026-08-08'
+date_updated: '2026-08-08'
 status: to-apply
 applied_date: null
 deadline: null

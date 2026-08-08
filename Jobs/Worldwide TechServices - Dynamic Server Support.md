@@ -4,14 +4,14 @@ role: Dynamic Server Support
 category: new-grad
 discipline: other
 locations:
-- South Bend, IN
+- Milwaukee, WI
 terms: []
-url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000133089187
+url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000142197129
 source: simplify-new-grad
-listing_id: 5b35fe1a-ac46-4c8b-90f4-e6563c1ce913
+listing_id: 38224599-12f2-43b5-aa53-a54aa26060ef
 active: true
-date_posted: '2026-06-19'
-date_updated: '2026-06-19'
+date_posted: '2026-08-07'
+date_updated: '2026-08-07'
 status: to-apply
 applied_date: null
 deadline: null

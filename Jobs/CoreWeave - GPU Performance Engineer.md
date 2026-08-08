@@ -10,7 +10,7 @@ terms: []
 url: https://coreweave.com/careers/job?4689223006&board=coreweave&gh_jid=4689223006
 source: simplify-new-grad
 listing_id: f51da956-7968-41bf-9b6a-860c33aeb7aa
-active: true
+active: false
 date_posted: '2026-06-16'
 date_updated: '2026-07-25'
 status: to-apply

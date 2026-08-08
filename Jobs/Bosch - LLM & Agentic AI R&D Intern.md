@@ -13,7 +13,7 @@ terms:
 url: https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern
 source: simplify-internships
 listing_id: 2ef20c02-0da5-469f-ae3b-77415aa7081c
-active: true
+active: false
 date_posted: '2025-12-10'
 date_updated: '2025-12-10'
 status: to-apply

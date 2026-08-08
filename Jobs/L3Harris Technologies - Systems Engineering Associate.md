@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineering-FL-32905/1415115100/?ats=successfactors
 source: simplify-new-grad
 listing_id: 9068b9f9-f2fd-47d2-951a-2439d7e121a5
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

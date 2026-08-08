@@ -4,11 +4,11 @@ role: Field Service Technician 1
 category: new-grad
 discipline: other
 locations:
-- Worcester, MA
+- Orange County, NY
 terms: []
-url: https://ncr.wd1.myworkdayjobs.com/ext_us/job/WORCESTER-MA-USA/Field-Service-Technician--Bellingham-city--MA_JR2604160
+url: https://ncr.wd1.myworkdayjobs.com/ext_us/job/ORANGE-COUNTY-NY-USA/Field-Service-Technician---Miami--FL_JR2604072
 source: simplify-new-grad
-listing_id: 0a42e25d-aeb9-46a5-9a7b-d00ed79556dd
+listing_id: 237a3e86-5679-4b36-ad21-c34572c07d94
 active: true
 date_posted: '2026-06-13'
 date_updated: '2026-08-07'

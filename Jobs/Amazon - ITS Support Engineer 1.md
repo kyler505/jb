@@ -9,7 +9,7 @@ terms: []
 url: https://amazon.jobs/en/jobs/10432510/its-support-engineer-i
 source: simplify-new-grad
 listing_id: e3155c50-29ce-48b3-a6f0-47903713b81b
-active: true
+active: false
 date_posted: '2026-05-28'
 date_updated: '2026-05-28'
 status: to-apply

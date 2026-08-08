@@ -4,14 +4,14 @@ role: RTL Design Engineer
 category: new-grad
 discipline: other
 locations:
-- Morrisville, NC
+- London, UK
 terms: []
-url: https://jobs.apple.com/en-us/details/200657252
+url: https://jobs.apple.com/en-us/details/200676618
 source: simplify-new-grad
-listing_id: 6f5d0b75-a8d2-4208-9303-57f82b32f894
+listing_id: 2694ea49-cd71-451a-b6f9-8ea865e64699
 active: false
-date_posted: '2026-05-06'
-date_updated: '2026-05-26'
+date_posted: '2026-08-07'
+date_updated: '2026-08-07'
 status: to-apply
 applied_date: null
 deadline: null

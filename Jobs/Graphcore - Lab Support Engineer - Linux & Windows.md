@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/graphcore/jobs/8540581002
 source: simplify-new-grad
 listing_id: f3bf9a9f-934e-4822-ab11-a2619bdeb436
-active: true
+active: false
 date_posted: '2026-05-08'
 date_updated: '2026-05-08'
 status: to-apply
