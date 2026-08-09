@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- San Jose, CA
+- Pittsburgh, PA
 terms:
-- Summer 2026
-url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-Intern_R55128
+- Fall 2026
+url: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2
 source: simplify-internships
-listing_id: c2353ea5-cf86-4fce-9a92-f7e278566c49
+listing_id: 40dbbf5f-d4ad-493a-9644-4f4b0662556c
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-06-13'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

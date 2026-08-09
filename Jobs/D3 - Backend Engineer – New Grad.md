@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/d3/jobs/4915295008
 source: simplify-new-grad
 listing_id: c193c408-add9-40a6-868f-c89a718f5272
-active: true
+active: false
 date_posted: '2025-12-11'
 date_updated: '2025-12-11'
 status: to-apply

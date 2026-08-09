@@ -10,7 +10,7 @@ terms:
 url: https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Card-Products-Internship--Fall-2026-Co-op-Internship--Toronto--CA-_R260023035
 source: simplify-internships
 listing_id: 22bd8216-0e96-4a9c-858c-61b383700c83
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

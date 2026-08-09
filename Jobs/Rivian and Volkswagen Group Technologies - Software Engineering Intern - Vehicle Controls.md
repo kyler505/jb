@@ -20,9 +20,9 @@ deadline: null
 notes: '2026-06-26 live apply pass: form fully filled, resume attached, submit attempted;
   Ashby rejected submission with ''flagged as possible spam.'''
 apply_error: _handle_ashby() takes 3 positional arguments but 4 were given
-apply_method: auto
-priority: 58.41
 resume_used: resume
+priority: 58.41
+apply_method: auto
 needs_review: true
 apply_result: exception
 ---

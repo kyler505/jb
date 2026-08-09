@@ -18,10 +18,10 @@ applied_date: null
 deadline: null
 notes: null
 apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
-apply_method: none
-priority: 50.76
-confirmation: null
 resume_used: resume
+priority: 50.76
+apply_method: none
+confirmation: null
 needs_review: false
 apply_result: skipped
 ---

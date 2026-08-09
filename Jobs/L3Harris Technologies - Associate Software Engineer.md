@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Lynchburg, VA
+- Waco, TX
 terms: []
-url: https://jobs.l3harris.com/job/Lynchburg-Associate,-Software-Engineering-VA-24501-6952/1416807700/?ats=successfactors
+url: https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100/?ats=successfactors
 source: simplify-new-grad
-listing_id: 223fbdf3-1b1a-4d1e-b9c7-de2234eec1d6
+listing_id: 8bebde66-32b0-43c4-93ea-9c10bd8e3aaf
 active: true
-date_posted: '2026-08-06'
-date_updated: '2026-08-06'
+date_posted: '2026-08-08'
+date_updated: '2026-08-08'
 status: to-apply
 applied_date: null
 deadline: null

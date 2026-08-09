@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application
 source: simplify-new-grad
 listing_id: 5486f8fc-e958-437b-934e-ad3295e9a178
-active: true
+active: false
 date_posted: '2026-03-13'
 date_updated: '2026-03-13'
 status: to-apply
