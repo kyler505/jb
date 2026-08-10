@@ -1,6 +1,6 @@
 ---
 company: Wellington Management
-role: Technology Associate – Graduate - 2025
+role: Technology Associate Graduate
 category: new-grad
 discipline: other
 locations:
@@ -10,8 +10,8 @@ url: https://wellington.wd5.myworkdayjobs.com/Campus/job/Technology-Associate-Pr
 source: simplify-new-grad
 listing_id: bf9a941a-7dfd-48e9-ae18-d47fe27300a3
 active: true
-date_posted: '2025-12-13'
-date_updated: '2026-01-20'
+date_posted: '2026-07-04'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

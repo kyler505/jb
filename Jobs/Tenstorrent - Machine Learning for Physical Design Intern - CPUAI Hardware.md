@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007
 source: simplify-internships
 listing_id: f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce
-active: true
+active: false
 date_posted: '2025-12-12'
 date_updated: '2025-12-12'
 status: to-apply

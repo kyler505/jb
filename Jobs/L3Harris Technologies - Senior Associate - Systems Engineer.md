@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Systems-Engineer-UT-84116/1415960000/?ats=successfactors
 source: simplify-new-grad
 listing_id: 3b69ab54-e860-4134-941e-ae5a193715ce
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-04'
 status: to-apply

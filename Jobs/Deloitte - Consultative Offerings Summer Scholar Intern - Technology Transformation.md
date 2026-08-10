@@ -10,7 +10,7 @@ terms:
 url: https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Technology-Transformation/360655
 source: simplify-internships
 listing_id: 19c817ca-ebe5-4247-b9ec-258076656d40
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

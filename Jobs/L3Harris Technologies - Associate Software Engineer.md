@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Waco, TX
+- Fort Wayne, IN
 terms: []
-url: https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1417325100/?ats=successfactors
+url: https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineeriing-IN-46818/1417402600/?ats=successfactors
 source: simplify-new-grad
-listing_id: 8bebde66-32b0-43c4-93ea-9c10bd8e3aaf
+listing_id: 1119f190-988e-48d2-8fe4-84593739c464
 active: true
-date_posted: '2026-08-08'
-date_updated: '2026-08-08'
+date_posted: '2026-08-10'
+date_updated: '2026-08-10'
 status: to-apply
 applied_date: null
 deadline: null

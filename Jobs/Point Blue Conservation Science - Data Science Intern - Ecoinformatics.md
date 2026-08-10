@@ -10,7 +10,7 @@ terms:
 url: https://pointblueconservationscience.applytojob.com/apply/mcXovIM1zn/Data-Science-Graduate-Student-Intern
 source: simplify-internships
 listing_id: 14c1c923-d903-4696-b2fe-7351cfa70ab2
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply
