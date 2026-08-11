@@ -9,7 +9,7 @@ terms: []
 url: https://careers.garmin.com/jobs/17742?icims=1
 source: simplify-new-grad
 listing_id: aaaa8a89-4a65-414d-ad5f-46e681c28716
-active: true
+active: false
 date_posted: '2026-08-01'
 date_updated: '2026-08-02'
 status: to-apply

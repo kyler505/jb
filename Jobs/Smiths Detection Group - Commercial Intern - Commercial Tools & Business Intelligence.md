@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/SmithsGroup2/744000140169009
 source: simplify-internships
 listing_id: 138aace0-50eb-474e-bdb9-b1b513a1aa72
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-07-28'
 status: to-apply

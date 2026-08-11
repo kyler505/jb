@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Huntsville, AL
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electronics-Mechanical-Assembly-TeEchnician_R-00188848
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Mechanical-Technician-2nd-shift_R-00189215
 source: simplify-new-grad
-listing_id: b6b81b7c-8a3c-4051-b26f-13b8ba3690ed
+listing_id: f57734aa-9dbb-48a0-96ce-18feba8b8431
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-10'
+date_updated: '2026-08-10'
 status: to-apply
 applied_date: null
 deadline: null

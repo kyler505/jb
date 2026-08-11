@@ -6,10 +6,10 @@ discipline: other
 locations:
 - Carson, CA
 terms: []
-url: https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Product-Engineer_REQ35212
+url: https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Product-Engineer_REQ35210
 source: simplify-new-grad
-listing_id: 305a9d5b-1567-4b6b-a82a-8f5c28aae081
-active: true
+listing_id: a667d073-ba92-400c-b82f-caebd0cf9b3a
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

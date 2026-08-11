@@ -5,15 +5,14 @@ category: internship
 discipline: data
 locations:
 - Washington, DC
-- Remote in USA
 terms:
 - N/A
-url: https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5142250007
+url: https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5208171007
 source: simplify-internships
-listing_id: 85870c84-9eb7-4c08-8291-45153083c18e
+listing_id: 0df8e8db-3493-4b30-ac6d-81f4e6c21920
 active: false
-date_posted: '2026-05-19'
-date_updated: '2026-05-19'
+date_posted: '2026-08-10'
+date_updated: '2026-08-10'
 status: to-apply
 applied_date: null
 deadline: null

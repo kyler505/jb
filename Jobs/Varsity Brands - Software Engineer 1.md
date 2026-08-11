@@ -4,17 +4,16 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Remote in USA
+- Memphis, TN
 terms: []
-url: https://careers.varsitybrands.com/global/en/job/JR114172
+url: https://careers.varsitybrands.com/global/en/job/JR113976
 source: simplify-new-grad
-listing_id: 82efb81a-9d97-4172-9331-701b618857c6
+listing_id: 209fc4a4-5626-4653-baa1-7a5393231ce9
 active: false
-date_posted: '2026-07-14'
-date_updated: '2026-07-14'
+date_posted: '2026-07-01'
+date_updated: '2026-07-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.11
 ---

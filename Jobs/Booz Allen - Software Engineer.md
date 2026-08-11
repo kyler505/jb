@@ -19,7 +19,7 @@ terms: []
 url: https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246362
 source: simplify-new-grad
 listing_id: 045f4a24-d094-4e92-8d9b-f185bc17e03c
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

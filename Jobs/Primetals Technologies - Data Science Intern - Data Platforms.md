@@ -10,7 +10,7 @@ terms:
 url: https://mhicareers.com/job/Lake-Mary-Data-Science-Internship-(Data-Platforms)-FL-32746/1395217733/?ats=successfactors
 source: simplify-internships
 listing_id: 8bcfb3f6-ce15-48ea-bde9-874808ef8dba
-active: true
+active: false
 date_posted: '2026-05-19'
 date_updated: '2026-05-19'
 status: to-apply

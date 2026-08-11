@@ -4,15 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Raleigh, NC
 - Charlotte, NC
 terms: []
-url: https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Raleigh-NC/Associate-Software-Engineer_R0115845
+url: https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Associate-Software-Engineer_R0117651
 source: simplify-new-grad
-listing_id: b22774be-de7f-4d3e-871a-698856c0dca6
+listing_id: 1d7f8877-9386-42ef-b847-cab4b072a46e
 active: false
-date_posted: '2026-06-16'
-date_updated: '2026-06-16'
+date_posted: '2026-08-10'
+date_updated: '2026-08-10'
 status: to-apply
 applied_date: null
 deadline: null

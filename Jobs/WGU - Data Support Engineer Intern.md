@@ -10,7 +10,7 @@ terms:
 url: https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859
 source: simplify-internships
 listing_id: 26953dbf-a5ab-4b1f-bcbf-382117732097
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

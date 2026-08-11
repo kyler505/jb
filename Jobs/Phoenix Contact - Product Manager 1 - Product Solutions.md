@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/phoenixcontact/jobs/7812658003
 source: simplify-new-grad
 listing_id: cc64e543-0c1b-462c-be1b-b03c53b3288c
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

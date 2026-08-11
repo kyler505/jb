@@ -7,19 +7,15 @@ locations:
 - Palo Alto, CA
 terms:
 - Fall 2026
-url: https://www.tesla.com/careers/search/job/262946
+- Winter 2027
+url: https://www.tesla.com/careers/search/job/279603
 source: simplify-internships
-listing_id: 183067f3-544e-4de5-8991-0da96367cf8d
+listing_id: 06fa48a4-38e1-4ac5-9534-ba1c6702b680
 active: false
-date_posted: '2026-06-07'
-date_updated: '2026-06-07'
-status: skipped
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 47.43
-apply_result: skipped
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
-needs_review: false
-apply_method: none
 ---

@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Annapolis Junction, MD
 terms: []
-url: https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225594
+url: https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1
 source: simplify-new-grad
-listing_id: 58d49c3c-b8dd-49bc-b690-242735f878c7
-active: true
+listing_id: da223870-632f-4d31-a3aa-d059608577f3
+active: false
 date_posted: '2026-08-06'
 date_updated: '2026-08-06'
 status: to-apply

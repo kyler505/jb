@@ -1,18 +1,17 @@
 ---
 company: Ciena
-role: Software Engineer – New Grad - Security
+role: Software Engineer New Grad - Security
 category: new-grad
 discipline: security
 locations:
-- Ottawa, ON, Canada
 - Atlanta, GA
 terms: []
-url: https://simplify.jobs/c/Ciena
+url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880
 source: simplify-new-grad
-listing_id: 78d10af7-ad9f-6610-a161-419773f5c6ff
+listing_id: da84358f-a28a-44a8-a020-4f2133238ad7
 active: false
-date_posted: null
-date_updated: null
+date_posted: '2026-05-12'
+date_updated: '2026-05-13'
 status: to-apply
 applied_date: null
 deadline: null

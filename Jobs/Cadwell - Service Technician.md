@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Kennewick, WA
 terms: []
-url: https://job-boards.greenhouse.io/cadwell/jobs/4317391009
+url: https://job-boards.greenhouse.io/cadwell/jobs/4357529009
 source: simplify-new-grad
-listing_id: 1d1f9e00-38d3-4137-8aa8-47dd0b6c83a5
-active: true
-date_posted: '2026-07-30'
-date_updated: '2026-07-30'
+listing_id: 0bd99f3d-d6c6-40e6-b324-d00c8929cedc
+active: false
+date_posted: '2026-08-10'
+date_updated: '2026-08-10'
 status: to-apply
 applied_date: null
 deadline: null

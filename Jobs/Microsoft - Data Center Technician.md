@@ -4,14 +4,14 @@ role: Data Center Technician
 category: new-grad
 discipline: other
 locations:
-- Dallas, TX
+- Newport, UK
 terms: []
-url: https://apply.careers.microsoft.com/careers/job/1970393556950893
+url: https://apply.careers.microsoft.com/careers/job/1970393556937952
 source: simplify-new-grad
-listing_id: deac077f-d2a6-4943-8da6-ef8d52d8c5b5
+listing_id: 4f971efb-9f44-4d59-b6d4-1beacb6b5136
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null
