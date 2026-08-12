@@ -9,7 +9,7 @@ terms: []
 url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal---Sr-Principal-Engineer-Software---Cloud---Applications_R10235026-1
 source: simplify-new-grad
 listing_id: 1dd74385-508b-4070-a030-a2f23a02a0ef
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-07-21'
 status: to-apply

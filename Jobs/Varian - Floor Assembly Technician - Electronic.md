@@ -9,7 +9,7 @@ terms: []
 url: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/RKF-C/Floor-Assembly-Technician--Electronic_R-29888
 source: simplify-new-grad
 listing_id: 13462fe8-303b-4665-a38c-530e0eaee368
-active: true
+active: false
 date_posted: '2026-08-06'
 date_updated: '2026-08-06'
 status: to-apply

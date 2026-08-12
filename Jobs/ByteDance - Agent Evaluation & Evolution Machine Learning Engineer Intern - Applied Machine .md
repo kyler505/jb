@@ -5,15 +5,15 @@ role: Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Ma
 category: internship
 discipline: ml
 locations:
-- San Jose, CA
+- Seattle, WA
 terms:
 - Summer 2027
-url: https://jobs.bytedance.com/en/position/7671096345243535669/detail
+url: https://jobs.bytedance.com/en/position/7672391300141877557/detail
 source: simplify-internships
-listing_id: e24c2017-99ff-4c15-9636-3246335193a8
+listing_id: e670d442-7188-4ebf-a019-6706835ae548
 active: true
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

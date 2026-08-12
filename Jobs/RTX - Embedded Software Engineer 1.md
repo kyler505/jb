@@ -4,14 +4,14 @@ role: Embedded Software Engineer 1
 category: new-grad
 discipline: hardware
 locations:
-- East Hartford, CT
+- Cedar Rapids, IA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1
 source: simplify-new-grad
-listing_id: 6cdcb63c-5423-4b88-88c2-16298f439f9d
+listing_id: 4cfd9a57-ef60-4a3b-ae78-cdea62462929
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

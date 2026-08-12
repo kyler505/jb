@@ -10,7 +10,7 @@ terms:
 url: https://www.tesla.com/careers/search/job/275380
 source: simplify-internships
 listing_id: 77fe355c-f71a-4b4f-8ac1-348d2b156c64
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: skipped

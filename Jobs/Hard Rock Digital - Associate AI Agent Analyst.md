@@ -9,7 +9,7 @@ terms: []
 url: https://hardrockdigital.recruitee.com/o/associate-ai-agent-analyst
 source: simplify-new-grad
 listing_id: dd30ef8d-9146-4940-b820-e99bc7e4f0b7
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

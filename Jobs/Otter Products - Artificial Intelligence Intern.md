@@ -10,7 +10,7 @@ terms:
 url: https://careers-otterproducts.icims.com/jobs/6912/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: b02864c4-64dc-4d65-9a2c-b9f7c09f26ee
-active: true
+active: false
 date_posted: '2026-08-06'
 date_updated: '2026-08-06'
 status: to-apply

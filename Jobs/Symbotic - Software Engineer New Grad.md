@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Burlington, MA
 terms: []
-url: 'https://simplify.jobs/c/symbotic'
+url: https://simplify.jobs/c/symbotic
 source: simplify-new-grad
 listing_id: fd2d78e0-deed-995a-cf4a-9d5a73e91aac
-active: true
+active: false
 date_posted: null
 date_updated: null
 status: to-apply

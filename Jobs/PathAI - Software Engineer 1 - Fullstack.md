@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Boston, MA
 terms: []
-url: https://www.pathai.com/careers/8466724002?gh_jid=8466724002
+url: https://www.pathai.com/careers/8696764002?gh_jid=8696764002
 source: simplify-new-grad
-listing_id: af012315-2329-4907-89be-072d879f2916
-active: true
-date_posted: '2026-03-17'
-date_updated: '2026-03-17'
+listing_id: 4e2d4aa8-3825-4d49-bb96-d3194a6ced1f
+active: false
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

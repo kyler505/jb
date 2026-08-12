@@ -4,14 +4,14 @@ role: Associate Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Vernon Hills, IL
+- North Chicago, IL
 terms: []
-url: https://jobs.smartrecruiters.com/AbbVie/3743990014350476
+url: https://jobs.smartrecruiters.com/AbbVie/3743990014551564
 source: simplify-new-grad
-listing_id: f40a37c8-77b2-4062-8e57-b644127a95ea
+listing_id: d77ab18e-96cd-4110-89ca-b38044f2e7d6
 active: false
-date_posted: '2026-07-29'
-date_updated: '2026-07-29'
+date_posted: '2026-08-12'
+date_updated: '2026-08-12'
 status: to-apply
 applied_date: null
 deadline: null

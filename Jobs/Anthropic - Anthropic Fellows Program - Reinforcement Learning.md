@@ -13,7 +13,7 @@ terms:
 url: https://job-boards.greenhouse.io/anthropic/jobs/5183052008
 source: simplify-internships
 listing_id: cbd849a6-3f10-4184-9849-bdd8e45f6bc6
-active: true
+active: false
 date_posted: '2026-04-10'
 date_updated: '2026-04-13'
 status: to-apply

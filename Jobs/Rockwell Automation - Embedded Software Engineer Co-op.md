@@ -11,7 +11,7 @@ terms:
 url: https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1
 source: simplify-internships
 listing_id: 64937bd9-0018-42de-9034-181d0d384f1d
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

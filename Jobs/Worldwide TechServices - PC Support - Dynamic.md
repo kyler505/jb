@@ -4,14 +4,14 @@ role: PC Support - Dynamic
 category: new-grad
 discipline: other
 locations:
-- Greensboro, NC
+- Moline, IL
 terms: []
-url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000142193480
+url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000142925009
 source: simplify-new-grad
-listing_id: 4e5efc2d-9a6e-47ca-a99c-2528b7d343ec
+listing_id: a655e620-7b10-4998-bbc9-31a5b5af6df3
 active: true
-date_posted: '2026-08-07'
-date_updated: '2026-08-07'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

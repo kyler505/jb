@@ -10,7 +10,7 @@ terms:
 url: https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Co-op-Research-Student-I--Electronics-Shop-_R273409
 source: simplify-internships
 listing_id: 0e65c7e2-117e-4c64-b08a-b54f59660a22
-active: true
+active: false
 date_posted: '2026-07-30'
 date_updated: '2026-08-01'
 status: to-apply

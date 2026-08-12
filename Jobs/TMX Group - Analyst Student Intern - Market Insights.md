@@ -10,7 +10,7 @@ terms:
 url: https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125
 source: simplify-internships
 listing_id: 3725cd0e-9932-44d8-96f4-2534ae618827
-active: true
+active: false
 date_posted: '2026-08-01'
 date_updated: '2026-08-01'
 status: to-apply

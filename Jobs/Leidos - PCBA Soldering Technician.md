@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Huntsville, AL
 terms: []
-url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309
+url: https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME-2nd-shift-Doldering-Technician_R-00189288
 source: simplify-new-grad
-listing_id: de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c
+listing_id: a99ffc73-8763-4197-a6cb-f51fb7a25acc
 active: true
-date_posted: '2026-07-04'
-date_updated: '2026-07-09'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

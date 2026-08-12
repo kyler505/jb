@@ -1,19 +1,17 @@
 ---
 company: American Electric Power
-role: GIS Technician
-category: internship
+role: GIS Technician Associate
+category: new-grad
 discipline: other
 locations:
-- New Albany, OH
-- Fort Wayne, IN
-terms:
-- N/A
-url: https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/GIS-Technician-Associate_R17615
-source: simplify-internships
-listing_id: 8f3f9db3-31c7-4d2e-aeb1-91b3181c670b
+- Tulsa, OK
+terms: []
+url: https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/GIS-Technician-Assc_R17860
+source: simplify-new-grad
+listing_id: a087e458-a157-42a7-9412-df50760f3f6b
 active: true
-date_posted: '2026-07-30'
-date_updated: '2026-08-01'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,15 +4,15 @@ role: Software Engineer Intern - AML-Engine-Orchestration
 category: internship
 discipline: swe
 locations:
-- San Jose, CA
+- Seattle, WA
 terms:
 - Summer 2027
-url: https://jobs.bytedance.com/en/position/7671162985123907845/detail
+url: https://jobs.bytedance.com/en/position/7672386983965100341/detail
 source: simplify-internships
-listing_id: 7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3
+listing_id: 2ee02d7e-4063-4151-98e1-ea687a3902e6
 active: true
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

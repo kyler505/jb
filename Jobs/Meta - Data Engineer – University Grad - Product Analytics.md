@@ -11,7 +11,7 @@ terms: []
 url: https://www.metacareers.com/jobs/1468691051611430
 source: simplify-new-grad
 listing_id: b303c78e-833c-439d-ae95-e3911da5ceb8
-active: true
+active: false
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
 status: to-apply

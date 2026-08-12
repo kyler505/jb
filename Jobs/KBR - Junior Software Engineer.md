@@ -4,15 +4,14 @@ role: Junior Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Colorado Springs, CO
 - Beavercreek, OH
 terms: []
-url: https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608
+url: https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294
 source: simplify-new-grad
-listing_id: e9b82842-eb2e-41f4-bfce-c4dd1a68c70d
-active: true
-date_posted: '2026-07-17'
-date_updated: '2026-08-01'
+listing_id: a3234be6-d59c-401e-85b3-634d691ce11f
+active: false
+date_posted: '2026-04-20'
+date_updated: '2026-04-20'
 status: to-apply
 applied_date: null
 deadline: null

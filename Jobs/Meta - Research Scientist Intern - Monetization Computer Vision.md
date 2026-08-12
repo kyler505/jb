@@ -13,7 +13,7 @@ terms:
 url: https://www.metacareers.com/jobs/2281218542616482
 source: simplify-internships
 listing_id: ba1e95d6-38c8-4dfd-98bb-f6954a1aaab8
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

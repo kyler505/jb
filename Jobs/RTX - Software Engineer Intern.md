@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Largo, FL
+- Burnsville, MN
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474
 source: simplify-internships
-listing_id: 52462af1-1206-44dd-b198-4abe760812d3
-active: false
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+listing_id: 4e5a3408-a4e1-4fd4-bdc8-f76d25074374
+active: true
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null

@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - SF
 terms: []
-url: https://jobs.lever.co/quantcast/4c579231-9b59-425b-a32f-68b31413e5f8/apply
+url: https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application?embed=true
 source: simplify-new-grad
-listing_id: 11a635ac-05e4-4857-81db-4cc6687bd5e6
+listing_id: 05907ddc-a984-4b76-88f3-e3a1de4c4425
 active: false
-date_posted: '2026-05-06'
-date_updated: '2026-05-06'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 45.0
 ---

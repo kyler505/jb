@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - SF
 terms: []
-url: https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153/application
+url: https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8/application?embed=true
 source: simplify-new-grad
-listing_id: 29013581-abf2-4112-bda4-1f097b45f298
+listing_id: 5ddd9ecb-ced2-4c9d-8d98-a39b73f03884
 active: true
-date_posted: '2026-04-23'
-date_updated: '2026-04-23'
+date_posted: '2026-08-12'
+date_updated: '2026-08-12'
 status: to-apply
 applied_date: null
 deadline: null

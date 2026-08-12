@@ -10,7 +10,7 @@ terms:
 url: https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048
 source: simplify-internships
 listing_id: 9ea4299f-1e3a-45fc-b204-aa0870712b23
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-04'
 status: to-apply

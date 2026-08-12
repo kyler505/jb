@@ -5,14 +5,14 @@ role: Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learnin
 category: new-grad
 discipline: ml
 locations:
-- San Jose, CA
+- Seattle, WA
 terms: []
-url: https://jobs.bytedance.com/en/position/7671095905295075637/detail
+url: https://jobs.bytedance.com/en/position/7672391176102676741/detail
 source: simplify-new-grad
-listing_id: 5a459f2c-547d-4a43-a05e-1e87ef0fee39
+listing_id: 34511b41-e6df-4327-b844-adf04f6f221f
 active: true
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-11'
+date_updated: '2026-08-11'
 status: to-apply
 applied_date: null
 deadline: null
