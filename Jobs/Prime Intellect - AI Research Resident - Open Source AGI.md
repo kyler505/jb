@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/PrimeIntellect/afa6079a-5a35-4f90-ba88-780e4d36112f/application?embed=true
 source: simplify-internships
 listing_id: a8f12fe0-48d1-413b-8917-7a8890b19e5f
-active: true
+active: false
 date_posted: '2026-03-27'
 date_updated: '2026-07-16'
 status: to-apply

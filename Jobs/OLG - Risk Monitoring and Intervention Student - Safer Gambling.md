@@ -11,7 +11,7 @@ terms:
 url: https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555
 source: simplify-internships
 listing_id: 289e1c66-a2ae-49f2-a0f4-7b6e82152ecd
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://careers-stifel.icims.com/jobs/9660/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: f59ab29a-8362-482a-8cfb-4f96dd409f77
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

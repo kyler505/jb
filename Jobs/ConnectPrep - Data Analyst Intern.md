@@ -8,19 +8,14 @@ locations:
 - Remote in USA
 terms:
 - Fall 2026
-url: https://apply.workable.com/connectprep/j/C0CA13664F/apply
+url: https://apply.workable.com/connectprep/j/D1C67258C0/apply
 source: simplify-internships
-listing_id: a6f6dea0-a60c-411e-b4f6-09d69755164b
-active: true
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
-status: skipped
+listing_id: 6fcc37f1-f667-4483-a39c-eea9d0bbc924
+active: false
+date_posted: '2026-08-13'
+date_updated: '2026-08-13'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-needs_review: false
-apply_method: none
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
-priority: 52.96
-apply_result: skipped
 ---

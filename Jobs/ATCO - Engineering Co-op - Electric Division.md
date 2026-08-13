@@ -19,7 +19,7 @@ terms:
 url: https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508
 source: simplify-internships
 listing_id: 152f0dd1-e6c5-4072-8a15-e122312fc5c7
-active: false
+active: true
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

@@ -15,7 +15,7 @@ terms:
 url: https://jobs.smartrecruiters.com/WesternDigital/744000138727213
 source: simplify-internships
 listing_id: 01925f31-564d-4bc0-94fc-2a2717d3132d
-active: true
+active: false
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

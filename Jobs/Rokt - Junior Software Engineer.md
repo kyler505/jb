@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/rokt/j/783A754DDB/apply
 source: simplify-new-grad
 listing_id: acc77914-fec3-476d-9bcc-0804776e7465
-active: true
+active: false
 date_posted: '2026-04-16'
 date_updated: '2026-04-16'
 status: to-apply

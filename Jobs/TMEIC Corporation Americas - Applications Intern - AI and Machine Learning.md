@@ -6,13 +6,13 @@ discipline: ml
 locations:
 - Roanoke, VA
 terms:
-- Summer 2026
-url: https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/apply
+- Summer 2027
+url: https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply
 source: simplify-internships
-listing_id: aedb4915-aa4d-46c4-9e18-d1b6144d3a70
+listing_id: 6a24db4e-df46-4cfb-94c1-a7709787033d
 active: false
-date_posted: '2026-08-08'
-date_updated: '2026-08-08'
+date_posted: '2026-08-12'
+date_updated: '2026-08-12'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610002588
 source: simplify-new-grad
 listing_id: d57d8dae-f824-4c62-94e2-ab9869cf39ae
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply

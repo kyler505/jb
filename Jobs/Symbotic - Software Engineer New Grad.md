@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Burlington, MA
 terms: []
-url: https://simplify.jobs/c/symbotic
+url: https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770
 source: simplify-new-grad
-listing_id: fd2d78e0-deed-995a-cf4a-9d5a73e91aac
-active: false
-date_posted: null
-date_updated: null
+listing_id: 7b26d568-7721-45b7-ad28-66f8775408d4
+active: true
+date_posted: '2026-05-19'
+date_updated: '2026-05-19'
 status: to-apply
 applied_date: null
 deadline: null

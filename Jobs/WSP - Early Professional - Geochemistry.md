@@ -11,7 +11,7 @@ terms: []
 url: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91284
 source: simplify-new-grad
 listing_id: c2567c1b-f496-475c-89ca-09b9817084df
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

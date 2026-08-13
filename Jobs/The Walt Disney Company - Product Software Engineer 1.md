@@ -4,17 +4,16 @@ role: Product Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Bristol, CT
+- Glendale, CA
 terms: []
-url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/Product-Software-Engineer-I_10155293
+url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599
 source: simplify-new-grad
-listing_id: 6e9691c1-0e30-488d-8026-d2294ff808ae
+listing_id: 12b0c4cc-55d1-42fd-a6ad-d544d2b42999
 active: false
-date_posted: '2026-07-10'
-date_updated: '2026-07-10'
+date_posted: '2026-06-18'
+date_updated: '2026-06-18'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 55.36
 ---

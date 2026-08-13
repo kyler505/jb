@@ -4,14 +4,15 @@ role: GPU Verification Engineer New Grad
 category: new-grad
 discipline: other
 locations:
+- Santa Clara, CA
 - Westford, MA
 terms: []
-url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102
+url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2023187
 source: simplify-new-grad
-listing_id: a01bab97-c16e-479a-a759-fe6c004b0b0f
+listing_id: c5d7115a-0381-48fe-937d-74497a7da062
 active: true
-date_posted: '2026-07-24'
-date_updated: '2026-07-24'
+date_posted: '2026-08-12'
+date_updated: '2026-08-12'
 status: to-apply
 applied_date: null
 deadline: null

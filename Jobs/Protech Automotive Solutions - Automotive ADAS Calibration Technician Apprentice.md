@@ -4,14 +4,14 @@ role: Automotive ADAS Calibration Technician Apprentice
 category: internship
 discipline: other
 locations:
-- Tampa, FL
+- Canton, PA
 terms:
 - Fall 2026
-url: https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Tampa/Automotive-ADAS-Calibration-Technician-Apprentice_R0217941
+url: https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Canton/Automotive-ADAS-Calibration-Technician-Apprentice_R0221001
 source: simplify-internships
-listing_id: dd115846-414f-4a92-b7d1-b2079912aecb
-active: true
-date_posted: '2026-07-04'
+listing_id: 010aad27-346a-4bbd-a4b0-276986aaa169
+active: false
+date_posted: '2026-07-14'
 date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
