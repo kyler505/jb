@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/Canva/6000000001295209
 source: simplify-internships
 listing_id: 24e7466f-1151-4ad5-80f0-97bc9df8d2c8
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

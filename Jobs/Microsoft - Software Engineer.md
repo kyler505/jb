@@ -6,15 +6,14 @@ discipline: swe
 locations:
 - Redmond, WA
 terms: []
-url: https://apply.careers.microsoft.com/careers/job/1970393556932425
+url: https://apply.careers.microsoft.com/careers/job/1970393556960468
 source: simplify-new-grad
-listing_id: 3aa50c82-9381-4d06-bbd0-5f063ed38312
+listing_id: 52313b30-cb01-42d0-9c7e-e101d5417aa5
 active: false
-date_posted: '2026-07-15'
-date_updated: '2026-07-16'
+date_posted: '2026-08-13'
+date_updated: '2026-08-13'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 55.87
 ---

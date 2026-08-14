@@ -10,7 +10,7 @@ terms:
 url: https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1
 source: simplify-internships
 listing_id: 0988d1cc-3a7b-4621-84fc-6367ac9218d9
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

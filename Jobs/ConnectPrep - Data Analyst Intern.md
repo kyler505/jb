@@ -11,7 +11,7 @@ terms:
 url: https://apply.workable.com/connectprep/j/D1C67258C0/apply
 source: simplify-internships
 listing_id: 6fcc37f1-f667-4483-a39c-eea9d0bbc924
-active: false
+active: true
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

@@ -6,12 +6,12 @@ discipline: other
 locations:
 - San Diego, CA
 terms: []
-url: https://qualcomm.eightfold.ai/careers/job/446719764029
+url: https://qualcomm.eightfold.ai/careers/job/446718288363
 source: simplify-new-grad
-listing_id: b90d0e96-8ea2-42f6-8276-dbf324c80154
+listing_id: 767d1491-f472-4664-be9c-276d9f8aa535
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

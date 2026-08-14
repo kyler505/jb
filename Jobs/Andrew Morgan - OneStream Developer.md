@@ -6,20 +6,14 @@ discipline: swe
 locations:
 - Remote in USA
 terms: []
-url: https://andrew-morgan.com/current-openings/?gh_jid=5288472008
+url: https://andrew-morgan.com/current-openings/?gh_jid=5389586008
 source: simplify-new-grad
-listing_id: 617b7d9e-74a5-491a-a658-e4dec4262c68
-active: true
-date_posted: '2026-07-01'
-date_updated: '2026-07-02'
-status: skipped
+listing_id: eaa09253-ead5-4d61-9b1c-6aaeeb8e0187
+active: false
+date_posted: '2026-08-13'
+date_updated: '2026-08-13'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-needs_review: false
-apply_result: skipped
-apply_method: none
-resume_used: resume.pdf
-priority: 56.41
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

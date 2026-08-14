@@ -10,7 +10,7 @@ terms:
 url: https://careers-sri.icims.com/jobs/6431/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

@@ -6,12 +6,12 @@ discipline: hardware
 locations:
 - San Jose, CA
 terms: []
-url: https://jobs.bytedance.com/en/position/7670331401866692917/detail
+url: https://jobs.bytedance.com/en/position/7673667614757374213/detail
 source: simplify-new-grad
-listing_id: c64805ee-9f23-4a5f-8ee4-84449bbe7334
+listing_id: 15d7c999-27e0-4216-a992-2ab4567f9cd7
 active: true
-date_posted: '2026-08-12'
-date_updated: '2026-08-12'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

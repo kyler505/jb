@@ -13,7 +13,7 @@ terms:
 url: https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844
 source: simplify-internships
 listing_id: 7e0fee85-6b27-4c02-a943-7b7b47f28ebd
-active: true
+active: false
 date_posted: '2025-12-16'
 date_updated: '2025-12-16'
 status: to-apply

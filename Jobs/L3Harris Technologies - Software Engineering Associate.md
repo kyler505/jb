@@ -4,14 +4,14 @@ role: Software Engineering Associate
 category: new-grad
 discipline: swe
 locations:
-- Palm Bay, FL
+- Reston, VA
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1415121000/?ats=successfactors
+url: https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors
 source: simplify-new-grad
-listing_id: 32454ba7-65f7-4f9e-bf73-84e8b10d5a50
+listing_id: f49965a8-66d7-460e-aefb-c756911f4dff
 active: false
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+date_posted: '2026-07-31'
+date_updated: '2026-07-31'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/LinkedIn3/517e679d-be36-45ce-ab17-7c44eb8279ed
 source: simplify-internships
 listing_id: 321d806d-2a18-4acd-98ff-ece4997d6e20
-active: true
+active: false
 date_posted: '2025-12-16'
 date_updated: '2025-12-16'
 status: to-apply

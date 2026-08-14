@@ -4,14 +4,14 @@ role: Telematics Installer
 category: new-grad
 discipline: other
 locations:
-- El Dorado, AR
+- Menomonee Falls, WI
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=8122738
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=8128747
 source: simplify-new-grad
-listing_id: ed99f894-33b4-40c9-8fc2-54c194c9e047
+listing_id: 07afa69b-b29f-4ad6-9c89-3dcd26e8bec5
 active: true
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

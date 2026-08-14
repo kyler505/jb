@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Charleston, SC
 terms: []
-url: https://cni.wd503.myworkdayjobs.com/CNI/job/Charleston-SC/Electronics-Technician-I_R9304
+url: https://cni.wd503.myworkdayjobs.com/CNI/job/Charleston-SC/Electronics-Technician-I_R9384
 source: simplify-new-grad
-listing_id: 2c650681-005d-4288-b77d-4e7670c5c27b
-active: true
-date_posted: '2026-07-31'
-date_updated: '2026-07-31'
+listing_id: 9243eeb5-1f5d-43d2-8ac1-973823f754f4
+active: false
+date_posted: '2026-08-13'
+date_updated: '2026-08-13'
 status: to-apply
 applied_date: null
 deadline: null

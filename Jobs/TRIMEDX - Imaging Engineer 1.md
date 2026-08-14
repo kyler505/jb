@@ -4,14 +4,14 @@ role: Imaging Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Berkeley Springs, WV
+- Norfolk, VA
 terms: []
-url: https://trimedx.wd1.myworkdayjobs.com/TMX/job/Cumberland-MD/Imaging-Engineer-II_R13365
+url: https://trimedx.wd1.myworkdayjobs.com/TMX/job/Norfolk-VA/Imaging-Engineer-I_R14640
 source: simplify-new-grad
-listing_id: 5cf7292a-d6f4-4417-a796-6b777d9976f3
+listing_id: be93461b-6a60-4a5d-b44b-bd7b5b06958a
 active: false
-date_posted: '2026-06-27'
-date_updated: '2026-07-21'
+date_posted: '2026-08-04'
+date_updated: '2026-08-13'
 status: to-apply
 applied_date: null
 deadline: null

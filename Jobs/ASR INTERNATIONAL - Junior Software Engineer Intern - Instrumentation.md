@@ -9,7 +9,7 @@ terms: []
 url: https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior
 source: simplify-new-grad
 listing_id: 08cca5ea-66d4-4c06-bc78-8aa1c6a832e4
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

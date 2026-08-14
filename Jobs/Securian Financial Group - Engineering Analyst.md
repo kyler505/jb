@@ -9,7 +9,7 @@ terms: []
 url: https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst_R-010805
 source: simplify-new-grad
 listing_id: 61b8359d-6611-4e4e-af7f-469b630f576e
-active: true
+active: false
 date_posted: '2026-08-12'
 date_updated: '2026-08-12'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist-Apparel_R262420-1
 source: simplify-new-grad
 listing_id: a531cd4d-7bc9-44db-99b9-2078d95dea13
-active: true
+active: false
 date_posted: '2026-08-06'
 date_updated: '2026-08-06'
 status: to-apply

@@ -4,14 +4,14 @@ role: Manufacturing Technician A
 category: new-grad
 discipline: other
 locations:
-- Cincinnati, OH
+- Rochester, NY
 terms: []
-url: https://jobs.l3harris.com/job/Cincinnati-Manufacturing-Technician-A-OH-45245/1381016500/?ats=successfactors
+url: https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-A-NY-14623/1419256300/?ats=successfactors
 source: simplify-new-grad
-listing_id: c54dd5da-9c9c-41c7-b65d-3a1f635afc79
+listing_id: 7f0878a6-efe0-4c9f-8b55-1b2b11300461
 active: false
-date_posted: '2026-05-16'
-date_updated: '2026-05-16'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

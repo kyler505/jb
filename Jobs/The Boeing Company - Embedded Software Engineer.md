@@ -4,14 +4,15 @@ role: Embedded Software Engineer
 category: new-grad
 discipline: hardware
 locations:
-- Long Beach, CA
+- Berkeley, MO
+- Hazelwood, MO
 terms: []
-url: https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer--Associate-or-Experienced-_JR2026517692
+url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1
 source: simplify-new-grad
-listing_id: 39cd8c55-18b0-44a0-80df-a67f7656329b
+listing_id: 7fdbff33-ffe2-4d3f-b846-0ae624da19ff
 active: false
-date_posted: '2026-07-09'
-date_updated: '2026-07-10'
+date_posted: '2026-08-13'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

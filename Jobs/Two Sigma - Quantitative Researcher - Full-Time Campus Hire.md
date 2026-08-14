@@ -9,7 +9,7 @@ terms: []
 url: https://twosigma.avature.net/careers/JobDetail/13946
 source: simplify-new-grad
 listing_id: 701b131c-8006-40ac-a07c-5d5d37bd080e
-active: true
+active: false
 date_posted: '2026-08-02'
 date_updated: '2026-08-08'
 status: to-apply

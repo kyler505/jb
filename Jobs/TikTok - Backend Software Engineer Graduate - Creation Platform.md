@@ -6,12 +6,12 @@ discipline: backend
 locations:
 - San Jose, CA
 terms: []
-url: https://lifeattiktok.com/search/7670292836050422021
+url: https://lifeattiktok.com/search/7673669198965278981
 source: simplify-new-grad
-listing_id: 2841155f-a6b5-417e-850c-c1fc194c2d3c
+listing_id: 99d4157b-10cb-42d0-88ff-db290cc271f9
 active: true
-date_posted: '2026-08-12'
-date_updated: '2026-08-12'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null
