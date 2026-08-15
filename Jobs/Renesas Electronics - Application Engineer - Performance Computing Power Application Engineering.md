@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/RenesasElectronics/744000143318619
 source: simplify-new-grad
 listing_id: 446febb4-b44b-4e23-bd24-9d5be19954c1
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

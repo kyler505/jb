@@ -16,7 +16,7 @@ terms: []
 url: https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Private-Credit--Investment-Analyst-Program_R-124650
 source: simplify-new-grad
 listing_id: 822d4395-6c6b-4355-b45c-19eba270d1f3
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

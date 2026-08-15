@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Annapolis, MD
+- San Jose, CA
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392
 source: simplify-internships
-listing_id: 58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7
-active: false
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+listing_id: aa0ebb73-f646-4f78-ac9d-900e2925f3e9
+active: true
+date_posted: '2026-08-14'
+date_updated: '2026-08-15'
 status: to-apply
 applied_date: null
 deadline: null

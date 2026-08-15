@@ -4,14 +4,14 @@ role: Data Collection Operator - Optimus
 category: new-grad
 discipline: other
 locations:
-- Doral, FL
+- Draper, UT
 terms: []
-url: https://www.tesla.com/careers/search/job/279361
+url: https://www.tesla.com/careers/search/job/272817
 source: simplify-new-grad
-listing_id: 5a8a7ba1-2464-4dc8-995e-4cd08627650e
+listing_id: 39f8a5fb-c056-4d0f-8325-830b6ca2205d
 active: true
-date_posted: '2026-08-06'
-date_updated: '2026-08-06'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

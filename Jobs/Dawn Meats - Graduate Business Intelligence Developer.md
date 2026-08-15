@@ -11,7 +11,7 @@ terms: []
 url: https://graduate-roi-dawnmeats.icims.com/jobs/5282/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 7cc701f0-5ded-4485-9951-832941911f1d
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

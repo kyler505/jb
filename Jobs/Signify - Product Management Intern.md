@@ -10,7 +10,7 @@ terms:
 url: https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521
 source: simplify-internships
 listing_id: 53b05ee3-6604-4622-a8aa-3ec9ea7bfde6
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-16'
 status: to-apply

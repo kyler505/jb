@@ -10,7 +10,7 @@ terms:
 url: https://johndeere.eightfold.ai/careers/job/137482642817
 source: simplify-internships
 listing_id: 17936a1f-6724-46a7-a97a-6feceb9c2a92
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

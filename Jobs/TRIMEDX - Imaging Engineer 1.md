@@ -9,7 +9,7 @@ terms: []
 url: https://trimedx.wd1.myworkdayjobs.com/TMX/job/Norfolk-VA/Imaging-Engineer-I_R14640
 source: simplify-new-grad
 listing_id: be93461b-6a60-4a5d-b44b-bd7b5b06958a
-active: false
+active: true
 date_posted: '2026-08-04'
 date_updated: '2026-08-13'
 status: to-apply

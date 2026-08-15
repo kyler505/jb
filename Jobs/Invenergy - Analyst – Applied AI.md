@@ -9,7 +9,7 @@ terms: []
 url: https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Applied-AI_R11094-1
 source: simplify-new-grad
 listing_id: 5603bb21-2506-46bb-90cf-2cc47b3c471e
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

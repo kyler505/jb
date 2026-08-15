@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- West Valley City, UT
+- East Hartford, CT
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467
 source: simplify-new-grad
-listing_id: 00a986b7-fbb6-4c37-9e5c-e326452abc8b
+listing_id: f4cc51bc-a3b3-4c1b-a7df-08cdc2293da4
 active: true
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-14'
+date_updated: '2026-08-15'
 status: to-apply
 applied_date: null
 deadline: null

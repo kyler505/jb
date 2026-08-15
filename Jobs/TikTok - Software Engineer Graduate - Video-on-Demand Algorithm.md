@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - San Jose, CA
 terms: []
-url: https://lifeattiktok.com/search/7670282906426476853
+url: https://lifeattiktok.com/search/7673674249270839557
 source: simplify-new-grad
-listing_id: 6eee6f4b-bc6f-4aab-87e5-c10dbbfed41a
+listing_id: 87d1b39d-5c83-431c-9e1f-bc13469fde4b
 active: true
-date_posted: '2026-08-12'
-date_updated: '2026-08-12'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

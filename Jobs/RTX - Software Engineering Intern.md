@@ -4,15 +4,15 @@ role: Software Engineering Intern
 category: internship
 discipline: swe
 locations:
-- El Segundo, CA
+- Tucson, AZ
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01865025
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineering-Intern--Summer-2027-_01866777
 source: simplify-internships
-listing_id: 41b56c92-c264-49ff-abb9-86b1d910b890
+listing_id: dfbe29a3-2c22-426e-9544-2185963e401f
 active: false
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+date_posted: '2026-08-14'
+date_updated: '2026-08-15'
 status: to-apply
 applied_date: null
 deadline: null

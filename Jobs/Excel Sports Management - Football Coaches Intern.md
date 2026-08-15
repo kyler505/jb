@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4718768005
 source: simplify-internships
 listing_id: 916fc67e-6e47-46e3-b796-7f0f0b45a65a
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

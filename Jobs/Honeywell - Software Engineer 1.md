@@ -6,10 +6,10 @@ discipline: swe
 locations:
 - Richmond, VA
 terms: []
-url: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551
+url: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664
 source: simplify-new-grad
-listing_id: ea670782-222f-4f9d-8ca8-8d6120478821
-active: false
+listing_id: a3a958d6-27dc-4ec5-9de4-764a76e85624
+active: true
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

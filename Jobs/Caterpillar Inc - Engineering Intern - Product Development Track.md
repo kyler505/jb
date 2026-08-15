@@ -26,7 +26,7 @@ terms:
 url: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479
 source: simplify-internships
 listing_id: b36e0497-4128-473a-8643-099bbb5c9d0e
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

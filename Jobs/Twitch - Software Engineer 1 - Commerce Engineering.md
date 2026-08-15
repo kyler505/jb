@@ -7,9 +7,9 @@ locations:
 - Seattle, WA
 - SF
 terms: []
-url: https://job-boards.greenhouse.io/twitch/jobs/8459320002
+url: https://job-boards.greenhouse.io/twitch/jobs/8457711002
 source: simplify-new-grad
-listing_id: d44042f6-e655-4729-ac89-d1b336b02aeb
+listing_id: da4700de-48be-43db-a6c2-b9fa2038a4e0
 active: false
 date_posted: '2026-03-25'
 date_updated: '2026-03-25'

@@ -4,15 +4,15 @@ role: Software Engineer Intern - Summer 2027
 category: internship
 discipline: swe
 locations:
-- Annapolis, MD
+- Cedar Rapids, IA
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864370
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129
 source: simplify-internships
-listing_id: 45df96a1-aefa-4c09-ae4c-5c32680da300
+listing_id: 44a036f1-8b46-4596-939b-e10b3f0e8761
 active: false
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-14'
+date_updated: '2026-08-15'
 status: to-apply
 applied_date: null
 deadline: null

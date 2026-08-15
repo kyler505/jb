@@ -4,14 +4,14 @@ role: Field Service Technician 1
 category: new-grad
 discipline: other
 locations:
-- Bossier City, LA
+- Auburn, WA
 terms: []
-url: https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bossier-City-Louisiana/Field-Service-Technician-I_JR-202819-1
+url: https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Auburn-Washington/Field-Service-Technician-I---Auburn--WA_JR-206505-2
 source: simplify-new-grad
-listing_id: cdd545e4-0b45-488d-9f81-ce9506db3ea7
+listing_id: 97ade5b4-d7b8-4b23-b6db-9219ce77c3b8
 active: true
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-14'
+date_updated: '2026-08-15'
 status: to-apply
 applied_date: null
 deadline: null

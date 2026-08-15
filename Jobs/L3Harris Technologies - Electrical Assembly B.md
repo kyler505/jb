@@ -4,14 +4,14 @@ role: Electrical Assembly B
 category: new-grad
 discipline: other
 locations:
-- Cincinnati, OH
+- Amityville, NY
 terms: []
-url: https://jobs.l3harris.com/job/Cincinnati-Assembly-B-OH-45245/1416843300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Amityville-Electrical-Assembly-B-NY-11701/1419614600/?ats=successfactors
 source: simplify-new-grad
-listing_id: d4fdab49-1570-4082-8697-7a9ae04f1d31
+listing_id: f76a8fba-e4fa-40ad-9f14-b3b24b05b37c
 active: false
-date_posted: '2026-08-06'
-date_updated: '2026-08-06'
+date_posted: '2026-08-14'
+date_updated: '2026-08-14'
 status: to-apply
 applied_date: null
 deadline: null

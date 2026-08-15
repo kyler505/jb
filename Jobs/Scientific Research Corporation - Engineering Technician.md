@@ -9,7 +9,7 @@ terms: []
 url: https://careers-scires.icims.com/jobs/11292/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: e7599fb7-d6d6-4f20-84ba-6cde4771e28e
-active: false
+active: true
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply
