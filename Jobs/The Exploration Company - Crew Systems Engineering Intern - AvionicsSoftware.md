@@ -11,7 +11,7 @@ terms:
 url: https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824
 source: simplify-internships
 listing_id: a90e94a6-f0e5-4b60-b6bf-9fa45dfe9400
-active: true
+active: false
 date_posted: '2025-12-18'
 date_updated: '2025-12-18'
 status: to-apply

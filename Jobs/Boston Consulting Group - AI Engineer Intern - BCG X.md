@@ -10,7 +10,7 @@ terms:
 url: https://careers.bcg.com/global/en/job/56635
 source: simplify-internships
 listing_id: aba3cf97-4ffd-4dce-876d-ab3305231512
-active: false
+active: true
 date_posted: '2026-01-24'
 date_updated: '2026-01-24'
 status: to-apply

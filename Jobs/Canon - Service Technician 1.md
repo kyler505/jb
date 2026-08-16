@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Coppell, TX
 terms: []
-url: https://external-canoncareers.icims.com/jobs/34493/job?mobile=true&needsRedirect=false
+url: https://external-canoncareers.icims.com/jobs/34568/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: f4ad704c-86be-4c36-bcb2-cdd53569377a
+listing_id: 717279b5-3392-4184-8ec5-92924c627291
 active: false
-date_posted: '2026-06-19'
-date_updated: '2026-06-19'
+date_posted: '2026-08-15'
+date_updated: '2026-08-15'
 status: to-apply
 applied_date: null
 deadline: null

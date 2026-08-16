@@ -22,10 +22,10 @@ notes: '2026-06-26 retry with NopeCHA: form filled (4 fields) + resume attached,
   may be AJAX-based and silently failing.'
 resume_used: resume
 apply_error: _handle_generic() takes 3 positional arguments but 4 were given
-needs_review: true
-apply_result: exception
 priority: 58.41
+apply_result: exception
 apply_method: auto
+needs_review: true
 ---
 
 ## Application 2026-06-26

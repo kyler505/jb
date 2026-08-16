@@ -20,10 +20,10 @@ deadline: null
 notes: null
 resume_used: resume.pdf
 apply_error: rate_limit_ashby
-needs_review: false
-apply_result: skipped
 priority: 50.48
+apply_result: skipped
 apply_method: none
+needs_review: false
 ---
 
 ## Application 2026-06-16
