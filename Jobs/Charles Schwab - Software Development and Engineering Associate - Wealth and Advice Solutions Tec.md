@@ -10,7 +10,7 @@ terms: []
 url: https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 952bbac0-18af-4767-b6a2-6d9e3639a5af
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

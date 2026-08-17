@@ -1,14 +1,14 @@
 ---
 company: TikTok
-role: Machine Learning Engineer Graduate - E-Commerce Governance
+role: Data Scientist Graduate - E-Commerce Governance
 category: new-grad
-discipline: ml
+discipline: data
 locations:
-- San Jose, CA
+- Seattle, WA
 terms: []
-url: https://lifeattiktok.com/search/7674023327725373701
+url: https://lifeattiktok.com/search/7674027218993154357
 source: simplify-new-grad
-listing_id: 4d762004-fbe7-46b2-bdcf-3c4e02d54b87
+listing_id: 61daacb8-5db1-4ec7-8473-706c85ee08f5
 active: true
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'

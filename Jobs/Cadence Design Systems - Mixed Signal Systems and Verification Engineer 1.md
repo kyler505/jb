@@ -9,7 +9,7 @@ terms: []
 url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Mixed-Signal-Systems-and-Verification-Engineer-II_R54499
 source: simplify-new-grad
 listing_id: 593ccbef-43ad-478e-abd0-540b2050b9a3
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-07-22'
 status: to-apply

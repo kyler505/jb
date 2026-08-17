@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/katalyst/jobs/6115352004
 source: simplify-new-grad
 listing_id: 68a6a4dc-3fdb-4b12-83f1-c98c75b2761c
-active: true
+active: false
 date_posted: '2026-07-14'
 date_updated: '2026-07-14'
 status: to-apply

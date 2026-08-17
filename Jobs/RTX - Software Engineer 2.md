@@ -4,14 +4,14 @@ role: Software Engineer 2
 category: new-grad
 discipline: swe
 locations:
-- Windsor Locks, CT
+- Cambridge, MA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineer-II--Onsite-_01866058
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Sotware-Engineer-II_01852180-1
 source: simplify-new-grad
-listing_id: d88eebe6-df37-4f62-853a-5388c28443c0
-active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+listing_id: f869bd1d-ad1f-4787-b2e3-56ad4eb4d7fa
+active: false
+date_posted: '2026-07-04'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

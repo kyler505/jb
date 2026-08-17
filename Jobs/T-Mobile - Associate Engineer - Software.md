@@ -9,7 +9,7 @@ terms: []
 url: https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ367425-1
 source: simplify-new-grad
 listing_id: 49a0cdeb-234c-424e-bf83-6b00a8e87119
-active: true
+active: false
 date_posted: '2026-08-12'
 date_updated: '2026-08-12'
 status: to-apply

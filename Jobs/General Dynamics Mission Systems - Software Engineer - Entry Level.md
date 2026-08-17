@@ -4,21 +4,16 @@ role: Software Engineer - Entry Level
 category: new-grad
 discipline: swe
 locations:
-- Pittsfield, MA
+- Scottsdale, AZ
 terms: []
-url: https://careers-gdms.icims.com/jobs/72777/job?mobile=true&needsRedirect=false
+url: https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 997aafb0-a726-4bee-b1b1-a0f7f1674b90
+listing_id: 2ab3ea47-41c1-46b3-8932-fedbbb55e1cd
 active: false
-date_posted: '2026-05-27'
-date_updated: '2026-05-27'
-status: skipped
+date_posted: '2026-08-16'
+date_updated: '2026-08-16'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-needs_review: false
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
-apply_method: none
-priority: 45.17
-apply_result: skipped
 ---
