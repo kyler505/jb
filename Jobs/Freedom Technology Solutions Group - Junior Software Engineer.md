@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007
 source: simplify-new-grad
 listing_id: de2dabaf-389f-4f67-bf9d-1414cfa393fe
-active: true
+active: false
 date_posted: '2026-03-25'
 date_updated: '2026-03-25'
 status: to-apply

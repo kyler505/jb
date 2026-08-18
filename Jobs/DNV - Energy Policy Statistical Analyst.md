@@ -15,7 +15,7 @@ terms: []
 url: https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7279
 source: simplify-new-grad
 listing_id: 63faf96c-9039-47fc-94b8-cbb950ddc82f
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

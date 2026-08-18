@@ -9,7 +9,7 @@ terms: []
 url: https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Space-Intelligence_Req178898-1
 source: simplify-new-grad
 listing_id: c1b62322-6a6c-4f98-812e-a753548b255c
-active: true
+active: false
 date_posted: '2026-04-30'
 date_updated: '2026-04-30'
 status: to-apply

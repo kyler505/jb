@@ -4,14 +4,14 @@ role: Dynamic PC Support
 category: new-grad
 discipline: other
 locations:
-- Phoenix, AZ
+- Boston, MA
 terms: []
-url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000137710164
+url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000143893574
 source: simplify-new-grad
-listing_id: 43bf2600-6a5d-4ccb-8c69-5504ee40fbce
+listing_id: 098e359a-0b08-476a-84c5-19f28a7df0d6
 active: true
-date_posted: '2026-07-14'
-date_updated: '2026-07-14'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1
 source: simplify-internships
 listing_id: 1d141ae3-445d-4c73-a4f0-91e749a0625b
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

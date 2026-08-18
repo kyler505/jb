@@ -16,10 +16,10 @@ status: skipped
 applied_date: null
 deadline: null
 notes: null
-needs_review: false
 priority: 50.34
-apply_method: none
-apply_result: skipped
 apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
+apply_result: skipped
 resume_used: resume.pdf
+needs_review: false
+apply_method: none
 ---

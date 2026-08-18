@@ -6,15 +6,14 @@ discipline: ml
 locations:
 - Mountain View, CA
 terms: []
-url: https://x.company/careers/8633983002?gh_jid=8633983002
+url: https://x.company/careers/8722582002?gh_jid=8722582002
 source: simplify-new-grad
-listing_id: ec6787f1-d9ad-4f43-b1cd-83f7db32213b
+listing_id: 928375ff-0f40-4367-9048-64370c630dbf
 active: false
-date_posted: '2026-07-15'
-date_updated: '2026-07-15'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 56.11
 ---

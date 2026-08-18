@@ -6,12 +6,12 @@ discipline: data
 locations:
 - Boston, MA
 terms: []
-url: https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Data-Analyst-I_RQ4073540
+url: https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086
 source: simplify-new-grad
-listing_id: 11dd6d55-4868-4e2f-b8be-3b1001c12ed8
+listing_id: a767a566-2d90-4918-92d4-af53aaa4a6a1
 active: false
-date_posted: '2026-07-30'
-date_updated: '2026-07-30'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

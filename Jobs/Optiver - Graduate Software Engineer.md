@@ -4,14 +4,14 @@ role: Graduate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Chicago, IL
+- London, UK
 terms: []
-url: https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002
+url: https://www.optiver.com/join-us/jobs/8561859002/?gh_jid=8561859002
 source: simplify-new-grad
-listing_id: 1e2b7529-adf7-49ab-8d4a-8979fab4e3e9
+listing_id: ade12fd2-c7ac-4bc6-973c-8734cf02e04d
 active: true
-date_posted: '2026-07-01'
-date_updated: '2026-07-01'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,14 @@ role: Simulator Technician
 category: new-grad
 discipline: other
 locations:
-- Eagan, MN
+- Sanford, FL
 terms: []
-url: https://cae.wd3.myworkdayjobs.com/career/job/Eagan/Simulator-Technician_122751
+url: https://cae.wd3.myworkdayjobs.com/career/job/Sanford-Orlando/Simulator-Technician_122223-1
 source: simplify-new-grad
-listing_id: 6fa17c31-6066-4688-a168-04d1fec5ee35
+listing_id: 1e32932d-d188-47b0-aca1-96e46e0b727a
 active: false
-date_posted: '2026-08-04'
-date_updated: '2026-08-04'
+date_posted: '2026-07-01'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

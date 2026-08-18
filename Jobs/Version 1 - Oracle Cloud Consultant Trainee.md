@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Belfast, UK
 terms: []
-url: https://jobs.smartrecruiters.com/Version1/744000142863154
+url: https://jobs.smartrecruiters.com/Version1/744000144013276
 source: simplify-new-grad
-listing_id: ea544e9d-654b-4fd3-80f7-6c7cebe89cc1
+listing_id: 8473c813-9988-4e76-a914-5a950ee18399
 active: false
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

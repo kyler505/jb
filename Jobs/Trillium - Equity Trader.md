@@ -8,12 +8,12 @@ locations:
 - Chicago, IL
 - NYC
 terms: []
-url: https://www.trlm.com/apply/5191106007?gh_jid=5191106007
+url: https://www.trlm.com/apply/5191110007?gh_jid=5191110007
 source: simplify-new-grad
-listing_id: 1518339f-2ab8-4eb1-a263-aced593848e5
+listing_id: a00101f6-5c51-4a7d-a424-e3f3a7ac8a16
 active: true
 date_posted: '2026-07-30'
-date_updated: '2026-07-30'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

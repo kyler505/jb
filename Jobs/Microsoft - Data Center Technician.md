@@ -4,14 +4,14 @@ role: Data Center Technician
 category: new-grad
 discipline: other
 locations:
-- Newport, UK
+- Dulles, VA
 terms: []
-url: https://apply.careers.microsoft.com/careers/job/1970393556937952
+url: https://apply.careers.microsoft.com/careers/job/1970393556971487
 source: simplify-new-grad
-listing_id: 4f971efb-9f44-4d59-b6d4-1beacb6b5136
+listing_id: 3e312320-0a40-44a6-84bd-83cd736fdf2c
 active: true
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

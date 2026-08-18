@@ -1,18 +1,17 @@
 ---
 company: L3Harris Technologies
 role: Associate Integration and Test Engineering
-category: internship
+category: new-grad
 discipline: other
 locations:
-- Northampton, MA
-terms:
-- N/A
-url: https://jobs.l3harris.com/job/Northampton-Associate,-Integration-and-Test-Engineering-MA-01060/1412685600/?ats=successfactors
-source: simplify-internships
-listing_id: d378c42b-5e79-40b8-91ea-020a28e4bc43
+- Palm Bay, FL
+terms: []
+url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-and-Test-Engineering-FL-32905/1420079000/?ats=successfactors
+source: simplify-new-grad
+listing_id: 1970a20b-652d-4272-8755-26ad35432a5b
 active: false
-date_posted: '2026-07-27'
-date_updated: '2026-07-27'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

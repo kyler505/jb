@@ -10,7 +10,7 @@ terms:
 url: https://pictonmahoney.bamboohr.com/careers/356/
 source: simplify-internships
 listing_id: a4e3a190-9d69-4f63-b959-816725dea114
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

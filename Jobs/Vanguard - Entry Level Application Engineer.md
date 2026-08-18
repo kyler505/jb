@@ -4,14 +4,14 @@ role: Entry Level Application Engineer
 category: new-grad
 discipline: other
 locations:
-- Charlotte, NC
+- Malvern, PA
 terms: []
-url: https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1
+url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1
 source: simplify-new-grad
-listing_id: 75aa7777-17b6-4d18-aee4-1c1eec8392e7
+listing_id: 034062ca-af46-4066-a960-533d027a734f
 active: false
-date_posted: '2026-07-24'
-date_updated: '2026-07-25'
+date_posted: '2026-08-17'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

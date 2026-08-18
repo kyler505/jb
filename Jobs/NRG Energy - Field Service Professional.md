@@ -4,14 +4,14 @@ role: Field Service Professional
 category: new-grad
 discipline: other
 locations:
-- Rocky Mount, NC
+- St Cloud, MN
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Rocky-Mount-Field-Service-Professional-Rocky-Mount,-NC-NC-27801/1419293200/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Cloud-Field-Service-Professional-Saint-Cloud,-MN-MN-56303/1420092500/?ats=successfactors
 source: simplify-new-grad
-listing_id: 9b2faaae-2da9-4679-bf65-3c0295a931a9
+listing_id: 16fbaaca-5c43-4db3-b340-4731c9d9677d
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

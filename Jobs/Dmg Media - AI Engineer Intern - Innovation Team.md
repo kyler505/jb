@@ -10,7 +10,7 @@ terms:
 url: https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352
 source: simplify-internships
 listing_id: 4d2fd538-d00b-4c2f-9137-dd8193ee0066
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

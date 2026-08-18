@@ -4,15 +4,15 @@ role: Quantitative Developer Intern
 category: internship
 discipline: swe
 locations:
-- New York, NY
+- NYC
 terms:
-- Summer 2027
-url: https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293
-source: vansh-internships
-listing_id: aa49a826-56c9-97f4-0c85-67a5306b3837
+- Winter 2027
+url: https://boards.greenhouse.io/point72/jobs/8721562002
+source: simplify-internships
+listing_id: 60c7c83c-4da3-419f-b94d-37706d65f534
 active: false
-date_posted: null
-date_updated: null
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

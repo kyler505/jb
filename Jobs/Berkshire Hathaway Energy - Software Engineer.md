@@ -22,11 +22,11 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-needs_review: false
 priority: 50.0
-apply_method: simplify
 apply_result: not_confirmed
 resume_used: resume
+needs_review: false
+apply_method: simplify
 ---
 
 ## Application 2026-07-02

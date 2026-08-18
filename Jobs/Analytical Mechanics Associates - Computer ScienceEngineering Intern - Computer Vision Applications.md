@@ -61,7 +61,7 @@ terms:
 url: https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731
 source: simplify-internships
 listing_id: 3bbe3661-8a0b-43c9-a4f7-5c1b984cc3f9
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

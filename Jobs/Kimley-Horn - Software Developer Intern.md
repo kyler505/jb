@@ -10,7 +10,7 @@ terms:
 url: https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: b6f0ed37-c65c-493a-b002-0e540bc09413
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

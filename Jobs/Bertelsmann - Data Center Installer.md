@@ -4,14 +4,14 @@ role: Data Center Installer
 category: new-grad
 discipline: other
 locations:
-- Santa Clara, CA
+- Cumming, IA
 terms: []
-url: https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000143602050
+url: https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000143882390
 source: simplify-new-grad
-listing_id: 9e9c1a90-b002-4352-8852-856c07d71a53
+listing_id: 130ccca5-1ae3-4f78-812d-9e441747f78c
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

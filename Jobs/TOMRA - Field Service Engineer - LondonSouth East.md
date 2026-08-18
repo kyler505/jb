@@ -6,12 +6,12 @@ discipline: other
 locations:
 - London, UK
 terms: []
-url: https://jobs.smartrecruiters.com/Tomra/744000142128330
+url: https://jobs.smartrecruiters.com/Tomra/744000143844319
 source: simplify-new-grad
-listing_id: 373503da-6c2b-4f86-9593-05ea22db87af
+listing_id: b394185e-549a-4b34-9d7c-6cb0b9f84f64
 active: false
-date_posted: '2026-08-12'
-date_updated: '2026-08-12'
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

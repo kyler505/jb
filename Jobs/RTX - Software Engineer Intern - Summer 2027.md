@@ -4,15 +4,15 @@ role: Software Engineer Intern - Summer 2027
 category: internship
 discipline: swe
 locations:
-- Cedar Rapids, IA
+- Indianapolis, IN
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067
 source: simplify-internships
-listing_id: 44a036f1-8b46-4596-939b-e10b3f0e8761
+listing_id: 40569998-45dc-4119-b2ea-2f11366a604f
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-15'
+date_posted: '2026-08-17'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

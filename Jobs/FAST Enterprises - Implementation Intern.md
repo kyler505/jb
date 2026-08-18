@@ -6,13 +6,13 @@ discipline: other
 locations:
 - United States
 terms:
-- Summer 2026
-url: https://careers.fastenterprises.com/jobs/1594?icims=1
+- Summer 2027
+url: https://careers.fastenterprises.com/jobs/1709?icims=1
 source: simplify-internships
-listing_id: 4c028e78-d6cf-428b-bf6c-595531425a7a
-active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+listing_id: 7838c307-daa5-4e75-b8c2-7218ab2354cb
+active: false
+date_posted: '2026-08-17'
+date_updated: '2026-08-17'
 status: to-apply
 applied_date: null
 deadline: null

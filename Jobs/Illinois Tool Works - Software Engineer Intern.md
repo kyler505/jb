@@ -7,12 +7,12 @@ locations:
 - Appleton, WI
 terms:
 - Summer 2026
-url: https://careers.itw.com/global/en/job/JR4585
+url: https://careers.itw.com/global/en/job/JR9516
 source: simplify-internships
-listing_id: f55f2414-48c5-4e3f-a969-c5e914e76320
+listing_id: f9344b8e-43cf-4dac-aef6-05e00717fd78
 active: false
-date_posted: '2026-06-13'
-date_updated: '2026-06-13'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

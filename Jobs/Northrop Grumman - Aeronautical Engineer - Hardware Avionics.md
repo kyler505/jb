@@ -9,7 +9,7 @@ terms: []
 url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Principal-Engineer-Aeronautical---Hardware-Avionics_R10238026
 source: simplify-new-grad
 listing_id: 0c478e48-883a-4806-97e1-a6a73a0fa019
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply
