@@ -7,12 +7,12 @@ locations:
 - Fort Worth, TX
 terms:
 - Fall 2026
-url: https://careers-kimley-horn.icims.com/jobs/24873/job?mobile=true&needsRedirect=false
+url: https://careers-kimley-horn.icims.com/jobs/25884/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 90f0f122-3e2a-49f2-a6c8-688ce3720044
+listing_id: debe4648-f107-4b3e-b27c-7b9712fc382b
 active: false
-date_posted: '2026-07-07'
-date_updated: '2026-07-07'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

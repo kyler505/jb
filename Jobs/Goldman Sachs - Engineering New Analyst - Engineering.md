@@ -9,7 +9,7 @@ terms: []
 url: https://higher.gs.com/roles/171570?type=students
 source: simplify-new-grad
 listing_id: 43a5374e-0e70-4dc9-82b0-687b54e8c5da
-active: false
+active: true
 date_posted: '2026-08-15'
 date_updated: '2026-08-15'
 status: to-apply

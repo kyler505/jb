@@ -10,7 +10,7 @@ terms:
 url: https://careers.fastenterprises.com/jobs/1709?icims=1
 source: simplify-internships
 listing_id: 7838c307-daa5-4e75-b8c2-7218ab2354cb
-active: false
+active: true
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

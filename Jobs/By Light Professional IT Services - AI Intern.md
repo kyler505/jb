@@ -4,15 +4,15 @@ role: AI Intern
 category: internship
 discipline: other
 locations:
-- Hanover, MD
+- Orlando, FL
 terms:
-- Summer 2026
-url: https://jobs-bylight.icims.com/jobs/10965/job?mobile=true&needsRedirect=false
+- Fall 2026
+url: https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: 20fd552d-3f73-4f9b-8983-f8c6037b0835
+listing_id: 4404bf6d-28d8-4410-9254-cfbf94a50665
 active: false
-date_posted: '2026-05-13'
-date_updated: '2026-05-13'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

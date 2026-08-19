@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Detroit, MI
 terms: []
-url: https://careers-urbanscience.icims.com/jobs/5216/job?mobile=true&needsRedirect=false
+url: https://careers-urbanscience.icims.com/jobs/5220/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 39894c1d-735e-44ce-8d92-8eeadbfe0686
+listing_id: 3dbcee54-b89f-4ded-a74d-6acab2f32410
 active: true
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

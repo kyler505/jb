@@ -4,14 +4,14 @@ role: Field Technician - Mobile Repairs
 category: new-grad
 discipline: mobile
 locations:
-- Arlington, TX
+- Wichita, KS
 terms: []
-url: https://unitedsmarttech.bamboohr.com/careers/35/
+url: https://unitedsmarttech.bamboohr.com/careers/90/
 source: simplify-new-grad
-listing_id: be5cf299-ca63-4bd1-bd3c-76e57f016b32
+listing_id: 5717ebc4-2dd1-4c3c-b6c9-4c0f1852e31a
 active: true
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

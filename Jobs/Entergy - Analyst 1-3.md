@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.entergy.com/job/Gretna-Analyst-I-III-Loui/1413389000/?ats=successfactors
 source: simplify-new-grad
 listing_id: 12b24ce7-2680-43a1-b0cd-ebd4f1a07878
-active: true
+active: false
 date_posted: '2026-07-28'
 date_updated: '2026-07-28'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://egbc.applytojob.com/apply/7aUKZK87tT/Junior-Developer-I
 source: simplify-new-grad
 listing_id: b11e7d78-8c61-41eb-b71c-8483802fa506
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

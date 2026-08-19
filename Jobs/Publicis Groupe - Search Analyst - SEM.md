@@ -9,7 +9,7 @@ terms: []
 url: https://careers-publicisgroupetest.icims.com/jobs/45372/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 946bf1c8-b423-4c84-8be5-1ef8d82475ab
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

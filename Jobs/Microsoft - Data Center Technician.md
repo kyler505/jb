@@ -4,14 +4,15 @@ role: Data Center Technician
 category: new-grad
 discipline: other
 locations:
-- Dulles, VA
+- Fayetteville, GA
+- Atlanta, GA
 terms: []
-url: https://apply.careers.microsoft.com/careers/job/1970393556971487
+url: https://apply.careers.microsoft.com/careers/job/1970393556972020
 source: simplify-new-grad
-listing_id: 3e312320-0a40-44a6-84bd-83cd736fdf2c
+listing_id: d64c581e-d6de-4f0f-a0e3-d8216eb8614a
 active: true
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null

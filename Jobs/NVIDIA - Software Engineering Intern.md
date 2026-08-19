@@ -4,18 +4,18 @@ role: Software Engineering Intern
 category: internship
 discipline: swe
 locations:
+- Canada
 - Santa Clara, CA
 terms:
-- Fall 2026
-url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745
+- Summer 2027
+url: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495
 source: simplify-internships
-listing_id: 4d7b53f4-4839-4a21-9b3d-774c69c540bd
+listing_id: be628885-fde3-4b73-bb0a-58e11856e97b
 active: false
-date_posted: '2026-04-24'
-date_updated: '2026-04-24'
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 43.47
 ---

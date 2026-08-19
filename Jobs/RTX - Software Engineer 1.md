@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- East Hartford, CT
+- Jupiter, FL
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374
 source: simplify-new-grad
-listing_id: f4cc51bc-a3b3-4c1b-a7df-08cdc2293da4
+listing_id: 52ebbfae-8ec5-4deb-9246-036068c84da9
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-15'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,14 @@ role: Technology Leadership Program - Application Development
 category: new-grad
 discipline: other
 locations:
-- Charlotte, NC
+- Dallas, TX
 terms: []
-url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Application-Development--NC-_180082
+url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/Technology-Leadership-Program---Application-Development--TX-_181647
 source: simplify-new-grad
-listing_id: 5826f2da-52b2-4a82-9ff2-34f7b3be2d6c
-active: false
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+listing_id: 22755f9b-9d1f-4025-a4d1-1c1a4f434ee2
+active: true
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

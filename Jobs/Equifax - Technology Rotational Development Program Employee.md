@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Alpharetta, GA
 terms: []
-url: https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178470
+url: https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178473
 source: simplify-new-grad
-listing_id: 56944a58-d23f-40de-b137-9fb7a3d1cb73
+listing_id: 5dac40a4-35f9-40c3-962a-7f4b68086f38
 active: true
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+date_posted: '2026-08-18'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

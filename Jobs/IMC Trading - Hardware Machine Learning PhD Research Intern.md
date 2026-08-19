@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.eu.greenhouse.io/imc/jobs/4829785101
 source: simplify-internships
 listing_id: 25eca41c-f475-4b9a-95e0-810654292e16
-active: true
+active: false
 date_posted: '2026-04-16'
 date_updated: '2026-04-16'
 status: to-apply
