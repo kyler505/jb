@@ -6,15 +6,14 @@ discipline: ml
 locations:
 - San Jose, CA
 terms: []
-url: https://lifeattiktok.com/search/7534641209890588946
+url: https://lifeattiktok.com/search/7675841339440941317
 source: simplify-new-grad
-listing_id: d125b509-7258-4a04-9220-92198ed2d7e5
+listing_id: 46147fdd-7fda-4c72-b739-309c869a3093
 active: false
-date_posted: '2026-04-15'
-date_updated: '2026-04-15'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 40.5
 ---

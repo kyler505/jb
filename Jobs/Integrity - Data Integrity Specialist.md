@@ -9,7 +9,7 @@ terms: []
 url: https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/St-Albans-WV/Data-Integrity-Specialist_JR4338
 source: simplify-new-grad
 listing_id: dd8f457d-8504-4e96-9788-306f132e5ae9
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-10'
 status: to-apply

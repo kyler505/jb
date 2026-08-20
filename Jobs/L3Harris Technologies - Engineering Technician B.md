@@ -4,14 +4,14 @@ role: Engineering Technician B
 category: new-grad
 discipline: other
 locations:
-- Cincinnati, OH
+- Salt Lake City, UT
 terms: []
-url: https://jobs.l3harris.com/job/Cincinnati-Engineering-Technician-B-OH-45245/1414392600/?ats=successfactors
+url: https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1404061900/?ats=successfactors
 source: simplify-new-grad
-listing_id: 6a779119-9427-4e51-b8bb-2638070e150c
-active: true
-date_posted: '2026-07-31'
-date_updated: '2026-07-31'
+listing_id: 0bad2b67-9bee-4b1d-85e9-f96a298e4dab
+active: false
+date_posted: '2026-06-29'
+date_updated: '2026-06-29'
 status: to-apply
 applied_date: null
 deadline: null

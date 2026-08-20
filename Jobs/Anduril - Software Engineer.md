@@ -13,7 +13,7 @@ terms: []
 url: https://boards.greenhouse.io/andurilindustries/jobs/5162263007
 source: simplify-new-grad
 listing_id: 9b3d2be7-1291-4e46-8d88-5212363141cd
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: applied

@@ -4,14 +4,14 @@ role: Associate Software Engineering
 category: new-grad
 discipline: swe
 locations:
-- Rochester, NY
+- Colorado Springs, CO
 terms: []
-url: https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000/?ats=successfactors
+url: https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-(Colorado-Springs,-CO)-CO-80925/1421228500/?ats=successfactors
 source: simplify-new-grad
-listing_id: 50f47dfa-2767-4349-b388-347aa02f6f46
+listing_id: ef102b09-7159-4517-bd9f-f27056d799d4
 active: false
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null

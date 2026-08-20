@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Sparks, MD
 terms: []
-url: https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Instrument-Test-Tech-1_R-553113
+url: https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Instrument-Test-Tech-1_R-553115
 source: simplify-new-grad
-listing_id: 110e5e1c-be24-46dd-9581-1e0f4677cb3d
-active: true
+listing_id: bb1f20f5-e4a4-4ff6-9f04-fff7ff7aad01
+active: false
 date_posted: '2026-08-18'
-date_updated: '2026-08-19'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

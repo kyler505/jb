@@ -10,7 +10,7 @@ terms:
 url: https://jobs.keysight.com/jobs/52557?icims=1
 source: simplify-internships
 listing_id: 94d15250-b26f-43ee-8091-069b19db76c3
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

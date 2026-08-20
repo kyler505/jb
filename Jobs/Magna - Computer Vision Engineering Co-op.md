@@ -10,17 +10,17 @@ terms:
 url: https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/Computer-Vision-Engineering-Co-op_R00248460
 source: simplify-internships
 listing_id: 3ddc1130-8b7c-449d-ae26-330f7dd9334b
-active: false
+active: true
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: success
 resume_used: resume.pdf
-priority: 57.53
 needs_review: false
+apply_result: success
 apply_error: null
 apply_method: simplify
+priority: 57.53
 ---

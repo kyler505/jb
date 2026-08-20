@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Fort Meade, MD
 terms: []
-url: https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false
+url: https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 30600f27-6e64-4519-9d2a-ea875352b5eb
+listing_id: 95645a1a-37b5-46b8-82dc-51c06ded8cbd
 active: true
-date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null

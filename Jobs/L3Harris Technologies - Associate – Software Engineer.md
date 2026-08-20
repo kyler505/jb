@@ -4,14 +4,14 @@ role: Associate – Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Palm Bay, FL
+- Yorba Linda, CA
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413201700/?ats=successfactors
+url: https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineer-CA-92887/1410487500/?ats=successfactors
 source: simplify-new-grad
-listing_id: 7ed66f32-6c52-4758-9183-5392da9a3824
+listing_id: 85a549ad-cef1-458b-b15e-382ac68ad136
 active: false
-date_posted: '2026-07-28'
-date_updated: '2026-07-28'
+date_posted: '2026-07-20'
+date_updated: '2026-07-20'
 status: to-apply
 applied_date: null
 deadline: null

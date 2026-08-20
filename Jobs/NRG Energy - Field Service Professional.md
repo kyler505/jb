@@ -4,14 +4,14 @@ role: Field Service Professional
 category: new-grad
 discipline: other
 locations:
-- St Cloud, MN
+- Moreno Valley, CA
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Cloud-Field-Service-Professional-Saint-Cloud,-MN-MN-56303/1420092500/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Moreno-Valley-Field-Service-Professional-Moreno-Valley,-CA-CA-92553/1421279900/?ats=successfactors
 source: simplify-new-grad
-listing_id: 16fbaaca-5c43-4db3-b340-4731c9d9677d
+listing_id: 8dfade5e-c456-454f-bcf5-48d209688127
 active: true
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null

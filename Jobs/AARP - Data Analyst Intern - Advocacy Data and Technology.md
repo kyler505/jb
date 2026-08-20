@@ -10,7 +10,7 @@ terms:
 url: https://careers.aarp.org/jobs/7355?icims=1
 source: simplify-internships
 listing_id: ad5fd9f8-d08a-4e9a-b974-0d1f735dccc7
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

@@ -11,7 +11,7 @@ terms: []
 url: https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: d10e8010-8a1d-4cbb-83a1-5bade54928c6
-active: true
+active: false
 date_posted: '2026-08-15'
 date_updated: '2026-08-15'
 status: to-apply

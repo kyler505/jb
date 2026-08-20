@@ -10,7 +10,7 @@ terms:
 url: https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: fcde5fad-7ca3-4a42-a088-cf0b2bc25cbd
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

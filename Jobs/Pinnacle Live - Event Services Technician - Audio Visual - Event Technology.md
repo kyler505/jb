@@ -4,14 +4,14 @@ role: Event Services Technician - Audio Visual - Event Technology
 category: new-grad
 discipline: other
 locations:
-- Reston, VA
+- Four Corners, FL
 terms: []
-url: https://jobs.jobvite.com/pinnaclelive/job/o5rFAfwv?nl=1&nl=1&fr=false
+url: https://jobs.jobvite.com/pinnaclelive/job/oOjEAfw5?nl=1&nl=1&fr=false
 source: simplify-new-grad
-listing_id: b6779cfa-4ff6-44d0-a10f-ec56ec748276
+listing_id: ff008d88-54dd-49f8-9f8d-11e121689500
 active: true
 date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

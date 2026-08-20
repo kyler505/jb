@@ -4,15 +4,14 @@ role: Data Center Technician
 category: new-grad
 discipline: other
 locations:
-- Fayetteville, GA
-- Atlanta, GA
+- West Drayton, UK
 terms: []
-url: https://apply.careers.microsoft.com/careers/job/1970393556972020
+url: https://apply.careers.microsoft.com/careers/job/1970393556978280
 source: simplify-new-grad
-listing_id: d64c581e-d6de-4f0f-a0e3-d8216eb8614a
+listing_id: b9c5ff13-4910-4322-af0b-3a5fb4823c54
 active: true
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

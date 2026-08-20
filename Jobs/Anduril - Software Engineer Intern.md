@@ -15,7 +15,7 @@ terms:
 url: https://boards.greenhouse.io/andurilindustries/jobs/5148079007
 source: simplify-internships
 listing_id: c1623229-faaa-4f1d-bdd8-fc0b46bc74a0
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

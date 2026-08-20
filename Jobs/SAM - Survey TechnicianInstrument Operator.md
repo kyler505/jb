@@ -4,14 +4,14 @@ role: Survey Technician/Instrument Operator
 category: new-grad
 discipline: other
 locations:
-- Cincinnati, OH
+- Nashville, TN
 terms: []
-url: https://careers.sam.biz/jobs/7944?icims=1
+url: https://careers.sam.biz/jobs/7977?icims=1
 source: simplify-new-grad
-listing_id: 51fe32fd-f8f8-4aa8-aa29-d1a0b213bed5
-active: true
-date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+listing_id: 29747a2d-bc91-46f3-9ce7-fa937df2a891
+active: false
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null

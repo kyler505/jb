@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Clifton, NJ
+- Salt Lake City, UT
 terms: []
-url: https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors
+url: https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors
 source: simplify-new-grad
-listing_id: 6e9f8ba6-6c48-4605-b6d4-6f4605120a80
+listing_id: bc603108-972a-4e9c-ae80-4db10074d449
 active: true
-date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

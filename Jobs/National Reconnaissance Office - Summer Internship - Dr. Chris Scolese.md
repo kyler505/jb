@@ -13,7 +13,7 @@ terms:
 url: https://nro.applytojob.com/apply/oZyJp3ZEQh/2027-Dr-Chris-Scolese-Summer-Internship-Program
 source: simplify-internships
 listing_id: 5fc86d18-cd9e-4d79-9edc-a162318dd4fb
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

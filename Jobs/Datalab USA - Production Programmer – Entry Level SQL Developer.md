@@ -6,19 +6,14 @@ discipline: swe
 locations:
 - Germantown, MD
 terms: []
-url: https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885/apply
+url: https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply
 source: simplify-new-grad
-listing_id: ebc85430-6db3-4aec-b94c-f1a42c8f21e8
+listing_id: fdb7c5e9-3d58-4332-bb5d-4b3446253fd0
 active: true
-date_posted: '2026-06-17'
-date_updated: '2026-06-17'
-status: applied
-applied_date: 2026-06-30
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
+status: to-apply
+applied_date: null
 deadline: null
 notes: null
-needs_review: false
-priority: 53.02
-apply_result: success
-apply_method: simplify
-resume_used: resume.pdf
 ---
