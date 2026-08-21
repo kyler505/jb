@@ -9,7 +9,7 @@ terms: []
 url: https://careers.zimmerbiomet.com/us/en/job/12055
 source: simplify-new-grad
 listing_id: 0ba0bbb6-cd1c-45fc-88c1-82c26a9333b1
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

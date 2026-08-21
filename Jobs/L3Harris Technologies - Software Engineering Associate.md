@@ -4,14 +4,14 @@ role: Software Engineering Associate
 category: new-grad
 discipline: swe
 locations:
-- Reston, VA
+- Rochester, NY
 terms: []
-url: https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors
 source: simplify-new-grad
-listing_id: f49965a8-66d7-460e-aefb-c756911f4dff
-active: true
-date_posted: '2026-07-31'
-date_updated: '2026-07-31'
+listing_id: c15fdda6-c63a-4851-a515-02b1bdf30cbd
+active: false
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

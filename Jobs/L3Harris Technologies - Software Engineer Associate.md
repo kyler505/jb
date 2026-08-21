@@ -4,14 +4,14 @@ role: Software Engineer Associate
 category: new-grad
 discipline: swe
 locations:
-- Palm Bay, FL
+- Salt Lake City, UT
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413760300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors
 source: simplify-new-grad
-listing_id: 5d35800b-9fca-4156-9d67-70f8d39e613b
+listing_id: 84a07b3a-bb9d-463f-a6fd-8fe81831e8dd
 active: false
-date_posted: '2026-07-29'
-date_updated: '2026-07-29'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

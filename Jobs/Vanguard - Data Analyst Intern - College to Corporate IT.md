@@ -7,12 +7,12 @@ locations:
 - Charlotte, NC
 terms:
 - Summer 2027
-url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1
+url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767
 source: simplify-internships
-listing_id: a3008ed4-1483-4ec4-9ccf-259ac6b6fd86
-active: true
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+listing_id: 5de3980e-8b11-479f-b78e-cce6b70957b5
+active: false
+date_posted: '2026-08-20'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null

@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003
 source: simplify-internships
 listing_id: 01ae98fa-826d-40b3-990a-3254933cd747
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-07-21'
 status: to-apply

@@ -14,7 +14,7 @@ terms: []
 url: https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115
 source: simplify-new-grad
 listing_id: 42d4b4a9-d01b-40b0-b1fe-c41b20c9e034
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

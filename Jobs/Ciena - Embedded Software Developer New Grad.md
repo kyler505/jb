@@ -6,12 +6,12 @@ discipline: hardware
 locations:
 - Ottawa, ON, Canada
 terms: []
-url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R031490
+url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481
 source: simplify-new-grad
-listing_id: c7b4a123-ce1c-4604-8ae8-6b25b8d7eb93
+listing_id: c82c1758-9605-466f-878f-d5077a225f51
 active: true
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

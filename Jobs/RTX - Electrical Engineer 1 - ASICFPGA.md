@@ -4,14 +4,14 @@ role: Electrical Engineer 1 - ASIC/FPGA
 category: new-grad
 discipline: hardware
 locations:
-- Cedar Rapids, IA
+- Marlborough, MA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineer-I---ASIC-FPGA--Onsite-_01861017
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical--ASIC-FPGA--Engineer-1_01863462
 source: simplify-new-grad
-listing_id: 35a35482-5bd6-4b46-b19f-184707e7171b
+listing_id: d08f6602-a351-4d68-96e6-97a1a27221d9
 active: false
-date_posted: '2026-07-21'
-date_updated: '2026-07-22'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

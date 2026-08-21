@@ -6,10 +6,10 @@ discipline: other
 locations:
 - London, UK
 terms: []
-url: https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016615
+url: https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/London-United-Kingdom/Fiber-Network-Mapping-Specialist-III_R0016614
 source: simplify-new-grad
-listing_id: cc2206be-95ef-48b1-9bc1-902a0346a077
-active: true
+listing_id: 83907457-e675-4d33-872b-2a303a69e05f
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

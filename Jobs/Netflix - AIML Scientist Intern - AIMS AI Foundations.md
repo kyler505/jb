@@ -17,9 +17,9 @@ status: applied
 applied_date: 2026-07-07
 deadline: null
 notes: null
-resume_used: resume.pdf
-needs_review: false
-apply_result: success
 apply_method: simplify
 priority: 52.6
+resume_used: resume.pdf
+apply_result: success
+needs_review: false
 ---

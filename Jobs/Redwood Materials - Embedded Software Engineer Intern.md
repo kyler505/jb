@@ -10,7 +10,7 @@ terms:
 url: https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004
 source: simplify-internships
 listing_id: 42a4495c-329d-4277-8dcf-363d9fabcffd
-active: true
+active: false
 date_posted: '2026-07-29'
 date_updated: '2026-07-29'
 status: to-apply

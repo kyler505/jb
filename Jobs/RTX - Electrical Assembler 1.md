@@ -4,14 +4,14 @@ role: Electrical Assembler 1
 category: new-grad
 discipline: other
 locations:
-- Foley, AL
+- Manchester, IA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-FOLEY-1300--1300-W-Fern-Ave--OEM-BLDG/Electrical-Assembler-1--Onsite-_01858410
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-MANCHESTER-185--901-S-10th-St--S-10TH/Electrical-Assembler-I---1st-Shift_01851101
 source: simplify-new-grad
-listing_id: 2ddb72d7-0c11-4d07-8a5d-cc52903defe5
+listing_id: a01f39f0-6c22-4f5e-87f9-13b586605264
 active: false
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-19'
+date_updated: '2026-08-19'
 status: to-apply
 applied_date: null
 deadline: null

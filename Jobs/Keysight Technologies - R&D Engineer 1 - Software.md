@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.keysight.com/jobs/53966?icims=1
 source: simplify-new-grad
 listing_id: 6e49662c-f403-4d54-acb4-df81b23afb54
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

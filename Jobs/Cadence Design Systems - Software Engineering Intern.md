@@ -10,7 +10,7 @@ terms:
 url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334
 source: simplify-internships
 listing_id: 91c0873c-728c-4585-9b82-4d3dd3dd4253
-active: true
+active: false
 date_posted: '2026-01-21'
 date_updated: '2026-01-21'
 status: to-apply

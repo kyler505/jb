@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/LLNL/3743990013362116
 source: simplify-new-grad
 listing_id: a47669a1-5125-4aff-abcf-2ddd05fe0a55
-active: true
+active: false
 date_posted: '2026-05-29'
 date_updated: '2026-06-24'
 status: to-apply

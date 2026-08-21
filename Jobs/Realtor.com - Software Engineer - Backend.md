@@ -9,7 +9,7 @@ terms: []
 url: https://boards.greenhouse.io/rdccareers/jobs/7800190003
 source: simplify-new-grad
 listing_id: 14275448-8755-471c-b6d1-e36e91f790bf
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-07-24'
 status: to-apply

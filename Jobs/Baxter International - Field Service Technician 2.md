@@ -4,14 +4,14 @@ role: Field Service Technician 2
 category: new-grad
 discipline: other
 locations:
-- Parsippany-Troy Hills, NJ
+- Kansas City, MO
 terms: []
-url: https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Parsippany-Troy-Hills-New-Jersey/Field-Service-Technician-II_JR-207624-1
+url: https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Kansas-City-Missouri/Field-Service-Technician-II---Kansas-City--MO_JR-199054-1
 source: simplify-new-grad
-listing_id: fa3c88a2-0853-449c-b826-5d5f3be7d108
+listing_id: 18e35cce-5d04-41b7-b712-308ca67d4c91
 active: true
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-21'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null

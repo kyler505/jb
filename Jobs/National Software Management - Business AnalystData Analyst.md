@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000124033874
 source: simplify-new-grad
 listing_id: 83e5f99f-6e49-4381-89a9-4fc236a7e536
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

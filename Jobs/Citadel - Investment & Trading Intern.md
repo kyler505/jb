@@ -11,7 +11,7 @@ terms:
 url: https://www.citadel.com/careers/details/investment-trading-intern-europe/
 source: simplify-internships
 listing_id: 78885859-7ae3-42cc-a2db-f5d8aff6bfc7
-active: false
+active: true
 date_posted: '2026-07-13'
 date_updated: '2026-07-13'
 status: to-apply

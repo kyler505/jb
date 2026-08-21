@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/scaleai/jobs/4609736005
 source: simplify-new-grad
 listing_id: 68a68b65-1d47-4a36-84d0-71b34ff78559
-active: true
+active: false
 date_posted: '2026-07-16'
 date_updated: '2026-07-24'
 status: to-apply

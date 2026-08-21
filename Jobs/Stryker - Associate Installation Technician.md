@@ -4,16 +4,16 @@ role: Associate Installation Technician
 category: new-grad
 discipline: other
 locations:
-- Dayton, OH
-- Columbus, OH
-- Cincinnati, OH
+- Palo Alto, CA
+- San Jose, CA
+- Sacramento, CA
 terms: []
-url: https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cincinnati-Ohio/Associate-Installation-Technician--Ohio_R568442
+url: https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Associate-Installation-Technician---Bay-Area_R571664
 source: simplify-new-grad
-listing_id: 015d5714-5f97-473f-8ea4-25e2d645023d
+listing_id: 66aa3c55-7f35-4e8b-b6bc-aa1e843a44de
 active: true
-date_posted: '2026-07-13'
-date_updated: '2026-08-08'
+date_posted: '2026-08-20'
+date_updated: '2026-08-20'
 status: to-apply
 applied_date: null
 deadline: null

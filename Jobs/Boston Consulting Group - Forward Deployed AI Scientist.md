@@ -1,7 +1,7 @@
 ---
 company: Boston Consulting Group
-role: Forward Deployed AI Scientist
-category: internship
+role: Forward Deployed AI Scientist - Campus
+category: new-grad
 discipline: other
 locations:
 - Boston, MA
@@ -16,10 +16,9 @@ locations:
 - NYC
 - Brooklyn, NY
 - Manhattan Beach, CA
-terms:
-- N/A
+terms: []
 url: https://careers.bcg.com/global/en/job/59068
-source: simplify-internships
+source: simplify-new-grad
 listing_id: 08532603-7472-48a9-a825-fef3a7108472
 active: true
 date_posted: '2026-08-20'
