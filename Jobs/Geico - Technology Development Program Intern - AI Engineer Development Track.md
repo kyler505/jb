@@ -11,7 +11,7 @@ terms:
 url: https://geico.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-CA/Technology-Development-Program---AI-Engineer-Development-Track_R0065372
 source: simplify-internships
 listing_id: 0cc71c0c-aed8-49d9-a23c-45e22cc9e8ad
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply

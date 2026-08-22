@@ -7,12 +7,12 @@ locations:
 - Columbus, OH
 terms:
 - Fall 2026
-url: https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern---RI-Miller_R-27400-1
+url: https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/Main-Campus-Columbus-OH/IGM-Research-Intern---RI-Miller_R-27625-1
 source: simplify-internships
-listing_id: 151ec5e2-7c37-4215-9ce4-cfcce0e0b56e
+listing_id: e14debff-c92a-4047-8142-11f96b1bd3f5
 active: false
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-21'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null

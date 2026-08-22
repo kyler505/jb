@@ -1,7 +1,7 @@
 ---
 company: Boston Consulting Group
 role: Forward Deployed AI Engineer - Campus
-category: new-grad
+category: internship
 discipline: ml
 locations:
 - Boston, MA
@@ -16,9 +16,10 @@ locations:
 - NYC
 - Brooklyn, NY
 - Manhattan Beach, CA
-terms: []
+terms:
+- N/A
 url: https://careers.bcg.com/global/en/job/59067
-source: simplify-new-grad
+source: simplify-internships
 listing_id: f6f17706-f32e-4624-8175-889945a160e5
 active: true
 date_posted: '2026-08-20'

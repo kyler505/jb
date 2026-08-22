@@ -4,14 +4,14 @@ role: Field Service Engineer 1
 category: new-grad
 discipline: other
 locations:
-- North Carolina
+- Maryland
 terms: []
-url: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I_R-01364037
+url: https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Maryland-USA/Field-Service-Engineer-I_R-01354100-1
 source: simplify-new-grad
-listing_id: 892d6343-1bee-4946-85f0-07aecaa9c757
-active: true
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+listing_id: 5af1930e-294c-4e12-a3e1-63d14ca38c09
+active: false
+date_posted: '2026-06-10'
+date_updated: '2026-06-10'
 status: to-apply
 applied_date: null
 deadline: null

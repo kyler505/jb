@@ -9,7 +9,7 @@ terms: []
 url: https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 75173633-1cf1-424b-b068-516958721462
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

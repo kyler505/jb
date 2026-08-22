@@ -4,14 +4,14 @@ role: Imaging Engineer 1
 category: new-grad
 discipline: other
 locations:
-- Albuquerque, NM
+- Pittsburgh, PA
 terms: []
-url: https://trimedx.wd1.myworkdayjobs.com/TMX/job/Albuquerque-NM/Imaging-Engineer-I_R14772
+url: https://trimedx.wd1.myworkdayjobs.com/TMX/job/Pittsburgh-PA/Imaging-Engineer-I_R14206
 source: simplify-new-grad
-listing_id: d9bf8f2f-b6fe-4c34-aebe-314d3897b6ba
+listing_id: 1888f966-2441-40eb-8202-4f8d3a248cc0
 active: true
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_posted: '2026-06-23'
+date_updated: '2026-08-22'
 status: to-apply
 applied_date: null
 deadline: null

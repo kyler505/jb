@@ -4,14 +4,14 @@ role: Field Service Technician - Hardware
 category: new-grad
 discipline: hardware
 locations:
-- Boston, MA
+- South Carolina
 terms: []
-url: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BOS-FE/Field-Service-Technician---HW---Boston--MA_R-29695-1
+url: https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Technician---HW---New-Orleans--LA_R-27306-2
 source: simplify-new-grad
-listing_id: 085e2bc1-683d-4f07-9f83-2c299a01cbf4
+listing_id: 0be364d8-777a-4003-a232-7c8d3ee7ab75
 active: true
-date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+date_posted: '2026-08-21'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,8 +10,8 @@ url: https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-Kingdom---L
 source: simplify-new-grad
 listing_id: 1ca887fb-4325-40bd-9159-9a0beaf82f80
 active: true
-date_posted: '2025-12-24'
-date_updated: '2026-01-16'
+date_posted: '2026-06-13'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

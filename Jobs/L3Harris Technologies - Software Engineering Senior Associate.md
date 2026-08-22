@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors
 source: simplify-new-grad
 listing_id: fee08a6e-e0de-4bb8-84ad-c51e7658c69d
-active: false
+active: true
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply

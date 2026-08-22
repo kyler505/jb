@@ -4,16 +4,14 @@ role: Installation Technician
 category: new-grad
 discipline: other
 locations:
-- Royal Oak, MI
-- Mt Clemens, MI
-- Pontiac, MI
+- Redwood City, CA
 terms: []
-url: https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMIMount-Clemens--Mary-St---Work-Center95-Mary-St/Installation-Technician_R-119644
+url: https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACARedwood-City--E-Bayshore-Rd---Wcr2001-E-Bayshore-Rd/Installation-Technician_R-120477
 source: simplify-new-grad
-listing_id: f495b8fb-06ac-4d6c-b1f9-7e38d9302510
+listing_id: dda3f046-cc61-4091-8f2c-08c94f5e1f45
 active: true
-date_posted: '2026-08-13'
-date_updated: '2026-08-14'
+date_posted: '2026-08-21'
+date_updated: '2026-08-22'
 status: to-apply
 applied_date: null
 deadline: null

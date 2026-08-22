@@ -10,7 +10,7 @@ terms:
 url: https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766
 source: simplify-internships
 listing_id: a8fce259-7cd2-44ea-a7ab-787260c1308e
-active: false
+active: true
 date_posted: '2026-08-20'
 date_updated: '2026-08-21'
 status: to-apply

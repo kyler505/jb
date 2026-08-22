@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/readystate/jobs/4171077008
 source: simplify-internships
 listing_id: efac2095-406f-4054-9c6c-843eb79c6144
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-17'
 status: to-apply

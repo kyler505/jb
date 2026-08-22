@@ -4,14 +4,14 @@ role: AI Safety Operator
 category: new-grad
 discipline: other
 locations:
-- Orlando, FL
+- Jacksonville, FL
 terms: []
-url: https://www.tesla.com/careers/search/job/247016
+url: https://www.tesla.com/careers/search/job/266088
 source: simplify-new-grad
-listing_id: 5b67def9-a0ed-4081-8704-cad041d68197
+listing_id: 098e6975-4832-47d1-b6bb-c4bd8ca0b2c4
 active: false
-date_posted: '2026-06-07'
-date_updated: '2026-06-07'
+date_posted: '2026-08-21'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null

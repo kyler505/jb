@@ -9,7 +9,7 @@ terms: []
 url: https://careers-fsse-srmc.icims.com/jobs/2036/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: e38d607d-510b-4316-beec-46d1cb3cea8e
-active: true
+active: false
 date_posted: '2026-08-19'
 date_updated: '2026-08-19'
 status: to-apply

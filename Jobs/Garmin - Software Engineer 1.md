@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Olathe, KS
+- Yarmouth, ME
 terms: []
-url: https://careers.garmin.com/jobs/19098?icims=1
+url: https://careers.garmin.com/jobs/19680?icims=1
 source: simplify-new-grad
-listing_id: f124dd9a-d9b4-4986-81d0-72e9a02879b5
+listing_id: 2878fb2f-f01b-4b99-82a0-1d04fe1d03a2
 active: true
-date_posted: '2026-08-01'
-date_updated: '2026-08-01'
+date_posted: '2026-08-21'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null

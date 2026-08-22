@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Irvine, CA
 terms: []
-url: https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--US-Marketing_Req-49106
+url: https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234
 source: simplify-new-grad
-listing_id: 9b75e0f4-e8c6-4664-826e-c7ec9afc39ad
+listing_id: 7f975658-42d7-48c0-8e20-ccb21aee47b8
 active: false
-date_posted: '2026-07-09'
-date_updated: '2026-07-09'
+date_posted: '2026-08-21'
+date_updated: '2026-08-21'
 status: to-apply
 applied_date: null
 deadline: null
