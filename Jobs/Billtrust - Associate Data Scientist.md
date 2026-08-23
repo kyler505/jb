@@ -19,7 +19,7 @@ notes: null
 priority: 49.87
 apply_result: success
 apply_method: auto
-resume_used: resume.pdf
 needs_review: false
 confirmation: page_text
+resume_used: resume.pdf
 ---

@@ -10,7 +10,7 @@ terms:
 url: https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Greenford-Middlesex/Field-Services-Apprentice_REQ_49744
 source: simplify-internships
 listing_id: ae5500e9-bf44-4dd7-9a73-6b84de0fb777
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply
