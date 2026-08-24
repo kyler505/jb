@@ -4,12 +4,12 @@ role: Quantitative Strategist Associate Intern - The Core Quantitative Strats
 category: internship
 discipline: other
 locations:
-- London, UK
+- NYC
 terms:
 - Summer 2027
-url: https://higher.gs.com/roles/175427?type=students
+url: https://higher.gs.com/roles/171535?type=students
 source: simplify-internships
-listing_id: ea185fae-1828-4e79-9bfa-34dc512cce8c
+listing_id: 443c0a68-63ca-4026-94b7-cf3e555f2d0f
 active: false
 date_posted: '2026-08-15'
 date_updated: '2026-08-15'

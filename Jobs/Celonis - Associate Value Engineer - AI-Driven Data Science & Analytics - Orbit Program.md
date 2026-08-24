@@ -4,14 +4,14 @@ role: Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Prog
 category: new-grad
 discipline: data
 locations:
-- NYC
+- Raleigh, NC
 terms: []
-url: https://job-boards.greenhouse.io/celonis/jobs/7725788003?gh_jid=7725788003
+url: https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003
 source: simplify-new-grad
-listing_id: d2281e01-32fb-4463-bf0e-308726070837
-active: true
+listing_id: 0edcb9dd-c78a-48c2-aa24-8f3baabe6737
+active: false
 date_posted: '2026-07-06'
-date_updated: '2026-07-06'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null

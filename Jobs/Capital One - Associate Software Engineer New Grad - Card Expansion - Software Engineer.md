@@ -9,7 +9,7 @@ terms: []
 url: https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336
 source: simplify-new-grad
 listing_id: 84f6ba85-8d45-4d6c-8fbd-6b1a74082506
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

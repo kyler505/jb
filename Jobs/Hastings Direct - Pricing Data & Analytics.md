@@ -10,7 +10,7 @@ terms: []
 url: https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Leicester/Pricing--Data---Analytics-Cohort_60013843-1
 source: simplify-new-grad
 listing_id: b56d3cc0-8ad4-418c-a1d9-5a655e224030
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply
