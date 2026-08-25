@@ -10,7 +10,7 @@ terms:
 url: https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1
 source: simplify-internships
 listing_id: 27485535-2932-4f11-b804-2a27ab5ad3e1
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

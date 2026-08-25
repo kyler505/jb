@@ -10,7 +10,7 @@ terms:
 url: https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436
 source: simplify-internships
 listing_id: b364c68b-8fda-447b-b50d-dfa7fcd4039f
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

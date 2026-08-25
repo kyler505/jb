@@ -9,7 +9,7 @@ terms: []
 url: https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004
 source: simplify-new-grad
 listing_id: 468150cb-140a-48f5-828a-e98a815a8056
-active: true
+active: false
 date_posted: '2026-03-10'
 date_updated: '2026-03-24'
 status: to-apply

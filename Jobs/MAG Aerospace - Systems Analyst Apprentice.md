@@ -1,18 +1,18 @@
 ---
-company: ' MAG Aerospace'
+company: MAG Aerospace
 role: Systems Analyst Apprentice
 category: internship
 discipline: other
 locations:
-- California
+- Maryland
 terms:
-- Summer 2026
-url: https://careers-magaero.icims.com/jobs/8221/job?mobile=true&needsRedirect=false
+- Fall 2026
+url: https://careers-magaero.icims.com/jobs/8326/job?mobile=true&needsRedirect=false
 source: simplify-internships
-listing_id: f8909d93-bd64-4c59-950a-efeb6a7816bc
+listing_id: e5e8db1b-0b32-41cd-b34d-df216a7e90a1
 active: false
-date_posted: '2026-05-22'
-date_updated: '2026-05-22'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null

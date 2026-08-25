@@ -10,7 +10,7 @@ terms: []
 url: https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Chicago/State-Management-Product-Analyst_R2693
 source: simplify-new-grad
 listing_id: 49dbad76-2285-4d9f-851e-a14db699d25c
-active: true
+active: false
 date_posted: '2026-07-07'
 date_updated: '2026-07-07'
 status: to-apply

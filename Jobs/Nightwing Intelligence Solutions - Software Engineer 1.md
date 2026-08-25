@@ -4,17 +4,16 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Annapolis Junction, MD
+- Sterling, VA
 terms: []
-url: https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150
+url: https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Software-Engineer-I_JR101958
 source: simplify-new-grad
-listing_id: 9b41dc89-278f-49b2-9445-208d05b10583
+listing_id: dead17d4-de13-40ac-923b-ac8d41bdaba0
 active: false
-date_posted: '2026-05-16'
-date_updated: '2026-06-18'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 43.36
 ---

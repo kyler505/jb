@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/perpay/jobs/4034578007
 source: simplify-new-grad
 listing_id: 87535675-cdd3-44ea-b36f-622b1a2be47b
-active: true
+active: false
 date_posted: '2026-01-23'
 date_updated: '2026-01-23'
 status: to-apply

@@ -8,13 +8,14 @@ locations:
 - Cambridge, MA
 - Madison, WI
 - Seattle, WA
-- Houston, TX
+- Washington, DC
 - SF
 - Austin, TX
 - LA
 - San Jose, CA
 - Irvine, CA
-- San Carlos, CA
+- South SF
+- Redwood City, CA
 - Raleigh, NC
 - San Bruno, CA
 - Redmond, WA
@@ -34,13 +35,13 @@ locations:
 - Atlanta, GA
 - San Diego, CA
 terms:
-- Summer 2027
-url: https://www.google.com/about/careers/applications/jobs/results/85564713261245126
+- Summer 2026
+url: https://www.google.com/about/careers/applications/jobs/results/91436104816698054
 source: simplify-internships
-listing_id: 820400f1-d2e5-43b3-94b0-c8913692b46a
+listing_id: cd7682b8-7722-4a26-9813-42ece290a387
 active: false
-date_posted: '2026-07-20'
-date_updated: '2026-07-20'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,17 +4,16 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Huntsville, AL
+- Hollywood, MD
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville-AL_R10240786
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440
 source: simplify-new-grad
-listing_id: 33e5b5b2-f93f-4213-bd4e-b7e175214d90
+listing_id: 9a501b59-f29b-4a7d-b8ef-eb5221735c94
 active: false
-date_posted: '2026-07-16'
-date_updated: '2026-07-16'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 58.72
 ---

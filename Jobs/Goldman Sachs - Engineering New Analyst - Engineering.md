@@ -4,12 +4,12 @@ role: Engineering New Analyst - Engineering
 category: new-grad
 discipline: other
 locations:
-- Salt Lake City, UT
+- Seattle, WA
 terms: []
-url: https://higher.gs.com/roles/171570?type=students
+url: https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807
 source: simplify-new-grad
-listing_id: 43a5374e-0e70-4dc9-82b0-687b54e8c5da
-active: false
+listing_id: e09149c6-13df-4156-b091-ebf0159330f8
+active: true
 date_posted: '2026-08-15'
 date_updated: '2026-08-15'
 status: to-apply

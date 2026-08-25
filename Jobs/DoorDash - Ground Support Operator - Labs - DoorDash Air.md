@@ -10,7 +10,7 @@ terms: []
 url: https://job-boards.greenhouse.io/doordashusa/jobs/8048543
 source: simplify-new-grad
 listing_id: 58887af3-64d9-476a-8bd0-68a96f7c0be9
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-08-15'
 status: to-apply

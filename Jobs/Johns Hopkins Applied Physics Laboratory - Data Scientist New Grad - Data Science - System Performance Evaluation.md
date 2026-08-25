@@ -9,7 +9,7 @@ terms: []
 url: https://careers.jhuapl.edu/jobs/57653?icims=1
 source: simplify-new-grad
 listing_id: ebe4a852-92bc-4d9b-8f32-f4aeea67b6f7
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

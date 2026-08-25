@@ -14,7 +14,7 @@ terms:
 url: https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685
 source: simplify-internships
 listing_id: 447a57f2-3927-462b-b9ad-02970b6def5c
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

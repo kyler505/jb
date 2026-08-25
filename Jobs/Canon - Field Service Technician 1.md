@@ -4,14 +4,14 @@ role: Field Service Technician 1
 category: new-grad
 discipline: other
 locations:
-- Memphis, TN
+- Roseland, NJ
 terms: []
-url: https://external-canoncareers.icims.com/jobs/34762/job?mobile=true&needsRedirect=false
+url: https://external-canoncareers.icims.com/jobs/34811/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 9560628e-382e-4abf-8490-b978e15d27fe
+listing_id: 7d3105a2-ce2a-4567-8cf5-03fa80a9a082
 active: true
-date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null

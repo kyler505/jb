@@ -4,14 +4,14 @@ role: Repair Services Associate 1
 category: new-grad
 discipline: other
 locations:
-- Bentonville, AR
+- Buffalo Grove, IL
 terms: []
-url: https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bentonville-Arkansas/Repair-Services-Associate-I--1st-Shift-M-F-6am-2-30pm_JR102486
+url: https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Buffalo-Grove-Illinois/Repair-Services-Associate-1_JR103011
 source: simplify-new-grad
-listing_id: ad5eadd1-4af5-4e17-8ab0-5a3cac47b12a
+listing_id: bbab81ee-841f-42db-832e-cad91b7c31b8
 active: true
-date_posted: '2026-07-09'
-date_updated: '2026-08-21'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null

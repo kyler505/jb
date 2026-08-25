@@ -11,7 +11,7 @@ terms:
 url: http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008
 source: simplify-internships
 listing_id: d61f0f42-99b5-4c9d-a8bf-5561238b3014
-active: true
+active: false
 date_posted: '2026-06-09'
 date_updated: '2026-06-09'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern
 source: simplify-internships
 listing_id: 7fcb2e8c-cda4-468f-b6ff-2d05f6b0b2c6
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

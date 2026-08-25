@@ -8,12 +8,12 @@ locations:
 - NYC
 terms:
 - Summer 2027
-url: https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579
+url: https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134
 source: simplify-internships
-listing_id: 480a3ec4-1b4b-4ee7-9901-ed9ea485c1c5
+listing_id: d55a832d-489f-468a-8688-f419fb8b1b38
 active: false
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_posted: '2026-08-24'
+date_updated: '2026-08-24'
 status: to-apply
 applied_date: null
 deadline: null

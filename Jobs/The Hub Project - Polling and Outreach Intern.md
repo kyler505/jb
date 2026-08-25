@@ -10,7 +10,7 @@ terms:
 url: https://newventurefund.applytojob.com/apply/RFdviqLOwW/Polling-And-Outreach-Intern
 source: simplify-internships
 listing_id: ef5cea8e-1aeb-4b45-bb16-8865f46e2f8b
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

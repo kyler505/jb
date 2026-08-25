@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- San Jose, CA
+- Milpitas, CA
 terms: []
-url: https://careers.cisco.com/global/en/job/1449197
+url: https://careers.cisco.com/global/en/job/2023527
 source: simplify-new-grad
-listing_id: 950f53eb-f578-4031-8d81-ac822b56d643
+listing_id: 748876fb-0603-4b73-b26c-469bc138674c
 active: false
-date_posted: '2026-07-31'
-date_updated: '2026-07-31'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://www.tesla.com/careers/search/job/273224
 source: simplify-new-grad
 listing_id: e0ca14d4-8894-4667-99ee-7383c5d556ae
-active: true
+active: false
 date_posted: '2026-06-08'
 date_updated: '2026-06-08'
 status: to-apply

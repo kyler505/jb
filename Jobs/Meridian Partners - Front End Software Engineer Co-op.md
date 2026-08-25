@@ -6,13 +6,13 @@ discipline: frontend
 locations:
 - Cambridge, MA
 terms:
-- Spring 2026
-url: https://job-boards.greenhouse.io/morsecorpcoop/jobs/7608045003
+- Fall 2026
+url: https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003
 source: simplify-internships
-listing_id: b52cc8d9-8ec2-469b-86cd-ee83c800a480
+listing_id: b6132ac2-9368-4e6a-aa27-567060ba3f3f
 active: false
-date_posted: '2026-01-28'
-date_updated: '2026-01-28'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

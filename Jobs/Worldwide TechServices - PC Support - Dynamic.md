@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000143895149
 source: simplify-new-grad
 listing_id: d9046f59-0e24-4a57-bf1a-3956f662b2bb
-active: true
+active: false
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

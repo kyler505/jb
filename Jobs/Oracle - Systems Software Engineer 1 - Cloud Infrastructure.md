@@ -9,7 +9,7 @@ terms: []
 url: https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342326
 source: simplify-new-grad
 listing_id: f04b07be-d96c-43ed-841a-0de54ace7a06
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

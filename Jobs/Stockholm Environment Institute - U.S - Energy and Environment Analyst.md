@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/sei/j/32B312B16E/apply
 source: simplify-new-grad
 listing_id: fee8fc8f-9472-4328-aa55-23f410a90d17
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

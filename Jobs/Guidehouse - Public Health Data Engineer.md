@@ -12,7 +12,7 @@ terms: []
 url: https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1
 source: simplify-new-grad
 listing_id: 172b703e-8433-4778-8e7c-9652e1e27fa5
-active: false
+active: true
 date_posted: '2026-08-12'
 date_updated: '2026-08-12'
 status: to-apply

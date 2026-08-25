@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Rochester, NY
+- Fort Wayne, IN
 terms: []
-url: https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421767700/?ats=successfactors
+url: https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors
 source: simplify-new-grad
-listing_id: 1b82daa4-364d-422a-8477-8565651b1158
+listing_id: 3c7e6389-ba90-4b7f-90b4-f90421053e95
 active: true
-date_posted: '2026-08-20'
-date_updated: '2026-08-20'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

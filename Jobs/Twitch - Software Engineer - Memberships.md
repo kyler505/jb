@@ -10,7 +10,7 @@ terms: []
 url: https://job-boards.greenhouse.io/twitch/jobs/8605153002
 source: simplify-new-grad
 listing_id: 39fea75e-0741-4f91-b9ff-0233de1242b2
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-06-26'
 status: skipped

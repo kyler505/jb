@@ -9,7 +9,7 @@ terms: []
 url: https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---GA-Field-Location/SCA-Electronic-Security-System--ESS--Electronics-Technician_R185132
 source: simplify-new-grad
 listing_id: 2672baf9-a609-4fe4-b69c-97c5ebad875e
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply
