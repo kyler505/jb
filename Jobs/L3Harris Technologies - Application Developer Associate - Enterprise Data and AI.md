@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors
 source: simplify-new-grad
 listing_id: a4aabf38-92c7-4e05-b84e-51c4d41178a4
-active: true
+active: false
 date_posted: '2026-08-19'
 date_updated: '2026-08-19'
 status: to-apply

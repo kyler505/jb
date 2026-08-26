@@ -9,7 +9,7 @@ terms: []
 url: http://intellisensesystemsinc.applytojob.com/apply/DfFqNQOHuL/Electronics-Assembler-I
 source: simplify-new-grad
 listing_id: b970996f-8877-40d2-878d-563423e5ae83
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-24'
 status: to-apply

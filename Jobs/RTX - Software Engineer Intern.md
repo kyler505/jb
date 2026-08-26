@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Annapolis Junction, MD
+- Jupiter, FL
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern_01869058
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485
 source: simplify-internships
-listing_id: 73bad9f8-aa3c-4578-9551-8df84938f6a3
-active: false
-date_posted: '2026-08-24'
-date_updated: '2026-08-24'
+listing_id: a79f265c-746e-46d7-b61c-a46e35dde12a
+active: true
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

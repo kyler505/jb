@@ -4,15 +4,14 @@ role: Medtech Field Service Technician
 category: new-grad
 discipline: other
 locations:
-- Idaho Falls, ID
-- Pocatello, ID
+- Salt Lake City, UT
 terms: []
-url: https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Pocatello-ID/MedTech-Field-Service-Technician---On-Call---Per-Diem---Pocatello-Idaho-Falls--ID_R1541730
+url: https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Salt-Lake-City-UT-United-States-of-America/MedTech-Field-Service-Technician---Part-Time---Salt-Lake-City--UT_R1564272
 source: simplify-new-grad
-listing_id: 3edfca68-dc57-4ab9-86ba-11349878b84c
+listing_id: c4ce7b90-7d55-4593-a12f-f6e0d4f4c171
 active: true
-date_posted: '2026-06-13'
-date_updated: '2026-08-14'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

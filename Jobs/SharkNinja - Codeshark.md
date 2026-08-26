@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006
 source: simplify-internships
 listing_id: 278bc4d9-086a-49c0-bd73-d6dc29d652f9
-active: true
+active: false
 date_posted: '2026-07-08'
 date_updated: '2026-07-08'
 status: to-apply

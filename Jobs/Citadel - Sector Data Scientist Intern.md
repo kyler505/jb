@@ -10,7 +10,7 @@ terms:
 url: https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/
 source: simplify-internships
 listing_id: de926b0a-99e7-4dbd-94cd-334ec565be9f
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

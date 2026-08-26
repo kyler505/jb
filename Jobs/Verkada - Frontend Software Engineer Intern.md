@@ -6,16 +6,16 @@ discipline: frontend
 locations:
 - San Mateo, CA
 terms:
-- Fall 2026
-url: https://job-boards.greenhouse.io/verkada/jobs/5099529007
+- Winter 2027
+- Summer 2027
+url: https://job-boards.greenhouse.io/verkada/jobs/5210942007
 source: simplify-internships
-listing_id: 1b2a515c-420c-4739-90eb-0ca8c93613b4
+listing_id: 20898b37-1e46-4759-b318-1a51ae4d1200
 active: false
-date_posted: '2026-04-07'
-date_updated: '2026-04-07'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 35.92
 ---

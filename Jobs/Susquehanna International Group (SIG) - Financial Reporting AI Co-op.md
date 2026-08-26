@@ -10,7 +10,7 @@ terms:
 url: https://careers-sig.icims.com/jobs/11137/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 06099fa3-77ff-4576-859d-299374395c99
-active: true
+active: false
 date_posted: '2026-06-30'
 date_updated: '2026-06-30'
 status: to-apply

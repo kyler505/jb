@@ -4,14 +4,14 @@ role: Installation Technician - Residential
 category: new-grad
 discipline: other
 locations:
-- St Rose, LA
+- Melville, NY
 terms: []
-url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021657
+url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021852
 source: simplify-new-grad
-listing_id: 7b62fd92-1a4c-4e20-8df2-7461128a1481
+listing_id: fb49ee65-7eac-4ac7-ab79-c3262d6f04d7
 active: true
-date_posted: '2026-08-12'
-date_updated: '2026-08-12'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

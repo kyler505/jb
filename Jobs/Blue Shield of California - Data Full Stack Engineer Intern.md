@@ -10,7 +10,7 @@ terms:
 url: https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580
 source: simplify-internships
 listing_id: f8c3812a-4e5d-48e3-b329-54a28233db3a
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply

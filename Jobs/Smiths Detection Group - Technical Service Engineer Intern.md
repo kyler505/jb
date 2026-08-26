@@ -4,15 +4,15 @@ role: Technical Service Engineer Intern
 category: internship
 discipline: other
 locations:
-- Parsippany-Troy Hills, NJ
+- Pine Brook, Montville, NJ
 terms:
 - N/A
-url: https://jobs.smartrecruiters.com/SmithsGroup2/744000140008569
+url: https://jobs.smartrecruiters.com/SmithsGroup2/744000145533267
 source: simplify-internships
-listing_id: b384c506-de73-4735-9896-9f16b0054f1a
+listing_id: a978ff38-52c5-44c8-b7ca-fc5bba5a02a7
 active: false
-date_posted: '2026-07-27'
-date_updated: '2026-07-27'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

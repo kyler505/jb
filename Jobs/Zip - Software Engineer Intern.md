@@ -4,18 +4,17 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Toronto, ON, Canada
+- SF
 terms:
-- Fall 2026
-url: https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application
+- Summer 2027
+url: https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf/application?embed=true
 source: simplify-internships
-listing_id: 5c3babf9-78e2-4c0e-a438-60625697bea7
+listing_id: 9ab1c4b6-7573-49a7-80b3-d93982ec29dd
 active: false
-date_posted: '2026-03-27'
-date_updated: '2026-03-27'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 42.67
 ---

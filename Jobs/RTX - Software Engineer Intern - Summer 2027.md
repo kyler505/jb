@@ -7,12 +7,12 @@ locations:
 - Tucson, AZ
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineering-Intern--Summer-2027-_01869473
 source: simplify-internships
-listing_id: 15d3a6ce-277c-4231-b321-686c45849a85
+listing_id: dd744ff9-f99d-42d9-8199-cfc24f358f59
 active: true
-date_posted: '2026-08-20'
-date_updated: '2026-08-20'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

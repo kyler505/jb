@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Andover, MA
+- Huntsville, AL
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829
 source: simplify-new-grad
-listing_id: 40ac8f0e-2e41-4c53-9757-6a1ee928093c
+listing_id: 1a1f699e-127e-40c9-966b-51e682c53f44
 active: true
-date_posted: '2026-08-24'
-date_updated: '2026-08-24'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

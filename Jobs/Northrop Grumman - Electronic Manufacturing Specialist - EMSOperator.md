@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Baltimore, MD
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105--Electronic-Manufacturing-Specialist--EMS-Operator-_R10238181-1
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105--Electronic-Manufacturing-Specialist--EMS-Operator-_R10247227-1
 source: simplify-new-grad
-listing_id: 200b3072-0dd0-463f-bd5b-9b577a7e1ae6
+listing_id: 568c6036-aeb5-4f73-9c75-fa674f965716
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-08-25'
+date_updated: '2026-08-25'
 status: to-apply
 applied_date: null
 deadline: null

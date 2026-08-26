@@ -6,13 +6,13 @@ discipline: swe
 locations:
 - Cary, NC
 terms:
-- Fall 2026
-url: https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004
+- Summer 2027
+url: https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004
 source: simplify-internships
-listing_id: 31b6c7b2-864a-4492-8fdc-1e1d94a23ce1
+listing_id: 706c113d-3534-4a68-8836-c8195ea3f0c9
 active: true
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

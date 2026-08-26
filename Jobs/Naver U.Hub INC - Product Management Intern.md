@@ -10,7 +10,7 @@ terms:
 url: https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern
 source: simplify-internships
 listing_id: 4c13d76e-b205-4010-a271-55fb853f5767
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

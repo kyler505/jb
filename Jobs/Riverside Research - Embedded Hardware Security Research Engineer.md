@@ -9,7 +9,7 @@ terms: []
 url: https://careers-riversideresearch.icims.com/jobs/4351/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: f01fe13b-073e-4b83-8828-42db2c1d956d
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply
