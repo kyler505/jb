@@ -13,7 +13,7 @@ terms:
 url: https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278
 source: simplify-internships
 listing_id: 4b95d40c-afe4-4c27-af52-6e7cff541fa8
-active: true
+active: false
 date_posted: '2026-04-13'
 date_updated: '2026-04-13'
 status: to-apply

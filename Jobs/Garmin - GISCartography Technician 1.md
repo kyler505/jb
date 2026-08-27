@@ -4,14 +4,14 @@ role: GIS/Cartography Technician 1
 category: new-grad
 discipline: other
 locations:
-- St. Louis, MO
+- Olathe, KS
 terms: []
-url: https://careers.garmin.com/jobs/19265?icims=1
+url: https://careers.garmin.com/jobs/19720?icims=1
 source: simplify-new-grad
-listing_id: f07fa99f-f6a9-4a02-bc87-c7b0aca8d367
+listing_id: 6211e1d7-9948-415e-999f-e9abcd23ac10
 active: true
-date_posted: '2026-08-25'
-date_updated: '2026-08-25'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

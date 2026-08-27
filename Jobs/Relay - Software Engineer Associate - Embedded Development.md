@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/relaypro/jobs/7968124
 source: simplify-new-grad
 listing_id: 0b2ebb3e-0627-41b1-b699-1b746a023edd
-active: false
+active: true
 date_posted: '2026-05-30'
 date_updated: '2026-06-08'
 status: to-apply

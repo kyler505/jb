@@ -6,12 +6,12 @@ discipline: hardware
 locations:
 - Boise, ID
 terms: []
-url: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR107861
+url: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Design-Engineer_JR109572
 source: simplify-new-grad
-listing_id: 6de1583b-b744-47a5-9c59-7b7dbe27ae4c
+listing_id: 7a614b8e-eeeb-467f-a654-af659a1021c7
 active: false
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

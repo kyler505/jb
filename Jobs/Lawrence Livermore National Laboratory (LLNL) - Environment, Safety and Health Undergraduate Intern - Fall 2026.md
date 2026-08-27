@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/LLNL/3743990014730996
 source: simplify-internships
 listing_id: 43d2af12-58ef-4a09-9b0c-eca848f6b3ee
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

@@ -4,13 +4,13 @@ role: Trading Analyst
 category: new-grad
 discipline: other
 locations:
-- NYC
+- London, UK
 terms: []
-url: https://jobs.lever.co/wintermute-trading/81f14b93-9b5b-42c1-96d9-56c0cfa9e44e/apply
+url: https://jobs.lever.co/wintermute-trading/11823665-128e-452e-afbb-ce855f22ed86/apply
 source: simplify-new-grad
-listing_id: 4f4c4349-199a-4321-b0ab-2645e3c64667
-active: true
-date_posted: '2026-08-20'
+listing_id: 8e9167f7-331c-4bb2-ac61-fd0e6469ee70
+active: false
+date_posted: '2026-06-03'
 date_updated: '2026-08-20'
 status: to-apply
 applied_date: null

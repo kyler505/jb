@@ -4,14 +4,14 @@ role: Telematics Installer
 category: new-grad
 discipline: other
 locations:
-- Leetsdale, PA
+- Angleton, TX
 terms: []
-url: https://www.equipmentshare.com/careers/openings/?gh_jid=8153065
+url: https://www.equipmentshare.com/careers/openings/?gh_jid=8159481
 source: simplify-new-grad
-listing_id: 3ab9013f-6052-4487-a363-3bc028b58b16
+listing_id: b2786f2a-0929-410c-97f7-4098beb6f7ef
 active: true
-date_posted: '2026-08-24'
-date_updated: '2026-08-24'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

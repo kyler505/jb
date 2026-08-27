@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Chandler, AZ
 terms: []
-url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Associate-Configuration-Analyst---Chandler-AZ--AHT-_R10247748
+url: https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Associate-Configuration-Analyst---Chandler-AZ--AHT-_R10248060
 source: simplify-new-grad
-listing_id: 7ad350a0-3160-4238-9f30-a0080ea31e97
+listing_id: e075f554-437f-4809-aa06-19e2c1a0fcf2
 active: true
-date_posted: '2026-08-25'
-date_updated: '2026-08-26'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

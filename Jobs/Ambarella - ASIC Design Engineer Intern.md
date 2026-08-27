@@ -7,12 +7,12 @@ locations:
 - United States
 terms:
 - Fall 2026
-url: https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100
+url: https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357
 source: simplify-internships
-listing_id: 22d08295-47cf-4b31-9064-5548c060a73f
+listing_id: c9f13018-0f28-472d-a355-1d35416d8429
 active: false
-date_posted: '2026-05-23'
-date_updated: '2026-07-21'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

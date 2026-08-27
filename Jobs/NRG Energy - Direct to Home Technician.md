@@ -4,14 +4,14 @@ role: Direct to Home Technician
 category: new-grad
 discipline: other
 locations:
-- Boise, ID
+- Alvin, TX
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Boise-DTH-Full-Time-Technician-Boise,-ID-ID-83705/1419243600/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Alvin-DTH-FT-Technician-Alvin,-TX-TX-77511/1423674500/?ats=successfactors
 source: simplify-new-grad
-listing_id: df978fa1-bc72-4d6a-9ee5-4faf1bda1df1
+listing_id: ca292aff-38d0-49ec-8886-78d270bb7d95
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

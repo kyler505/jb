@@ -9,7 +9,7 @@ terms: []
 url: https://evertz.applytojob.com/apply/Wfa2JBkGnW/Junior-Field-Service-Engineer-AV
 source: simplify-new-grad
 listing_id: 35ca9bf2-641e-4732-a82e-f56320d1e245
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

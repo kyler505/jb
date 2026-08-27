@@ -10,7 +10,7 @@ terms:
 url: https://careers-eastpennmanufacturing.icims.com/jobs/30007/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: d97bc5e0-5ab3-4624-a0ac-a04f047413df
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

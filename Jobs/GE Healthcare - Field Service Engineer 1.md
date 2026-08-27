@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Remote in USA
 terms: []
-url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044580-1
+url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Wichita--KS_R4044697
 source: simplify-new-grad
-listing_id: f0b72df2-45e6-4ab7-a7f9-f45c59ba884d
-active: false
-date_posted: '2026-08-07'
-date_updated: '2026-08-07'
+listing_id: c9399273-b32f-4ca5-80e9-70eeaf4037f7
+active: true
+date_posted: '2026-08-11'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

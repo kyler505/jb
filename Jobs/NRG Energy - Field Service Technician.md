@@ -4,14 +4,14 @@ role: Field Service Technician
 category: new-grad
 discipline: other
 locations:
-- St Paul, MN
+- Jackson, MS
 terms: []
-url: https://careers.nrgenergy.com/SMARTHOMES/job/Saint-Paul-Field-Service-Professional-Saint-Paul,-MN-MN-55106/1419350700/?ats=successfactors
+url: https://careers.nrgenergy.com/SMARTHOMES/job/Jackson-Field-Service-Professional-Jackson,-MS-MS-39211/1423965000/?ats=successfactors
 source: simplify-new-grad
-listing_id: e8bdcf1c-73bd-41c0-9e81-ac1ca1dc598c
+listing_id: 073ed6df-77d7-4302-a76b-a711464e699e
 active: false
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

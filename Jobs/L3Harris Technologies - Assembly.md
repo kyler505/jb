@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Rochester-Assembly-B-NY-14623/1419211200/?ats=successfactors
 source: simplify-new-grad
 listing_id: 0911d4b2-2fef-48c0-a533-4ce070821e3c
-active: false
+active: true
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

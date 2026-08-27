@@ -9,7 +9,7 @@ terms: []
 url: https://mantech.avature.net/en_US/careers/JobDetail/64786
 source: simplify-new-grad
 listing_id: cb369351-882d-41be-9e85-42d3312f503a
-active: true
+active: false
 date_posted: '2026-08-02'
 date_updated: '2026-08-02'
 status: to-apply

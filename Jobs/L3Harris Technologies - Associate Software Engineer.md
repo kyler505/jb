@@ -4,14 +4,14 @@ role: Associate Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Fort Wayne, IN
+- Salt Lake City, UT
 terms: []
-url: https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors
+url: https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1423952700/?ats=successfactors
 source: simplify-new-grad
-listing_id: 3c7e6389-ba90-4b7f-90b4-f90421053e95
+listing_id: 6b149eb1-5558-42e3-9a54-998d7c4e8a3c
 active: true
-date_posted: '2026-08-25'
-date_updated: '2026-08-25'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

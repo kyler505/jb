@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/scaleai/jobs/4703343005
 source: simplify-internships
 listing_id: 10f26a2e-0806-4a95-ab5a-9937df1917fa
-active: true
+active: false
 date_posted: '2026-06-06'
 date_updated: '2026-06-06'
 status: to-apply

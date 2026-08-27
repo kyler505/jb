@@ -12,7 +12,7 @@ terms:
 url: https://boards.greenhouse.io/faire/jobs/8376377002
 source: simplify-internships
 listing_id: 21a2fc47-75fb-4613-8e44-d2b16c4bb504
-active: true
+active: false
 date_posted: '2026-01-15'
 date_updated: '2026-01-15'
 status: to-apply

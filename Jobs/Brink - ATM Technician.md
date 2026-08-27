@@ -4,14 +4,14 @@ role: ATM Technician
 category: new-grad
 discipline: other
 locations:
-- Pittsburgh, PA
+- Detroit, MI
 terms: []
-url: https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Pittsburgh-PA/ATM-Technician_R76832
+url: https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Detroit-MI/ATM-Technician_R78332
 source: simplify-new-grad
-listing_id: 25edbcbd-db51-4493-94cc-4ffc29d2e165
+listing_id: 8f8f43f6-d285-4357-bc29-112f95d6d232
 active: true
-date_posted: '2026-07-17'
-date_updated: '2026-08-05'
+date_posted: '2026-08-11'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

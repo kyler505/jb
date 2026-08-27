@@ -9,7 +9,7 @@ terms: []
 url: https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Production-Assembler---1st-shift_R5038790
 source: simplify-new-grad
 listing_id: 58d874ef-419b-49af-855a-a5369d3ac271
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

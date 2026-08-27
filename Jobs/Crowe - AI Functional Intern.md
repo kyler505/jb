@@ -46,7 +46,7 @@ terms:
 url: https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015
 source: simplify-internships
 listing_id: 440a78fd-1099-4f5d-9384-4cda25b60ab3
-active: true
+active: false
 date_posted: '2026-08-19'
 date_updated: '2026-08-21'
 status: to-apply

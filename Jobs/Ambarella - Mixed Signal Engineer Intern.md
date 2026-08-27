@@ -7,12 +7,12 @@ locations:
 - United States
 terms:
 - Summer 2026
-url: https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105
+url: https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100361
 source: simplify-internships
-listing_id: f51a59ea-927f-4162-a6d7-d1c70b03cd7d
+listing_id: db4deaf3-658e-4ff9-b870-70d3847988d4
 active: false
-date_posted: '2026-05-23'
-date_updated: '2026-07-21'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

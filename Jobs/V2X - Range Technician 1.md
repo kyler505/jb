@@ -9,7 +9,7 @@ terms: []
 url: https://careers.gov2x.com/jobs/62397?icims=1
 source: simplify-new-grad
 listing_id: 73f835b3-33ef-4230-98eb-e947be649f9d
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

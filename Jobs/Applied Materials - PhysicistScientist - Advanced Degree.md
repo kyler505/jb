@@ -9,7 +9,7 @@ terms: []
 url: https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Physicist-Scientist--Adv-Degree--Gloucester--MA_R2611455
 source: simplify-new-grad
 listing_id: bcf31ce3-d579-4237-bfb9-5c4d5805d590
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-25'
 status: to-apply

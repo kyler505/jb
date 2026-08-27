@@ -10,7 +10,7 @@ terms:
 url: https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Fall-2026_2601749-1
 source: simplify-internships
 listing_id: 1862811d-f108-4ae2-80e1-ebadd703d58a
-active: true
+active: false
 date_posted: '2026-06-12'
 date_updated: '2026-06-12'
 status: to-apply

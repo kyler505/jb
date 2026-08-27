@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.ulalaunch.com/job/Centennial-Contract-Data-Management-1-CO-80112/1395604900/?ats=successfactors
 source: simplify-new-grad
 listing_id: 8b5b36e2-ca83-4a2d-a627-8dba53b66540
-active: true
+active: false
 date_posted: '2026-06-01'
 date_updated: '2026-06-01'
 status: to-apply

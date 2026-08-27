@@ -10,7 +10,7 @@ terms: []
 url: https://dukeenergy.wd1.myworkdayjobs.com/search/job/St-Petersburg-FL/Associate-GIS-Technologist-OR-GIS-Technologist_R41129
 source: simplify-new-grad
 listing_id: 3efaee9e-f195-4108-abb0-e12997ad4cc6
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

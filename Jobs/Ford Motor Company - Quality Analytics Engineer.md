@@ -9,7 +9,7 @@ terms: []
 url: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68687
 source: simplify-new-grad
 listing_id: 62362f22-a1ca-41d5-8fb5-e75145b45a40
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply

@@ -7,12 +7,12 @@ locations:
 - Orem, UT
 terms:
 - Fall 2026
-url: https://careers.clydeinc.com/jobs/22659?icims=1
+url: https://careers.clydeinc.com/jobs/34757?icims=1
 source: simplify-internships
-listing_id: 0ad21b0e-b334-4f46-a502-e75492ac01b2
+listing_id: d8493a9c-bd31-4bcf-9858-a4db18c59643
 active: true
-date_posted: '2026-08-01'
-date_updated: '2026-08-01'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

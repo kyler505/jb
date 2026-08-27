@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.supermicro.com/job/San-Jose-Associate-Product-Manager-Cali/1367984400/?ats=successfactors
 source: simplify-new-grad
 listing_id: 4b44405f-b28c-4f00-8c54-39814353bfa4
-active: true
+active: false
 date_posted: '2026-05-30'
 date_updated: '2026-07-28'
 status: to-apply

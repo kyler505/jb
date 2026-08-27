@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Palm Bay, FL
+- Colorado Springs, CO
 terms:
 - Fall 2026
-url: https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors
+url: https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1423787000/?ats=successfactors
 source: simplify-internships
-listing_id: 06594313-d737-4fef-9c0a-70ab3323d980
+listing_id: 8ec2e0cc-9193-4d77-9021-5dd3029b637c
 active: true
-date_posted: '2026-08-26'
-date_updated: '2026-08-26'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

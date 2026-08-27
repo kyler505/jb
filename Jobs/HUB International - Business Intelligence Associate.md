@@ -9,7 +9,7 @@ terms: []
 url: https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Norwell-MA/Business-Intelligence-Associate_R0038142
 source: simplify-new-grad
 listing_id: b3fb8bfd-7ba5-44b0-bec5-eecb354ef0cc
-active: true
+active: false
 date_posted: '2026-08-12'
 date_updated: '2026-08-12'
 status: to-apply
