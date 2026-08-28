@@ -10,7 +10,7 @@ terms:
 url: https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529
 source: simplify-internships
 listing_id: 4b41cc6a-c7ca-4364-bf7c-41f6ca98409e
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

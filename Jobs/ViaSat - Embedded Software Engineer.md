@@ -4,18 +4,15 @@ role: Embedded Software Engineer
 category: new-grad
 discipline: hardware
 locations:
-- Marlborough, MA
-- Tampa, FL
-- Tempe, AZ
 - Carlsbad, CA
-- Linthicum Heights, MD
+- Duluth, GA
 terms: []
-url: https://careers.viasat.com/jobs/6723?icims=1
+url: https://careers.viasat.com/jobs/6735?icims=1
 source: simplify-new-grad
-listing_id: 4f308070-caa1-4da7-8630-fcba5b621f04
+listing_id: bea01365-4ada-471d-abb2-9e8cd6325b9e
 active: true
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

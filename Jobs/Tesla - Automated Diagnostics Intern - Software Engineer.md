@@ -6,21 +6,15 @@ discipline: swe
 locations:
 - Palo Alto, CA
 terms:
-- Fall 2026
-url: https://www.tesla.com/careers/search/job/270521
+- Winter 2027
+url: https://www.tesla.com/careers/search/job/281623
 source: simplify-internships
-listing_id: 52919742-2339-4055-82e8-694863cdb915
+listing_id: aac19326-02f3-415a-991f-d6a81d6a7ef9
 active: false
-date_posted: '2026-06-07'
-date_updated: '2026-06-07'
-status: skipped
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
+status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_method: none
-needs_review: false
-apply_result: skipped
-priority: 49.43
-resume_used: resume.pdf
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 ---

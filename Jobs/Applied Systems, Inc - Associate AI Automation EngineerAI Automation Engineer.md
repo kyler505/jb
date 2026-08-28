@@ -9,7 +9,7 @@ terms: []
 url: https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: baa6a8ff-d13c-457a-97fd-48484c7d24db
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

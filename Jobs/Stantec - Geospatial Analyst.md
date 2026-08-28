@@ -4,15 +4,16 @@ role: Geospatial Analyst
 category: new-grad
 discipline: other
 locations:
-- Richmond, VA
-- Williamsburg, VA
+- Madison, WI
+- Milwaukee, WI
+- Cincinnati, OH
 terms: []
-url: https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007338
+url: https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007357
 source: simplify-new-grad
-listing_id: f1740d52-659d-40ce-941b-46d7d4db30d5
+listing_id: c827a700-5a23-411c-932d-4168d653e02e
 active: true
-date_posted: '2026-08-21'
-date_updated: '2026-08-21'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

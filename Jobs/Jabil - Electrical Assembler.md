@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Memphis, TN
 terms: []
-url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electrical-Assembler_J2456848
+url: https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Electrical-Assembler_J2456854
 source: simplify-new-grad
-listing_id: d8645530-b37c-478e-a169-f696a1f1e2b8
+listing_id: bab6d55b-bef0-4d91-abbc-120a5ab8c68f
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-06'
+date_posted: '2026-08-27'
+date_updated: '2026-08-27'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://internships-aei.icims.com/jobs/2614/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: f878e10c-cdc3-43e4-ad04-ce59b74620e5
-active: true
+active: false
 date_posted: '2026-05-01'
 date_updated: '2026-05-26'
 status: to-apply

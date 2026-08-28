@@ -10,7 +10,7 @@ terms: []
 url: https://apply.workable.com/murphy-research/j/EFAC9AC8E1/apply
 source: simplify-new-grad
 listing_id: b8ab4b18-92ce-4923-8397-0b48215af2fa
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

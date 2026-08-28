@@ -4,14 +4,14 @@ role: Data Center Technician
 category: new-grad
 discipline: other
 locations:
-- Westfield, NJ
+- Sandusky, OH
 terms: []
-url: https://coreweave.com/careers/job?4689113006&board=coreweave&gh_jid=4689113006
+url: https://coreweave.com/careers/job?4709264006&board=coreweave&gh_jid=4709264006
 source: simplify-new-grad
-listing_id: 588a4a4f-c4c4-4d62-b5cd-5a8c386b6460
+listing_id: 1eee8b28-4b50-4d6f-9db1-48e016b66ed2
 active: false
-date_posted: '2026-06-24'
-date_updated: '2026-06-24'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

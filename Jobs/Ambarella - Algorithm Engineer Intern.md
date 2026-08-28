@@ -10,7 +10,7 @@ terms:
 url: https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359
 source: simplify-internships
 listing_id: c4841e3b-7bc1-434f-89ca-6339d37cc8ff
-active: false
+active: true
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

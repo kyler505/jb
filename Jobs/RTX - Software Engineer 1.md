@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Cedar Rapids, IA
+- Richardson, TX
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-I--Onsite-_01870400-1
+url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922
 source: simplify-new-grad
-listing_id: acaa0314-9957-4507-b7df-9707c6274cca
-active: true
+listing_id: 2189cc14-cc40-48f0-bc91-3b649e11fec9
+active: false
 date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

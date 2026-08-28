@@ -5,14 +5,13 @@ category: new-grad
 discipline: swe
 locations:
 - Ypsilanti, MI
-- Chantilly, VA
 terms: []
-url: https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_330837-1
+url: https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331197-1
 source: simplify-new-grad
-listing_id: 3061cfda-4fbe-4cb7-ba26-605a5106006f
+listing_id: 41889f54-cd44-417e-8d4a-92c9b6acc35e
 active: true
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

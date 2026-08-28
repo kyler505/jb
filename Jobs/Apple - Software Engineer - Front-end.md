@@ -5,13 +5,14 @@ category: new-grad
 discipline: frontend
 locations:
 - Austin, TX
+- Cupertino, CA
 terms: []
-url: https://jobs.apple.com/en-us/details/200660851
+url: https://jobs.apple.com/en-us/details/200680752
 source: simplify-new-grad
-listing_id: d7cdec21-1d63-46c8-8dee-3c6968019ca3
+listing_id: 76b36874-f561-4551-b201-d4ca3ac11673
 active: false
-date_posted: '2026-08-04'
-date_updated: '2026-08-04'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

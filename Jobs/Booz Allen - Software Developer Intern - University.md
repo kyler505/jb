@@ -4,15 +4,15 @@ role: Software Developer Intern - University
 category: internship
 discipline: swe
 locations:
-- McLean, VA
+- Atlanta, GA
 terms:
 - Summer 2027
-url: https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029
+url: https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138
 source: simplify-internships
-listing_id: 8a398659-4aa5-4cf4-a9d1-222302c48e50
+listing_id: 0b789ff7-5e0b-41ba-98b2-35370afdd223
 active: true
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

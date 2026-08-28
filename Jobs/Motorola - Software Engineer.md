@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Glasgow, UK
+- Lexington, SC
 terms: []
-url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979
+url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Software-Engineer_R67330-1
 source: simplify-new-grad
-listing_id: 0e645a26-5aa4-441c-b793-1ef8516245ca
+listing_id: da7be8d3-3d5a-4ca9-accc-b273d6bdc1d4
 active: true
-date_posted: '2026-07-28'
-date_updated: '2026-07-28'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null

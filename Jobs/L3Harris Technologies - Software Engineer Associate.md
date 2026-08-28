@@ -4,14 +4,14 @@ role: Software Engineer Associate
 category: new-grad
 discipline: swe
 locations:
-- Palm Bay, FL
+- Richardson, TX
 terms: []
-url: https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1422892000/?ats=successfactors
+url: https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1424473800/?ats=successfactors
 source: simplify-new-grad
-listing_id: 7219b946-303f-467f-a812-6f215e1e9c0e
+listing_id: 649c43b4-ecea-4ee8-b78e-601bfe8a7376
 active: true
-date_posted: '2026-08-26'
-date_updated: '2026-08-26'
+date_posted: '2026-08-28'
+date_updated: '2026-08-28'
 status: to-apply
 applied_date: null
 deadline: null
