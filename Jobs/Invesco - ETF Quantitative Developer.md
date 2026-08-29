@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Downers Grove, IL
 terms: []
-url: https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-1
+url: https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2
 source: simplify-new-grad
-listing_id: 0c632253-880e-4a3d-91a5-14a7641c4161
-active: true
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+listing_id: 12efc93b-9cb0-424d-9a67-53c256bb95bf
+active: false
+date_posted: '2026-08-28'
+date_updated: '2026-08-29'
 status: to-apply
 applied_date: null
 deadline: null

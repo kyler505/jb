@@ -11,7 +11,7 @@ terms: []
 url: https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529
 source: simplify-new-grad
 listing_id: 07bd103c-1d70-4013-a353-134890eb3530
-active: false
+active: true
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

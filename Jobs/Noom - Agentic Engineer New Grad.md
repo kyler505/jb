@@ -9,7 +9,7 @@ terms: []
 url: https://www.noom.com/careers/job-listings/?gh_jid=8092909
 source: simplify-new-grad
 listing_id: deebe837-33bf-4674-9b5a-57ef02b237bc
-active: false
+active: true
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

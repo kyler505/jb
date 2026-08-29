@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/concentric/jobs/4703940006
 source: simplify-internships
 listing_id: d509448f-62cd-47bc-9971-4fb9b4f23a31
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-25'
 status: to-apply

@@ -6,12 +6,12 @@ discipline: other
 locations:
 - NYC
 terms: []
-url: https://jobs.ashbyhq.com/nory-co/ca681a52-974c-4a41-bc0f-f9035d304276/application?embed=true
+url: https://jobs.ashbyhq.com/nory-co/49487624-fdb1-444c-8a3e-33a9384a6847/application?embed=true
 source: simplify-new-grad
-listing_id: 0f9c77ed-f654-499d-9764-6f6986f8ab2c
-active: true
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+listing_id: e3ba70f5-8979-458a-a70b-0940bbcc18a3
+active: false
+date_posted: '2026-08-29'
+date_updated: '2026-08-29'
 status: to-apply
 applied_date: null
 deadline: null

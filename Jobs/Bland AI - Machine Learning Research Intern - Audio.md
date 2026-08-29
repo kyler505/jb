@@ -7,12 +7,12 @@ locations:
 - SF
 terms:
 - Fall 2026
-url: https://jobs.ashbyhq.com/bland/bd8743ff-9e18-4f79-9c9a-288f384921f3/application?embed=true
+url: https://jobs.ashbyhq.com/bland/c8a5c0de-935d-4f76-bc7d-237cbfb2cf55/application?embed=true
 source: simplify-internships
-listing_id: bdbf71c5-d680-4923-90cf-5550fdf3679d
-active: true
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+listing_id: 25daa740-61f1-4b2b-b16f-ef6798135d16
+active: false
+date_posted: '2026-08-29'
+date_updated: '2026-08-29'
 status: to-apply
 applied_date: null
 deadline: null

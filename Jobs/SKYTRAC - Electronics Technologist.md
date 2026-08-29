@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Kelowna, BC, Canada
 terms: []
-url: https://ats.rippling.com/skytrac/jobs/7cc6aa4c-e77b-42ba-97ce-a75b48a0d161
+url: https://ats.rippling.com/skytrac/jobs/c52a1a3e-6f4b-4b19-9486-6078a41de87a
 source: simplify-new-grad
-listing_id: 2c81d288-87f8-456a-953f-aedf3ac37dbe
+listing_id: 72fb0e6d-fd70-4796-afba-f683634ca008
 active: false
-date_posted: '2026-07-21'
-date_updated: '2026-07-23'
+date_posted: '2026-08-29'
+date_updated: '2026-08-29'
 status: to-apply
 applied_date: null
 deadline: null

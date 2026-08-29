@@ -11,7 +11,7 @@ terms: []
 url: https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/
 source: simplify-new-grad
 listing_id: d724f264-a5fb-4740-bde3-38ab45368cba
-active: true
+active: false
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'
 status: to-apply
