@@ -13,7 +13,7 @@ terms: []
 url: https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649
 source: simplify-new-grad
 listing_id: 94439f86-761e-479b-ad07-ff674a810362
-active: false
+active: true
 date_posted: '2026-08-28'
 date_updated: '2026-08-29'
 status: to-apply

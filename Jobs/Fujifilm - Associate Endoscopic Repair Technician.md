@@ -4,14 +4,14 @@ role: Associate Endoscopic Repair Technician
 category: new-grad
 discipline: other
 locations:
-- Wayne, NJ
+- Cypress, CA
 terms: []
-url: https://uscareers-fujifilm.icims.com/jobs/38334/job?mobile=true&needsRedirect=false
+url: https://uscareers-fujifilm.icims.com/jobs/38622/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 041fc902-70ff-4d2d-9958-7dc67dc37f2d
+listing_id: 1eabfd94-8044-45d0-b6af-00df94bccac9
 active: false
-date_posted: '2026-07-30'
-date_updated: '2026-08-01'
+date_posted: '2026-08-29'
+date_updated: '2026-08-29'
 status: to-apply
 applied_date: null
 deadline: null

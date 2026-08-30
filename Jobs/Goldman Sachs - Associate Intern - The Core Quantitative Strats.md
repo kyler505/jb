@@ -10,7 +10,7 @@ terms:
 url: https://higher.gs.com/roles/171546?type=students
 source: simplify-internships
 listing_id: 3197c0fa-efa1-4efc-9c3a-37fd84829e4a
-active: true
+active: false
 date_posted: '2026-08-15'
 date_updated: '2026-08-27'
 status: to-apply

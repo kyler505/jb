@@ -10,7 +10,7 @@ terms:
 url: https://jobs.ashbyhq.com/bland/c8a5c0de-935d-4f76-bc7d-237cbfb2cf55/application?embed=true
 source: simplify-internships
 listing_id: 25daa740-61f1-4b2b-b16f-ef6798135d16
-active: false
+active: true
 date_posted: '2026-08-29'
 date_updated: '2026-08-29'
 status: to-apply

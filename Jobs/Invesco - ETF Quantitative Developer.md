@@ -9,7 +9,7 @@ terms: []
 url: https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Downers-Grove-Illinois/ETF-Quantitative-Developer_R-14868-2
 source: simplify-new-grad
 listing_id: 12efc93b-9cb0-424d-9a67-53c256bb95bf
-active: false
+active: true
 date_posted: '2026-08-28'
 date_updated: '2026-08-29'
 status: to-apply

@@ -11,7 +11,7 @@ terms:
 url: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Anaheim-CA-USA/Geographic-Information-Systems--GIS--Intern--Spring-2027_10158899-1
 source: simplify-internships
 listing_id: f5178797-4efa-456f-aa5f-fa10203f6b9d
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

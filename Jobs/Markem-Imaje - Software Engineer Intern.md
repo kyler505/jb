@@ -19,10 +19,10 @@ deadline: null
 notes: '2026-06-26 live apply pass: Dover posting now says ''Sorry, this position
   has been filled.'''
 apply_method: auto
-resume_used: resume
 apply_result: exception
-apply_error: _handle_generic() takes 3 positional arguments but 4 were given
 needs_review: true
+resume_used: resume
+apply_error: _handle_generic() takes 3 positional arguments but 4 were given
 priority: 58.41
 ---
 
