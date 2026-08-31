@@ -12,7 +12,7 @@ terms:
 url: https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648
 source: simplify-internships
 listing_id: cb7d628c-6b58-4cf9-9201-0b7c8c62c914
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

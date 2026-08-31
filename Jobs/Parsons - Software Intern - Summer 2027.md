@@ -10,7 +10,7 @@ terms:
 url: https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388
 source: simplify-internships
 listing_id: 64a54a24-5ab6-415b-bce1-88cd157d415d
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

@@ -14,7 +14,7 @@ terms:
 url: https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864
 source: simplify-internships
 listing_id: 1795d6df-fcca-45dc-836d-41a82dc36894
-active: true
+active: false
 date_posted: '2026-08-29'
 date_updated: '2026-08-29'
 status: to-apply

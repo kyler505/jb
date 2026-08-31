@@ -4,15 +4,15 @@ role: AI, Data & Technology Intern - Summer 2027
 category: internship
 discipline: other
 locations:
-- Chicago, IL
+- Dallas, TX
 terms:
 - Summer 2027
-url: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115681
+url: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115733
 source: simplify-internships
-listing_id: 26b60de2-2d8a-4010-84bc-eae455aebcdd
+listing_id: 728d9a53-61ee-49cc-a0c7-0afef0b1ddf7
 active: true
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

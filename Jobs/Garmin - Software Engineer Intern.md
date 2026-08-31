@@ -4,15 +4,15 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Olathe, KS
+- Chandler, AZ
 terms:
 - Summer 2027
-url: https://careers.garmin.com/jobs/19693?icims=1
+url: https://careers.garmin.com/jobs/19858?icims=1
 source: simplify-internships
-listing_id: afa7917f-eec9-411a-9a5c-e3aad5839ae6
+listing_id: 6fae71ff-8ba9-4cb2-9a98-67e653634b80
 active: true
-date_posted: '2026-08-24'
-date_updated: '2026-08-24'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

@@ -5,14 +5,13 @@ category: new-grad
 discipline: other
 locations:
 - Houston, TX
-- Chicago, IL
 terms: []
-url: https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/XMLNAME-2027-Supply--Trading--and-Shipping-Graduate-Program_RQ114574
+url: https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Trading--Houston--TX_RQ115338
 source: simplify-new-grad
-listing_id: c6628942-b621-4a26-9578-7061a45823f4
+listing_id: f3712c28-2c57-4cc7-916e-abe3022d5a5c
 active: false
-date_posted: '2026-08-07'
-date_updated: '2026-08-08'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

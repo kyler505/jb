@@ -11,7 +11,7 @@ terms:
 url: https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us
 source: simplify-internships
 listing_id: c44d58c3-05e3-470a-9f21-4722f9d8522d
-active: true
+active: false
 date_posted: '2026-05-15'
 date_updated: '2026-07-22'
 status: to-apply

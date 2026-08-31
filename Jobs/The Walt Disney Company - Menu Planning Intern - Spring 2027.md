@@ -11,7 +11,7 @@ terms:
 url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Menu-Planning-Intern--Spring-2027_10159160
 source: simplify-internships
 listing_id: c4b8ec04-6b92-4826-a44f-65b18f7f4af3
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

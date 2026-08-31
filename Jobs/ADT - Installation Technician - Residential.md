@@ -4,14 +4,14 @@ role: Installation Technician - Residential
 category: new-grad
 discipline: other
 locations:
-- Melville, NY
+- Maryland Heights, MO
 terms: []
-url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021852
+url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021912
 source: simplify-new-grad
-listing_id: fb49ee65-7eac-4ac7-ab79-c3262d6f04d7
+listing_id: 366c64f2-df41-47c4-ab66-20f386ff728f
 active: true
-date_posted: '2026-08-25'
-date_updated: '2026-08-25'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

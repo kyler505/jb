@@ -4,17 +4,16 @@ role: Research Data Analyst
 category: new-grad
 discipline: data
 locations:
-- Boston, MA
+- Belmont, MA
 terms: []
-url: https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Research-Data-Analyst_RQ4071406
+url: https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Research-Data-Analyst_RQ4077629
 source: simplify-new-grad
-listing_id: efc5ece9-702f-4b3f-a9af-4f4bf66add23
+listing_id: c262d14c-3780-440d-97ae-099aa1bcff74
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 52.72
 ---

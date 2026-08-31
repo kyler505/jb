@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/CityOfMission/744000142746028
 source: simplify-new-grad
 listing_id: 8158e219-cde8-43aa-bd43-7e3aaa9a48c4
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

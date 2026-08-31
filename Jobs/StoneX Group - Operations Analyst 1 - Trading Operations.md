@@ -9,7 +9,7 @@ terms: []
 url: https://careers-stonex.icims.com/jobs/16371/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: e197514e-1972-499c-9154-d408a621d67c
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply
