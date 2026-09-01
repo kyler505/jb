@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/allcareers/jobs/8692383002
 source: simplify-new-grad
 listing_id: 44d659f8-4edf-405b-b579-79593f6180a1
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

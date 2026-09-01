@@ -6,13 +6,13 @@ discipline: data
 locations:
 - Austin, TX
 terms:
-- Fall 2026
-url: https://job-boards.greenhouse.io/integra/jobs/5134522008
+- Summer 2026
+url: https://job-boards.greenhouse.io/integra/jobs/5406109008
 source: simplify-internships
-listing_id: 5e6027c1-06ff-4833-98fc-5748108833bf
+listing_id: e6af7117-6070-4009-bd28-a7765e2f72ea
 active: false
-date_posted: '2026-04-28'
-date_updated: '2026-04-28'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

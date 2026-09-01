@@ -4,14 +4,14 @@ role: Data Analyst 1
 category: new-grad
 discipline: data
 locations:
-- San Ramon, CA
+- Yarmouth, ME
 terms: []
-url: https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Ramon-CA/Data-Analyst-I_R-100842
+url: https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Yarmouth-ME/Data-Analyst_R-101127
 source: simplify-new-grad
-listing_id: 8fcdc9f5-a11b-4076-91e7-b9d63f2ab00e
+listing_id: 9cd7f988-4147-4b17-88d3-0f46f240d0df
 active: false
-date_posted: '2026-06-08'
-date_updated: '2026-07-28'
+date_posted: '2026-08-31'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

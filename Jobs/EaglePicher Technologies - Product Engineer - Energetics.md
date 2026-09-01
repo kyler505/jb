@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Joplin, MO
 terms: []
-url: https://careers-eaglepicher.icims.com/jobs/3135/job?mobile=true&needsRedirect=false
+url: https://careers-eaglepicher.icims.com/jobs/3146/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 73c04cae-81e8-4f68-b4db-7831f0a11f65
+listing_id: 522fce97-2b4b-4438-ad80-40715d2e02bf
 active: false
-date_posted: '2026-08-10'
-date_updated: '2026-08-10'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Laurel, MD
 terms: []
-url: https://careers.jhuapl.edu/jobs/57531?icims=1
+url: https://careers.jhuapl.edu/jobs/59911?icims=1
 source: simplify-new-grad
-listing_id: 4778a6b9-74eb-4c5c-9ca0-e1d4d7c63007
+listing_id: 81ce1c3f-dc44-4b61-a2d2-da5badbf6e8d
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

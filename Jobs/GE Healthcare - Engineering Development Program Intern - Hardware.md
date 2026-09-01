@@ -11,7 +11,7 @@ terms:
 url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1
 source: simplify-internships
 listing_id: 0b12884f-ce29-40d6-a184-ded1653ddc1b
-active: false
+active: true
 date_posted: '2026-07-20'
 date_updated: '2026-07-20'
 status: to-apply

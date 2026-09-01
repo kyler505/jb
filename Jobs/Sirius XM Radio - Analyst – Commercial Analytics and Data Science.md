@@ -9,7 +9,7 @@ terms: []
 url: https://careers.siriusxm.com/jobs/17444?icims=1
 source: simplify-new-grad
 listing_id: ae662741-7bc6-48f5-8854-46f8f04af661
-active: true
+active: false
 date_posted: '2026-08-01'
 date_updated: '2026-08-01'
 status: to-apply

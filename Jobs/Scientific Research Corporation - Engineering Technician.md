@@ -6,10 +6,10 @@ discipline: other
 locations:
 - North Charleston, SC
 terms: []
-url: https://careers-scires.icims.com/jobs/11292/job?mobile=true&needsRedirect=false
+url: https://careers-scires.icims.com/jobs/11294/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: e7599fb7-d6d6-4f20-84ba-6cde4771e28e
-active: true
+listing_id: 7eaacdbf-2298-43ea-9c3f-9995dcc0cd1d
+active: false
 date_posted: '2026-06-17'
 date_updated: '2026-06-17'
 status: to-apply

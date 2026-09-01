@@ -6,12 +6,12 @@ discipline: other
 locations:
 - San Diego, CA
 terms: []
-url: https://careers-entarian.icims.com/jobs/9861/job?mobile=true&needsRedirect=false
+url: https://careers-entarian.icims.com/jobs/9871/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 394a7b1a-ddab-4982-85f7-67d8850d4424
+listing_id: b8e0c4f7-3c94-4f2c-87d3-e2fedeb43e5d
 active: true
-date_posted: '2026-08-26'
-date_updated: '2026-08-26'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

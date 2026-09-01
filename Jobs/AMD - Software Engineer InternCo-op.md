@@ -4,22 +4,17 @@ role: Software Engineer Intern/Co-op
 category: internship
 discipline: swe
 locations:
-- Rochester, NY
-- Austin, TX
-- Longmont, CO
-- Fishkill, NY
-- Fort Collins, CO
-- Boxborough, MA
+- Vancouver, BC, Canada
 terms:
 - Winter 2027
 - Summer 2027
 - Fall 2027
-url: https://careers.amd.com/jobs/90947?icims=1
+url: https://careers.amd.com/jobs/91367?icims=1
 source: simplify-internships
-listing_id: 944978fc-7eeb-4346-82ad-857bec5239a5
+listing_id: 93957738-d6d4-434f-bafe-6286a5b454d8
 active: true
-date_posted: '2026-08-21'
-date_updated: '2026-08-21'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

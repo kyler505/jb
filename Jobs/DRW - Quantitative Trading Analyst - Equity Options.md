@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/drweng/jobs/8079406
 source: simplify-new-grad
 listing_id: 9feafb0b-6b19-41e3-a267-41e62454292f
-active: true
+active: false
 date_posted: '2026-07-22'
 date_updated: '2026-07-22'
 status: to-apply

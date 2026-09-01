@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/usconec/jobs/4308970009
 source: simplify-new-grad
 listing_id: e44a3eb5-f173-481f-b91f-cd3ace4d2b63
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

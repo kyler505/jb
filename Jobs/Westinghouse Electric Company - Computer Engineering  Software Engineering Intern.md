@@ -4,15 +4,16 @@ role: Computer Engineering / Software Engineering Intern
 category: internship
 discipline: swe
 locations:
-- Cranberry Township, PA
+- Rock Hill, SC
+- Columbia, SC
 terms:
 - Summer 2027
-url: https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors
+url: https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors
 source: simplify-internships
-listing_id: 1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9
+listing_id: f7f7fa98-cacf-4225-9118-d40ad3288633
 active: true
-date_posted: '2026-08-24'
-date_updated: '2026-08-24'
+date_posted: '2026-08-31'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

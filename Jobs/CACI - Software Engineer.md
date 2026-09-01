@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Ypsilanti, MI
+- Lisle, IL
 terms: []
-url: https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331191-1
+url: https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineer_331374
 source: simplify-new-grad
-listing_id: a052add2-28bc-4eb0-b971-1d4dc7ecdf12
+listing_id: 28e8176f-cd82-4341-9b49-ec626abe7864
 active: true
-date_posted: '2026-08-28'
-date_updated: '2026-08-28'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

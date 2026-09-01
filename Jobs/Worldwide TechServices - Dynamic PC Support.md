@@ -4,14 +4,14 @@ role: Dynamic PC Support
 category: new-grad
 discipline: other
 locations:
-- Boston, MA
+- Daytona Beach, FL
 terms: []
-url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000143893574
+url: https://jobs.smartrecruiters.com/WorldwideTechServices/744000146535307
 source: simplify-new-grad
-listing_id: 098e359a-0b08-476a-84c5-19f28a7df0d6
+listing_id: a6ab52e4-752b-4b5e-a499-deae3bb699f2
 active: false
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://careers.noblis.org/jobs/27699?icims=1
 source: simplify-new-grad
 listing_id: 6654047a-c686-4ee9-a050-c53f8cdb885e
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply

@@ -4,22 +4,17 @@ role: Firmware Engineer Intern/Co-op
 category: internship
 discipline: hardware
 locations:
-- Secaucus, NJ
-- Rochester, NY
-- Austin, TX
-- Longmont, CO
-- Fishkill, NY
-- Fort Collins, CO
-- Boxborough, MA
+- Vancouver, BC, Canada
 terms:
-- Spring 2027
+- Winter 2027
 - Summer 2027
-url: https://careers.amd.com/jobs/90805?icims=1
+- Fall 2027
+url: https://careers.amd.com/jobs/91313?icims=1
 source: simplify-internships
-listing_id: 2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2
+listing_id: 1ba21039-d057-4cd1-9345-07562dad6ad0
 active: true
-date_posted: '2026-08-21'
-date_updated: '2026-08-21'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

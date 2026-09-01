@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Denver, CO
 terms: []
-url: https://jobs.smartrecruiters.com/Bet3651/744000142006139
+url: https://jobs.smartrecruiters.com/Bet3651/744000146517769
 source: simplify-new-grad
-listing_id: f64c3bfd-2bbf-4ac1-a8a4-01cbc8c1d0fe
+listing_id: d8178cdd-2f73-477f-b768-2ec0fafd234c
 active: false
-date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_posted: '2026-08-31'
+date_updated: '2026-08-31'
 status: to-apply
 applied_date: null
 deadline: null

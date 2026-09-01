@@ -7,12 +7,12 @@ locations:
 - Cedar Rapids, IA
 terms:
 - Summer 2027
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineering-Intern-Summer-2027-_01870349-1
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432
 source: simplify-internships
-listing_id: 2c7fefd0-1599-4004-ae55-65fa4f77f935
+listing_id: 0ab3de69-35a5-4ba9-b025-ae19ea039751
 active: true
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

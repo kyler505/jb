@@ -6,19 +6,14 @@ discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []
-url: https://stripe.com/jobs/search?gh_jid=7991718
+url: https://stripe.com/jobs/search?gh_jid=8157838
 source: simplify-new-grad
-listing_id: a55aca04-011d-41fa-949e-be14c4e3956f
+listing_id: 076b67e3-3500-43b8-9900-446ce4075cec
 active: false
-date_posted: '2026-06-11'
-date_updated: '2026-06-11'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_method: simplify
-needs_review: false
-apply_result: not_confirmed
-priority: 46.73
-resume_used: resume.pdf
 ---

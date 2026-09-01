@@ -4,17 +4,19 @@ role: Software Engineer New Grad
 category: new-grad
 discipline: swe
 locations:
+- Seattle, WA
+- SF
+- LA
 - NYC
 terms: []
-url: https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application
+url: https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true
 source: simplify-new-grad
-listing_id: 38cca989-4499-494a-9df9-4b012d5d184a
+listing_id: e950fd58-36dd-4bbd-8aa3-314216e6e315
 active: false
-date_posted: '2026-07-13'
-date_updated: '2026-07-13'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 54.38
 ---

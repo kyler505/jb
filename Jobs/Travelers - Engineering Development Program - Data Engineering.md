@@ -1,21 +1,20 @@
 ---
 company: Travelers
 role: Engineering Development Program - Data Engineering
-category: internship
+category: new-grad
 discipline: data
 locations:
-- Sparks, MD
+- Hunt Valley, Cockeysville, MD
 - Hartford, CT
 - Atlanta, GA
 - St Paul, MN
-terms:
-- N/A
-url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-51184-1
-source: simplify-internships
-listing_id: 5d6d2dac-1be0-4319-bcf8-3ee10ba498a5
+terms: []
+url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272
+source: simplify-new-grad
+listing_id: a8b2860c-2d70-43bb-8aa6-8c5efdc04235
 active: false
-date_posted: '2026-07-03'
-date_updated: '2026-07-03'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

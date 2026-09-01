@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Glendale, CA
 terms: []
-url: https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076
+url: https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2
 source: simplify-new-grad
-listing_id: 061a06c3-535f-44bf-baa1-9f36af053f08
+listing_id: a5097a0a-6ce3-4617-b4e0-b214eec284bb
 active: false
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+date_posted: '2026-08-26'
+date_updated: '2026-08-26'
 status: to-apply
 applied_date: null
 deadline: null

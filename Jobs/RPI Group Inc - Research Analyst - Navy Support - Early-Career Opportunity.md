@@ -9,7 +9,7 @@ terms: []
 url: https://rpigroup.applytojob.com/apply/M4AdVkLe6I/Research-Analyst-Navy-Support-EarlyCareer-Opportunity
 source: simplify-new-grad
 listing_id: a429107c-fdee-4a52-8ebb-adf2047ace94
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

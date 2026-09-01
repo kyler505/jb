@@ -6,10 +6,10 @@ discipline: other
 locations:
 - Austin, TX
 terms:
-- Spring 2026
-url: https://job-boards.greenhouse.io/integrainterns/jobs/5406116008
+- Summer 2026
+url: https://job-boards.greenhouse.io/integra/jobs/5406119008
 source: simplify-internships
-listing_id: 718ae9ad-bbb0-4c52-9cba-e71f8421fa8b
+listing_id: 8f6b5101-7230-49bf-9bef-dae65201c706
 active: true
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'

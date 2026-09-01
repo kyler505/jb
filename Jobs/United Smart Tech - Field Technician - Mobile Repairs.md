@@ -4,14 +4,14 @@ role: Field Technician - Mobile Repairs
 category: new-grad
 discipline: mobile
 locations:
-- Springfield, MO
+- Flint, MI
 terms: []
-url: https://unitedsmarttech.bamboohr.com/careers/85/
+url: https://unitedsmarttech.bamboohr.com/careers/193/
 source: simplify-new-grad
-listing_id: bb5ce3d4-ab62-4d6c-b976-64c022ba418c
+listing_id: e6df8f81-7b24-419a-8793-ac73eefc1da4
 active: true
-date_posted: '2026-08-25'
-date_updated: '2026-08-25'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

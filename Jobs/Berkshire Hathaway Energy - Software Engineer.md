@@ -23,9 +23,9 @@ applied_date: null
 deadline: null
 notes: null
 apply_result: not_confirmed
-resume_used: resume
-priority: 50.0
 needs_review: false
+priority: 50.0
+resume_used: resume
 apply_method: simplify
 ---
 

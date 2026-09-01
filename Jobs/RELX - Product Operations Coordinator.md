@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Duluth, GA
 terms: []
-url: https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Duluth-GA/Product-Operations-Coordinator_R117678-1
+url: https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Duluth-GA/Product-Operations-Coordinator_R118048-2
 source: simplify-new-grad
-listing_id: c77f6d21-89c4-4266-b3c0-88a312a21432
+listing_id: 746eeebc-a087-4925-85bb-11bc8abd3491
 active: false
-date_posted: '2026-08-28'
-date_updated: '2026-08-28'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

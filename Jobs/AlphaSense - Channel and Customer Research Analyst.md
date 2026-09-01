@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/alphasense/jobs/8672253002
 source: simplify-new-grad
 listing_id: e0fb940a-cc01-4145-a355-467e90cb7a89
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-25'
 status: to-apply

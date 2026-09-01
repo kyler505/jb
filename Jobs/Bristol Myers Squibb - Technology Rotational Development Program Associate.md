@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Princeton, NJ
 terms: []
-url: https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Associate_R1605859
+url: https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Associate_R1605862
 source: simplify-new-grad
-listing_id: 20625dcc-a629-4e83-a25c-0cffba1b1e1d
+listing_id: e98b8b6e-ceaa-406f-8b6c-b73b4dd0f803
 active: true
 date_posted: '2026-08-31'
-date_updated: '2026-08-31'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

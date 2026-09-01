@@ -16,9 +16,9 @@ status: skipped
 applied_date: null
 deadline: null
 notes: null
-apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 apply_result: skipped
-priority: 46.2
 needs_review: false
+priority: 46.2
+apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
 apply_method: none
 ---

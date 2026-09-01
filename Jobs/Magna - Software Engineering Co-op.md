@@ -4,15 +4,15 @@ role: Software Engineering Co-op
 category: internship
 discipline: swe
 locations:
-- Newmarket, ON, Canada
+- Troy, MI
 terms:
-- Summer 2026
-url: https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013
+- N/A
+url: https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Software-Engineering-Student_R00259672
 source: simplify-internships
-listing_id: 47c8f8b7-82f7-465e-b6ca-9d1565be305c
+listing_id: 47d95f89-f763-477d-a29f-ec7b46b0f160
 active: false
-date_posted: '2026-06-18'
-date_updated: '2026-06-18'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

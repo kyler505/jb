@@ -10,7 +10,7 @@ terms:
 url: https://jobs.l3harris.com/job/Colorado-Springs-Intern-C,-Software-Engineer-CO-80916/1420759900/?ats=successfactors
 source: simplify-internships
 listing_id: 8bff08a6-1934-4635-b59a-b1deb676d479
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

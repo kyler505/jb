@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Broomfield, CO
 terms: []
-url: https://jobs.hunterdouglas.com/division/hunterdouglas/job/7855833003?gh_jid=7855833003
+url: https://jobs.hunterdouglas.com/division/hunterdouglas/job/7983491003?gh_jid=7983491003
 source: simplify-new-grad
-listing_id: 577e58df-8b1b-4057-b704-be5fe94ed18c
+listing_id: 8a082a1f-752b-45c6-8293-15abc46f9ab0
 active: true
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

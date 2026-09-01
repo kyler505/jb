@@ -9,7 +9,7 @@ terms: []
 url: https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I-1_8366
 source: simplify-new-grad
 listing_id: 05e9424f-87b6-46d1-aa6f-b361e8502f05
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

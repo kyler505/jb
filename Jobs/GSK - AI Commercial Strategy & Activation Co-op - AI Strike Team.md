@@ -10,7 +10,7 @@ terms:
 url: https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: b51925a9-5a99-4ef7-9294-2514bc956ac5
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

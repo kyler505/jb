@@ -10,7 +10,7 @@ terms:
 url: https://careers.medpace.com/jobs/12766?lang=en-us&icims=1
 source: simplify-internships
 listing_id: 908ea2de-e80d-4c76-9020-f31ac7f04345
-active: true
+active: false
 date_posted: '2026-05-19'
 date_updated: '2026-05-19'
 status: skipped
