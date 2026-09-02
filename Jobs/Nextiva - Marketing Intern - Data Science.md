@@ -10,7 +10,7 @@ terms:
 url: https://www.nextiva.com/company/careers-listing?gh_jid=8687999002
 source: simplify-internships
 listing_id: 45c2f6c7-b255-45ae-a1c7-efc0701dd047
-active: true
+active: false
 date_posted: '2026-08-19'
 date_updated: '2026-08-19'
 status: to-apply

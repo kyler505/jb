@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/RRSGroup/744000133857769
 source: simplify-internships
 listing_id: 83436db0-c7e3-4cff-975a-b8e8c9ac49fb
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

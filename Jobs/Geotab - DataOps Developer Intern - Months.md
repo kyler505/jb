@@ -4,18 +4,17 @@ role: DataOps Developer Intern - Months
 category: internship
 discipline: swe
 locations:
-- Oakville, ON, Canada
+- Atlanta, GA
 terms:
-- Fall 2026
-url: https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008
+- Winter 2027
+url: https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008
 source: simplify-internships
-listing_id: 69315286-d689-46d5-95a7-5c4567c2a9bc
+listing_id: fb0f6a70-7886-4ed4-a59d-12e6a0e79c9d
 active: false
-date_posted: '2026-05-04'
-date_updated: '2026-05-04'
+date_posted: '2026-09-02'
+date_updated: '2026-09-02'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 44.95
 ---

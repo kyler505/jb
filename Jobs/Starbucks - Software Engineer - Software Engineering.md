@@ -4,14 +4,14 @@ role: Software Engineer - Software Engineering
 category: new-grad
 discipline: swe
 locations:
-- Seattle, WA
+- Nashville, TN
 terms: []
-url: https://starbucks.eightfold.ai/careers/job/481078371803
+url: https://starbucks.eightfold.ai/careers/job/481078166214
 source: simplify-new-grad
-listing_id: 2c2eb6e8-d129-4384-bdce-cdd5ba022bfc
+listing_id: e0a94eec-3148-4c4a-a240-6dbffb7885f3
 active: true
-date_posted: '2026-08-05'
-date_updated: '2026-08-05'
+date_posted: '2026-08-08'
+date_updated: '2026-08-08'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://careers-physiciansmutual.icims.com/jobs/2065/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: d5de2771-266c-419e-bae6-77981a5594d4
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

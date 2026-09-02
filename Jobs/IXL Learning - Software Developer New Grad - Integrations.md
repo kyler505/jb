@@ -9,7 +9,7 @@ terms: []
 url: https://www.ixl.com/company/jobs?gh_jid=8765751002
 source: simplify-new-grad
 listing_id: c58e3a3d-ab52-4b49-a119-97d65df470fb
-active: false
+active: true
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Rochester, NY
 terms: []
-url: https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300/?ats=successfactors
+url: https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1425467400/?ats=successfactors
 source: simplify-new-grad
-listing_id: 50d4c273-6f3f-44a4-97a9-cd3e5ae91117
+listing_id: 07d39e3d-3ee9-4dc5-a356-805e404585d9
 active: false
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

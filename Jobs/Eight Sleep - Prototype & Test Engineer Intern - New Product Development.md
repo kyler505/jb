@@ -7,12 +7,12 @@ locations:
 - SF
 terms:
 - Fall 2026
-url: https://jobs.ashbyhq.com/eightsleep/26d71b34-8a04-45e4-8c39-980688779dc3/application
+url: https://jobs.ashbyhq.com/eightsleep/393ffe76-749e-4ec1-9975-a96b7fefe31f/application?embed=true
 source: simplify-internships
-listing_id: 35815487-d699-4826-8eeb-d44f024341ba
+listing_id: 842ded34-df38-49e4-8d21-4a85f457c148
 active: false
-date_posted: '2026-07-02'
-date_updated: '2026-07-02'
+date_posted: '2026-09-02'
+date_updated: '2026-09-02'
 status: to-apply
 applied_date: null
 deadline: null

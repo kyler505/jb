@@ -4,14 +4,14 @@ role: Field Service Engineer
 category: new-grad
 discipline: other
 locations:
-- Indianapolis, IN
+- East Lansing, MI
 terms: []
-url: https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12132
+url: https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12112
 source: simplify-new-grad
-listing_id: 2ff772ce-a2c8-42f7-94d5-89004debc432
-active: true
-date_posted: '2026-07-27'
-date_updated: '2026-07-27'
+listing_id: c0cf0cfc-10f5-49c2-a3fc-59ece66923fd
+active: false
+date_posted: '2026-07-24'
+date_updated: '2026-07-24'
 status: to-apply
 applied_date: null
 deadline: null

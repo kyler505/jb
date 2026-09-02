@@ -4,14 +4,14 @@ role: Associate Integration/Test Engineer
 category: new-grad
 discipline: other
 locations:
-- Greenville, TX
+- Londonderry, NH
 terms: []
-url: https://jobs.l3harris.com/job/Greenville-Associate,-IntegrationTest-Engineering-(Greenville,-TX)-TX-75402/1420469200/?ats=successfactors
+url: https://jobs.l3harris.com/job/Londonderry-Associate,-IntegrationTest-Engineering-NH-03053/1425421200/?ats=successfactors
 source: simplify-new-grad
-listing_id: a424b4b3-571e-4a67-a90c-6c2f388a61a1
+listing_id: 172e2d4b-34e5-4aa2-96cf-86349216d45d
 active: false
-date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

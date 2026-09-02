@@ -6,13 +6,13 @@ discipline: swe
 locations:
 - Vancouver, BC, Canada
 terms:
-- Summer 2026
-url: https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/application
+- Winter 2027
+url: https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7/application?embed=true
 source: simplify-internships
-listing_id: 6d922f2a-8b5e-4ae7-adb7-688c70b424a1
+listing_id: adbdd3a7-59ab-4743-bdb8-8132c142b07b
 active: false
-date_posted: '2026-06-29'
-date_updated: '2026-06-29'
+date_posted: '2026-09-02'
+date_updated: '2026-09-02'
 status: to-apply
 applied_date: null
 deadline: null

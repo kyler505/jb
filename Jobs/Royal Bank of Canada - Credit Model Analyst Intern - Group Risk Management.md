@@ -10,7 +10,7 @@ terms:
 url: https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--CMM-Analyst-Intern--4-Months-_R-0000184636-1
 source: simplify-internships
 listing_id: 382baf9c-98ee-4c9c-a54d-19dd0192822e
-active: true
+active: false
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

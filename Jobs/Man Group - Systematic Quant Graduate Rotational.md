@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101
 source: simplify-new-grad
 listing_id: 8b350164-ca46-4403-82b0-1df7b1971cdc
-active: true
+active: false
 date_posted: '2026-08-25'
 date_updated: '2026-08-25'
 status: to-apply

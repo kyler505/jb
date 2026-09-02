@@ -6,15 +6,14 @@ discipline: other
 locations:
 - Fort Worth, TX
 terms: []
-url: https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260144
+url: https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260893
 source: simplify-new-grad
-listing_id: 5aa5f47e-e131-494f-80df-8a7fd663e35d
+listing_id: c27fc1f6-0a75-4148-a5ae-e2ad1c793f73
 active: false
-date_posted: '2026-05-13'
-date_updated: '2026-05-26'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 22.3
 ---

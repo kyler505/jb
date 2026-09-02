@@ -9,7 +9,7 @@ terms: []
 url: https://vpitechnology.applytojob.com/apply/V7suURwBcp/Calibrator
 source: simplify-new-grad
 listing_id: fc7e143f-9ec2-4e57-bb1a-f38f57e11c3f
-active: false
+active: true
 date_posted: '2026-08-28'
 date_updated: '2026-08-29'
 status: to-apply

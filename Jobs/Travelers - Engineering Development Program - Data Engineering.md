@@ -12,7 +12,7 @@ terms: []
 url: https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP----Data-Engineering_R-52272
 source: simplify-new-grad
 listing_id: a8b2860c-2d70-43bb-8aa6-8c5efdc04235
-active: false
+active: true
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

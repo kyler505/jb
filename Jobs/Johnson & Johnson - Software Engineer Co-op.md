@@ -6,13 +6,13 @@ discipline: swe
 locations:
 - Cincinnati, OH
 terms:
-- Fall 2026
-url: https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820
+- Summer 2027
+url: https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743
 source: simplify-internships
-listing_id: 51b99bce-c9cc-4f6f-9a52-d602f8e9e826
+listing_id: 635bf0d1-e3cb-4d15-98d1-86f3a5f11691
 active: false
-date_posted: '2026-08-07'
-date_updated: '2026-08-07'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

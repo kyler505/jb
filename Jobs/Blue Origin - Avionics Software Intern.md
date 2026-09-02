@@ -4,17 +4,17 @@ role: Avionics Software Intern
 category: internship
 discipline: other
 locations:
-- Seattle, WA
+- Washington
 - LA
 - Denver, CO
 terms:
-- Spring 2027
-url: https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Graduate_R66209
+- Summer 2027
+url: https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423
 source: simplify-internships
-listing_id: 3cf8c81a-cf6a-4d33-8b8a-e221d86aa57b
+listing_id: da26fe6e-792a-47e7-aeda-05389a823662
 active: false
-date_posted: '2026-06-10'
-date_updated: '2026-06-10'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

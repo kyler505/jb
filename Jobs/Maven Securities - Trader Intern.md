@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/emergingtalent/jobs/8051938
 source: simplify-internships
 listing_id: 76d0cd65-7277-4783-9523-cf9608d9d9b0
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

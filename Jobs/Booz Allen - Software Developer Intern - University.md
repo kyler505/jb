@@ -4,15 +4,15 @@ role: Software Developer Intern - University
 category: internship
 discipline: swe
 locations:
-- Atlanta, GA
+- Annapolis Junction, MD
 terms:
 - Summer 2027
-url: https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138
+url: https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403
 source: simplify-internships
-listing_id: 0b789ff7-5e0b-41ba-98b2-35370afdd223
+listing_id: f5f6acb8-6462-4878-a7a4-60a67c219943
 active: true
-date_posted: '2026-08-28'
-date_updated: '2026-08-28'
+date_posted: '2026-09-01'
+date_updated: '2026-09-01'
 status: to-apply
 applied_date: null
 deadline: null

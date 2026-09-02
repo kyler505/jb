@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Huntsville, AL
 terms: []
-url: https://careers.jhuapl.edu/jobs/59108?icims=1
+url: https://careers.jhuapl.edu/jobs/59887?icims=1
 source: simplify-new-grad
-listing_id: 588f0052-a7a7-484e-9118-a50d1e50c96a
+listing_id: 0b83ecb7-3fce-4a75-906b-8b42252bebce
 active: true
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-09-02'
+date_updated: '2026-09-02'
 status: to-apply
 applied_date: null
 deadline: null

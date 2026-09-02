@@ -11,7 +11,7 @@ terms:
 url: https://jobs.l3harris.com/job/Melbourne-Intern-,-Artificial-Intelligence-FL-32919/1423790400/?ats=successfactors
 source: simplify-internships
 listing_id: 1f1c1fff-7634-4750-9468-b5b805ceb862
-active: true
+active: false
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

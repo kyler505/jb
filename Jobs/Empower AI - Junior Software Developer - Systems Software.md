@@ -9,7 +9,7 @@ terms: []
 url: https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 08b99270-74f2-4861-83ed-68f7ac35d850
-active: true
+active: false
 date_posted: '2026-08-28'
 date_updated: '2026-08-28'
 status: to-apply
