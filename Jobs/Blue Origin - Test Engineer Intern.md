@@ -14,7 +14,7 @@ terms:
 url: https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Van-Horn-TX/Summer-2027-Test-Engineering-Internship---Graduate_R71432
 source: simplify-internships
 listing_id: aa96e7b4-06b4-4740-bd79-7ecbf5b4f625
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

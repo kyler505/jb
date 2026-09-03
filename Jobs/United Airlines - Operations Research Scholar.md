@@ -10,7 +10,7 @@ terms:
 url: https://careers.united.com/us/en/job/WHQ00026468
 source: simplify-internships
 listing_id: b35a22ca-c906-472e-9f0f-31755153c96a
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

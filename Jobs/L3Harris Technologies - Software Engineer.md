@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Salt Lake City, UT
 terms: []
-url: https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1420304100/?ats=successfactors
+url: https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425935000/?ats=successfactors
 source: simplify-new-grad
-listing_id: efe1e516-6ed6-4f82-80cb-e93d640efb8d
+listing_id: bcc122ff-b844-41c1-a03b-769c7a646a87
 active: false
-date_posted: '2026-08-17'
-date_updated: '2026-08-17'
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

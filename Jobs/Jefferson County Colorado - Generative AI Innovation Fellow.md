@@ -9,7 +9,7 @@ terms: []
 url: https://jefferson.wd5.myworkdayjobs.com/external/job/Golden/Innovation-Fellow--Generative-AI-_R-10324
 source: simplify-new-grad
 listing_id: a7773a55-d98c-4dc4-852c-a91ad91e5e94
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

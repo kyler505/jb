@@ -6,12 +6,12 @@ discipline: data
 locations:
 - Charlotte, NC
 terms: []
-url: https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-571685
+url: https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program-Capital-Markets--PhD----Early-Careers_R-568266
 source: simplify-new-grad
-listing_id: 1cdffeaf-6cad-4685-a7fc-ba803bec27f3
-active: true
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+listing_id: 2e43afe6-aa19-4f66-a85e-dfdfbe4c1b7a
+active: false
+date_posted: '2026-08-13'
+date_updated: '2026-08-13'
 status: to-apply
 applied_date: null
 deadline: null

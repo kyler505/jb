@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/dvtrading/jobs/4719134005
 source: simplify-internships
 listing_id: b5a51123-5f95-4578-b058-795e2b7e4ecb
-active: true
+active: false
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

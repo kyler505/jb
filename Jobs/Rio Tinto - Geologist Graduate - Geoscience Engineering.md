@@ -9,7 +9,7 @@ terms: []
 url: https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Salt-Lake-City/Graduate---Geoscience-Engineering_R64014
 source: simplify-new-grad
 listing_id: 4b5cadde-057d-4059-9111-95b7787b9771
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

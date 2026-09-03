@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/AveryDennison/744000144153141
 source: simplify-internships
 listing_id: a1f766f8-d702-4a0a-a09a-f533438de5ab
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

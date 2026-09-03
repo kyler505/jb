@@ -10,7 +10,7 @@ terms:
 url: https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021
 source: simplify-internships
 listing_id: 230b8412-ca73-4abf-b01d-2013cfc1309b
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

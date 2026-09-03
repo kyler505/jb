@@ -10,7 +10,7 @@ terms:
 url: https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1
 source: simplify-internships
 listing_id: f60d92c6-dd95-443e-8667-325bd2b1e2b6
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

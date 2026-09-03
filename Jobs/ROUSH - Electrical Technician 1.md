@@ -9,7 +9,7 @@ terms: []
 url: https://roush.applytojob.com/apply/SaHT1mau21/Electrical-Technician-I
 source: simplify-new-grad
 listing_id: b2b7562f-596e-4fe0-95ab-b3c1a405c4c4
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

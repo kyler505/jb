@@ -12,7 +12,7 @@ terms: []
 url: https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---July-2027-Class_JR0000362-1
 source: simplify-new-grad
 listing_id: ca326a25-11f4-4169-9685-a2b207ec1c67
-active: false
+active: true
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

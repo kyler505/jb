@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.jobvite.com/mini-circuits-review/job/oZrrAfwb?nl=1&nl=1&fr=false
 source: simplify-new-grad
 listing_id: c4e32b45-5217-4bff-ba67-ab2e1f53d43d
-active: true
+active: false
 date_posted: '2026-08-01'
 date_updated: '2026-08-01'
 status: to-apply

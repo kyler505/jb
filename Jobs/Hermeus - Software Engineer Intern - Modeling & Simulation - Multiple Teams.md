@@ -11,7 +11,7 @@ terms:
 url: https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply
 source: simplify-internships
 listing_id: 768502d1-3bb6-48fe-8605-2c02c23d8e9e
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

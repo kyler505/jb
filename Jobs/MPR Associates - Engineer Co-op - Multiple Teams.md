@@ -15,7 +15,7 @@ terms:
 url: https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 3cef95cf-9ef2-4c94-9300-e032d2b20baa
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

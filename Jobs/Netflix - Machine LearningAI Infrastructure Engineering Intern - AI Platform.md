@@ -10,7 +10,7 @@ terms:
 url: https://explore.jobs.netflix.net/careers/job/790317917022
 source: simplify-internships
 listing_id: 5a9ddf5e-7efd-444f-9eb2-f4e5c80da75c
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

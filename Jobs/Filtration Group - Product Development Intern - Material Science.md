@@ -10,7 +10,7 @@ terms:
 url: https://careers-filtrationgroupcorp.icims.com/jobs/7379/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: f6d7fcba-9ae2-4e1c-bcfc-f6c3d6dd4f74
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

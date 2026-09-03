@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/bci-brands/j/1AF72B748F/apply
 source: simplify-new-grad
 listing_id: aae5a7e9-4e71-4925-b88b-85b934e1f1ab
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

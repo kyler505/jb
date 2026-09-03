@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/WilliamsRacing/744000146957409
 source: simplify-internships
 listing_id: ec242b51-cf0d-4548-86d5-39fcee673b30
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-02'
 status: to-apply

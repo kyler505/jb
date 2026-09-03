@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Bet3651/744000146517769
 source: simplify-new-grad
 listing_id: d8178cdd-2f73-477f-b768-2ec0fafd234c
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

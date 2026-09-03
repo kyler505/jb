@@ -4,12 +4,12 @@ role: Analog Engineer Intern
 category: internship
 discipline: other
 locations:
-- Vancouver, BC, Canada
+- Toronto, ON, Canada
 terms:
 - Fall 2026
-url: https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424
+url: https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1
 source: simplify-internships
-listing_id: 20993cd8-1b5a-4189-b6be-cfa7278f694c
+listing_id: 2f652f94-1136-4e28-af95-1e3074062ebf
 active: true
 date_posted: '2026-06-13'
 date_updated: '2026-07-21'

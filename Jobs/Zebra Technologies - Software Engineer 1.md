@@ -4,14 +4,14 @@ role: Software Engineer 1
 category: new-grad
 discipline: swe
 locations:
-- Lincolnshire, IL
+- Holtsville, NY
 terms: []
-url: https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer-I_JR102952
+url: https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056
 source: simplify-new-grad
-listing_id: 9148ea6a-f591-495f-9a97-2fd5c7ac2aea
+listing_id: 088f2658-1b13-4453-b678-b6c87fc55fd9
 active: false
-date_posted: '2026-08-25'
-date_updated: '2026-08-25'
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

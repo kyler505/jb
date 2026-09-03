@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/digitalmediaservices/j/D0B2BAB325/apply
 source: simplify-new-grad
 listing_id: d23aec50-c086-4fda-9f46-1e6e598f195c
-active: true
+active: false
 date_posted: '2026-08-25'
 date_updated: '2026-08-25'
 status: to-apply

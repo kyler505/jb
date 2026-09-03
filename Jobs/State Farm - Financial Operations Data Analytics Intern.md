@@ -13,7 +13,7 @@ terms:
 url: https://jobs.statefarm.com/jobs/45477?icims=1
 source: simplify-internships
 listing_id: 83abba36-a030-45ec-a7aa-04f3db7b101e
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

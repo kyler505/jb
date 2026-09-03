@@ -4,14 +4,14 @@ role: Product Development Engineer
 category: new-grad
 discipline: other
 locations:
-- Paterson, NJ
+- Ann Arbor, MI
 terms: []
-url: https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Development-Engineer_2635306
+url: https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Engineer_2640391
 source: simplify-new-grad
-listing_id: 0a401657-4fa0-441d-bfa6-318cb0d39e6e
+listing_id: e0c9c900-73c5-4b39-b6e2-5cc1147b512f
 active: false
-date_posted: '2026-03-31'
-date_updated: '2026-04-01'
+date_posted: '2026-09-01'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

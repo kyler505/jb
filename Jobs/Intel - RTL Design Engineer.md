@@ -11,7 +11,7 @@ terms: []
 url: https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/RTL-Design-Engineer_JR0281759
 source: simplify-new-grad
 listing_id: 4ab70c4d-6ec3-474a-bd78-065260824c81
-active: true
+active: false
 date_posted: '2026-04-13'
 date_updated: '2026-04-13'
 status: to-apply

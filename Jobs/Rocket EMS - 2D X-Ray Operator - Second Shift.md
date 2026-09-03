@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/rocketems/jobs/4373147009
 source: simplify-new-grad
 listing_id: b1a56a7a-c12f-469f-ac8a-fb1fa9f0d9d9
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-25'
 status: to-apply

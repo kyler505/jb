@@ -10,7 +10,7 @@ terms:
 url: https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets---Sales-and-Trading--Summer-Analyst--London---United-Kingdom--2027_26987141
 source: simplify-internships
 listing_id: 0642d879-c974-49a9-908b-7b67451593fb
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

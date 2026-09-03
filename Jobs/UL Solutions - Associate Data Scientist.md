@@ -4,14 +4,19 @@ role: Associate Data Scientist
 category: new-grad
 discipline: data
 locations:
+- Austin, TX
 - Northbrook, IL
+- Princeton, NJ
+- Melville, NY
+- Minneapolis, MN
+- Vancouver, WA
 terms: []
-url: https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10558
+url: https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10730
 source: simplify-new-grad
-listing_id: f01af695-62ad-4e53-aadb-563704195b18
+listing_id: 4e7aba31-7df3-4efb-88c6-0121f6b68e6b
 active: false
-date_posted: '2026-08-20'
-date_updated: '2026-08-20'
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

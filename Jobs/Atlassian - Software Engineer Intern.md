@@ -4,16 +4,18 @@ role: Software Engineer Intern
 category: internship
 discipline: swe
 locations:
-- Seattle, WA
-- SF
+- Burnaby, BC, Canada
+- Vancouver, BC, Canada
+- Richmond, BC, Canada
 terms:
 - Summer 2027
-url: https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job
+- Fall 2027
+url: https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job
 source: simplify-internships
-listing_id: dab6f443-d39a-4bca-acad-451c8b347549
+listing_id: 7442c66e-fba5-4b94-bb79-4a94282768f2
 active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

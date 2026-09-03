@@ -9,7 +9,7 @@ terms: []
 url: https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Trading-Operations-Junior-Analyst_JR100563-2
 source: simplify-new-grad
 listing_id: 14ae7761-228c-4e0f-be7d-d778f9a86d4d
-active: true
+active: false
 date_posted: '2026-08-25'
 date_updated: '2026-08-25'
 status: to-apply

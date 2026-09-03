@@ -10,7 +10,7 @@ terms:
 url: https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Summer-Internship---Supply--Trading----Shipping---Calgary_RQ115340
 source: simplify-internships
 listing_id: cfa55f2b-180a-4aeb-8ec3-92c06d135be7
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

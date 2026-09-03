@@ -9,7 +9,7 @@ terms: []
 url: https://restauranttechnologies.wd5.myworkdayjobs.com/RT/job/Cerritos-CA/Service-Technician_R6001-1
 source: simplify-new-grad
 listing_id: e21e62d2-e9e1-40b2-b5f8-c4dfb22aba13
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

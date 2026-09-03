@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/integra/jobs/5406119008
 source: simplify-internships
 listing_id: 8f6b5101-7230-49bf-9bef-dae65201c706
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

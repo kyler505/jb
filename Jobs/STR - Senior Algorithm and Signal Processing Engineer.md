@@ -4,11 +4,11 @@ role: Senior Algorithm and Signal Processing Engineer
 category: new-grad
 discipline: other
 locations:
-- Atlanta, GA
+- Arlington, VA
 terms: []
-url: https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4694766006
+url: https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4694668006
 source: simplify-new-grad
-listing_id: ba5737ba-1134-4b2b-91a6-609e7e7ce0ac
+listing_id: 76e576cc-0af1-4b28-912b-deaa4a34b0f4
 active: true
 date_posted: '2026-07-06'
 date_updated: '2026-07-06'

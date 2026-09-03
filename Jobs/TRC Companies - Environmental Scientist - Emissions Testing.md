@@ -9,7 +9,7 @@ terms: []
 url: https://careers.trccompanies.com/jobs/26113?icims=1
 source: simplify-new-grad
 listing_id: 3eebede6-b2bd-4157-a763-1075a9e592cd
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

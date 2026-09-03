@@ -9,7 +9,7 @@ terms: []
 url: https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager--2027-Grads-_R000157914
 source: simplify-new-grad
 listing_id: 5cf6a02b-38a8-432f-83c2-dd50f3e8d46c
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

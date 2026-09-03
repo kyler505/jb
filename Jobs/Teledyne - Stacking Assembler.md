@@ -9,7 +9,7 @@ terms: []
 url: https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Stacking-Assembler_REQ36012-1
 source: simplify-new-grad
 listing_id: c2e2f7ef-3469-446d-a35a-b0a767e0683e
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

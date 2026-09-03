@@ -10,7 +10,7 @@ terms:
 url: https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953
 source: simplify-internships
 listing_id: dd7b3d30-baf7-40f6-b0f5-46fc35981d6d
-active: true
+active: false
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

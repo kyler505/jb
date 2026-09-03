@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/eudia/jobs/4379570009
 source: simplify-internships
 listing_id: 2533cf48-d1d8-4e5f-bed0-485c583da8a6
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

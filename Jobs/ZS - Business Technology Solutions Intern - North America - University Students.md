@@ -18,7 +18,7 @@ terms:
 url: https://jobs.zs.com/jobs/63472?icims=1
 source: simplify-internships
 listing_id: bec0bfec-8232-4a08-b412-7acf9ff7b4fc
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

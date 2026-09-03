@@ -4,14 +4,14 @@ role: AI Initiatives Assistant
 category: new-grad
 discipline: other
 locations:
-- Hackensack, NJ
+- NYC
 terms: []
-url: https://careers-kdvlaw.icims.com/jobs/3016/job?mobile=true&needsRedirect=false
+url: https://careers-kdvlaw.icims.com/jobs/3015/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: d3a5ed1c-2d58-4f2d-b41e-539db114b5f3
-active: false
+listing_id: 683c30f3-bc25-4d36-9fa2-9f3c8f5e9a2e
+active: true
 date_posted: '2026-08-18'
-date_updated: '2026-08-27'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

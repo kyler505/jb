@@ -10,7 +10,7 @@ terms:
 url: https://careers.na.panasonic.com/jobs/50772?icims=1
 source: simplify-internships
 listing_id: e0ffdbe5-df33-4606-8aff-34eb378a599e
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-02'
 status: to-apply

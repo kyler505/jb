@@ -14,7 +14,7 @@ terms: []
 url: https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713
 source: simplify-new-grad
 listing_id: 4ab0ffd6-f5fb-4177-ba56-87c64332053c
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

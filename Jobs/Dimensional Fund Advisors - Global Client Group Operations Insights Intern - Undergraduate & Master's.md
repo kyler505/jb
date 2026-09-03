@@ -10,7 +10,7 @@ terms:
 url: https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Insights--Undergraduate---Master-s-_2026-9002
 source: simplify-internships
 listing_id: 74282cc0-52b6-4b3b-a60c-fccf13ee82b6
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Tomra/744000143844319
 source: simplify-new-grad
 listing_id: b394185e-549a-4b34-9d7c-6cb0b9f84f64
-active: true
+active: false
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

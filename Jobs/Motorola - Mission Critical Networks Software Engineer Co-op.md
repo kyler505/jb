@@ -11,7 +11,7 @@ terms:
 url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782
 source: simplify-internships
 listing_id: 4dc4645e-2c89-45a4-96ba-afcf66131bb7
-active: true
+active: false
 date_posted: '2026-08-28'
 date_updated: '2026-08-28'
 status: to-apply

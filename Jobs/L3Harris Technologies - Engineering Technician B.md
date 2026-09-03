@@ -4,14 +4,14 @@ role: Engineering Technician B
 category: new-grad
 discipline: other
 locations:
-- Rochester, NY
+- Salt Lake City, UT
 terms: []
-url: https://jobs.l3harris.com/job/Rochester-Engineering-Technician-B-NY-14623/1423797400/?ats=successfactors
+url: https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1404061900/?ats=successfactors
 source: simplify-new-grad
-listing_id: 4cd774d6-6dba-4947-9f2c-bb55647cccca
-active: true
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+listing_id: 0bad2b67-9bee-4b1d-85e9-f96a298e4dab
+active: false
+date_posted: '2026-06-29'
+date_updated: '2026-06-29'
 status: to-apply
 applied_date: null
 deadline: null

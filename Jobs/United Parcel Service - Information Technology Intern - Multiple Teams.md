@@ -10,7 +10,7 @@ terms:
 url: https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2027-Internship---MD_R26029757
 source: simplify-internships
 listing_id: 5cd6ee01-b5b8-4b44-9502-4862d2799c5e
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

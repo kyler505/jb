@@ -9,7 +9,7 @@ terms: []
 url: https://careers-duluthtrading.icims.com/jobs/8472/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 31259e94-5c71-4c2e-8847-8b0dea99067d
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

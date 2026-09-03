@@ -10,7 +10,7 @@ terms:
 url: https://customersbank.wd1.myworkdayjobs.com/customersbankcareers/job/Malvern-PA/AI-Innovation-Risk-Co-Op_REQ-2026-978
 source: simplify-internships
 listing_id: 9e3ed4d7-5a77-4dde-b720-f3ff80ee7d95
-active: true
+active: false
 date_posted: '2026-08-26'
 date_updated: '2026-08-26'
 status: to-apply

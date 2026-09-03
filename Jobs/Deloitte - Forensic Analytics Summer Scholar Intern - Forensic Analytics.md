@@ -10,7 +10,7 @@ terms:
 url: https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251
 source: simplify-internships
 listing_id: 671cfa08-be3f-4175-99a5-f60bcc365ec7
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

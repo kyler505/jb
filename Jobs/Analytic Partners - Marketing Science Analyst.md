@@ -4,14 +4,14 @@ role: Marketing Science Analyst
 category: new-grad
 discipline: other
 locations:
-- Charlottesville, VA
+- Denver, CO
 terms: []
-url: https://jobs.lever.co/analyticpartners/2b2d2044-6df5-4b36-b860-2a40e45d1dcf/apply
+url: https://jobs.lever.co/analyticpartners/114c0c5a-591a-4fae-a9b0-82b79a71267f/apply
 source: simplify-new-grad
-listing_id: 74801ff9-78bb-408c-aeb8-991527f809e8
+listing_id: 0e385efe-84ce-47c9-8c1a-c3064dd1c7bd
 active: true
 date_posted: '2026-08-18'
-date_updated: '2026-08-18'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/CulinaGroup1/744000146165979
 source: simplify-new-grad
 listing_id: 75402146-9ba8-4366-a048-72d66cd5bfeb
-active: true
+active: false
 date_posted: '2026-08-28'
 date_updated: '2026-08-28'
 status: to-apply

@@ -4,15 +4,19 @@ role: Product Development Engineering Intern/Co-op
 category: internship
 discipline: other
 locations:
-- San Jose, CA
-- Santa Clara, CA
+- Rochester, NY
+- Austin, TX
+- Longmont, CO
+- Fishkill, NY
+- Fort Collins, CO
+- Boxborough, MA
 terms:
-- Spring 2027
+- Winter 2027
 - Summer 2027
 - Fall 2027
-url: https://careers.amd.com/jobs/91228?icims=1
+url: https://careers.amd.com/jobs/91230?icims=1
 source: simplify-internships
-listing_id: 077623be-fd6b-4225-a9ec-9d56b4c17a64
+listing_id: 8239ef8b-e07a-4715-bc6d-2036aad271eb
 active: true
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'

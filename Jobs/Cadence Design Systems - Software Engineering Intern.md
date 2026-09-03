@@ -4,15 +4,15 @@ role: Software Engineering Intern
 category: internship
 discipline: swe
 locations:
-- Pittsburgh, PA
+- Austin, TX
 terms:
-- Spring 2026
-url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334
+- Winter 2026
+url: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-1
 source: simplify-internships
-listing_id: 91c0873c-728c-4585-9b82-4d3dd3dd4253
+listing_id: 3eae4ee9-4f81-4e22-acf9-eb51f6155f3a
 active: false
-date_posted: '2026-01-21'
-date_updated: '2026-01-21'
+date_posted: '2026-09-02'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

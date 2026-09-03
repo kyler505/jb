@@ -10,7 +10,7 @@ terms:
 url: https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236
 source: simplify-internships
 listing_id: 3f3e20ab-b767-41af-925d-e652f7bd1e26
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-02'
 status: to-apply

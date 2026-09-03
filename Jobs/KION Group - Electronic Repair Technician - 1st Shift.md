@@ -9,7 +9,7 @@ terms: []
 url: https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Salt-Lake-City-UT-United-States/Parts-Repair-Technician--1st-Shift-_JR-0095167
 source: simplify-new-grad
 listing_id: 9b121d33-486b-468c-836e-38722fb76b54
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-09-01'
 status: to-apply

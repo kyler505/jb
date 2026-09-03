@@ -4,14 +4,14 @@ role: Smart Home Consultant
 category: new-grad
 discipline: other
 locations:
-- Houston, TX
+- Charleston, WV
 terms: []
-url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021802
+url: https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021032
 source: simplify-new-grad
-listing_id: b663930f-d9d5-4851-b763-657f8e5f0b08
-active: true
-date_posted: '2026-08-24'
-date_updated: '2026-08-24'
+listing_id: 18352942-8b9f-42c4-a025-2020754a1892
+active: false
+date_posted: '2026-06-26'
+date_updated: '2026-06-26'
 status: to-apply
 applied_date: null
 deadline: null

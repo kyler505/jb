@@ -10,7 +10,7 @@ terms:
 url: https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2027_R5029741-1
 source: simplify-internships
 listing_id: 8e6be177-663c-4c02-91c5-66e4aa4313b5
-active: true
+active: false
 date_posted: '2026-08-17'
 date_updated: '2026-09-02'
 status: to-apply

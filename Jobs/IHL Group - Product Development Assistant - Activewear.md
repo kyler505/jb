@@ -9,7 +9,7 @@ terms: []
 url: https://ihlgroup.bamboohr.com/careers/228/
 source: simplify-new-grad
 listing_id: 18f459d1-3cf2-4100-bd47-67d82667ae88
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

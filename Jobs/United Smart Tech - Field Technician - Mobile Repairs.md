@@ -4,14 +4,14 @@ role: Field Technician - Mobile Repairs
 category: new-grad
 discipline: mobile
 locations:
-- Flint, MI
+- Arlington, TX
 terms: []
-url: https://unitedsmarttech.bamboohr.com/careers/193/
+url: https://unitedsmarttech.bamboohr.com/careers/35/
 source: simplify-new-grad
-listing_id: e6df8f81-7b24-419a-8793-ac73eefc1da4
-active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+listing_id: be5cf299-ca63-4bd1-bd3c-76e57f016b32
+active: false
+date_posted: '2026-08-13'
+date_updated: '2026-08-13'
 status: to-apply
 applied_date: null
 deadline: null

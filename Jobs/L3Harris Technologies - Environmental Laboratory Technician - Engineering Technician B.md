@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.l3harris.com/job/Londonderry-Environmental-Lab,-Engineering-Technician-B-NH-03053/1407282500/?ats=successfactors
 source: simplify-new-grad
 listing_id: abffad1d-b598-4eb2-b9cf-d7d309b14112
-active: true
+active: false
 date_posted: '2026-07-09'
 date_updated: '2026-07-09'
 status: to-apply

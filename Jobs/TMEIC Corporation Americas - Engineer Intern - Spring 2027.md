@@ -4,15 +4,15 @@ role: Engineer Intern - Spring 2027
 category: internship
 discipline: other
 locations:
-- Roanoke, VA
+- Houston, TX
 terms:
-- Spring 2027
-url: https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply
+- Summer 2027
+url: https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/apply
 source: simplify-internships
-listing_id: fa9b8b4c-326b-46f7-8979-43e65256db21
-active: true
-date_posted: '2026-08-19'
-date_updated: '2026-08-19'
+listing_id: b09599dd-d189-40a2-acad-f4fe1006ed76
+active: false
+date_posted: '2026-08-12'
+date_updated: '2026-08-12'
 status: to-apply
 applied_date: null
 deadline: null

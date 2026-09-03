@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - SF
 terms: []
-url: https://job-boards.greenhouse.io/kikoff/jobs/4376677009
+url: https://job-boards.greenhouse.io/kikoff/jobs/4393822009
 source: simplify-new-grad
-listing_id: abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500
-active: true
-date_posted: '2026-08-20'
-date_updated: '2026-08-20'
+listing_id: 40e6062a-75db-489e-bb33-701876794fe7
+active: false
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

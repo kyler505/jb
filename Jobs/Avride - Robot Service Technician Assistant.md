@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/avride/jobs/4379588009
 source: simplify-new-grad
 listing_id: c5debf1a-809e-407a-b7e4-acfc2b531f29
-active: true
+active: false
 date_posted: '2026-08-22'
 date_updated: '2026-08-22'
 status: to-apply

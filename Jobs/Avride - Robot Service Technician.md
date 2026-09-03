@@ -4,14 +4,14 @@ role: Robot Service Technician
 category: new-grad
 discipline: other
 locations:
-- Arlington County, Arlington, VA
+- Knoxville, TN
 terms: []
-url: https://job-boards.greenhouse.io/avride/jobs/4267526009
+url: https://job-boards.greenhouse.io/avride/jobs/4301508009
 source: simplify-new-grad
-listing_id: 4e235a85-38e2-44d3-95ae-9085a3444a85
+listing_id: 4d7ec906-f916-46d4-84a5-8ababe0b1071
 active: false
-date_posted: '2026-06-02'
-date_updated: '2026-08-12'
+date_posted: '2026-06-29'
+date_updated: '2026-08-18'
 status: to-apply
 applied_date: null
 deadline: null

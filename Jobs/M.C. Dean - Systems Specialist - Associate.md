@@ -4,14 +4,14 @@ role: Systems Specialist - Associate
 category: new-grad
 discipline: other
 locations:
-- Atlanta, GA
+- Monroe, LA
 terms: []
-url: https://careers.mcdean.com/jobs/31987?icims=1
+url: https://careers.mcdean.com/jobs/31988?icims=1
 source: simplify-new-grad
-listing_id: 419fcb5a-db61-41dd-baac-569ccf0c3635
-active: true
+listing_id: 4951638d-d1fa-4060-9775-cad28a332ed4
+active: false
 date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

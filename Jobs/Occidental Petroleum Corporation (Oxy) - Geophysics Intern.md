@@ -12,7 +12,7 @@ terms:
 url: https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Houston-Texas/Geophysics-Intern_JR110203
 source: simplify-internships
 listing_id: e882005d-6926-4aae-9b36-8bf690f5c53d
-active: true
+active: false
 date_posted: '2026-08-15'
 date_updated: '2026-08-16'
 status: to-apply

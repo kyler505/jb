@@ -6,13 +6,15 @@ discipline: hardware
 locations:
 - Markham, ON, Canada
 terms:
+- Winter 2027
 - Summer 2027
-url: https://careers.amd.com/jobs/90379?icims=1
+- Fall 2027
+url: https://careers.amd.com/jobs/91361?icims=1
 source: simplify-internships
-listing_id: 8feda3b9-865c-42d5-a47b-332911cbfc9e
+listing_id: a2fac682-df8e-4350-892b-83885e143bac
 active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

@@ -4,14 +4,14 @@ role: Field Service Technician 1
 category: new-grad
 discipline: other
 locations:
-- Coppell, TX
+- Providence, RI
 terms: []
-url: https://external-canoncareers.icims.com/jobs/34847/job?mobile=true&needsRedirect=false
+url: https://external-canoncareers.icims.com/jobs/33713/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: ee9ac743-1016-4ea0-985e-0041ed3aabf5
-active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+listing_id: ef464be9-42fa-4986-99bd-31c9b97e8783
+active: false
+date_posted: '2026-04-16'
+date_updated: '2026-08-12'
 status: to-apply
 applied_date: null
 deadline: null

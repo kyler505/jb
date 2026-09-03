@@ -14,7 +14,7 @@ terms: []
 url: https://careers.pnnl.gov/jobs/11983?icims=1
 source: simplify-new-grad
 listing_id: 6228ef47-3085-4c09-a7b5-1b84344a9a18
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

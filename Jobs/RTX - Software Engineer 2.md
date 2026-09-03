@@ -4,14 +4,14 @@ role: Software Engineer 2
 category: new-grad
 discipline: swe
 locations:
-- Sterling, VA
+- Cambridge, MA
 terms: []
-url: https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-II--Onsite-_01870930
+url: https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Sotware-Engineer-II_01852180-1
 source: simplify-new-grad
-listing_id: 1f9574c2-c85b-414e-b946-2d7845c6c19f
-active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-02'
+listing_id: f869bd1d-ad1f-4787-b2e3-56ad4eb4d7fa
+active: false
+date_posted: '2026-07-04'
+date_updated: '2026-08-01'
 status: to-apply
 applied_date: null
 deadline: null

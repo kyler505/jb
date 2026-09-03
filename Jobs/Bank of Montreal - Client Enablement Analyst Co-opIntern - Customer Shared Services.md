@@ -10,7 +10,7 @@ terms:
 url: https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027-Client-Enablement-Analyst--Toronto_R260021775-3
 source: simplify-internships
 listing_id: 1d1d1e63-ff6a-47f7-a966-c48360441a7d
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

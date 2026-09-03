@@ -10,7 +10,7 @@ terms:
 url: https://careers.jhuapl.edu/jobs/59875?icims=1
 source: simplify-internships
 listing_id: d9f6a9f1-69b3-4c58-8c99-8136dc95ba30
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

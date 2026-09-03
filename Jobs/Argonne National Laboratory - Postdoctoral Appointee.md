@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Woodridge, IL
 terms: []
-url: https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Characterizing-high-pressure-melts-using-coherence-and-nano-beams-at-HPCAT_422749
+url: https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---MSD-Ultrafast-Time-Resolved-X-ray-Diffraction-Microscopy-and-Spectroscopy-for-Quantum-Materials_421368
 source: simplify-new-grad
-listing_id: 6cdf0d8d-0131-405d-a787-840245e42c85
+listing_id: b9612f8a-f7e8-4b20-9d0d-6657413a0b21
 active: true
-date_posted: '2026-06-01'
-date_updated: '2026-06-01'
+date_posted: '2026-07-04'
+date_updated: '2026-07-21'
 status: to-apply
 applied_date: null
 deadline: null

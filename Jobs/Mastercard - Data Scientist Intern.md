@@ -7,12 +7,12 @@ locations:
 - O'Fallon, MO
 terms:
 - Summer 2027
-url: https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879
+url: https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284877
 source: simplify-internships
-listing_id: e42ba45d-b2f8-4b3e-82ea-a28a0016584f
+listing_id: 56d4093a-fc88-43f6-aab0-ae355a913f58
 active: true
-date_posted: '2026-08-31'
-date_updated: '2026-08-31'
+date_posted: '2026-09-02'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

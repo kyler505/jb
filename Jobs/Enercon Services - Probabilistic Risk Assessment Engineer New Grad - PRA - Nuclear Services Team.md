@@ -10,7 +10,7 @@ terms: []
 url: https://explore.enercon.com/jobs/4221?icims=1
 source: simplify-new-grad
 listing_id: 3b1350b0-c797-4b04-aec8-96cf5449a24f
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

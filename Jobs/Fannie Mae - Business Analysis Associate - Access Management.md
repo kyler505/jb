@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/FannieMae1SB/743999812723299
 source: simplify-new-grad
 listing_id: 7217edc9-3235-4d6c-afc8-fc66514c4533
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-08-18'
 status: to-apply

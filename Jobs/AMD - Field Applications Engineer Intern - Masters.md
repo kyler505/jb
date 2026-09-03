@@ -10,7 +10,7 @@ terms:
 url: https://careers.amd.com/jobs/91239?icims=1
 source: simplify-internships
 listing_id: 286dabc0-b73b-4fa8-a82a-b2a384f8b1d3
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

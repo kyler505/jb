@@ -10,7 +10,7 @@ terms: []
 url: https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Real-time-Launch-Operations-Software-and-Data-Engineer_R016306
 source: simplify-new-grad
 listing_id: 0a8485fb-d1dc-4372-aabb-6bc7c3980fb9
-active: true
+active: false
 date_posted: '2026-08-28'
 date_updated: '2026-08-29'
 status: to-apply

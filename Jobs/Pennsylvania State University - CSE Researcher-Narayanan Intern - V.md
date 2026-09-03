@@ -7,12 +7,12 @@ locations:
 - State College, PA
 terms:
 - N/A
-url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078135-1
+url: https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Narayanan--V_REQ_0000078336-1
 source: simplify-internships
-listing_id: 4686a41a-e15f-4233-8277-21cb6d26a8c2
+listing_id: db089b66-2eb9-4065-b881-267a2232df72
 active: true
-date_posted: '2026-05-04'
-date_updated: '2026-05-04'
+date_posted: '2026-05-11'
+date_updated: '2026-05-11'
 status: to-apply
 applied_date: null
 deadline: null

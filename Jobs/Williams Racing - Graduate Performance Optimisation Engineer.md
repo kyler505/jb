@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/WilliamsRacing/744000146959349
 source: simplify-new-grad
 listing_id: 7fc2d811-329f-4ae7-b501-89dc44b0e537
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-02'
 status: to-apply

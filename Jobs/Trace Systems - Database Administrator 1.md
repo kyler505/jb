@@ -9,7 +9,7 @@ terms: []
 url: https://careers.tracesystems.com/jobs/6269?icims=1
 source: simplify-new-grad
 listing_id: ff6e43c3-bc97-4b08-84ad-0e0b9943e092
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626
 source: simplify-internships
 listing_id: 06382def-71d9-4ad3-92bd-48498ad6d717
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

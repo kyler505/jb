@@ -9,7 +9,7 @@ terms: []
 url: https://careers.united.com/us/en/job/WHQ00026705
 source: simplify-new-grad
 listing_id: 219fbdd4-8d25-4c5c-b8a5-0b2f69c935e5
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

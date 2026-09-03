@@ -6,12 +6,12 @@ discipline: devops
 locations:
 - Cedar Rapids, IA
 terms: []
-url: https://careers-e2optics.icims.com/jobs/3788/job?mobile=true&needsRedirect=false
+url: https://careers-e2optics.icims.com/jobs/3650/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 876dc998-389d-4dd5-8fc8-c2f64e394e2c
+listing_id: 88bba4fb-f410-4970-9ecf-912670cded5b
 active: false
-date_posted: '2026-08-26'
-date_updated: '2026-08-26'
+date_posted: '2026-08-04'
+date_updated: '2026-08-04'
 status: to-apply
 applied_date: null
 deadline: null

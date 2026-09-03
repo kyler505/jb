@@ -9,7 +9,7 @@ terms: []
 url: https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Indiana-US/Field-Service-Tech-II_R321726
 source: simplify-new-grad
 listing_id: a3eb6028-111a-497b-893e-b338df792318
-active: true
+active: false
 date_posted: '2026-06-20'
 date_updated: '2026-08-07'
 status: to-apply

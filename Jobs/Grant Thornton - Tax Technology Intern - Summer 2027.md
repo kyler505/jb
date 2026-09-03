@@ -7,12 +7,12 @@ locations:
 - Bellevue, WA
 terms:
 - Summer 2027
-url: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115822
+url: https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114405
 source: simplify-internships
-listing_id: 7e81cafe-fda2-4bdb-8274-8622f8cad37c
+listing_id: 45e6cd12-c55d-47f0-b650-b2c4b472ce45
 active: false
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+date_posted: '2026-02-11'
+date_updated: '2026-02-11'
 status: to-apply
 applied_date: null
 deadline: null

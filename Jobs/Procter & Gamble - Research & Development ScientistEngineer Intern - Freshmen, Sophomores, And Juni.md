@@ -14,7 +14,7 @@ terms:
 url: https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Scientist-Engineer-Intern-Summer-2027---Freshmen--Sophomores--and-Juniors_R000157846
 source: simplify-internships
 listing_id: 43183c23-0028-4797-b44b-f488c5f84b2b
-active: true
+active: false
 date_posted: '2026-08-24'
 date_updated: '2026-08-27'
 status: to-apply

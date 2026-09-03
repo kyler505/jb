@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Newcastle upon Tyne, UK
+- Minden, NV
 terms: []
-url: https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Software-Engineer_R162773
+url: https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272
 source: simplify-new-grad
-listing_id: 040c229e-e0a6-497f-9792-858fd16fafc7
+listing_id: 059058e6-a3de-4daa-b2ed-dacf926dffc8
 active: false
-date_posted: '2026-06-13'
-date_updated: '2026-07-15'
+date_posted: '2026-09-02'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

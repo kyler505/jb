@@ -9,7 +9,7 @@ terms: []
 url: https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Weymouth-Dorset-England-UK/Repairs-Technician_REQ-11341
 source: simplify-new-grad
 listing_id: fea36255-a41d-4d5b-9c9a-040a21ed7e20
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-08-06'
 status: to-apply

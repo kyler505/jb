@@ -10,7 +10,7 @@ terms:
 url: https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Undergraduate-Intern_R230925-1
 source: simplify-internships
 listing_id: 50302205-471f-44ae-b50c-6d339917d72f
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

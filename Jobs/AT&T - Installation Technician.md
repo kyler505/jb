@@ -4,14 +4,14 @@ role: Installation Technician
 category: new-grad
 discipline: other
 locations:
-- Redwood City, CA
+- Sunnyvale, CA
 terms: []
-url: https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACARedwood-City--E-Bayshore-Rd---Wcr2001-E-Bayshore-Rd/Installation-Technician_R-120477
+url: https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Sunnyvale-California/Installation-Technician_R-116999
 source: simplify-new-grad
-listing_id: dda3f046-cc61-4091-8f2c-08c94f5e1f45
-active: true
-date_posted: '2026-08-21'
-date_updated: '2026-08-22'
+listing_id: 11978a37-eb90-4000-b1d0-d96cbee69afa
+active: false
+date_posted: '2026-08-05'
+date_updated: '2026-08-05'
 status: to-apply
 applied_date: null
 deadline: null
