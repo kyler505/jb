@@ -11,7 +11,7 @@ terms:
 url: https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Engineering-and-Capital-Projects/362440
 source: simplify-internships
 listing_id: 6ce7a09d-190c-4b5b-8cb2-5b01795d2664
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-28'
 status: to-apply

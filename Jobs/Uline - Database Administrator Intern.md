@@ -14,7 +14,7 @@ terms:
 url: https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R265687
 source: simplify-internships
 listing_id: 40cf0d07-e3e9-4d84-a352-1b71ad2e6ce2
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://careers-gd-ots.icims.com/jobs/36775/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: fcd17b4c-48db-46a4-8f82-aab4e940189e
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-13'
 status: to-apply

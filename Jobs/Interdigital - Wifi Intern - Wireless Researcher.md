@@ -10,7 +10,7 @@ terms:
 url: https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Melville-NY/Intern--WIFI---Wireless-Researcher_REQ25-1051
 source: simplify-internships
 listing_id: a86a471a-fb1a-4005-abc9-b9028764a77f
-active: true
+active: false
 date_posted: '2026-06-20'
 date_updated: '2026-08-01'
 status: to-apply

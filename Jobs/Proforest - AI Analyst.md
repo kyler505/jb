@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/Proforest/744000144796449
 source: simplify-new-grad
 listing_id: fbb57292-a7b0-4d96-9fe8-7e4f56edcad0
-active: true
+active: false
 date_posted: '2026-08-21'
 date_updated: '2026-08-21'
 status: to-apply

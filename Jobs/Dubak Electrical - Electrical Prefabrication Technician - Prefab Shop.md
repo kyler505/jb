@@ -9,7 +9,7 @@ terms: []
 url: https://dubak.bamboohr.com/careers/300/
 source: simplify-new-grad
 listing_id: 439db226-5008-4056-b059-4050d7dd34ee
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

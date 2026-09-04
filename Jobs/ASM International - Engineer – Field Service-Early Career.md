@@ -9,7 +9,7 @@ terms: []
 url: https://www.asm.com/open-vacancies/?gh_jid=4739225101
 source: simplify-new-grad
 listing_id: c81df46f-5efa-4098-b6c0-15e209f0b535
-active: true
+active: false
 date_posted: '2026-02-25'
 date_updated: '2026-02-25'
 status: to-apply

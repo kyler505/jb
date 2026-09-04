@@ -14,7 +14,7 @@ terms: []
 url: https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004755
 source: simplify-new-grad
 listing_id: 2bc4beee-1d0a-4156-bd53-2d69f3f5743e
-active: true
+active: false
 date_posted: '2026-04-09'
 date_updated: '2026-04-09'
 status: to-apply

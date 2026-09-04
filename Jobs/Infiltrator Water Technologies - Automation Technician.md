@@ -9,7 +9,7 @@ terms: []
 url: https://iwtcareers-ads-pipe.icims.com/jobs/21362/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: f8dda594-0e5f-41e4-9567-9265a6cf0b6d
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

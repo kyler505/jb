@@ -10,7 +10,7 @@ terms:
 url: https://specteraerospace.bamboohr.com/careers/115/
 source: simplify-internships
 listing_id: c2a98bdc-8bce-4c3d-b3fe-5e8241c59c21
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-09-01'
 status: to-apply

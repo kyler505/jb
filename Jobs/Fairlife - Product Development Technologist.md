@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/fairlife/jobs/5184617007
 source: simplify-new-grad
 listing_id: 0881c248-d19e-413e-94fe-fa786198f005
-active: true
+active: false
 date_posted: '2026-07-10'
 date_updated: '2026-08-25'
 status: to-apply

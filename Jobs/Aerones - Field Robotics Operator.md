@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/aerones/j/9815B66C27/apply
 source: simplify-new-grad
 listing_id: 198396b9-021f-4c64-a149-523cd33972a2
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-20'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://innovationworks.applytojob.com/apply/nrxEUkXjtp/Scale-Prototyping-Shop-Intern-Innovation-Works-Inc
 source: simplify-internships
 listing_id: 1f59288a-71ec-41ca-bc2b-1f4283fb2571
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

@@ -1,6 +1,6 @@
 ---
 company: TikTok
-role: Research Engineer Intern - Ads ML Infra - PhD
+role: Research Engineer Intern - Ads ML Infra - 2026 Start - PhD
 category: internship
 discipline: other
 locations:
@@ -10,9 +10,9 @@ terms:
 url: https://lifeattiktok.com/search/7559986947671673095
 source: simplify-internships
 listing_id: 626d8caf-c4b0-4755-97f5-f4d61bc6bee9
-active: false
-date_posted: '2025-10-31'
-date_updated: '2026-06-05'
+active: true
+date_posted: '2026-06-15'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

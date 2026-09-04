@@ -10,7 +10,7 @@ terms: []
 url: https://careers-gdeb.icims.com/jobs/20311/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 46aa7ac4-9135-48e5-97ec-5b8588350099
-active: true
+active: false
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

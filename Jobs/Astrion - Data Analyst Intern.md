@@ -10,7 +10,7 @@ terms:
 url: https://careers.astrion.us/jobs/24801?icims=1
 source: simplify-internships
 listing_id: ab6635d0-534f-41f5-83c5-c9b1fae53dd4
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

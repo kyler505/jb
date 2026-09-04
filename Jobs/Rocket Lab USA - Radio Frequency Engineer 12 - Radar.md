@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/rocketlab/jobs/7984914003
 source: simplify-new-grad
 listing_id: 3faa6380-ecd0-44e4-a660-4e988b67461f
-active: true
+active: false
 date_posted: '2026-09-03'
 date_updated: '2026-09-03'
 status: to-apply

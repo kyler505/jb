@@ -12,7 +12,7 @@ terms:
 url: https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257
 source: simplify-internships
 listing_id: f585bde5-311b-4e38-b814-787eb3d19819
-active: false
+active: true
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

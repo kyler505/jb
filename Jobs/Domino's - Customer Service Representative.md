@@ -4,14 +4,14 @@ role: Customer Service Representative
 category: new-grad
 discipline: other
 locations:
-- Burlington, NC
+- Elkins Park, PA
 terms: []
-url: https://jobs.smartrecruiters.com/Dominos/744000142481704
+url: https://jobs.smartrecruiters.com/Dominos/743999904309253
 source: simplify-new-grad
-listing_id: 9e297b16-0d19-47d0-8b0f-d0fe1e5b9ed0
-active: true
+listing_id: e87a4dc4-19de-4e0c-987b-a86bf05548a8
+active: false
 date_posted: '2026-08-13'
-date_updated: '2026-08-13'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null

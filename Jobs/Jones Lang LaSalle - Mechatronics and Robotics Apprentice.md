@@ -10,7 +10,7 @@ terms:
 url: https://jll.wd1.myworkdayjobs.com/jllcareers/job/Oak-Creek-WI/Mechatronics-and-Robotics-Apprentice_REQ511840
 source: simplify-internships
 listing_id: 4d12734c-481e-421e-9432-927297fb6f83
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-04'
 status: to-apply

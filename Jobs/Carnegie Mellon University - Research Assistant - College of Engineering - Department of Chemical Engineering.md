@@ -10,7 +10,7 @@ terms:
 url: https://cmu.wd5.myworkdayjobs.com/cmu/job/Remote/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2024265
 source: simplify-internships
 listing_id: 67a5f775-5448-46b2-9dad-a17c4c4584be
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-07-21'
 status: to-apply

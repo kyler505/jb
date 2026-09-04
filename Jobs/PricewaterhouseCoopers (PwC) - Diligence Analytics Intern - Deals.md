@@ -23,7 +23,7 @@ terms:
 url: https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2027_757227WD
 source: simplify-internships
 listing_id: 4b6066cd-8c05-4586-80d1-c1500ceb094b
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

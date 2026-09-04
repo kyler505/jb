@@ -6,12 +6,12 @@ discipline: mobile
 locations:
 - SF
 terms: []
-url: https://simplify.jobs/c/Jobsbridge
+url: https://jobs.smartrecruiters.com/Jobsbridge1/88661485
 source: simplify-new-grad
-listing_id: 4d32c3a4-c377-c63c-fb0b-0ec55f724a4e
+listing_id: f6235338-2c1a-4ce5-b8bf-cc208c9635da
 active: false
-date_posted: null
-date_updated: null
+date_posted: '2026-02-24'
+date_updated: '2026-02-24'
 status: to-apply
 applied_date: null
 deadline: null

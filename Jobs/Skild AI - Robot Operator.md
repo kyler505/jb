@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/skildai-careers/jobs/5162957008
 source: simplify-new-grad
 listing_id: d473ec11-b686-4332-be18-e73b4f13a5af
-active: true
+active: false
 date_posted: '2026-03-27'
 date_updated: '2026-08-25'
 status: to-apply

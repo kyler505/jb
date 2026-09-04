@@ -9,7 +9,7 @@ terms: []
 url: https://eaton.eightfold.ai/careers/job/687238080082
 source: simplify-new-grad
 listing_id: b80a22f6-7d98-43e5-8ad9-70040631b907
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

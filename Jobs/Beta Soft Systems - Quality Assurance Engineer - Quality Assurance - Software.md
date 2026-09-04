@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/BetaSoftSystems3/85575889
 source: simplify-new-grad
 listing_id: 325b5cec-2d43-402d-9e7e-c4772a5e57cc
-active: true
+active: false
 date_posted: '2026-02-19'
 date_updated: '2026-02-19'
 status: to-apply

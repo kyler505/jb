@@ -7,11 +7,11 @@ locations:
 - Santa Clara, CA
 terms:
 - Fall 2026
-url: https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786-1
+url: https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786
 source: simplify-internships
-listing_id: 75d446b9-0a4e-41b3-8a99-e57824008ca6
-active: true
-date_posted: '2026-05-16'
+listing_id: c2e5990c-604a-4a2d-a303-7bb1c5fa990b
+active: false
+date_posted: '2026-07-04'
 date_updated: '2026-08-01'
 status: to-apply
 applied_date: null

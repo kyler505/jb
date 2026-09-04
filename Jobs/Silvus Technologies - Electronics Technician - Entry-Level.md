@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/silvus/jobs/4919020008
 source: simplify-new-grad
 listing_id: 8eab18bf-2613-4c84-a501-126d8438e0ca
-active: true
+active: false
 date_posted: '2026-07-24'
 date_updated: '2026-07-24'
 status: to-apply

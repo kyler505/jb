@@ -4,17 +4,17 @@ role: Algorithmic Trader
 category: new-grad
 discipline: other
 locations:
+- London, UK
 - NYC
 terms: []
-url: https://jobs.lever.co/wintermute-trading/8119b21c-aa47-4113-bd25-f785f8fc44c1/apply
+url: https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply
 source: simplify-new-grad
-listing_id: 7a3d190d-3751-4648-a630-1f26ee5a4955
+listing_id: e397fcdb-4f0f-4c0e-96da-d776fd907956
 active: false
-date_posted: '2026-01-08'
-date_updated: '2026-02-05'
+date_posted: '2026-09-03'
+date_updated: '2026-09-03'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 16.11
 ---

@@ -10,7 +10,7 @@ terms:
 url: https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration
 source: simplify-internships
 listing_id: 33f9602c-ec01-43af-b2fb-d7c33e5dd4cb
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

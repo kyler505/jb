@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.uhsinc.com/jobs/358390?icims=1
 source: simplify-new-grad
 listing_id: 6edabdbc-0607-4235-af79-1da88b70be62
-active: true
+active: false
 date_posted: '2026-08-01'
 date_updated: '2026-08-01'
 status: to-apply

@@ -1,18 +1,18 @@
 ---
 company: Sun Life
 role: Associate Software Engineer
-category: new-grad
+category: internship
 discipline: swe
 locations:
-- North York, ON, Canada
 - Waterloo, ON, Canada
-terms: []
-url: https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/North-York-Ontario/Associate-Software-Engineer_JR00126945-1
-source: simplify-new-grad
-listing_id: d38d17ab-e957-4fe5-be96-5cbf0b4e37f3
+terms:
+- N/A
+url: https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00127614
+source: simplify-internships
+listing_id: a9482871-d257-4ca0-8f13-7420ba68250d
 active: false
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-09-03'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

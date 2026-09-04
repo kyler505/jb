@@ -10,7 +10,7 @@ terms:
 url: https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002
 source: simplify-internships
 listing_id: 8be053bf-bff7-4984-aef1-e08ad2cff3e3
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

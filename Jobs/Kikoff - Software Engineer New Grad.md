@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/kikoff/jobs/4393822009
 source: simplify-new-grad
 listing_id: 40e6062a-75db-489e-bb33-701876794fe7
-active: false
+active: true
 date_posted: '2026-09-03'
 date_updated: '2026-09-03'
 status: to-apply

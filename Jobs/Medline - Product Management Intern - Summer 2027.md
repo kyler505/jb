@@ -11,7 +11,7 @@ terms:
 url: https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983
 source: simplify-internships
 listing_id: d3e9acbe-429c-41ea-ad4b-0536beab6782
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

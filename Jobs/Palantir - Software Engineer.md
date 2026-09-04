@@ -17,11 +17,11 @@ applied_date: null
 deadline: null
 notes: null
 apply_result: skipped
+priority: 55.36
 resume_used: resume
 needs_review: false
-priority: 55.36
-apply_method: none
 apply_error: 'DEAD_LINK: Apply button leads to external site/no form loaded'
+apply_method: none
 ---
 
 ## Application 2026-07-07

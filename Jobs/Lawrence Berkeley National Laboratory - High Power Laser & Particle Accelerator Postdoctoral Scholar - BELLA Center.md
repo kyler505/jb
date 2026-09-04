@@ -9,7 +9,7 @@ terms: []
 url: https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107255
 source: simplify-new-grad
 listing_id: db7d10f9-c488-4888-8fb1-6cb4bddc0abf
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-04'
 status: to-apply

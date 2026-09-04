@@ -10,7 +10,7 @@ terms:
 url: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555
 source: simplify-internships
 listing_id: a273009c-e12a-4932-b782-474b6b498898
-active: true
+active: false
 date_posted: '2026-08-25'
 date_updated: '2026-08-25'
 status: to-apply

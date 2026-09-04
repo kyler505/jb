@@ -9,7 +9,7 @@ terms: []
 url: https://specteraerospace.bamboohr.com/careers/125/
 source: simplify-new-grad
 listing_id: 985bfbc8-2ecd-47b4-a032-dcd4a4cdce24
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-09-01'
 status: to-apply

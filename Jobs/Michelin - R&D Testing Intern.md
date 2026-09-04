@@ -10,7 +10,7 @@ terms:
 url: https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/GREENVILLE-SC/Spring-2027---R-D-Testing--Greenville--SC-_R-2026033240
 source: simplify-internships
 listing_id: 5894643a-c28e-4199-a424-35a670e0526f
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-02'
 status: to-apply

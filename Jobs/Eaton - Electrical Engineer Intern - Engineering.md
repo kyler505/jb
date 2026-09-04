@@ -14,7 +14,7 @@ terms:
 url: https://eaton.eightfold.ai/careers/job/687237981433
 source: simplify-internships
 listing_id: ee4dbd24-7b99-467e-be4c-13203988637a
-active: true
+active: false
 date_posted: '2026-08-12'
 date_updated: '2026-08-21'
 status: to-apply

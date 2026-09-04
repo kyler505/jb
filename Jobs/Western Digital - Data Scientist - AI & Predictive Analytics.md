@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/WesternDigital/744000142947679
 source: simplify-new-grad
 listing_id: 9eefaa01-e379-4df1-a37b-b56dd60cca6c
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

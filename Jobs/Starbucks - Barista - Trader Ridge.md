@@ -9,7 +9,7 @@ terms: []
 url: https://starbucks.eightfold.ai/careers/job/481079405686
 source: simplify-new-grad
 listing_id: e506c2ce-1540-4a63-904b-d17fe6da3956
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007
 source: simplify-new-grad
 listing_id: f6f665ec-37eb-4922-9180-758bb53c6bbc
-active: true
+active: false
 date_posted: '2026-08-17'
 date_updated: '2026-08-17'
 status: to-apply

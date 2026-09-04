@@ -10,7 +10,7 @@ terms:
 url: https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008
 source: simplify-internships
 listing_id: 74497c38-1c21-4544-9540-07b52273f13b
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

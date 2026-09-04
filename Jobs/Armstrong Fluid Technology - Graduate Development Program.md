@@ -9,7 +9,7 @@ terms: []
 url: https://armstrongfluidtechnology.bamboohr.com/careers/691/
 source: simplify-new-grad
 listing_id: 9b1229d5-df7a-42f9-babb-591f0b99dbc3
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

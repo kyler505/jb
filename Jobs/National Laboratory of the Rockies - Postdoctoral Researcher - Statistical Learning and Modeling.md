@@ -9,7 +9,7 @@ terms: []
 url: https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-doctoral-Researcher---Statistical-Learning-and-Modeling_R14448
 source: simplify-new-grad
 listing_id: 19394634-8679-48ce-bd76-f2fe4b623fad
-active: true
+active: false
 date_posted: '2026-08-05'
 date_updated: '2026-08-05'
 status: to-apply

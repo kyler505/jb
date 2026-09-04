@@ -9,7 +9,7 @@ terms: []
 url: https://uchicago.wd5.myworkdayjobs.com/External/job/Charles-M-Harper-Center/Research-Professional_JR33684
 source: simplify-new-grad
 listing_id: afc773c2-4016-430a-bd70-e00b074d5099
-active: true
+active: false
 date_posted: '2026-05-21'
 date_updated: '2026-05-21'
 status: to-apply

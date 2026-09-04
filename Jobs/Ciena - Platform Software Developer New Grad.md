@@ -2,16 +2,16 @@
 company: Ciena
 role: Platform Software Developer New Grad
 category: new-grad
-discipline: devops
+discipline: swe
 locations:
 - Atlanta, GA
 terms: []
-url: https://simplify.jobs/c/Ciena
+url: https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1
 source: simplify-new-grad
-listing_id: 78d10af7-ad9f-6610-a161-419773f5c6ff
-active: false
-date_posted: 2026-05-30
-date_updated: 2026-05-30
+listing_id: 648ba845-240d-462c-ac86-b504c05d8c98
+active: true
+date_posted: '2026-05-30'
+date_updated: '2026-06-01'
 status: to-apply
 applied_date: null
 deadline: null

@@ -10,7 +10,7 @@ terms:
 url: https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Supply-Chain-Analytics-Intern_JR101320
 source: simplify-internships
 listing_id: 18d75f00-9331-484a-9190-8ad5d165f054
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-03'
 status: to-apply

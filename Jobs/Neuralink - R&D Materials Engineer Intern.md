@@ -10,7 +10,7 @@ terms:
 url: https://boards.greenhouse.io/neuralink/jobs/7808233003
 source: simplify-internships
 listing_id: 6105e0c3-50cc-473e-820c-706c8aeb1d47
-active: true
+active: false
 date_posted: '2026-07-17'
 date_updated: '2026-07-17'
 status: to-apply

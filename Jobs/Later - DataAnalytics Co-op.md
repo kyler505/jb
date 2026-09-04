@@ -9,8 +9,8 @@ terms:
 - Fall 2026
 url: https://job-boards.greenhouse.io/later/jobs/8647385002
 source: simplify-internships
-listing_id: 230714a7-6047-4f24-882a-5616896d2794
-active: true
+listing_id: 1cbb5b37-ad0e-460b-8c1a-ed4441db8c04
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

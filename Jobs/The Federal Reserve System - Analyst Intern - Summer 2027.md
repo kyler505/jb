@@ -10,7 +10,7 @@ terms:
 url: https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Analyst---Summer-2027_R-0000033129-1
 source: simplify-internships
 listing_id: 835913f7-c141-4e6c-8735-f42dba88ac18
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

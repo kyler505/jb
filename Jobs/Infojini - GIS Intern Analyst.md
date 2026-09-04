@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/InfojiniInc1/104263488
 source: simplify-internships
 listing_id: ba7781d0-c294-42f8-8255-596388700098
-active: true
+active: false
 date_posted: '2026-02-24'
 date_updated: '2026-02-24'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/oceancomm/j/A96B95A022/apply
 source: simplify-new-grad
 listing_id: c84201eb-56b1-4e1c-be9f-532b642e4693
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-24'
 status: to-apply

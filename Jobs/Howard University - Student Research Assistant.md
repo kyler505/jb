@@ -10,7 +10,7 @@ terms:
 url: https://howard.wd1.myworkdayjobs.com/HU/job/Alain-Locke-Hall/Student-Research-Assistant_JR108204-1
 source: simplify-internships
 listing_id: 9b43bcfd-4d66-4e0e-b178-992f8aace366
-active: true
+active: false
 date_posted: '2026-06-23'
 date_updated: '2026-08-01'
 status: to-apply

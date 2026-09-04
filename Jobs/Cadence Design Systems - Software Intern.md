@@ -6,13 +6,13 @@ discipline: other
 locations:
 - San Jose, CA
 terms:
-- Summer 2026
-url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1
+- Winter 2026
+url: https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R56258
 source: simplify-internships
-listing_id: d3e624fc-5c9c-4aad-b38f-f684adab013b
+listing_id: b0e65597-fc48-43a6-a81f-3f20519603ec
 active: true
-date_posted: '2026-02-27'
-date_updated: '2026-02-27'
+date_posted: '2026-09-03'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

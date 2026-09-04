@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false
 source: simplify-new-grad
 listing_id: 8c4b3913-d07d-4778-9227-405aec81c720
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-04'
 status: to-apply

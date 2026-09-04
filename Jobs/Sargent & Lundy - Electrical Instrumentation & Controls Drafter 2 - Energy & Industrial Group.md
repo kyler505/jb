@@ -9,7 +9,7 @@ terms: []
 url: https://careers-sargentlundy.icims.com/jobs/25047/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 386c4653-7de8-4360-8060-937fcc3d8ce0
-active: true
+active: false
 date_posted: '2026-06-26'
 date_updated: '2026-08-01'
 status: to-apply

@@ -10,7 +10,7 @@ terms:
 url: https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study--FWS--Internship-Program--Library-Undergraduate-Digital-Accessibility-Assistant--Student-Wage-_R0086673
 source: simplify-internships
 listing_id: 39ee0bcc-4e04-40ad-9a3e-6968c55911ea
-active: true
+active: false
 date_posted: '2026-08-25'
 date_updated: '2026-09-03'
 status: to-apply

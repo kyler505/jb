@@ -11,7 +11,7 @@ terms:
 url: https://asmglobal.wd1.myworkdayjobs.com/careers/job/West-Conshohocken-PA/Digital-Workplace-Experience-Intern_R100122151
 source: simplify-internships
 listing_id: 57d990ea-3cc9-46f8-acd6-48a13083e943
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-08-01'
 status: to-apply

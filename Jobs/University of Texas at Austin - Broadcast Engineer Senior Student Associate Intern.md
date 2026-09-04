@@ -10,7 +10,7 @@ terms:
 url: https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Broadcast-Engineer-Sr-Student-Associate_R_00042476
 source: simplify-internships
 listing_id: 3cbd0996-9f90-44ba-b932-c25874203727
-active: true
+active: false
 date_posted: '2026-04-18'
 date_updated: '2026-04-18'
 status: to-apply

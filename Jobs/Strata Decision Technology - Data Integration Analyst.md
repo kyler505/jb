@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/stratacareers/jobs/7784495003
 source: simplify-new-grad
 listing_id: 9c3e5c8b-b509-484a-ab45-27aa8cf7cc88
-active: true
+active: false
 date_posted: '2026-06-25'
 date_updated: '2026-06-25'
 status: to-apply

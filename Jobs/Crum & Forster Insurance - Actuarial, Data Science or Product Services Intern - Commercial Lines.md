@@ -10,7 +10,7 @@ terms:
 url: https://careers-cfins.icims.com/jobs/5108/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: fab8f803-ffef-4464-a672-22c36e3ededa
-active: true
+active: false
 date_posted: '2026-09-03'
 date_updated: '2026-09-03'
 status: to-apply

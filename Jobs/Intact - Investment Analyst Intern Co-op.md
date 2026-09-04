@@ -10,7 +10,7 @@ terms:
 url: https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Investment-Analyst--4-months-Internship-Coop--Winter-2027---_R155467
 source: simplify-internships
 listing_id: a764d92d-fd26-4801-a3c6-2e97790cc8c4
-active: true
+active: false
 date_posted: '2026-08-31'
 date_updated: '2026-08-31'
 status: to-apply

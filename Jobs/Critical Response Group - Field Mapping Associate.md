@@ -22,7 +22,7 @@ terms: []
 url: https://ats.rippling.com/critical-response-group/jobs/bb204474-82a9-4c39-b78c-f215fc5b144d
 source: simplify-new-grad
 listing_id: c3ce149b-4dd2-4674-b1cf-9bf9c313db96
-active: false
+active: true
 date_posted: '2026-08-14'
 date_updated: '2026-09-03'
 status: to-apply

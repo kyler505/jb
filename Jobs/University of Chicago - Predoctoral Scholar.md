@@ -9,7 +9,7 @@ terms: []
 url: https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Predoctoral-Scholar_JR34834
 source: simplify-new-grad
 listing_id: b5d65edc-e750-4596-8ee3-83dcd4c223f4
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

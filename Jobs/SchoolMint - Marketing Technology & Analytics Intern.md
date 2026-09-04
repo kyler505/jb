@@ -11,7 +11,7 @@ terms:
 url: https://job-boards.greenhouse.io/schoolmint/jobs/8697562002
 source: simplify-internships
 listing_id: 3635c5ce-e586-43b2-8ef0-643f97cd223d
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

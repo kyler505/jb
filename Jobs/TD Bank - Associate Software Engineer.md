@@ -6,12 +6,12 @@ discipline: swe
 locations:
 - Toronto, ON, Canada
 terms: []
-url: https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1507379
+url: https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1497015
 source: simplify-new-grad
-listing_id: 4f125643-39a2-45e5-a002-581199b92f79
-active: true
-date_posted: '2026-08-25'
-date_updated: '2026-08-31'
+listing_id: b9b644cd-90f5-4adf-bd93-fc724f01904e
+active: false
+date_posted: '2026-07-02'
+date_updated: '2026-07-02'
 status: to-apply
 applied_date: null
 deadline: null

@@ -29,7 +29,7 @@ terms:
 url: https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021
 source: simplify-internships
 listing_id: bc8cef80-2478-4abe-8166-7f6a226c4edd
-active: true
+active: false
 date_posted: '2026-08-27'
 date_updated: '2026-08-27'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008
 source: simplify-new-grad
 listing_id: 93e11583-f913-4e89-9721-147a9c59cf7f
-active: true
+active: false
 date_posted: '2026-06-29'
 date_updated: '2026-06-29'
 status: skipped

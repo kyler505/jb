@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/fifty-five/j/F21A38FE9E/apply
 source: simplify-new-grad
 listing_id: 171df98e-6146-40e8-a69b-36b0da737aef
-active: true
+active: false
 date_posted: '2026-08-08'
 date_updated: '2026-08-08'
 status: to-apply

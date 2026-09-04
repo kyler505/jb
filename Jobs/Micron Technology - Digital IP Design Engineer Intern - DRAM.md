@@ -10,7 +10,7 @@ terms:
 url: https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533
 source: simplify-internships
 listing_id: ad0c51d0-09a4-4e54-b922-7cccc8b69e6e
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

@@ -7,10 +7,10 @@ locations:
 - London, UK
 terms:
 - Summer 2026
-url: https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Software-Engineering-Intern_R107162
+url: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1
 source: simplify-internships
-listing_id: 708843fa-cd23-4f58-8f6b-9d646ec6460d
-active: true
+listing_id: 1c141650-b107-465f-a7ed-290459b5da2a
+active: false
 date_posted: '2026-04-18'
 date_updated: '2026-04-18'
 status: to-apply

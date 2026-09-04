@@ -11,7 +11,7 @@ terms: []
 url: https://ats.rippling.com/ozmocareers/jobs/3b195c97-8281-418a-add8-99310d7dfa70
 source: simplify-new-grad
 listing_id: 3c53a802-b7b7-48db-8366-4f2ee710edd6
-active: true
+active: false
 date_posted: '2026-07-21'
 date_updated: '2026-09-03'
 status: to-apply

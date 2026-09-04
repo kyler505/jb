@@ -10,7 +10,7 @@ terms:
 url: https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development---Grant-Coordination-Intern--Summer-2026-_JR00002373
 source: simplify-internships
 listing_id: f7acfe22-a7e9-419e-85db-b6ead678d5e8
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-21'
 status: to-apply

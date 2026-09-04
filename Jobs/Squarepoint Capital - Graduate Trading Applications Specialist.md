@@ -12,7 +12,7 @@ terms: []
 url: https://boards.greenhouse.io/embed/job_app?token=6100081
 source: simplify-new-grad
 listing_id: 3958e289-2cc7-46c2-b642-bef4e445c5d8
-active: true
+active: false
 date_posted: '2026-01-06'
 date_updated: '2026-07-20'
 status: to-apply

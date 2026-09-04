@@ -7,12 +7,12 @@ locations:
 - Austin, TX
 terms:
 - Spring 2027
-url: https://jobs.lever.co/CesiumAstro/47333595-c85f-4b06-965c-ad4429dde0f0/apply
+url: https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply
 source: simplify-internships
-listing_id: af7e4027-6aa7-4bab-8f94-d3f58be921ce
+listing_id: 16443076-8053-4d92-afb8-aa45f5eb4907
 active: false
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+date_posted: '2026-09-04'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

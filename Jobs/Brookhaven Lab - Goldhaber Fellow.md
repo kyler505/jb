@@ -9,7 +9,7 @@ terms: []
 url: https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Goldhaber-Fellow_JR102637
 source: simplify-new-grad
 listing_id: b3ec6c7c-0342-406c-93c4-b515bb2ac4a4
-active: true
+active: false
 date_posted: '2026-08-12'
 date_updated: '2026-08-12'
 status: to-apply

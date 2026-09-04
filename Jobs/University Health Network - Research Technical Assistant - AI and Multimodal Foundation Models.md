@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000146744019
 source: simplify-internships
 listing_id: 0c22eace-033a-461d-8d35-efddba759631
-active: false
+active: true
 date_posted: '2026-09-01'
 date_updated: '2026-09-03'
 status: to-apply

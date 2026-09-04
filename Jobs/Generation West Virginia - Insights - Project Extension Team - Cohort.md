@@ -11,7 +11,7 @@ terms:
 url: https://apply.workable.com/generation-west-virginia-1/j/315616F917/apply
 source: simplify-internships
 listing_id: 561a306f-fda6-4ae9-a6a5-bab849a7227d
-active: true
+active: false
 date_posted: '2026-08-11'
 date_updated: '2026-08-11'
 status: to-apply

@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/luminance-1/j/CA147DC61C/apply
 source: simplify-new-grad
 listing_id: b6a17dea-ea0a-43a0-a561-426230159562
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

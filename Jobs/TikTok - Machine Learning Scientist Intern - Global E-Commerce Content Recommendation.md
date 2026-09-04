@@ -4,15 +4,15 @@ role: Machine Learning Scientist Intern - Global E-Commerce Content Recommendati
 category: internship
 discipline: ml
 locations:
-- San Jose, CA
+- Seattle, WA
 terms:
 - Summer 2026
-url: https://lifeattiktok.com/search/7623531249253255429
+url: https://lifeattiktok.com/search/7525650208522193159
 source: simplify-internships
-listing_id: 954e23d8-480c-418b-881b-ac4dbca5f098
+listing_id: e007b472-502b-4768-aacc-1dc8fef84704
 active: false
-date_posted: '2026-04-03'
-date_updated: '2026-04-03'
+date_posted: '2026-03-31'
+date_updated: '2026-03-31'
 status: to-apply
 applied_date: null
 deadline: null

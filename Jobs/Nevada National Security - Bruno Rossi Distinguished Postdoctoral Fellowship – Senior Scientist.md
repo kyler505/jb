@@ -9,7 +9,7 @@ terms: []
 url: https://ewij.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/11545
 source: simplify-new-grad
 listing_id: 9c6f889c-f1e1-41a6-abad-5c80f77bb437
-active: true
+active: false
 date_posted: '2026-02-24'
 date_updated: '2026-02-24'
 status: to-apply

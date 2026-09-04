@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/horizonsurgicalsystems/jobs/5178733007
 source: simplify-new-grad
 listing_id: cfc14ab2-8fcd-4bd0-8626-0b63fd79e0d8
-active: true
+active: false
 date_posted: '2026-07-02'
 date_updated: '2026-07-02'
 status: to-apply

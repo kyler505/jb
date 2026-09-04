@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.exxonmobil.com/job/Spring-Students-Seeking-Full-Time-Employment-in-Trading-TX-77389/1417890600/?ats=successfactors
 source: simplify-new-grad
 listing_id: 21fa8378-009a-49b3-9c0b-4802b22d4801
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

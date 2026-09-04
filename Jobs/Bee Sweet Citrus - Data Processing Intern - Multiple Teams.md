@@ -10,7 +10,7 @@ terms:
 url: https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern
 source: simplify-internships
 listing_id: 01b270c0-bcc3-4a92-9479-f42a11d910d0
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

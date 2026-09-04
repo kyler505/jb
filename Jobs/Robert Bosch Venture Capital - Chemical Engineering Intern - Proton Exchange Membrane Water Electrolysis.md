@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/BoschGroup/744000144370429
 source: simplify-internships
 listing_id: b6745743-2e0b-4387-893b-6d8d7bd136a2
-active: true
+active: false
 date_posted: '2026-08-19'
 date_updated: '2026-09-03'
 status: to-apply

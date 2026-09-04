@@ -10,7 +10,7 @@ terms:
 url: https://mujin.bamboohr.com/careers/168/
 source: simplify-internships
 listing_id: 64520db5-19f9-4d78-80a3-c0baa9feff7e
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

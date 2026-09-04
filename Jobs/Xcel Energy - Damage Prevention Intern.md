@@ -11,7 +11,7 @@ terms:
 url: https://xcelenergy.wd1.myworkdayjobs.com/External/job/St-Paul-MN-55117/Damage-Prevention-Intern---MN_JR115636-1
 source: simplify-internships
 listing_id: 4e0b2f0b-7f11-43bb-97e6-dc33f22b1799
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-03'
 status: to-apply

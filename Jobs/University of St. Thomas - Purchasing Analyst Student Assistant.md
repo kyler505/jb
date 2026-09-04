@@ -9,7 +9,7 @@ terms: []
 url: https://studentemployment-stthomas.icims.com/jobs/9515/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 10433dd3-7f3d-4ca4-9235-7df894b1c554
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-09-03'
 status: to-apply

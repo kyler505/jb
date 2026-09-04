@@ -9,7 +9,7 @@ terms: []
 url: https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA
 source: simplify-new-grad
 listing_id: 574e852e-989d-48b9-8021-918f8c60736c
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-08-03'
 status: to-apply

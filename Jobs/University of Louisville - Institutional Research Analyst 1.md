@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Louisville, KY
 terms: []
-url: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Institutional-Research-Analyst-I_R109041
+url: https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Institutional-Research-Analyst-I_R109275
 source: simplify-new-grad
-listing_id: 71af9986-8df8-4387-9aca-59fac1fe3dcb
+listing_id: 6c412113-b6b1-4729-a5ec-e020b336f571
 active: false
-date_posted: '2026-08-11'
-date_updated: '2026-08-11'
+date_posted: '2026-09-04'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

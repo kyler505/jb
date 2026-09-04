@@ -9,7 +9,7 @@ terms: []
 url: https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412
 source: simplify-new-grad
 listing_id: 3e0ff160-6782-4b09-90e1-18475b83bfbf
-active: true
+active: false
 date_posted: '2026-06-13'
 date_updated: '2026-08-01'
 status: to-apply

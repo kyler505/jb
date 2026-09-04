@@ -24,7 +24,7 @@ terms:
 url: https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390
 source: simplify-internships
 listing_id: fa72707f-4823-4764-8588-290af3f65bee
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-03'
 status: to-apply

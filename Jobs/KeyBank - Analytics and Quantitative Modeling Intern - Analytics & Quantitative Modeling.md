@@ -10,7 +10,7 @@ terms:
 url: https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380
 source: simplify-internships
 listing_id: 093ca891-a330-4763-aeb5-b6195cb0df79
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

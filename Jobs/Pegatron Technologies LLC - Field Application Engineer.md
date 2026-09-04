@@ -9,7 +9,7 @@ terms: []
 url: https://pegatrontechnologiesllc.applytojob.com/apply/a6BrFwMUss/Field-Application-Engineer
 source: simplify-new-grad
 listing_id: 83f09b87-84af-401b-9993-d309c59fce8e
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-08-03'
 status: to-apply

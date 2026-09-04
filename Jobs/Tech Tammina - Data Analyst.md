@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/TecTammina/83202246
 source: simplify-new-grad
 listing_id: b5ec5430-52ba-45cf-a6f8-ecf78e089433
-active: true
+active: false
 date_posted: '2026-02-27'
 date_updated: '2026-03-31'
 status: to-apply

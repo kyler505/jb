@@ -8,12 +8,12 @@ locations:
 - Plantation, FL
 terms:
 - Summer 2027
-url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1
+url: https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363
 source: simplify-internships
-listing_id: ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab
+listing_id: 100aa374-4fc4-4766-87fe-7cdd6b8a5ecc
 active: false
-date_posted: '2026-08-14'
-date_updated: '2026-08-14'
+date_posted: '2026-09-03'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

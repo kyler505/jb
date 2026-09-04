@@ -10,7 +10,7 @@ terms:
 url: https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600
 source: simplify-internships
 listing_id: 76075e31-0449-4ccd-80a7-1613d0ed6bcb
-active: true
+active: false
 date_posted: '2026-08-20'
 date_updated: '2026-08-20'
 status: to-apply

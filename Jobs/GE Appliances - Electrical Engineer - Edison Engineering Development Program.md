@@ -9,7 +9,7 @@ terms: []
 url: https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Electrical-July-2027_REQ-25805
 source: simplify-new-grad
 listing_id: 29ed3db4-1bea-4e3b-a110-d57529c0bd03
-active: true
+active: false
 date_posted: '2026-08-18'
 date_updated: '2026-09-03'
 status: to-apply

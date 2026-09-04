@@ -9,7 +9,7 @@ terms: []
 url: https://apply.workable.com/paxton-access/j/C4B89FDB13/apply
 source: simplify-new-grad
 listing_id: 5362895d-bd5b-49f2-b54b-d0229c342ac0
-active: true
+active: false
 date_posted: '2026-08-14'
 date_updated: '2026-08-14'
 status: to-apply

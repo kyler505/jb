@@ -9,7 +9,7 @@ terms: []
 url: https://archetypestrategy.applytojob.com/apply/ttBu02NUFK/Entry-Level-Data-Center-Technician
 source: simplify-new-grad
 listing_id: 82336e3c-0268-4493-95fc-42f3755936f3
-active: true
+active: false
 date_posted: '2026-08-03'
 date_updated: '2026-08-03'
 status: to-apply

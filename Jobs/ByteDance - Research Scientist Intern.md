@@ -7,12 +7,12 @@ locations:
 - San Jose, CA
 terms:
 - Summer 2027
-url: https://jobs.bytedance.com/en/position/7668590365398993205/detail
+url: https://jobs.bytedance.com/en/position/7670375041041320245/detail
 source: simplify-internships
-listing_id: 324fe628-252d-453d-8421-501357ff74dd
-active: true
-date_posted: '2026-08-03'
-date_updated: '2026-08-03'
+listing_id: 4af25efe-2dc0-4ef6-bd62-34ad9f646360
+active: false
+date_posted: '2026-08-06'
+date_updated: '2026-08-06'
 status: to-apply
 applied_date: null
 deadline: null

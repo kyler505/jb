@@ -9,7 +9,7 @@ terms: []
 url: http://www.cannondesign.com/careers/?gh_jid=8562759002
 source: simplify-new-grad
 listing_id: c041d962-107b-43a9-9103-9bbd4b1800be
-active: true
+active: false
 date_posted: '2026-05-23'
 date_updated: '2026-07-22'
 status: to-apply

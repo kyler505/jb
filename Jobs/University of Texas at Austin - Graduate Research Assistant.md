@@ -9,7 +9,7 @@ terms: []
 url: https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant_R_00046050
 source: simplify-new-grad
 listing_id: ca78630f-2644-41de-bd59-cb53998d6c7d
-active: true
+active: false
 date_posted: '2026-05-12'
 date_updated: '2026-05-13'
 status: to-apply

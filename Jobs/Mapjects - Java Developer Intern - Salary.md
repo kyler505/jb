@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/Mapjectscom/79183538
 source: simplify-internships
 listing_id: 7237aac6-07c6-44da-8d1b-f031ee48fcd5
-active: true
+active: false
 date_posted: '2026-08-13'
 date_updated: '2026-08-13'
 status: to-apply

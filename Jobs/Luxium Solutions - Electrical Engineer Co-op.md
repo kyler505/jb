@@ -10,7 +10,7 @@ terms:
 url: https://apply.workable.com/luxium-solutions-llc/j/D723A70F69/apply
 source: simplify-internships
 listing_id: 3ea80f51-7a12-4e36-a606-1982683d67a7
-active: true
+active: false
 date_posted: '2026-08-08'
 date_updated: '2026-08-08'
 status: to-apply

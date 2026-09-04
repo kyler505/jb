@@ -11,7 +11,7 @@ terms:
 url: https://careersenus-itt-inc.icims.com/jobs/17342/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 594a0242-930a-47a8-8341-f94d47034b4c
-active: true
+active: false
 date_posted: '2026-08-04'
 date_updated: '2026-08-04'
 status: to-apply

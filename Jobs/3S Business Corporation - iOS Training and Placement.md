@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/84341200
 source: simplify-new-grad
 listing_id: 6fefbc10-1d16-4a4a-ba97-4beb6effc11c
-active: true
+active: false
 date_posted: '2026-02-18'
 date_updated: '2026-08-02'
 status: to-apply

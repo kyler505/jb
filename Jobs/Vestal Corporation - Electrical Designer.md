@@ -9,7 +9,7 @@ terms: []
 url: https://vestalcorporation.bamboohr.com/careers/107/
 source: simplify-new-grad
 listing_id: f0f10594-7020-4cde-97cb-598dd1e8c377
-active: true
+active: false
 date_posted: '2026-08-10'
 date_updated: '2026-08-10'
 status: to-apply

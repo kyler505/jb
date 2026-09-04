@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/fashionnova/jobs/5497777
 source: simplify-new-grad
 listing_id: 919faf35-649e-4802-98f3-ba18cfa2daec
-active: true
+active: false
 date_posted: '2026-06-11'
 date_updated: '2026-06-11'
 status: to-apply

@@ -19,7 +19,7 @@ terms: []
 url: https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713
 source: simplify-new-grad
 listing_id: 85d7cbe8-ca54-4877-83dd-d0a6cfcc4157
-active: false
+active: true
 date_posted: '2026-08-24'
 date_updated: '2026-08-24'
 status: to-apply

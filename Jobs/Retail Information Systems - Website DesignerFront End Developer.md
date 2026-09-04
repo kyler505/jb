@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.smartrecruiters.com/RetailInformationSystems/84362761
 source: simplify-new-grad
 listing_id: d44d7dc7-8912-4b2f-969c-4ea8f0ba6eab
-active: true
+active: false
 date_posted: '2026-08-12'
 date_updated: '2026-08-12'
 status: to-apply

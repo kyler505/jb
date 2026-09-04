@@ -11,7 +11,7 @@ terms:
 url: https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true
 source: simplify-internships
 listing_id: 76b5260b-3054-4829-88cf-70102fb312d8
-active: true
+active: false
 date_posted: '2026-08-29'
 date_updated: '2026-08-29'
 status: to-apply

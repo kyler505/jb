@@ -17,8 +17,8 @@ applied_date: null
 deadline: null
 notes: null
 apply_result: exception
-needs_review: true
 priority: 53.02
-apply_method: auto
+needs_review: true
 apply_error: 'Page.goto: Target page, context or browser has been closed'
+apply_method: auto
 ---

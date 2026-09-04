@@ -9,7 +9,7 @@ terms: []
 url: https://jobs.bytedance.com/en/position/7667685712993650997/detail
 source: simplify-new-grad
 listing_id: 39ac8ee1-4714-4c09-984d-d8ca05fca666
-active: true
+active: false
 date_posted: '2026-08-07'
 date_updated: '2026-08-07'
 status: to-apply

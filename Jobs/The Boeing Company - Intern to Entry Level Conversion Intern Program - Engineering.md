@@ -39,7 +39,7 @@ terms:
 url: https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Seattle-WA/Intern-to-Entry-Level-Conversion---Engineering--Summer-2026-Intern-Program-_JR2026516292
 source: simplify-internships
 listing_id: b7a7213e-4e27-48ac-82d9-593ced5ab46d
-active: true
+active: false
 date_posted: '2026-07-04'
 date_updated: '2026-07-21'
 status: to-apply
