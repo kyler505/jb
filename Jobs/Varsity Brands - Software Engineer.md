@@ -16,11 +16,11 @@ status: to-apply
 applied_date: null
 deadline: null
 notes: null
-apply_result: not_confirmed
-priority: 47.19
 resume_used: resume.pdf
-needs_review: false
+apply_result: not_confirmed
 apply_method: simplify
+priority: 47.19
+needs_review: false
 ---
 
 ## Application 2026-06-16

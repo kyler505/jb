@@ -10,7 +10,7 @@ terms:
 url: https://bostonscientific.eightfold.ai/careers/job/563602813483110
 source: simplify-internships
 listing_id: 1660f3b8-719e-4c50-ab5b-b793e4f1da1f
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-02'
 status: to-apply

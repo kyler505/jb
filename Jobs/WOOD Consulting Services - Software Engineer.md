@@ -9,7 +9,7 @@ terms: []
 url: https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
 listing_id: 95645a1a-37b5-46b8-82dc-51c06ded8cbd
-active: true
+active: false
 date_posted: '2026-08-19'
 date_updated: '2026-08-19'
 status: to-apply

@@ -7,10 +7,10 @@ locations:
 - Bellevue, WA
 terms:
 - Summer 2027
-url: https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1
+url: https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2
 source: simplify-internships
-listing_id: 7e8834d8-2571-478a-aaeb-8bb9c3fbb656
-active: false
+listing_id: 0be76f75-bb28-4d12-b0f5-9d0455bc825b
+active: true
 date_posted: '2026-09-04'
 date_updated: '2026-09-04'
 status: to-apply

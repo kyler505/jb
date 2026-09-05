@@ -4,15 +4,15 @@ role: Design Verification Intern
 category: internship
 discipline: other
 locations:
-- Cupertino, CA
+- Santa Clara, CA
 terms:
 - N/A
-url: https://jobs.apple.com/en-us/details/200680980
+url: https://jobs.apple.com/en-us/details/200681613
 source: simplify-internships
-listing_id: cac7a43b-cccf-4bfa-b133-5951ab620317
+listing_id: 77a65cb0-36f4-484f-84c1-30a47404881d
 active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+date_posted: '2026-09-05'
+date_updated: '2026-09-05'
 status: to-apply
 applied_date: null
 deadline: null

@@ -12,7 +12,7 @@ terms:
 url: https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false
 source: simplify-internships
 listing_id: 93f4951e-c280-428f-8f6f-a0611c97b96e
-active: false
+active: true
 date_posted: '2026-08-29'
 date_updated: '2026-08-29'
 status: to-apply

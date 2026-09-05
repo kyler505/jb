@@ -6,12 +6,12 @@ discipline: data
 locations:
 - Springdale, AR
 terms: []
-url: https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483000-1
+url: https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1
 source: simplify-new-grad
-listing_id: aedc3976-99f3-4cac-ae89-2381e1b2b6fd
-active: true
-date_posted: '2026-09-03'
-date_updated: '2026-09-04'
+listing_id: cf5d2cc2-c274-4fb9-9cef-46931c854228
+active: false
+date_posted: '2026-09-05'
+date_updated: '2026-09-05'
 status: to-apply
 applied_date: null
 deadline: null

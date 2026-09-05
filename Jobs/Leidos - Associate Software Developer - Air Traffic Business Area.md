@@ -11,7 +11,7 @@ terms: []
 url: https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290
 source: simplify-new-grad
 listing_id: a015ef37-b241-4971-89e0-e4b6561afbbb
-active: true
+active: false
 date_posted: '2026-09-02'
 date_updated: '2026-09-03'
 status: to-apply

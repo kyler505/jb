@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/doordashcanada/jobs/8176003
 source: simplify-new-grad
 listing_id: f90d3f2b-d781-495c-a95e-a14936082bb3
-active: true
+active: false
 date_posted: '2026-09-04'
 date_updated: '2026-09-04'
 status: to-apply

@@ -4,15 +4,16 @@ role: Analog Design Intern
 category: internship
 discipline: other
 locations:
-- Westlake Village, CA
+- Santa Clara, CA
+- Burlington, VT
 terms:
-- Fall 2026
-url: https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1
+- Summer 2027
+url: https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510
 source: simplify-internships
-listing_id: 217b3813-5d5b-4b33-9c10-1c264b43215a
+listing_id: 8012895f-f76b-4a76-8254-3da734e7748d
 active: true
-date_posted: '2026-06-13'
-date_updated: '2026-08-01'
+date_posted: '2026-09-04'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

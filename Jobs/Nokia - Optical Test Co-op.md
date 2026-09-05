@@ -6,19 +6,16 @@ discipline: other
 locations:
 - San Jose, CA
 terms:
-- Fall 2026
-- Winter 2027
-- Spring 2027
 - Summer 2027
-url: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36616
+- Fall 2027
+url: https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023
 source: simplify-internships
-listing_id: e178dbaa-95c9-4015-bbc7-3d6e6c03ebeb
+listing_id: e4c741c2-5013-4544-88cc-46d1dc46668a
 active: false
-date_posted: '2026-05-26'
-date_updated: '2026-06-11'
+date_posted: '2026-09-04'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null
 notes: null
-priority: 27.68
 ---

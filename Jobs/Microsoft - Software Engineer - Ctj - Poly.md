@@ -10,7 +10,7 @@ terms: []
 url: https://apply.careers.microsoft.com/careers/job/1970393556860973
 source: simplify-new-grad
 listing_id: a6ab1df3-86d8-42bb-b220-97ec8c92cba2
-active: false
+active: true
 date_posted: '2026-06-18'
 date_updated: '2026-06-18'
 status: to-apply
@@ -18,8 +18,8 @@ applied_date: null
 deadline: null
 notes: null
 resume_used: resume.pdf
-priority: 53.46
-apply_method: simplify
 apply_result: success
+apply_method: simplify
+priority: 53.46
 needs_review: false
 ---

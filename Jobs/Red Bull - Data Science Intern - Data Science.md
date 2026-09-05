@@ -10,7 +10,7 @@ terms:
 url: https://jobs.smartrecruiters.com/RedBull/744000139168339
 source: simplify-internships
 listing_id: 9a3e5294-d914-4470-8231-855d92e407d6
-active: true
+active: false
 date_posted: '2026-07-23'
 date_updated: '2026-07-23'
 status: to-apply

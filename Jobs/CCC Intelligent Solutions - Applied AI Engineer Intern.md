@@ -10,7 +10,7 @@ terms:
 url: https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Applied-AI-Engineering-Intern_0014827
 source: simplify-internships
 listing_id: 0f92cafb-0f29-4673-a008-b02b0445f75c
-active: true
+active: false
 date_posted: '2026-07-27'
 date_updated: '2026-07-27'
 status: to-apply

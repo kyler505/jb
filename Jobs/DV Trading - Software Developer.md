@@ -9,7 +9,7 @@ terms: []
 url: https://job-boards.greenhouse.io/dvtrading/jobs/4687462005
 source: simplify-new-grad
 listing_id: 25f5a2d7-43cb-4507-ade5-7b114bcb5b86
-active: true
+active: false
 date_posted: '2026-04-27'
 date_updated: '2026-04-27'
 status: to-apply

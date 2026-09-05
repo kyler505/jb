@@ -6,12 +6,12 @@ discipline: other
 locations:
 - Springdale, AR
 terms: []
-url: https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0482999-1
+url: https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1
 source: simplify-new-grad
-listing_id: d950eaae-dd64-4144-9ae6-65659a4660ab
-active: true
-date_posted: '2026-09-03'
-date_updated: '2026-09-04'
+listing_id: cbfeabfc-ee55-4235-b847-c779d788699e
+active: false
+date_posted: '2026-09-05'
+date_updated: '2026-09-05'
 status: to-apply
 applied_date: null
 deadline: null

@@ -20,7 +20,7 @@ terms:
 url: https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran
 source: simplify-internships
 listing_id: 8cfec360-0de7-4099-97df-66400369c836
-active: true
+active: false
 date_posted: '2026-02-11'
 date_updated: '2026-02-11'
 status: to-apply

@@ -4,14 +4,14 @@ role: Software Engineer
 category: new-grad
 discipline: swe
 locations:
-- Pittsfield, MA
+- Scottsdale, AZ
 terms: []
-url: https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false
+url: https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false
 source: simplify-new-grad
-listing_id: 63d3a410-73ec-4b27-b3d5-b089f0ef4dd8
+listing_id: a35187f2-2b60-4934-a7af-6dde56245e69
 active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-01'
+date_posted: '2026-09-05'
+date_updated: '2026-09-05'
 status: to-apply
 applied_date: null
 deadline: null

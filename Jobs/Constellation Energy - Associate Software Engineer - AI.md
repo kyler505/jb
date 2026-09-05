@@ -4,19 +4,14 @@ role: Associate Software Engineer - AI
 category: new-grad
 discipline: swe
 locations:
-- Hurstbourne Acres, KY
-- De Pere, WI
-- Houston, TX
-- Chicago, IL
-- Kennett Square, PA
 - Baltimore, MD
 terms: []
-url: https://jobs.constellationenergy.com/jobs/138264?icims=1
+url: https://jobs.constellationenergy.com/jobs/138781?icims=1
 source: simplify-new-grad
-listing_id: d26b671a-bd46-4c7b-9156-0a29cfe9579b
+listing_id: 5692a35b-a407-498c-9c37-aef39ac5511e
 active: false
-date_posted: '2026-08-27'
-date_updated: '2026-08-27'
+date_posted: '2026-09-04'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

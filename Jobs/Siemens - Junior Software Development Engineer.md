@@ -9,7 +9,7 @@ terms: []
 url: https://siemens.avature.net/en_US/externaljobs/JobDetail/520535
 source: simplify-new-grad
 listing_id: 9f295fbb-d491-4d86-abc7-f5cc60b4c53e
-active: true
+active: false
 date_posted: '2026-09-01'
 date_updated: '2026-09-01'
 status: to-apply

@@ -7,12 +7,12 @@ locations:
 - Westchester, IL
 terms:
 - Winter 2026
-url: https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1
+url: https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220
 source: simplify-internships
-listing_id: db4af251-6b9b-46c0-9892-2242d0199f3f
+listing_id: 50830172-7af7-4ae3-9ca9-1e8d425064b1
 active: true
-date_posted: '2026-09-01'
-date_updated: '2026-09-02'
+date_posted: '2026-09-04'
+date_updated: '2026-09-04'
 status: to-apply
 applied_date: null
 deadline: null

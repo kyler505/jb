@@ -4,14 +4,14 @@ role: Customer Service Representative
 category: new-grad
 discipline: other
 locations:
-- Elkins Park, PA
+- The Colony, TX
 terms: []
-url: https://jobs.smartrecruiters.com/Dominos/743999904309253
+url: https://jobs.smartrecruiters.com/Dominos/744000147617924
 source: simplify-new-grad
-listing_id: e87a4dc4-19de-4e0c-987b-a86bf05548a8
-active: false
-date_posted: '2026-08-13'
-date_updated: '2026-09-03'
+listing_id: 0541ea68-a2d7-4fe4-b3e4-f7e4d677fe3c
+active: true
+date_posted: '2026-09-05'
+date_updated: '2026-09-05'
 status: to-apply
 applied_date: null
 deadline: null
